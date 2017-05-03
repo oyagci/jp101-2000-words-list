@@ -1,0 +1,1969 @@
+[
+    {
+        "img": "8791",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252042.mp3",
+        "class": "noun",
+        "english": "fork",
+        "flashcardId": "2164248",
+        "meaning": "fork (noun) - a tool you use for picking up and eating food, with a handle and three or four points",
+        "id": "669",
+        "word": "\u30d5\u30a9\u30fc\u30af",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87905.mp3",
+        "kana": "\u30d5\u30a9\u30fc\u30af",
+        "romaji": "f\u014dku",
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201547.mp3",
+                "text": "\u30d5\u30a9\u30fc\u30af\u304c\u6c5a\u3044\u76bf\u306e\u4e0a\u306b\u3042\u308b\u3002",
+                "english": "The fork is on the dirty plate.",
+                "en_audio": "",
+                "kana": "\u30d5\u30a9\u30fc\u30af\u304c\u304d\u305f\u306a\u3044\u3055\u3089\u306e\u3046\u3048\u306b\u3042\u308b\u3002",
+                "romaji": "F\u014dku ga kitanai sara no ue ni aru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201547.mp3",
+                "text": "\u30d5\u30a9\u30fc\u30af\u304c\u6c5a\u3044\u76bf\u306e\u4e0a\u306b\u3042\u308b\u3002",
+                "english": "The fork is on the dirty plate.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/105615.mp3",
+                "kana": "\u30d5\u30a9\u30fc\u30af\u304c\u304d\u305f\u306a\u3044\u3055\u3089\u306e\u3046\u3048\u306b\u3042\u308b\u3002",
+                "romaji": "F\u014dku ga kitanai sara no ue ni aru."
+            }
+        ]
+    },
+    {
+        "img": "9672",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226691.mp3",
+        "class": "noun",
+        "english": "knife",
+        "flashcardId": "223901",
+        "meaning": "knife - a cutting tool which is used when eating meal.",
+        "id": "670",
+        "word": "\u30ca\u30a4\u30d5",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87906.mp3",
+        "kana": "\u30ca\u30a4\u30d5",
+        "romaji": "naifu",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201553.mp3",
+                "text": "\u30d0\u30bf\u30fc\u30ca\u30a4\u30d5",
+                "english": "butter knife",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85862.mp3",
+                "kana": "\u30d0\u30bf\u30fc\u30ca\u30a4\u30d5",
+                "romaji": "bat\u0101 naifu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201551.mp3",
+                "text": "\u30c6\u30fc\u30d6\u30eb\u30ca\u30a4\u30d5",
+                "english": "table knife",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85863.mp3",
+                "kana": "\u30c6\u30fc\u30d6\u30eb\u30ca\u30a4\u30d5",
+                "romaji": "t\u0113buru naifu"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201554.mp3",
+                "text": "\u305d\u306e\u30ca\u30a4\u30d5\u3092\u53d6\u3063\u3066\u304f\u308c\u307e\u305b\u3093\u304b\uff1f",
+                "english": "Could you pass me the knife?",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u30ca\u30a4\u30d5\u3092\u3068\u3063\u3066\u304f\u308c\u307e\u305b\u3093\u304b\uff1f",
+                "romaji": "Sono naifu o totte kuremasen ka?"
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201554.mp3",
+                "text": "\u305d\u306e\u30ca\u30a4\u30d5\u3092\u53d6\u3063\u3066\u304f\u308c\u307e\u305b\u3093\u304b\uff1f",
+                "english": "Could you pass me the knife?",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/65710.mp3",
+                "kana": "\u305d\u306e\u30ca\u30a4\u30d5\u3092\u3068\u3063\u3066\u304f\u308c\u307e\u305b\u3093\u304b\uff1f",
+                "romaji": "Sono naifu o totte kuremasen ka?"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201553.mp3",
+                "text": "\u30d0\u30bf\u30fc\u30ca\u30a4\u30d5",
+                "english": "butter knife",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85862.mp3",
+                "kana": "\u30d0\u30bf\u30fc\u30ca\u30a4\u30d5",
+                "romaji": "bat\u0101 naifu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201551.mp3",
+                "text": "\u30c6\u30fc\u30d6\u30eb\u30ca\u30a4\u30d5",
+                "english": "table knife",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85863.mp3",
+                "kana": "\u30c6\u30fc\u30d6\u30eb\u30ca\u30a4\u30d5",
+                "romaji": "t\u0113buru naifu"
+            }
+        ]
+    },
+    {
+        "img": "9332",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226697.mp3",
+        "class": "noun",
+        "english": "plate",
+        "flashcardId": "2165219",
+        "meaning": "plate (noun) - a flat and usually round dish that you eat from or serve food on",
+        "id": "675",
+        "word": "\u76bf",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87912.mp3",
+        "kana": "\u3055\u3089",
+        "romaji": "sara",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201559.mp3",
+                "text": "\u76bf\u306e\u4e0a\u306b\u3042\u308b\u30d5\u30a9\u30fc\u30af",
+                "english": "fork on a plate",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/105616.mp3",
+                "kana": "\u3055\u3089\u306e\u3046\u3048\u306b\u3042\u308b\u30d5\u30a9\u30fc\u30af",
+                "romaji": "sara no ue ni aru f\u014dku"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201557.mp3",
+                "text": "\u767d\u3044\u76bf",
+                "english": "white plate",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89734.mp3",
+                "kana": "\u3057\u308d\u3044\u3055\u3089",
+                "romaji": "shiroi sara"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201556.mp3",
+                "text": "\u7d19\u76bf",
+                "english": "paper plate",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89733.mp3",
+                "kana": "\u304b\u307f\u3056\u3089",
+                "romaji": "kami zara"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252054.mp3",
+                "text": "\u3053\u306e\u76bf\u306f\u6c5a\u3044\u3067\u3059\u3002",
+                "english": "This plate is dirty.",
+                "en_audio": "",
+                "kana": "\u3053\u306e\u3055\u3089\u306f\u304d\u305f\u306a\u3044\u3067\u3059\u3002",
+                "romaji": "Kono sara wa kitanai desu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252054.mp3",
+                "text": "\u3053\u306e\u76bf\u306f\u6c5a\u3044\u3067\u3059\u3002",
+                "english": "This plate is dirty.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262897.mp3",
+                "kana": "\u3053\u306e\u3055\u3089\u306f\u304d\u305f\u306a\u3044\u3067\u3059\u3002",
+                "romaji": "Kono sara wa kitanai desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201559.mp3",
+                "text": "\u76bf\u306e\u4e0a\u306b\u3042\u308b\u30d5\u30a9\u30fc\u30af",
+                "english": "fork on a plate",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/105616.mp3",
+                "kana": "\u3055\u3089\u306e\u3046\u3048\u306b\u3042\u308b\u30d5\u30a9\u30fc\u30af",
+                "romaji": "sara no ue ni aru f\u014dku"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201557.mp3",
+                "text": "\u767d\u3044\u76bf",
+                "english": "white plate",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89734.mp3",
+                "kana": "\u3057\u308d\u3044\u3055\u3089",
+                "romaji": "shiroi sara"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201556.mp3",
+                "text": "\u7d19\u76bf",
+                "english": "paper plate",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89733.mp3",
+                "kana": "\u304b\u307f\u3056\u3089",
+                "romaji": "kami zara"
+            }
+        ]
+    },
+    {
+        "img": "9354",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271576.mp3",
+        "class": "noun",
+        "english": "frying pan",
+        "flashcardId": "2164250",
+        "meaning": "frying pan (noun) - cookware",
+        "id": "2928",
+        "word": "\u30d5\u30e9\u30a4\u30d1\u30f3",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/7876.mp3",
+        "kana": "\u30d5\u30e9\u30a4\u30d1\u30f3",
+        "romaji": "furaipan",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201793.mp3",
+                "text": "\u30b9\u30c1\u30fc\u30eb\u306e\u30d5\u30e9\u30a4\u30d1\u30f3",
+                "english": "steel frying pan",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/105913.mp3",
+                "kana": "\u30b9\u30c1\u30fc\u30eb\u306e\u30d5\u30e9\u30a4\u30d1\u30f3",
+                "romaji": "such\u012bru no furaipan"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271577.mp3",
+                "text": "\u3053\u306e\u30d5\u30e9\u30a4\u30d1\u30f3\u306f\u3068\u3066\u3082\u5b89\u3044\u3067\u3059\u3002",
+                "english": "This frying pan is very cheap.",
+                "en_audio": "",
+                "kana": "\u3053\u306e\u30d5\u30e9\u30a4\u30d1\u30f3\u306f\u3068\u3066\u3082\u3084\u3059\u3044\u3067\u3059\u3002",
+                "romaji": "Kono furaipan wa totemo yasui desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201794.mp3",
+                "text": "\u305f\u307e\u306d\u304e\u304c\u30d5\u30e9\u30a4\u30d1\u30f3\u3067\u7092\u3081\u3089\u308c\u3066\u3044\u308b\u3002",
+                "english": "The onions are being saut\u00e9ed in the frying pan.",
+                "en_audio": "",
+                "kana": "\u305f\u307e\u306d\u304e\u304c\u30d5\u30e9\u30a4\u30d1\u30f3\u3067\u3044\u305f\u3081\u3089\u308c\u3066\u3044\u308b\u3002",
+                "romaji": "Tamanegi ga furaipan de itamearete iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271577.mp3",
+                "text": "\u3053\u306e\u30d5\u30e9\u30a4\u30d1\u30f3\u306f\u3068\u3066\u3082\u5b89\u3044\u3067\u3059\u3002",
+                "english": "This frying pan is very cheap.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262999.mp3",
+                "kana": "\u3053\u306e\u30d5\u30e9\u30a4\u30d1\u30f3\u306f\u3068\u3066\u3082\u3084\u3059\u3044\u3067\u3059\u3002",
+                "romaji": "Kono furaipan wa totemo yasui desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201794.mp3",
+                "text": "\u305f\u307e\u306d\u304e\u304c\u30d5\u30e9\u30a4\u30d1\u30f3\u3067\u7092\u3081\u3089\u308c\u3066\u3044\u308b\u3002",
+                "english": "The onions are being saut\u00e9ed in the frying pan.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197921.mp3",
+                "kana": "\u305f\u307e\u306d\u304e\u304c\u30d5\u30e9\u30a4\u30d1\u30f3\u3067\u3044\u305f\u3081\u3089\u308c\u3066\u3044\u308b\u3002",
+                "romaji": "Tamanegi ga furaipan de itamearete iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201793.mp3",
+                "text": "\u30b9\u30c1\u30fc\u30eb\u306e\u30d5\u30e9\u30a4\u30d1\u30f3",
+                "english": "steel frying pan",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/105913.mp3",
+                "kana": "\u30b9\u30c1\u30fc\u30eb\u306e\u30d5\u30e9\u30a4\u30d1\u30f3",
+                "romaji": "such\u012bru no furaipan"
+            }
+        ]
+    },
+    {
+        "img": "8926",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206739.mp3",
+        "class": "noun",
+        "english": "cutting board",
+        "flashcardId": "223904",
+        "meaning": "cutting board",
+        "id": "2936",
+        "word": "\u307e\u306a\u677f",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/105930.mp3",
+        "kana": "\u307e\u306a\u3044\u305f",
+        "romaji": "manaita",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1342535.mp3",
+                "text": "\u307e\u306a\u677f\u306e\u4e0a\u3067\u5207\u308b",
+                "english": "cut on cutting board",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2498.mp3",
+                "kana": "\u307e\u306a\u3044\u305f\u306e\u3046\u3048\u3067\u304d\u308b",
+                "romaji": "manaita no ue de kiru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206741.mp3",
+                "text": "\u6728\u306e\u307e\u306a\u677f",
+                "english": "wooden cutting board",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/105932.mp3",
+                "kana": "\u304d\u306e\u307e\u306a\u3044\u305f",
+                "romaji": "ki no manaita"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206743.mp3",
+                "text": "\u6599\u7406\u4eba\u304c\u3001\u307e\u306a\u677f\u306e\u4e0a\u3067\u56fa\u3086\u3067\u5375\u3092\u5207\u3063\u3066\u3044\u308b\u3002",
+                "english": "The cook is cutting a hard-boiled egg on the cutting board.",
+                "en_audio": "",
+                "kana": "\u308a\u3087\u3046\u308a\u306b\u3093\u304c\u3001\u307e\u306a\u3044\u305f\u306e\u3046\u3048\u3067\u304b\u305f\u3086\u3067\u305f\u307e\u3054\u3092\u304d\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Ry\u014drinin ga, manaita no ue de katayude tamago o kitte iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206743.mp3",
+                "text": "\u6599\u7406\u4eba\u304c\u3001\u307e\u306a\u677f\u306e\u4e0a\u3067\u56fa\u3086\u3067\u5375\u3092\u5207\u3063\u3066\u3044\u308b\u3002",
+                "english": "The cook is cutting a hard-boiled egg on the cutting board.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263000.mp3",
+                "kana": "\u308a\u3087\u3046\u308a\u306b\u3093\u304c\u3001\u307e\u306a\u3044\u305f\u306e\u3046\u3048\u3067\u304b\u305f\u3086\u3067\u305f\u307e\u3054\u3092\u304d\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Ry\u014drinin ga, manaita no ue de katayude tamago o kitte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1342535.mp3",
+                "text": "\u307e\u306a\u677f\u306e\u4e0a\u3067\u5207\u308b",
+                "english": "cut on cutting board",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2498.mp3",
+                "kana": "\u307e\u306a\u3044\u305f\u306e\u3046\u3048\u3067\u304d\u308b",
+                "romaji": "manaita no ue de kiru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206741.mp3",
+                "text": "\u6728\u306e\u307e\u306a\u677f",
+                "english": "wooden cutting board",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/105932.mp3",
+                "kana": "\u304d\u306e\u307e\u306a\u3044\u305f",
+                "romaji": "ki no manaita"
+            }
+        ]
+    },
+    {
+        "img": "10072",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/830324.mp3",
+        "class": "noun",
+        "english": "sink",
+        "flashcardId": "2164252",
+        "meaning": "sink (noun) - bathroom",
+        "id": "15276",
+        "word": "\u6d17\u9762\u53f0",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/306104.mp3",
+        "kana": "\u305b\u3093\u3081\u3093\u3060\u3044",
+        "romaji": "senmendai"
+    },
+    {
+        "img": "8684",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271581.mp3",
+        "class": "noun",
+        "english": "bowl",
+        "flashcardId": "223907",
+        "meaning": "bowl (noun) - a dish that is round and open at the top for serving foods",
+        "id": "15278",
+        "word": "\u30dc\u30a6\u30eb",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/7873.mp3",
+        "kana": "\u30dc\u30a6\u30eb",
+        "romaji": "b\u014dru",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271582.mp3",
+                "text": "\u9752\u3044\u30dc\u30a6\u30eb",
+                "english": "blue bowl",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263002.mp3",
+                "kana": "\u3042\u304a\u3044\u30dc\u30a6\u30eb",
+                "romaji": "aoi b\u014dru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201954.mp3",
+                "text": "\u30b9\u30fc\u30d7\u30dc\u30a6\u30eb\u306b\u5165\u3063\u3066\u3044\u308b\u30b9\u30fc\u30d7",
+                "english": "soup in a soup bowl",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/105624.mp3",
+                "kana": "\u30b9\u30fc\u30d7\u30dc\u30a6\u30eb\u306b\u306f\u3044\u3063\u3066\u3044\u308b\u30b9\u30fc\u30d7",
+                "romaji": "s\u016bpu b\u014dru ni haitte iru s\u016bpu"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201955.mp3",
+                "text": "\u305d\u306e\u30dc\u30a6\u30eb\u306f\u7a7a\u3067\u3059\u3002",
+                "english": "The bowl is empty.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u30dc\u30a6\u30eb\u306f\u304b\u3089\u3067\u3059\u3002",
+                "romaji": "Sono b\u014dru wa kara desu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271582.mp3",
+                "text": "\u9752\u3044\u30dc\u30a6\u30eb",
+                "english": "blue bowl",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263002.mp3",
+                "kana": "\u3042\u304a\u3044\u30dc\u30a6\u30eb",
+                "romaji": "aoi b\u014dru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201955.mp3",
+                "text": "\u305d\u306e\u30dc\u30a6\u30eb\u306f\u7a7a\u3067\u3059\u3002",
+                "english": "The bowl is empty.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197926.mp3",
+                "kana": "\u305d\u306e\u30dc\u30a6\u30eb\u306f\u304b\u3089\u3067\u3059\u3002",
+                "romaji": "Sono b\u014dru wa kara desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201954.mp3",
+                "text": "\u30b9\u30fc\u30d7\u30dc\u30a6\u30eb\u306b\u5165\u3063\u3066\u3044\u308b\u30b9\u30fc\u30d7",
+                "english": "soup in a soup bowl",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/105624.mp3",
+                "kana": "\u30b9\u30fc\u30d7\u30dc\u30a6\u30eb\u306b\u306f\u3044\u3063\u3066\u3044\u308b\u30b9\u30fc\u30d7",
+                "romaji": "s\u016bpu b\u014dru ni haitte iru s\u016bpu"
+            }
+        ]
+    },
+    {
+        "img": "9269",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271578.mp3",
+        "class": "noun",
+        "english": "kettle",
+        "flashcardId": "223905",
+        "meaning": "kettle (noun) - a container with a lid, a handle, and a spout, used for boiling and pouring water",
+        "id": "9340",
+        "word": "\u3084\u304b\u3093",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/7874.mp3",
+        "kana": "\u3084\u304b\u3093",
+        "romaji": "yakan",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201945.mp3",
+                "text": "\u8d64\u3044\u3084\u304b\u3093",
+                "english": "red kettle",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197923.mp3",
+                "kana": "\u3042\u304b\u3044\u3084\u304b\u3093",
+                "romaji": "akai yakan"
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201945.mp3",
+                "text": "\u8d64\u3044\u3084\u304b\u3093",
+                "english": "red kettle",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197923.mp3",
+                "kana": "\u3042\u304b\u3044\u3084\u304b\u3093",
+                "romaji": "akai yakan"
+            }
+        ]
+    },
+    {
+        "img": "8034",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/549372.mp3",
+        "class": "noun",
+        "english": "pot",
+        "flashcardId": "2164251",
+        "meaning": "pot",
+        "id": "15279",
+        "word": "\u934b",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/7875.mp3",
+        "kana": "\u306a\u3079",
+        "romaji": "nabe",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201958.mp3",
+                "text": "\u934b\u3067\u3054\u98ef\u3092\u708a\u304f",
+                "english": "cook rice in a pot",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197928.mp3",
+                "kana": "\u306a\u3079\u3067\u3054\u306f\u3093\u3092\u305f\u304f",
+                "romaji": "nabe de go-han o taku"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201957.mp3",
+                "text": "\u30b9\u30c1\u30fc\u30eb\u934b",
+                "english": "steel pot",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197927.mp3",
+                "kana": "\u30b9\u30c1\u30fc\u30eb\u306a\u3079",
+                "romaji": "such\u012bru nabe"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271584.mp3",
+                "text": "\u305d\u306e\u934b\u306f\u5341\u5e74\u3082\u306e\u3067\u3059\u3002",
+                "english": "That pot is ten years old.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u306a\u3079\u306f\u3058\u3085\u3046\u306d\u3093\u3082\u306e\u3067\u3059\u3002",
+                "romaji": "Sono nabe wa j\u016b-nen mono desu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271584.mp3",
+                "text": "\u305d\u306e\u934b\u306f\u5341\u5e74\u3082\u306e\u3067\u3059\u3002",
+                "english": "That pot is ten years old.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/45413.mp3",
+                "kana": "\u305d\u306e\u306a\u3079\u306f\u3058\u3085\u3046\u306d\u3093\u3082\u306e\u3067\u3059\u3002",
+                "romaji": "Sono nabe wa j\u016b-nen mono desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201958.mp3",
+                "text": "\u934b\u3067\u3054\u98ef\u3092\u708a\u304f",
+                "english": "cook rice in a pot",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197928.mp3",
+                "kana": "\u306a\u3079\u3067\u3054\u306f\u3093\u3092\u305f\u304f",
+                "romaji": "nabe de go-han o taku"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201957.mp3",
+                "text": "\u30b9\u30c1\u30fc\u30eb\u934b",
+                "english": "steel pot",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197927.mp3",
+                "kana": "\u30b9\u30c1\u30fc\u30eb\u306a\u3079",
+                "romaji": "such\u012bru nabe"
+            }
+        ]
+    },
+    {
+        "img": "21850",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1623.mp3",
+        "class": "noun",
+        "english": "frog",
+        "flashcardId": "2320610",
+        "meaning": "frog (noun) - a tailless amphibian with a short squat body, moist smooth skin, and very long hind legs for leaping",
+        "id": "1768",
+        "word": "\u86d9",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89189.mp3",
+        "kana": "\u304b\u3048\u308b",
+        "romaji": "kaeru",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200720.mp3",
+                "text": "\u30a2\u30aa\u30ac\u30a8\u30eb",
+                "english": "green frog",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90850.mp3",
+                "kana": "\u30a2\u30aa\u30ac\u30a8\u30eb",
+                "romaji": "aogaeru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200730.mp3",
+                "text": "\u4e38\u592a\u306e\u4e0a\u306b\u3044\u308b\u30a2\u30aa\u30ac\u30a8\u30eb",
+                "english": "green frog on a log",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198263.mp3",
+                "kana": "\u307e\u308b\u305f\u306e\u3046\u3048\u306b\u3044\u308b\u30a2\u30aa\u30ac\u30a8\u30eb",
+                "romaji": "maruta no ue ni iru aogaeru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200723.mp3",
+                "text": "\u98db\u3073\u8df3\u306d\u3066\u3044\u308b\u30ab\u30a8\u30eb",
+                "english": "hopping frog",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90845.mp3",
+                "kana": "\u3068\u3073\u306f\u306d\u3066\u3044\u308b\u30ab\u30a8\u30eb",
+                "romaji": "tobihanete iru kaeru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200728.mp3",
+                "text": "\u8336\u8272\u306e\u4e38\u592a\u306b\u3044\u308b\u30e2\u30ea\u30a2\u30aa\u30ac\u30a8\u30eb",
+                "english": "forest green frog on brown log",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90851.mp3",
+                "kana": "\u3061\u3083\u3044\u308d\u306e\u307e\u308b\u305f\u306b\u3044\u308b\u30e2\u30ea\u30a2\u30aa\u30ac\u30a8\u30eb",
+                "romaji": "cha iro no maruta ni iru Moriaogaeru"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200732.mp3",
+                "text": "\u30a2\u30aa\u30ac\u30a8\u30eb\u304c\u6c34\u306e\u4e2d\u306b\u3044\u308b\u3002",
+                "english": "The green frog is in the water.",
+                "en_audio": "",
+                "kana": "\u30a2\u30aa\u30ac\u30a8\u30eb\u304c\u307f\u305a\u306e\u306a\u304b\u306b\u3044\u308b\u3002",
+                "romaji": "Aogaeru ga mizu no naka ni iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200729.mp3",
+                "text": "\u30ab\u30a8\u30eb\u304c\u4e38\u592a\u306e\u4e0a\u306b\u3044\u308b\u3002",
+                "english": "The frog is on the log.",
+                "en_audio": "",
+                "kana": "\u30ab\u30a8\u30eb\u304c\u307e\u308b\u305f\u306e\u3046\u3048\u306b\u3044\u308b\u3002",
+                "romaji": "Kaeru ga maruta no ue ni iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1629.mp3",
+                "text": "\u304b\u3048\u308b\u306f\u6cf3\u3050\u306e\u3082\u98db\u3073\u8df3\u306d\u308b\u306e\u3082\u3068\u3066\u3082\u4e0a\u624b\u3044\u3002",
+                "english": "Frogs are execptional jumpers and swimmers.",
+                "en_audio": "",
+                "kana": "\u304b\u3048\u308b\u306f\u304a\u3088\u3050\u306e\u3082\u3068\u3073\u306f\u306d\u308b\u306e\u3082\u3068\u3066\u3082\u3046\u307e\u3044\u3002",
+                "romaji": "Kaeru wa oyogu no mo tobihaneru no mo totemo umai."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200720.mp3",
+                "text": "\u30a2\u30aa\u30ac\u30a8\u30eb",
+                "english": "green frog",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90850.mp3",
+                "kana": "\u30a2\u30aa\u30ac\u30a8\u30eb",
+                "romaji": "aogaeru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200732.mp3",
+                "text": "\u30a2\u30aa\u30ac\u30a8\u30eb\u304c\u6c34\u306e\u4e2d\u306b\u3044\u308b\u3002",
+                "english": "The green frog is in the water.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198264.mp3",
+                "kana": "\u30a2\u30aa\u30ac\u30a8\u30eb\u304c\u307f\u305a\u306e\u306a\u304b\u306b\u3044\u308b\u3002",
+                "romaji": "Aogaeru ga mizu no naka ni iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200730.mp3",
+                "text": "\u4e38\u592a\u306e\u4e0a\u306b\u3044\u308b\u30a2\u30aa\u30ac\u30a8\u30eb",
+                "english": "green frog on a log",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198263.mp3",
+                "kana": "\u307e\u308b\u305f\u306e\u3046\u3048\u306b\u3044\u308b\u30a2\u30aa\u30ac\u30a8\u30eb",
+                "romaji": "maruta no ue ni iru aogaeru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200729.mp3",
+                "text": "\u30ab\u30a8\u30eb\u304c\u4e38\u592a\u306e\u4e0a\u306b\u3044\u308b\u3002",
+                "english": "The frog is on the log.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198262.mp3",
+                "kana": "\u30ab\u30a8\u30eb\u304c\u307e\u308b\u305f\u306e\u3046\u3048\u306b\u3044\u308b\u3002",
+                "romaji": "Kaeru ga maruta no ue ni iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200723.mp3",
+                "text": "\u98db\u3073\u8df3\u306d\u3066\u3044\u308b\u30ab\u30a8\u30eb",
+                "english": "hopping frog",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90845.mp3",
+                "kana": "\u3068\u3073\u306f\u306d\u3066\u3044\u308b\u30ab\u30a8\u30eb",
+                "romaji": "tobihanete iru kaeru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200728.mp3",
+                "text": "\u8336\u8272\u306e\u4e38\u592a\u306b\u3044\u308b\u30e2\u30ea\u30a2\u30aa\u30ac\u30a8\u30eb",
+                "english": "forest green frog on brown log",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90851.mp3",
+                "kana": "\u3061\u3083\u3044\u308d\u306e\u307e\u308b\u305f\u306b\u3044\u308b\u30e2\u30ea\u30a2\u30aa\u30ac\u30a8\u30eb",
+                "romaji": "cha iro no maruta ni iru Moriaogaeru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1629.mp3",
+                "text": "\u304b\u3048\u308b\u306f\u6cf3\u3050\u306e\u3082\u98db\u3073\u8df3\u306d\u308b\u306e\u3082\u3068\u3066\u3082\u4e0a\u624b\u3044\u3002",
+                "english": "Frogs are execptional jumpers and swimmers.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90848.mp3",
+                "kana": "\u304b\u3048\u308b\u306f\u304a\u3088\u3050\u306e\u3082\u3068\u3073\u306f\u306d\u308b\u306e\u3082\u3068\u3066\u3082\u3046\u307e\u3044\u3002",
+                "romaji": "Kaeru wa oyogu no mo tobihaneru no mo totemo umai."
+            }
+        ]
+    },
+    {
+        "img": "3470",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1646.mp3",
+        "class": "noun",
+        "english": "pigeon",
+        "flashcardId": "2320347",
+        "meaning": "pigeon (noun) - a grey bird with short legs that is common in cities",
+        "id": "2770",
+        "word": "\u30cf\u30c8",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102811.mp3",
+        "kana": "\u30cf\u30c8",
+        "romaji": "hato",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200696.mp3",
+                "text": "\u7070\u8272\u306e\u30cf\u30c8",
+                "english": "gray pigeon",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198248.mp3",
+                "kana": "\u306f\u3044\u3044\u308d\u306e\u30cf\u30c8",
+                "romaji": "haiiro no hato"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1647.mp3",
+                "text": "\u713c\u3044\u305f\u30cf\u30c8",
+                "english": "baked pigeon",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102813.mp3",
+                "kana": "\u3084\u3044\u305f\u30cf\u30c8",
+                "romaji": "yaita hato"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200697.mp3",
+                "text": "\u30cf\u30c8\u9054\u304c\u30c1\u30e7\u30b3\u30c1\u30e7\u30b3\u52d5\u304d\u56de\u3063\u3066\u30d1\u30f3\u3092\u98df\u3079\u3066\u3044\u308b\u3002",
+                "english": "The pigeons are scurrying to eat the bread.",
+                "en_audio": "",
+                "kana": "\u30cf\u30c8\u305f\u3061\u304c\u30c1\u30e7\u30b3\u30c1\u30e7\u30b3\u3046\u3054\u304d\u307e\u308f\u3063\u3066\u30d1\u30f3\u3092\u305f\u3079\u3066\u3044\u308b\u3002",
+                "romaji": "Hato-tachi ga chokochoko ugoki mawatte pan o tabete iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200695.mp3",
+                "text": "\u30cf\u30c8\u306b\u30a8\u30b5\u3092\u4e0e\u3048\u306a\u3044\u3067\u4e0b\u3055\u3044\u3002",
+                "english": "Don't feed the pigeons.",
+                "en_audio": "",
+                "kana": "\u30cf\u30c8\u306b\u30a8\u30b5\u3092\u3042\u305f\u3048\u306a\u3044\u3067\u304f\u3060\u3055\u3044\u3002",
+                "romaji": "Hato ni esa o ataenaide kudasai."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271682.mp3",
+                "text": "\u30cf\u30c8\u306e\u8089\u306f\u5c0f\u3055\u3044\u304c\u3001\u7f8e\u5473\u3057\u3044\u5915\u98df\u3067\u3059\u3002",
+                "english": "A pigeon makes a small but flavorful dinner.",
+                "en_audio": "",
+                "kana": "\u30cf\u30c8\u306e\u306b\u304f\u306f\u3061\u3044\u3055\u3044\u304c\u3001\u304a\u3044\u3057\u3044\u3086\u3046\u3057\u3087\u304f\u3067\u3059\u3002",
+                "romaji": "Hato no niku wa chiisai ga, oishii y\u016bshoku desu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200697.mp3",
+                "text": "\u30cf\u30c8\u9054\u304c\u30c1\u30e7\u30b3\u30c1\u30e7\u30b3\u52d5\u304d\u56de\u3063\u3066\u30d1\u30f3\u3092\u98df\u3079\u3066\u3044\u308b\u3002",
+                "english": "The pigeons are scurrying to eat the bread.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198249.mp3",
+                "kana": "\u30cf\u30c8\u305f\u3061\u304c\u30c1\u30e7\u30b3\u30c1\u30e7\u30b3\u3046\u3054\u304d\u307e\u308f\u3063\u3066\u30d1\u30f3\u3092\u305f\u3079\u3066\u3044\u308b\u3002",
+                "romaji": "Hato-tachi ga chokochoko ugoki mawatte pan o tabete iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200696.mp3",
+                "text": "\u7070\u8272\u306e\u30cf\u30c8",
+                "english": "gray pigeon",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198248.mp3",
+                "kana": "\u306f\u3044\u3044\u308d\u306e\u30cf\u30c8",
+                "romaji": "haiiro no hato"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200695.mp3",
+                "text": "\u30cf\u30c8\u306b\u30a8\u30b5\u3092\u4e0e\u3048\u306a\u3044\u3067\u4e0b\u3055\u3044\u3002",
+                "english": "Don't feed the pigeons.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102814.mp3",
+                "kana": "\u30cf\u30c8\u306b\u30a8\u30b5\u3092\u3042\u305f\u3048\u306a\u3044\u3067\u304f\u3060\u3055\u3044\u3002",
+                "romaji": "Hato ni esa o ataenaide kudasai."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271682.mp3",
+                "text": "\u30cf\u30c8\u306e\u8089\u306f\u5c0f\u3055\u3044\u304c\u3001\u7f8e\u5473\u3057\u3044\u5915\u98df\u3067\u3059\u3002",
+                "english": "A pigeon makes a small but flavorful dinner.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102812.mp3",
+                "kana": "\u30cf\u30c8\u306e\u306b\u304f\u306f\u3061\u3044\u3055\u3044\u304c\u3001\u304a\u3044\u3057\u3044\u3086\u3046\u3057\u3087\u304f\u3067\u3059\u3002",
+                "romaji": "Hato no niku wa chiisai ga, oishii y\u016bshoku desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1647.mp3",
+                "text": "\u713c\u3044\u305f\u30cf\u30c8",
+                "english": "baked pigeon",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102813.mp3",
+                "kana": "\u3084\u3044\u305f\u30cf\u30c8",
+                "romaji": "yaita hato"
+            }
+        ]
+    },
+    {
+        "img": "21851",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200699.mp3",
+        "class": "noun",
+        "english": "duck",
+        "flashcardId": "2166705",
+        "meaning": "duck (noun) - a very common water bird with short legs and a wide beak, used for its meat, eggs, and soft feathers",
+        "id": "3880",
+        "word": "\u9d28",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/306143.mp3",
+        "kana": "\u304b\u3082",
+        "romaji": "kamo",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200705.mp3",
+                "text": "\u8336\u8272\u306e\u30ab\u30e2",
+                "english": "brown duck",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198250.mp3",
+                "kana": "\u3061\u3083\u3044\u308d\u306e\u30ab\u30e2",
+                "romaji": "cha iro no kamo"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200700.mp3",
+                "text": "\u30ab\u30e2\u72e9\u308a",
+                "english": "duck hunting",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90896.mp3",
+                "kana": "\u30ab\u30e2\u304c\u308a",
+                "romaji": "kamo gari"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200706.mp3",
+                "text": "\u304b\u3082\u9054\u304c\u98db\u3093\u3067\u3044\u308b\u3002",
+                "english": "The ducks are flying.",
+                "en_audio": "",
+                "kana": "\u304b\u3082\u305f\u3061\u304c\u3068\u3093\u3067\u3044\u308b\u3002",
+                "romaji": "Kamo-tachi ga tonde iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200707.mp3",
+                "text": "\u30ab\u30e2\u305f\u3061\u304c\u3001\u6c34\u306e\u4e2d\u306b\u982d\u3092\u7a81\u3063\u8fbc\u3093\u3060\u308a\u3001\u4e0a\u3052\u305f\u308a\u3057\u3066\u3044\u308b\u3002",
+                "english": "The ducks are bobbing in the water.",
+                "en_audio": "",
+                "kana": "\u30ab\u30e2\u305f\u3061\u304c\u3001\u307f\u305a\u306e\u306a\u304b\u306b\u3042\u305f\u307e\u3092\u3064\u3063\u3053\u3093\u3060\u308a\u3001\u3042\u3052\u305f\u308a\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Kamo-tachi ga mizu no naka ni atama o tsukkondari, agetari shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200704.mp3",
+                "text": "\u304b\u3082\u306e\u9cf4\u304d\u58f0\u306f\u97ff\u304f\u3002",
+                "english": "A duck\u2019s quack echoes.",
+                "en_audio": "",
+                "kana": "\u304b\u3082\u306e\u306a\u304d\u3054\u3048\u306f\u3072\u3073\u304f\u3002",
+                "romaji": "Kamo no nakigoe wa hibiku."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200703.mp3",
+                "text": "\u5317\u306b\u3044\u308b\u30ab\u30e2\u306f\u8d8a\u51ac\u306e\u305f\u3081\u306b\u3001\u5357\u306b\u98db\u3093\u3067\u884c\u304f\u3002",
+                "english": "Ducks in the north fly south for the winter.",
+                "en_audio": "",
+                "kana": "\u304d\u305f\u306b\u3044\u308b\u30ab\u30e2\u306f\u3048\u3063\u3068\u3046\u306e\u305f\u3081\u306b\u3001\u307f\u306a\u307f\u306b\u3068\u3093\u3067\u3044\u304f\u3002",
+                "romaji": "Kita ni iru kamo wa ett\u014d no tame ni, minami ni tonde iku."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200706.mp3",
+                "text": "\u304b\u3082\u9054\u304c\u98db\u3093\u3067\u3044\u308b\u3002",
+                "english": "The ducks are flying.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198251.mp3",
+                "kana": "\u304b\u3082\u305f\u3061\u304c\u3068\u3093\u3067\u3044\u308b\u3002",
+                "romaji": "Kamo-tachi ga tonde iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200707.mp3",
+                "text": "\u30ab\u30e2\u305f\u3061\u304c\u3001\u6c34\u306e\u4e2d\u306b\u982d\u3092\u7a81\u3063\u8fbc\u3093\u3060\u308a\u3001\u4e0a\u3052\u305f\u308a\u3057\u3066\u3044\u308b\u3002",
+                "english": "The ducks are bobbing in the water.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198252.mp3",
+                "kana": "\u30ab\u30e2\u305f\u3061\u304c\u3001\u307f\u305a\u306e\u306a\u304b\u306b\u3042\u305f\u307e\u3092\u3064\u3063\u3053\u3093\u3060\u308a\u3001\u3042\u3052\u305f\u308a\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Kamo-tachi ga mizu no naka ni atama o tsukkondari, agetari shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200705.mp3",
+                "text": "\u8336\u8272\u306e\u30ab\u30e2",
+                "english": "brown duck",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198250.mp3",
+                "kana": "\u3061\u3083\u3044\u308d\u306e\u30ab\u30e2",
+                "romaji": "cha iro no kamo"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200704.mp3",
+                "text": "\u304b\u3082\u306e\u9cf4\u304d\u58f0\u306f\u97ff\u304f\u3002",
+                "english": "A duck\u2019s quack echoes.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90898.mp3",
+                "kana": "\u304b\u3082\u306e\u306a\u304d\u3054\u3048\u306f\u3072\u3073\u304f\u3002",
+                "romaji": "Kamo no nakigoe wa hibiku."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200703.mp3",
+                "text": "\u5317\u306b\u3044\u308b\u30ab\u30e2\u306f\u8d8a\u51ac\u306e\u305f\u3081\u306b\u3001\u5357\u306b\u98db\u3093\u3067\u884c\u304f\u3002",
+                "english": "Ducks in the north fly south for the winter.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90897.mp3",
+                "kana": "\u304d\u305f\u306b\u3044\u308b\u30ab\u30e2\u306f\u3048\u3063\u3068\u3046\u306e\u305f\u3081\u306b\u3001\u307f\u306a\u307f\u306b\u3068\u3093\u3067\u3044\u304f\u3002",
+                "romaji": "Kita ni iru kamo wa ett\u014d no tame ni, minami ni tonde iku."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200700.mp3",
+                "text": "\u30ab\u30e2\u72e9\u308a",
+                "english": "duck hunting",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90896.mp3",
+                "kana": "\u30ab\u30e2\u304c\u308a",
+                "romaji": "kamo gari"
+            }
+        ]
+    },
+    {
+        "img": "8384",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200674.mp3",
+        "class": "noun",
+        "english": "crow",
+        "flashcardId": "2320310",
+        "meaning": "crow (noun) - a large shiny black bird with a loud cry",
+        "id": "25384",
+        "word": "\u30ab\u30e9\u30b9",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102823.mp3",
+        "kana": "\u30ab\u30e9\u30b9",
+        "romaji": "karasu",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200675.mp3",
+                "text": "\u9ed2\u3044\u30ab\u30e9\u30b9",
+                "english": "black crow",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197999.mp3",
+                "kana": "\u304f\u308d\u3044\u30ab\u30e9\u30b9",
+                "romaji": "kuroi karasu"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200679.mp3",
+                "text": "\u9ed2\u3044\u30ab\u30e9\u30b9\u304c\u4f55\u304b\u98df\u3079\u308b\u7269\u3092\u63a2\u3057\u3066\u3044\u308b\u3002",
+                "english": "The black crow is looking for something to eat.",
+                "en_audio": "",
+                "kana": "\u304f\u308d\u3044\u30ab\u30e9\u30b9\u304c\u306a\u306b\u304b\u305f\u3079\u308b\u3082\u306e\u3092\u3055\u304c\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Kuroi karasu ga nani ka taberu mono o sagashite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200678.mp3",
+                "text": "\u30ab\u30e9\u30b9\u304c\u9cf4\u3044\u3066\u3044\u308b\u3002",
+                "english": "The crow is crowing.",
+                "en_audio": "",
+                "kana": "\u30ab\u30e9\u30b9\u304c\u306a\u3044\u3066\u3044\u308b\u3002",
+                "romaji": "Karasu ga naite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200677.mp3",
+                "text": "\u30ab\u30e9\u30b9\u306f\u9ce5\u306e\u4e2d\u3067\u3082\u4e00\u756a\u982d\u304c\u826f\u3044\u3002",
+                "english": "Crows are among the smartest birds.",
+                "en_audio": "",
+                "kana": "\u30ab\u30e9\u30b9\u306f\u3068\u308a\u306e\u306a\u304b\u3067\u3082\u3044\u3061\u3070\u3093\u3042\u305f\u307e\u304c\u3088\u3044\u3002",
+                "romaji": "Karasu wa tori no naka de mo ich-iban atama ga yoi."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200679.mp3",
+                "text": "\u9ed2\u3044\u30ab\u30e9\u30b9\u304c\u4f55\u304b\u98df\u3079\u308b\u7269\u3092\u63a2\u3057\u3066\u3044\u308b\u3002",
+                "english": "The black crow is looking for something to eat.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198239.mp3",
+                "kana": "\u304f\u308d\u3044\u30ab\u30e9\u30b9\u304c\u306a\u306b\u304b\u305f\u3079\u308b\u3082\u306e\u3092\u3055\u304c\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Kuroi karasu ga nani ka taberu mono o sagashite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200678.mp3",
+                "text": "\u30ab\u30e9\u30b9\u304c\u9cf4\u3044\u3066\u3044\u308b\u3002",
+                "english": "The crow is crowing.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198238.mp3",
+                "kana": "\u30ab\u30e9\u30b9\u304c\u306a\u3044\u3066\u3044\u308b\u3002",
+                "romaji": "Karasu ga naite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200677.mp3",
+                "text": "\u30ab\u30e9\u30b9\u306f\u9ce5\u306e\u4e2d\u3067\u3082\u4e00\u756a\u982d\u304c\u826f\u3044\u3002",
+                "english": "Crows are among the smartest birds.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102825.mp3",
+                "kana": "\u30ab\u30e9\u30b9\u306f\u3068\u308a\u306e\u306a\u304b\u3067\u3082\u3044\u3061\u3070\u3093\u3042\u305f\u307e\u304c\u3088\u3044\u3002",
+                "romaji": "Karasu wa tori no naka de mo ich-iban atama ga yoi."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200675.mp3",
+                "text": "\u9ed2\u3044\u30ab\u30e9\u30b9",
+                "english": "black crow",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197999.mp3",
+                "kana": "\u304f\u308d\u3044\u30ab\u30e9\u30b9",
+                "romaji": "kuroi karasu"
+            }
+        ]
+    },
+    {
+        "img": "8448",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206647.mp3",
+        "class": "noun",
+        "english": "cockroach",
+        "flashcardId": "223909",
+        "meaning": "cockroach (noun) - a large black or brown insect that lives in dirty houses, especially if they are warm and there is food to eat",
+        "id": "1137",
+        "word": "\u30b4\u30ad\u30d6\u30ea",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89187.mp3",
+        "kana": "\u30b4\u30ad\u30d6\u30ea",
+        "romaji": "gokiburi",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206651.mp3",
+                "text": "\u5bb6\u5ead\u306b\u3044\u308b\u30b4\u30ad\u30d6\u30ea",
+                "english": "household cockroach",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102773.mp3",
+                "kana": "\u304b\u3066\u3044\u306b\u3044\u308b\u30b4\u30ad\u30d6\u30ea",
+                "romaji": "katei ni iru gokiburi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206649.mp3",
+                "text": "\u305d\u306e\u30b4\u30ad\u30d6\u30ea\u3092\u8e0f\u307f\u3064\u3076\u3059",
+                "english": "stomp that cockroach",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102770.mp3",
+                "kana": "\u305d\u306e\u30b4\u30ad\u30d6\u30ea\u3092\u3075\u307f\u3064\u3076\u3059",
+                "romaji": "sono gokiburi o fumitsubusu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206650.mp3",
+                "text": "\u5927\u304d\u306a\u8d64\u3044\u30b4\u30ad\u30d6\u30ea",
+                "english": "big red cockroach",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102771.mp3",
+                "kana": "\u304a\u304a\u304d\u306a\u3042\u304b\u3044\u30b4\u30ad\u30d6\u30ea",
+                "romaji": "\u014dkina akai gokiburi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206648.mp3",
+                "text": "\u3057\u3076\u3068\u3044\u30b4\u30ad\u30d6\u30ea",
+                "english": "everlasting cockroach",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102768.mp3",
+                "kana": "\u3057\u3076\u3068\u3044\u30b4\u30ad\u30d6\u30ea",
+                "romaji": "shibutoi gokiburi"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206653.mp3",
+                "text": "\u96fb\u6c17\u3092\u3064\u3051\u305f\u3089\u3001\u30b4\u30ad\u30d6\u30ea\u304c\u68da\u306e\u65b9\u306b\u8d70\u3063\u3066\u3044\u3063\u305f\u3002",
+                "english": "The cockroach ran for the cabinets when I turned on the lights.",
+                "en_audio": "",
+                "kana": "\u3067\u3093\u304d\u3092\u3064\u3051\u305f\u3089\u3001\u30b4\u30ad\u30d6\u30ea\u304c\u305f\u306a\u306e\u307b\u3046\u306b\u306f\u3057\u3063\u3066\u3044\u3063\u305f\u3002",
+                "romaji": "Denki o tsuketara, gokiburi ga tana no h\u014d ni hashitte itta."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206654.mp3",
+                "text": "\u30b4\u30ad\u30d6\u30ea\u306b\u306f\u3001\u516d\u672c\u306e\u8db3\u3068\u7fbd\u3001\u305d\u308c\u306b\u89e6\u899a\u304c\u3042\u308b\u3002",
+                "english": "A cockroach has six legs, wings and antennae.",
+                "en_audio": "",
+                "kana": "\u30b4\u30ad\u30d6\u30ea\u306b\u306f\u3001\u308d\u3063\u307d\u3093\u306e\u3042\u3057\u3068\u306f\u306d\u3001\u305d\u308c\u306b\u3057\u3087\u3063\u304b\u304f\u304c\u3042\u308b\u3002",
+                "romaji": "Gokiburi ni wa, ro-ppon no ashi to hane, sore ni shokkaku ga aru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206652.mp3",
+                "text": "\u30b4\u30ad\u30d6\u30ea\u306f\u3001\u4eba\u9593\u304c\u3044\u306a\u304f\u306a\u3063\u305f\u5f8c\u3082\u3001\u305a\u3063\u3068\u751f\u304d\u5ef6\u3073\u308b\u3060\u308d\u3046\u3002",
+                "english": "The cockroach will still be here when mankind is long gone.",
+                "en_audio": "",
+                "kana": "\u30b4\u30ad\u30d6\u30ea\u306f\u3001\u306b\u3093\u3052\u3093\u304c\u3044\u306a\u304f\u306a\u3063\u305f\u3042\u3068\u3082\u3001\u305a\u3063\u3068\u3044\u304d\u306e\u3073\u308b\u3060\u308d\u3046\u3002",
+                "romaji": "Gokiburi wa, ningen ga inakunatta ato mo, zutto, iki nobiru dar\u014d."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206653.mp3",
+                "text": "\u96fb\u6c17\u3092\u3064\u3051\u305f\u3089\u3001\u30b4\u30ad\u30d6\u30ea\u304c\u68da\u306e\u65b9\u306b\u8d70\u3063\u3066\u3044\u3063\u305f\u3002",
+                "english": "The cockroach ran for the cabinets when I turned on the lights.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102769.mp3",
+                "kana": "\u3067\u3093\u304d\u3092\u3064\u3051\u305f\u3089\u3001\u30b4\u30ad\u30d6\u30ea\u304c\u305f\u306a\u306e\u307b\u3046\u306b\u306f\u3057\u3063\u3066\u3044\u3063\u305f\u3002",
+                "romaji": "Denki o tsuketara, gokiburi ga tana no h\u014d ni hashitte itta."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206654.mp3",
+                "text": "\u30b4\u30ad\u30d6\u30ea\u306b\u306f\u3001\u516d\u672c\u306e\u8db3\u3068\u7fbd\u3001\u305d\u308c\u306b\u89e6\u899a\u304c\u3042\u308b\u3002",
+                "english": "A cockroach has six legs, wings and antennae.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102772.mp3",
+                "kana": "\u30b4\u30ad\u30d6\u30ea\u306b\u306f\u3001\u308d\u3063\u307d\u3093\u306e\u3042\u3057\u3068\u306f\u306d\u3001\u305d\u308c\u306b\u3057\u3087\u3063\u304b\u304f\u304c\u3042\u308b\u3002",
+                "romaji": "Gokiburi ni wa, ro-ppon no ashi to hane, sore ni shokkaku ga aru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206652.mp3",
+                "text": "\u30b4\u30ad\u30d6\u30ea\u306f\u3001\u4eba\u9593\u304c\u3044\u306a\u304f\u306a\u3063\u305f\u5f8c\u3082\u3001\u305a\u3063\u3068\u751f\u304d\u5ef6\u3073\u308b\u3060\u308d\u3046\u3002",
+                "english": "The cockroach will still be here when mankind is long gone.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102767.mp3",
+                "kana": "\u30b4\u30ad\u30d6\u30ea\u306f\u3001\u306b\u3093\u3052\u3093\u304c\u3044\u306a\u304f\u306a\u3063\u305f\u3042\u3068\u3082\u3001\u305a\u3063\u3068\u3044\u304d\u306e\u3073\u308b\u3060\u308d\u3046\u3002",
+                "romaji": "Gokiburi wa, ningen ga inakunatta ato mo, zutto, iki nobiru dar\u014d."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206651.mp3",
+                "text": "\u5bb6\u5ead\u306b\u3044\u308b\u30b4\u30ad\u30d6\u30ea",
+                "english": "household cockroach",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102773.mp3",
+                "kana": "\u304b\u3066\u3044\u306b\u3044\u308b\u30b4\u30ad\u30d6\u30ea",
+                "romaji": "katei ni iru gokiburi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206649.mp3",
+                "text": "\u305d\u306e\u30b4\u30ad\u30d6\u30ea\u3092\u8e0f\u307f\u3064\u3076\u3059",
+                "english": "stomp that cockroach",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102770.mp3",
+                "kana": "\u305d\u306e\u30b4\u30ad\u30d6\u30ea\u3092\u3075\u307f\u3064\u3076\u3059",
+                "romaji": "sono gokiburi o fumitsubusu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206650.mp3",
+                "text": "\u5927\u304d\u306a\u8d64\u3044\u30b4\u30ad\u30d6\u30ea",
+                "english": "big red cockroach",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102771.mp3",
+                "kana": "\u304a\u304a\u304d\u306a\u3042\u304b\u3044\u30b4\u30ad\u30d6\u30ea",
+                "romaji": "\u014dkina akai gokiburi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206648.mp3",
+                "text": "\u3057\u3076\u3068\u3044\u30b4\u30ad\u30d6\u30ea",
+                "english": "everlasting cockroach",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102768.mp3",
+                "kana": "\u3057\u3076\u3068\u3044\u30b4\u30ad\u30d6\u30ea",
+                "romaji": "shibutoi gokiburi"
+            }
+        ]
+    },
+    {
+        "img": "8939",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206730.mp3",
+        "class": "noun",
+        "english": "mosquito",
+        "flashcardId": "2320609",
+        "meaning": "mosquito (noun) - a small flying insect that sucks the blood of people and animals, sometimes spreading the disease malaria",
+        "id": "1761",
+        "word": "\u868a",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263065.mp3",
+        "kana": "\u304b",
+        "romaji": "ka",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206732.mp3",
+                "text": "\u8840\u3092\u5438\u3046\u868a",
+                "english": "blood sucking mosquito",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102810.mp3",
+                "kana": "\u3061\u3092\u3059\u3046\u304b",
+                "romaji": "chi o s\u016b ka"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206731.mp3",
+                "text": "\u868a\u306b\u3055\u3055\u308c\u305f\u3042\u3068",
+                "english": "mosquito bite",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102807.mp3",
+                "kana": "\u304b\u306b\u3055\u3055\u308c\u305f\u3042\u3068",
+                "romaji": "ka ni sasareta ato"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206735.mp3",
+                "text": "\u868a\u306e\u4f1d\u67d3\u75c5\u306b\u3088\u3063\u3066\u6bce\u5e74\u4e8c\u767e\u4e07\u4eba\u4ee5\u4e0a\u306e\u4eba\u304c\u4ea1\u304f\u306a\u308b\u3002",
+                "english": "Mosquitoes transmit diseases to millions of people a year resulting in over 2 million deaths a year.",
+                "en_audio": "",
+                "kana": "\u304b\u306e\u3067\u3093\u305b\u3093\u3073\u3087\u3046\u306b\u3088\u3063\u3066\u307e\u3044\u3068\u3057\u306b\u3072\u3083\u304f\u307e\u3093\u306b\u3093\u3044\u3058\u3087\u3046\u306e\u3072\u3068\u304c\u306a\u304f\u306a\u308b\u3002",
+                "romaji": "Ka no densenby\u014d ni yotte maitoshi ni-hyaku-man-nin ij\u014d no hito ga nakunaru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206734.mp3",
+                "text": "\u30c8\u30f3\u30dc\u306f\u868a\u3092\u98df\u3079\u308b\u3002",
+                "english": "Dragonflys eat mosquitos.",
+                "en_audio": "",
+                "kana": "\u30c8\u30f3\u30dc\u306f\u304b\u3092\u305f\u3079\u308b\u3002",
+                "romaji": "Tonbo wa ka o taberu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206733.mp3",
+                "text": "\u3042\u306e\u618e\u3089\u3057\u3044\u5c0f\u3055\u3044\u868a\u304c\u79c1\u306e\u8155\u3092\u3055\u3057\u305f\u3002",
+                "english": "That nasty little mosquito bit me on my arm.",
+                "en_audio": "",
+                "kana": "\u3042\u306e\u306b\u304f\u3089\u3057\u3044\u3061\u3044\u3055\u3044\u304b\u304c\u308f\u305f\u3057\u306e\u3046\u3067\u3092\u3055\u3057\u305f\u3002",
+                "romaji": "Ano nikurashii chiisai ka ga watashi no ude o sashita."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206735.mp3",
+                "text": "\u868a\u306e\u4f1d\u67d3\u75c5\u306b\u3088\u3063\u3066\u6bce\u5e74\u4e8c\u767e\u4e07\u4eba\u4ee5\u4e0a\u306e\u4eba\u304c\u4ea1\u304f\u306a\u308b\u3002",
+                "english": "Mosquitoes transmit diseases to millions of people a year resulting in over 2 million deaths a year.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1340268.mp3",
+                "kana": "\u304b\u306e\u3067\u3093\u305b\u3093\u3073\u3087\u3046\u306b\u3088\u3063\u3066\u307e\u3044\u3068\u3057\u306b\u3072\u3083\u304f\u307e\u3093\u306b\u3093\u3044\u3058\u3087\u3046\u306e\u3072\u3068\u304c\u306a\u304f\u306a\u308b\u3002",
+                "romaji": "Ka no densenby\u014d ni yotte maitoshi ni-hyaku-man-nin ij\u014d no hito ga nakunaru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206734.mp3",
+                "text": "\u30c8\u30f3\u30dc\u306f\u868a\u3092\u98df\u3079\u308b\u3002",
+                "english": "Dragonflys eat mosquitos.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102808.mp3",
+                "kana": "\u30c8\u30f3\u30dc\u306f\u304b\u3092\u305f\u3079\u308b\u3002",
+                "romaji": "Tonbo wa ka o taberu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206733.mp3",
+                "text": "\u3042\u306e\u618e\u3089\u3057\u3044\u5c0f\u3055\u3044\u868a\u304c\u79c1\u306e\u8155\u3092\u3055\u3057\u305f\u3002",
+                "english": "That nasty little mosquito bit me on my arm.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102806.mp3",
+                "kana": "\u3042\u306e\u306b\u304f\u3089\u3057\u3044\u3061\u3044\u3055\u3044\u304b\u304c\u308f\u305f\u3057\u306e\u3046\u3067\u3092\u3055\u3057\u305f\u3002",
+                "romaji": "Ano nikurashii chiisai ka ga watashi no ude o sashita."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206732.mp3",
+                "text": "\u8840\u3092\u5438\u3046\u868a",
+                "english": "blood sucking mosquito",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102810.mp3",
+                "kana": "\u3061\u3092\u3059\u3046\u304b",
+                "romaji": "chi o s\u016b ka"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206731.mp3",
+                "text": "\u868a\u306b\u3055\u3055\u308c\u305f\u3042\u3068",
+                "english": "mosquito bite",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102807.mp3",
+                "kana": "\u304b\u306b\u3055\u3055\u308c\u305f\u3042\u3068",
+                "romaji": "ka ni sasareta ato"
+            }
+        ]
+    },
+    {
+        "img": "9188",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/428301.mp3",
+        "class": "noun",
+        "english": "bee",
+        "flashcardId": "2320283",
+        "meaning": "bee (noun) - a stinging winged insect which collects nectar and pollen, produces wax and honey, and lives in large communities.",
+        "id": "1762",
+        "word": "\u306f\u3061",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263066.mp3",
+        "kana": "\u306f\u3061",
+        "romaji": "hachi",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200558.mp3",
+                "text": "\u30df\u30c4\u30d0\u30c1",
+                "english": "honeybee",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89803.mp3",
+                "kana": "\u30df\u30c4\u30d0\u30c1",
+                "romaji": "mitsubachi"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200557.mp3",
+                "text": "\u306f\u3061\u304c\u9ec4\u8272\u3044\u82b1\u306e\u53d7\u7c89\u3092\u3057\u3066\u3044\u308b\u3002",
+                "english": "The bee is pollinating the yellow flower.",
+                "en_audio": "",
+                "kana": "\u306f\u3061\u304c\u304d\u3044\u308d\u3044\u306f\u306a\u306e\u3058\u3085\u3075\u3093\u3092\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Hachi ga kiiroi hana no jufun o shite iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200558.mp3",
+                "text": "\u30df\u30c4\u30d0\u30c1",
+                "english": "honeybee",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89803.mp3",
+                "kana": "\u30df\u30c4\u30d0\u30c1",
+                "romaji": "mitsubachi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200557.mp3",
+                "text": "\u306f\u3061\u304c\u9ec4\u8272\u3044\u82b1\u306e\u53d7\u7c89\u3092\u3057\u3066\u3044\u308b\u3002",
+                "english": "The bee is pollinating the yellow flower.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/58276.mp3",
+                "kana": "\u306f\u3061\u304c\u304d\u3044\u308d\u3044\u306f\u306a\u306e\u3058\u3085\u3075\u3093\u3092\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Hachi ga kiiroi hana no jufun o shite iru."
+            }
+        ]
+    },
+    {
+        "img": "8204",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206736.mp3",
+        "class": "noun",
+        "english": "ant",
+        "flashcardId": "2320296",
+        "meaning": "ant (noun) - a small insect that lives in large groups",
+        "id": "5665",
+        "word": "\u30a2\u30ea",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/306073.mp3",
+        "kana": "\u30a2\u30ea",
+        "romaji": "ari",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200570.mp3",
+                "text": "\u30a2\u30ea\u306e\u5de3",
+                "english": "ant colony",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90779.mp3",
+                "kana": "\u30a2\u30ea\u306e\u3059",
+                "romaji": "ari no su"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200568.mp3",
+                "text": "\u87fb\u585a\u306e\u4e0a\u306b\u3044\u308b\u8d64\u30a2\u30ea",
+                "english": "red ant on ant hill",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90786.mp3",
+                "kana": "\u3042\u308a\u3065\u304b\u306e\u3046\u3048\u306b\u3044\u308b\u3042\u304b\u30a2\u30ea",
+                "romaji": "arizuka no ue ni iru aka'ari"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200563.mp3",
+                "text": "\u30a2\u30ea\u306e\u8db3",
+                "english": "ant legs",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90782.mp3",
+                "kana": "\u30a2\u30ea\u306e\u3042\u3057",
+                "romaji": "ari no ashi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200562.mp3",
+                "text": "\u30a2\u30ea\u306f\u81ea\u5206\u306e\u4f53\u91cd\u306e\u5341\u500d\u304b\u3089\u4e94\u5341\u500d\u306e\u91cd\u3055\u306e\u3082\u306e\u3092\u6301\u3061\u4e0a\u3052\u308b\u3053\u3068\u304c\u51fa\u6765\u308b\u3002",
+                "english": "Ants can lift 10 to 50 times their body weight.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90781.mp3",
+                "kana": "\u30a2\u30ea\u306f\u3058\u3076\u3093\u306e\u305f\u3044\u3058\u3085\u3046\u306e\u3058\u3085\u3046\u3070\u3044\u304b\u3089\u3054\u3058\u3085\u3046\u3070\u3044\u306e\u304a\u3082\u3055\u306e\u3082\u306e\u3092\u3082\u3061\u3042\u3052\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002",
+                "romaji": "Ari wa jibun no taij\u016b no j\u016b-bai kara go-j\u016b-bai no omosa no mono o mochiageru koto ga dekiru."
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/529033.mp3",
+                "text": "\u30b0\u30f3\u30bf\u30a4\u30a2\u30ea",
+                "english": "army ant",
+                "en_audio": "",
+                "kana": "\u30b0\u30f3\u30bf\u30a4\u30a2\u30ea",
+                "romaji": "guntaiari"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200576.mp3",
+                "text": "\u30a2\u30ea\u306f\u516d\u672c\u306e\u8db3\u3092\u6301\u3063\u3066\u3044\u308b\u3002",
+                "english": "Ants have six legs.",
+                "en_audio": "",
+                "kana": "\u30a2\u30ea\u306f\u308d\u3063\u307d\u3093\u306e\u3042\u3057\u3092\u3082\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Ari wa ro-ppon no ashi o motte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200566.mp3",
+                "text": "\u30a2\u30ea\u9054\u304c\u98df\u6599\u3092\u904b\u3093\u3067\u3044\u308b\u3002",
+                "english": "The ants are carrying food.",
+                "en_audio": "",
+                "kana": "\u30a2\u30ea\u305f\u3061\u304c\u3057\u3087\u304f\u308a\u3087\u3046\u3092\u306f\u3053\u3093\u3067\u3044\u308b\u3002",
+                "romaji": "Ari-tachi ga shokury\u014d o hakonde iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/549414.mp3",
+                "text": "\u30d4\u30af\u30cb\u30c3\u30af\u3092\u3057\u3066\u3044\u308b\u3068\u3001\u30a2\u30ea\u306e\u5927\u7fa4\u304c\u73fe\u308c\u305f\u3002",
+                "english": "An entire ant colony showed up at my picnic.",
+                "en_audio": "",
+                "kana": "\u30d4\u30af\u30cb\u30c3\u30af\u3092\u3057\u3066\u3044\u308b\u3068\u3001\u30a2\u30ea\u306e\u305f\u3044\u3050\u3093\u304c\u3042\u3089\u308f\u308c\u305f\u3002",
+                "romaji": "Pikunikku o shite iru to, ari no taigun ga arawareta."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200570.mp3",
+                "text": "\u30a2\u30ea\u306e\u5de3",
+                "english": "ant colony",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90779.mp3",
+                "kana": "\u30a2\u30ea\u306e\u3059",
+                "romaji": "ari no su"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/529033.mp3",
+                "text": "\u30b0\u30f3\u30bf\u30a4\u30a2\u30ea",
+                "english": "army ant",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90780.mp3",
+                "kana": "\u30b0\u30f3\u30bf\u30a4\u30a2\u30ea",
+                "romaji": "guntaiari"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200576.mp3",
+                "text": "\u30a2\u30ea\u306f\u516d\u672c\u306e\u8db3\u3092\u6301\u3063\u3066\u3044\u308b\u3002",
+                "english": "Ants have six legs.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198213.mp3",
+                "kana": "\u30a2\u30ea\u306f\u308d\u3063\u307d\u3093\u306e\u3042\u3057\u3092\u3082\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Ari wa ro-ppon no ashi o motte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200568.mp3",
+                "text": "\u87fb\u585a\u306e\u4e0a\u306b\u3044\u308b\u8d64\u30a2\u30ea",
+                "english": "red ant on ant hill",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90786.mp3",
+                "kana": "\u3042\u308a\u3065\u304b\u306e\u3046\u3048\u306b\u3044\u308b\u3042\u304b\u30a2\u30ea",
+                "romaji": "arizuka no ue ni iru aka'ari"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200566.mp3",
+                "text": "\u30a2\u30ea\u9054\u304c\u98df\u6599\u3092\u904b\u3093\u3067\u3044\u308b\u3002",
+                "english": "The ants are carrying food.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/58270.mp3",
+                "kana": "\u30a2\u30ea\u305f\u3061\u304c\u3057\u3087\u304f\u308a\u3087\u3046\u3092\u306f\u3053\u3093\u3067\u3044\u308b\u3002",
+                "romaji": "Ari-tachi ga shokury\u014d o hakonde iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200563.mp3",
+                "text": "\u30a2\u30ea\u306e\u8db3",
+                "english": "ant legs",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90782.mp3",
+                "kana": "\u30a2\u30ea\u306e\u3042\u3057",
+                "romaji": "ari no ashi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/549414.mp3",
+                "text": "\u30d4\u30af\u30cb\u30c3\u30af\u3092\u3057\u3066\u3044\u308b\u3068\u3001\u30a2\u30ea\u306e\u5927\u7fa4\u304c\u73fe\u308c\u305f\u3002",
+                "english": "An entire ant colony showed up at my picnic.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90778.mp3",
+                "kana": "\u30d4\u30af\u30cb\u30c3\u30af\u3092\u3057\u3066\u3044\u308b\u3068\u3001\u30a2\u30ea\u306e\u305f\u3044\u3050\u3093\u304c\u3042\u3089\u308f\u308c\u305f\u3002",
+                "romaji": "Pikunikku o shite iru to, ari no taigun ga arawareta."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200562.mp3",
+                "text": "\u30a2\u30ea\u306f\u81ea\u5206\u306e\u4f53\u91cd\u306e\u5341\u500d\u304b\u3089\u4e94\u5341\u500d\u306e\u91cd\u3055\u306e\u3082\u306e\u3092\u6301\u3061\u4e0a\u3052\u308b\u3053\u3068\u304c\u51fa\u6765\u308b\u3002",
+                "english": "Ants can lift 10 to 50 times their body weight.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90781.mp3",
+                "kana": "\u30a2\u30ea\u306f\u3058\u3076\u3093\u306e\u305f\u3044\u3058\u3085\u3046\u306e\u3058\u3085\u3046\u3070\u3044\u304b\u3089\u3054\u3058\u3085\u3046\u3070\u3044\u306e\u304a\u3082\u3055\u306e\u3082\u306e\u3092\u3082\u3061\u3042\u3052\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002",
+                "romaji": "Ari wa jibun no taij\u016b no j\u016b-bai kara go-j\u016b-bai no omosa no mono o mochiageru koto ga dekiru."
+            }
+        ]
+    },
+    {
+        "img": "8909",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228180.mp3",
+        "class": "noun",
+        "english": "snake",
+        "flashcardId": "2166714",
+        "meaning": "snake (noun) - an animal with a long thin body and no legs, that often has a poisonous bite",
+        "id": "1776",
+        "word": "\u86c7",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89198.mp3",
+        "kana": "\u3078\u3073",
+        "romaji": "hebi",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200742.mp3",
+                "text": "\u3068\u3050\u308d\u3092\u5dfb\u3044\u305f\u30ac\u30e9\u30ac\u30e9\u86c7",
+                "english": "coiled rattlesnake",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198266.mp3",
+                "kana": "\u3068\u3050\u308d\u3092\u307e\u3044\u305f\u30ac\u30e9\u30ac\u30e9\u3078\u3073",
+                "romaji": "toguro o maita garagara hebi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200740.mp3",
+                "text": "\u30cb\u30e7\u30ed\u30cb\u30e7\u30ed\u306f\u3063\u3066\u3044\u308b\u86c7",
+                "english": "slithering snake",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90810.mp3",
+                "kana": "\u30cb\u30e7\u30ed\u30cb\u30e7\u30ed\u306f\u3063\u3066\u3044\u308b\u3078\u3073",
+                "romaji": "nyoronyoro hatte iru hebi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200737.mp3",
+                "text": "\u3068\u3050\u308d\u3092\u5dfb\u3044\u305f\u86c7",
+                "english": "coiled snake",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90811.mp3",
+                "kana": "\u3068\u3050\u308d\u3092\u307e\u3044\u305f\u3078\u3073",
+                "romaji": "toguro o maita hebi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/830328.mp3",
+                "text": "\u6bd2\u86c7",
+                "english": "poisonous snake",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90809.mp3",
+                "kana": "\u3069\u304f\u3078\u3073",
+                "romaji": "dokuhebi"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200743.mp3",
+                "text": "\u30a6\u30df\u30d8\u30d3\u304c\u30b5\u30f3\u30b4\u7901\u306e\u8fd1\u304f\u3092\u6cf3\u3044\u3067\u3044\u308b\u3002",
+                "english": "The sea snake is swimming near the coral reef.",
+                "en_audio": "",
+                "kana": "\u30a6\u30df\u30d8\u30d3\u304c\u30b5\u30f3\u30b4\u3057\u3087\u3046\u306e\u3061\u304b\u304f\u3092\u304a\u3088\u3044\u3067\u3044\u308b\u3002",
+                "romaji": "Umihebi ga sangosh\u014d no chikaku o oyoide iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200741.mp3",
+                "text": "\u30ac\u30e9\u30ac\u30e9\u86c7\u304c\u3068\u3050\u308d\u3092\u5dfb\u3044\u3066\u3001\u653b\u6483\u3057\u3088\u3046\u3068\u3057\u3066\u3044\u308b\u3002",
+                "english": "The rattlesnake is coiled, and ready to strike.",
+                "en_audio": "",
+                "kana": "\u30ac\u30e9\u30ac\u30e9\u3078\u3073\u304c\u3068\u3050\u308d\u3092\u307e\u3044\u3066\u3001\u3053\u3046\u3052\u304d\u3057\u3088\u3046\u3068\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Garagarahebi ga toguro o maite, k\u014dgeki shiy\u014d to shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200736.mp3",
+                "text": "\u86c7\u306f\u6bd2\u304c\u3042\u308b\u304b\u3082\u3057\u308c\u306a\u3044\u304b\u3089\u3001\u6016\u3044\u3002",
+                "english": "I am afraid of snakes, because they may be poisonous.",
+                "en_audio": "",
+                "kana": "\u3078\u3073\u306f\u3069\u304f\u304c\u3042\u308b\u304b\u3082\u3057\u308c\u306a\u3044\u304b\u3089\u3001\u3053\u308f\u3044\u3002",
+                "romaji": "Hebi wa doku ga aru kamo shirenai kara, kowai."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200742.mp3",
+                "text": "\u3068\u3050\u308d\u3092\u5dfb\u3044\u305f\u30ac\u30e9\u30ac\u30e9\u86c7",
+                "english": "coiled rattlesnake",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198266.mp3",
+                "kana": "\u3068\u3050\u308d\u3092\u307e\u3044\u305f\u30ac\u30e9\u30ac\u30e9\u3078\u3073",
+                "romaji": "toguro o maita garagara hebi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200743.mp3",
+                "text": "\u30a6\u30df\u30d8\u30d3\u304c\u30b5\u30f3\u30b4\u7901\u306e\u8fd1\u304f\u3092\u6cf3\u3044\u3067\u3044\u308b\u3002",
+                "english": "The sea snake is swimming near the coral reef.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198267.mp3",
+                "kana": "\u30a6\u30df\u30d8\u30d3\u304c\u30b5\u30f3\u30b4\u3057\u3087\u3046\u306e\u3061\u304b\u304f\u3092\u304a\u3088\u3044\u3067\u3044\u308b\u3002",
+                "romaji": "Umihebi ga sangosh\u014d no chikaku o oyoide iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200741.mp3",
+                "text": "\u30ac\u30e9\u30ac\u30e9\u86c7\u304c\u3068\u3050\u308d\u3092\u5dfb\u3044\u3066\u3001\u653b\u6483\u3057\u3088\u3046\u3068\u3057\u3066\u3044\u308b\u3002",
+                "english": "The rattlesnake is coiled, and ready to strike.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198265.mp3",
+                "kana": "\u30ac\u30e9\u30ac\u30e9\u3078\u3073\u304c\u3068\u3050\u308d\u3092\u307e\u3044\u3066\u3001\u3053\u3046\u3052\u304d\u3057\u3088\u3046\u3068\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Garagarahebi ga toguro o maite, k\u014dgeki shiy\u014d to shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200740.mp3",
+                "text": "\u30cb\u30e7\u30ed\u30cb\u30e7\u30ed\u306f\u3063\u3066\u3044\u308b\u86c7",
+                "english": "slithering snake",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90810.mp3",
+                "kana": "\u30cb\u30e7\u30ed\u30cb\u30e7\u30ed\u306f\u3063\u3066\u3044\u308b\u3078\u3073",
+                "romaji": "nyoronyoro hatte iru hebi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200737.mp3",
+                "text": "\u3068\u3050\u308d\u3092\u5dfb\u3044\u305f\u86c7",
+                "english": "coiled snake",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90811.mp3",
+                "kana": "\u3068\u3050\u308d\u3092\u307e\u3044\u305f\u3078\u3073",
+                "romaji": "toguro o maita hebi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/830328.mp3",
+                "text": "\u6bd2\u86c7",
+                "english": "poisonous snake",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90809.mp3",
+                "kana": "\u3069\u304f\u3078\u3073",
+                "romaji": "dokuhebi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200736.mp3",
+                "text": "\u86c7\u306f\u6bd2\u304c\u3042\u308b\u304b\u3082\u3057\u308c\u306a\u3044\u304b\u3089\u3001\u6016\u3044\u3002",
+                "english": "I am afraid of snakes, because they may be poisonous.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90808.mp3",
+                "kana": "\u3078\u3073\u306f\u3069\u304f\u304c\u3042\u308b\u304b\u3082\u3057\u308c\u306a\u3044\u304b\u3089\u3001\u3053\u308f\u3044\u3002",
+                "romaji": "Hebi wa doku ga aru kamo shirenai kara, kowai."
+            }
+        ]
+    },
+    {
+        "img": "8623",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1292.mp3",
+        "class": "noun",
+        "english": "turtle",
+        "flashcardId": "2320308",
+        "meaning": "turtle (noun) - a reptile\tthat lives mainly in water and has a soft body covered by a hard shell",
+        "id": "3839",
+        "word": "\u30ab\u30e1",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4428.mp3",
+        "kana": "\u30ab\u30e1",
+        "romaji": "kame",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/830339.mp3",
+                "text": "\u6c34\u69fd\u306e\u4e2d\u306b\u3044\u308b\u30df\u30c9\u30ea\u30ac\u30e1",
+                "english": "green turtle in tank",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90812.mp3",
+                "kana": "\u3059\u3044\u305d\u3046\u306e\u306a\u304b\u306b\u3044\u308b\u30df\u30c9\u30ea\u30ac\u30e1",
+                "romaji": "suis\u014d no naka ni iru midorigame"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200744.mp3",
+                "text": "\u30a6\u30df\u30ac\u30e1",
+                "english": "sea turtle",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4431.mp3",
+                "kana": "\u30a6\u30df\u30ac\u30e1",
+                "romaji": "umigame"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200749.mp3",
+                "text": "\u30a6\u30df\u30ac\u30e1\u304c\u6d77\u3092\u6cf3\u3044\u3067\u3044\u308b\u3002",
+                "english": "The sea turtle is swimming in the sea.",
+                "en_audio": "",
+                "kana": "\u30a6\u30df\u30ac\u30e1\u304c\u3046\u307f\u3092\u304a\u3088\u3044\u3067\u3044\u308b\u3002",
+                "romaji": "Umigame ga umi o oyoide iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200749.mp3",
+                "text": "\u30a6\u30df\u30ac\u30e1\u304c\u6d77\u3092\u6cf3\u3044\u3067\u3044\u308b\u3002",
+                "english": "The sea turtle is swimming in the sea.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198268.mp3",
+                "kana": "\u30a6\u30df\u30ac\u30e1\u304c\u3046\u307f\u3092\u304a\u3088\u3044\u3067\u3044\u308b\u3002",
+                "romaji": "Umigame ga umi o oyoide iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/830339.mp3",
+                "text": "\u6c34\u69fd\u306e\u4e2d\u306b\u3044\u308b\u30df\u30c9\u30ea\u30ac\u30e1",
+                "english": "green turtle in tank",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90812.mp3",
+                "kana": "\u3059\u3044\u305d\u3046\u306e\u306a\u304b\u306b\u3044\u308b\u30df\u30c9\u30ea\u30ac\u30e1",
+                "romaji": "suis\u014d no naka ni iru midorigame"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200744.mp3",
+                "text": "\u30a6\u30df\u30ac\u30e1",
+                "english": "sea turtle",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4431.mp3",
+                "kana": "\u30a6\u30df\u30ac\u30e1",
+                "romaji": "umigame"
+            }
+        ]
+    },
+    {
+        "img": "21854",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206694.mp3",
+        "class": "noun",
+        "english": "exit",
+        "flashcardId": "2320420",
+        "meaning": "exit (noun) - a door or space through which you can leave a public room, building etc",
+        "id": "1559",
+        "word": "\u51fa\u53e3",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/88926.mp3",
+        "kana": "\u3067\u3050\u3061",
+        "romaji": "deguchi",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206700.mp3",
+                "text": "\u7dca\u6025\u907f\u96e3\u51fa\u53e3",
+                "english": "emergency exit",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254136.mp3",
+                "kana": "\u304d\u3093\u304d\u3085\u3046\u3072\u306a\u3093\u3067\u3050\u3061",
+                "romaji": "kinky\u016b hinan deguchi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206698.mp3",
+                "text": "\u51fa\u53e3\u306e\u770b\u677f",
+                "english": "exit sign",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254135.mp3",
+                "kana": "\u3067\u3050\u3061\u306e\u304b\u3093\u3070\u3093",
+                "romaji": "deguchi no kanban"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206699.mp3",
+                "text": "\u51fa\u53e3\u306f\u3069\u3053\u3067\u3059\u304b\u3002",
+                "english": "Where is the exit?",
+                "en_audio": "",
+                "kana": "\u3067\u3050\u3061\u306f\u3069\u3053\u3067\u3059\u304b\u3002",
+                "romaji": "Deguchi wa doko desu ka."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206700.mp3",
+                "text": "\u7dca\u6025\u907f\u96e3\u51fa\u53e3",
+                "english": "emergency exit",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254136.mp3",
+                "kana": "\u304d\u3093\u304d\u3085\u3046\u3072\u306a\u3093\u3067\u3050\u3061",
+                "romaji": "kinky\u016b hinan deguchi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206699.mp3",
+                "text": "\u51fa\u53e3\u306f\u3069\u3053\u3067\u3059\u304b\u3002",
+                "english": "Where is the exit?",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/69510.mp3",
+                "kana": "\u3067\u3050\u3061\u306f\u3069\u3053\u3067\u3059\u304b\u3002",
+                "romaji": "Deguchi wa doko desu ka."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206698.mp3",
+                "text": "\u51fa\u53e3\u306e\u770b\u677f",
+                "english": "exit sign",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254135.mp3",
+                "kana": "\u3067\u3050\u3061\u306e\u304b\u3093\u3070\u3093",
+                "romaji": "deguchi no kanban"
+            }
+        ]
+    },
+    {
+        "img": "21855",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206701.mp3",
+        "class": "noun",
+        "english": "map",
+        "flashcardId": "2320449",
+        "meaning": "map (noun) - a drawing of a particular area for example a city or country, which shows its main features, such as its roads, rivers, mountains etc",
+        "id": "1550",
+        "word": "\u5730\u56f3",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/88916.mp3",
+        "kana": "\u3061\u305a",
+        "romaji": "chizu",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206718.mp3",
+                "text": "\u5730\u56f3\u4ed8\u304d\u306e\u30ac\u30a4\u30c9\u30d6\u30c3\u30af",
+                "english": "guidebook with a map",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86534.mp3",
+                "kana": "\u3061\u305a\u3064\u304d\u306e\u30ac\u30a4\u30c9\u30d6\u30c3\u30af",
+                "romaji": "chizu tsuki no gaidobukku"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206703.mp3",
+                "text": "\u5730\u56f3\u3092\u8aad\u3080",
+                "english": "read the map",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89424.mp3",
+                "kana": "\u3061\u305a\u3092\u3088\u3080",
+                "romaji": "chizu o yomu"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206702.mp3",
+                "text": "\u5730\u56f3\u3067\u76ee\u7684\u5730\u307e\u3067\u306e\u884c\u304d\u65b9\u3092\u898b\u3064\u3051\u306a\u3055\u3044\u3002",
+                "english": "Check the map to find your way to your destination.",
+                "en_audio": "",
+                "kana": "\u3061\u305a\u3067\u3082\u304f\u3066\u304d\u3061\u307e\u3067\u306e\u3044\u304d\u304b\u305f\u3092\u307f\u3064\u3051\u306a\u3055\u3044\u3002",
+                "romaji": "Chizu de mokutekichi made no ikikata o mitsukenasai."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206718.mp3",
+                "text": "\u5730\u56f3\u4ed8\u304d\u306e\u30ac\u30a4\u30c9\u30d6\u30c3\u30af",
+                "english": "guidebook with a map",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86534.mp3",
+                "kana": "\u3061\u305a\u3064\u304d\u306e\u30ac\u30a4\u30c9\u30d6\u30c3\u30af",
+                "romaji": "chizu tsuki no gaidobukku"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206703.mp3",
+                "text": "\u5730\u56f3\u3092\u8aad\u3080",
+                "english": "read the map",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89424.mp3",
+                "kana": "\u3061\u305a\u3092\u3088\u3080",
+                "romaji": "chizu o yomu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206702.mp3",
+                "text": "\u5730\u56f3\u3067\u76ee\u7684\u5730\u307e\u3067\u306e\u884c\u304d\u65b9\u3092\u898b\u3064\u3051\u306a\u3055\u3044\u3002",
+                "english": "Check the map to find your way to your destination.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89423.mp3",
+                "kana": "\u3061\u305a\u3067\u3082\u304f\u3066\u304d\u3061\u307e\u3067\u306e\u3044\u304d\u304b\u305f\u3092\u307f\u3064\u3051\u306a\u3055\u3044\u3002",
+                "romaji": "Chizu de mokutekichi made no ikikata o mitsukenasai."
+            }
+        ]
+    },
+    {
+        "img": "21857",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206706.mp3",
+        "class": "noun",
+        "english": "suitcase",
+        "flashcardId": "223922",
+        "meaning": "suitcase (noun) - a large case with a handle, used for carrying clothes and possessions when you travel",
+        "id": "1553",
+        "word": "\u30b9\u30fc\u30c4\u30b1\u30fc\u30b9",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263170.mp3",
+        "kana": "\u30b9\u30fc\u30c4\u30b1\u30fc\u30b9",
+        "romaji": "s\u016btsuk\u0113su",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206710.mp3",
+                "text": "\u30b9\u30fc\u30c4\u30b1\u30fc\u30b9\u306b\u8a70\u3081\u308b",
+                "english": "pack a suitcase",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254174.mp3",
+                "kana": "\u30b9\u30fc\u30c4\u30b1\u30fc\u30b9\u306b\u3064\u3081\u308b",
+                "romaji": "s\u016btsuk\u0113su ni tsumeru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206709.mp3",
+                "text": "\u30bf\u30a4\u30e4\u4ed8\u304d\u306e\u30b9\u30fc\u30c4\u30b1\u30fc\u30b9",
+                "english": "suitcase with wheels",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89264.mp3",
+                "kana": "\u30bf\u30a4\u30e4\u3064\u304d\u306e\u30b9\u30fc\u30c4\u30b1\u30fc\u30b9",
+                "romaji": "taiya tsuki no s\u016btsuk\u0113su"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206708.mp3",
+                "text": "\u30b9\u30fc\u30c4\u30b1\u30fc\u30b9\u3092\u7528\u610f\u3059\u308b",
+                "english": "prepare a suitcase",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85983.mp3",
+                "kana": "\u30b9\u30fc\u30c4\u30b1\u30fc\u30b9\u3092\u3088\u3046\u3044\u3059\u308b",
+                "romaji": "s\u016btsuk\u0113su o y\u014di suru"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206707.mp3",
+                "text": "\u8cb4\u91cd\u54c1\u306f\u30b9\u30fc\u30c4\u30b1\u30fc\u30b9\u306b\u5165\u308c\u3066\u304a\u304b\u306a\u3044\u3067\u304f\u3060\u3055\u3044\u3002",
+                "english": "Do not leave valuables in your suitcase.",
+                "en_audio": "",
+                "kana": "\u304d\u3061\u3087\u3046\u3072\u3093\u306f\u30b9\u30fc\u30c4\u30b1\u30fc\u30b9\u306b\u3044\u308c\u3066\u304a\u304b\u306a\u3044\u3067\u304f\u3060\u3055\u3044\u3002",
+                "romaji": "Kich\u014dhin wa s\u016btsuk\u0113su ni irete okanaide kudasai."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206710.mp3",
+                "text": "\u30b9\u30fc\u30c4\u30b1\u30fc\u30b9\u306b\u8a70\u3081\u308b",
+                "english": "pack a suitcase",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254174.mp3",
+                "kana": "\u30b9\u30fc\u30c4\u30b1\u30fc\u30b9\u306b\u3064\u3081\u308b",
+                "romaji": "s\u016btsuk\u0113su ni tsumeru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206709.mp3",
+                "text": "\u30bf\u30a4\u30e4\u4ed8\u304d\u306e\u30b9\u30fc\u30c4\u30b1\u30fc\u30b9",
+                "english": "suitcase with wheels",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89264.mp3",
+                "kana": "\u30bf\u30a4\u30e4\u3064\u304d\u306e\u30b9\u30fc\u30c4\u30b1\u30fc\u30b9",
+                "romaji": "taiya tsuki no s\u016btsuk\u0113su"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206708.mp3",
+                "text": "\u30b9\u30fc\u30c4\u30b1\u30fc\u30b9\u3092\u7528\u610f\u3059\u308b",
+                "english": "prepare a suitcase",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85983.mp3",
+                "kana": "\u30b9\u30fc\u30c4\u30b1\u30fc\u30b9\u3092\u3088\u3046\u3044\u3059\u308b",
+                "romaji": "s\u016btsuk\u0113su o y\u014di suru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206707.mp3",
+                "text": "\u8cb4\u91cd\u54c1\u306f\u30b9\u30fc\u30c4\u30b1\u30fc\u30b9\u306b\u5165\u308c\u3066\u304a\u304b\u306a\u3044\u3067\u304f\u3060\u3055\u3044\u3002",
+                "english": "Do not leave valuables in your suitcase.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89262.mp3",
+                "kana": "\u304d\u3061\u3087\u3046\u3072\u3093\u306f\u30b9\u30fc\u30c4\u30b1\u30fc\u30b9\u306b\u3044\u308c\u3066\u304a\u304b\u306a\u3044\u3067\u304f\u3060\u3055\u3044\u3002",
+                "romaji": "Kich\u014dhin wa s\u016btsuk\u0113su ni irete okanaide kudasai."
+            }
+        ]
+    },
+    {
+        "img": "19882",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/309598.mp3",
+        "class": "noun",
+        "english": "tourist",
+        "flashcardId": "2320511",
+        "meaning": "tourist (noun) - someone who is travelling or visiting a place for pleasure",
+        "id": "1554",
+        "word": "\u65c5\u884c\u8005",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/306137.mp3",
+        "kana": "\u308a\u3087\u3053\u3046\u3057\u3083",
+        "romaji": "ryok\u014dsha",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/529153.mp3",
+                "text": "\u4f11\u6687\u4e2d\u306e\u65c5\u884c\u8005",
+                "english": "tourist on vacation",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86531.mp3",
+                "kana": "\u304d\u3085\u3046\u304b\u3061\u3085\u3046\u306e\u308a\u3087\u3053\u3046\u3057\u3083",
+                "romaji": "ky\u016bka ch\u016b no ryok\u014dsha"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/529152.mp3",
+                "text": "\u65c5\u884c\u8005\u306e\u884c\u304d\u5148",
+                "english": "tourist destination",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86529.mp3",
+                "kana": "\u308a\u3087\u3053\u3046\u3057\u3083\u306e\u3044\u304d\u3055\u304d",
+                "romaji": "ryok\u014dsha no ikisaki"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305137.mp3",
+                "text": "\u65c5\u884c\u8005\u304c\u96fb\u8eca\u3092\u5f85\u3063\u305f\u3002",
+                "english": "The traveler waited for the train.",
+                "en_audio": "",
+                "kana": "\u308a\u3087\u3053\u3046\u3057\u3083\u304c\u3067\u3093\u3057\u3083\u3092\u307e\u3063\u305f\u3002",
+                "romaji": "Ryok\u014dsha ga densha o matta."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305136.mp3",
+                "text": "\u65c5\u884c\u8005\u304c\u96fb\u8eca\u3092\u5f85\u3064\u3002",
+                "english": "The traveler waits for the train.",
+                "en_audio": "",
+                "kana": "\u308a\u3087\u3053\u3046\u3057\u3083\u304c\u3067\u3093\u3057\u3083\u3092\u307e\u3064\u3002",
+                "romaji": "Ryok\u014dsha ga densha o matsu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305135.mp3",
+                "text": "\u65c5\u884c\u8005\u304c\u96fb\u8eca\u3092\u5f85\u3063\u3066\u3044\u308b\u3002",
+                "english": "The traveler is waiting for the train.",
+                "en_audio": "",
+                "kana": "\u308a\u3087\u3053\u3046\u3057\u3083\u304c\u3067\u3093\u3057\u3083\u3092\u307e\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Ryok\u014dsha ga densha o matte iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305137.mp3",
+                "text": "\u65c5\u884c\u8005\u304c\u96fb\u8eca\u3092\u5f85\u3063\u305f\u3002",
+                "english": "The traveler waited for the train.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/303466.mp3",
+                "kana": "\u308a\u3087\u3053\u3046\u3057\u3083\u304c\u3067\u3093\u3057\u3083\u3092\u307e\u3063\u305f\u3002",
+                "romaji": "Ryok\u014dsha ga densha o matta."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305136.mp3",
+                "text": "\u65c5\u884c\u8005\u304c\u96fb\u8eca\u3092\u5f85\u3064\u3002",
+                "english": "The traveler waits for the train.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/303465.mp3",
+                "kana": "\u308a\u3087\u3053\u3046\u3057\u3083\u304c\u3067\u3093\u3057\u3083\u3092\u307e\u3064\u3002",
+                "romaji": "Ryok\u014dsha ga densha o matsu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305135.mp3",
+                "text": "\u65c5\u884c\u8005\u304c\u96fb\u8eca\u3092\u5f85\u3063\u3066\u3044\u308b\u3002",
+                "english": "The traveler is waiting for the train.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/303000.mp3",
+                "kana": "\u308a\u3087\u3053\u3046\u3057\u3083\u304c\u3067\u3093\u3057\u3083\u3092\u307e\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Ryok\u014dsha ga densha o matte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/529153.mp3",
+                "text": "\u4f11\u6687\u4e2d\u306e\u65c5\u884c\u8005",
+                "english": "tourist on vacation",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86531.mp3",
+                "kana": "\u304d\u3085\u3046\u304b\u3061\u3085\u3046\u306e\u308a\u3087\u3053\u3046\u3057\u3083",
+                "romaji": "ky\u016bka ch\u016b no ryok\u014dsha"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/529152.mp3",
+                "text": "\u65c5\u884c\u8005\u306e\u884c\u304d\u5148",
+                "english": "tourist destination",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86529.mp3",
+                "kana": "\u308a\u3087\u3053\u3046\u3057\u3083\u306e\u3044\u304d\u3055\u304d",
+                "romaji": "ryok\u014dsha no ikisaki"
+            }
+        ]
+    },
+    {
+        "img": "21856",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206716.mp3",
+        "class": "noun",
+        "english": "guidebook",
+        "flashcardId": "2320311",
+        "meaning": "guidebook (noun) - a book about a city, country etc",
+        "id": "1556",
+        "word": "\u30ac\u30a4\u30c9\u30d6\u30c3\u30af",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263169.mp3",
+        "kana": "\u30ac\u30a4\u30c9\u30d6\u30c3\u30af",
+        "romaji": "gaidobukku",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253125.mp3",
+                "text": "\u30ac\u30a4\u30c9\u30d6\u30c3\u30af\u3092\u8aad\u3080",
+                "english": "read your guidebook",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86533.mp3",
+                "kana": "\u30ac\u30a4\u30c9\u30d6\u30c3\u30af\u3092\u3088\u3080",
+                "romaji": "gaidobukku o yomu"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/529154.mp3",
+                "text": "\u30ac\u30a4\u30c9\u30d6\u30c3\u30af\u306f\u3001\u65c5\u884c\u306b\u5f79\u7acb\u3064\u60c5\u5831\u3092\u304f\u308c\u307e\u3059\u3002",
+                "english": "A guidebook will give you helpful information for your trip.",
+                "en_audio": "",
+                "kana": "\u30ac\u30a4\u30c9\u30d6\u30c3\u30af\u306f\u3001\u308a\u3087\u3053\u3046\u306b\u3084\u304f\u3060\u3064\u3058\u3087\u3046\u307b\u3046\u3092\u304f\u308c\u307e\u3059\u3002",
+                "romaji": "Gaidobukku wa, ryok\u014d ni yakudatsu j\u014dh\u014d o kuremasu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253125.mp3",
+                "text": "\u30ac\u30a4\u30c9\u30d6\u30c3\u30af\u3092\u8aad\u3080",
+                "english": "read your guidebook",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86533.mp3",
+                "kana": "\u30ac\u30a4\u30c9\u30d6\u30c3\u30af\u3092\u3088\u3080",
+                "romaji": "gaidobukku o yomu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/529154.mp3",
+                "text": "\u30ac\u30a4\u30c9\u30d6\u30c3\u30af\u306f\u3001\u65c5\u884c\u306b\u5f79\u7acb\u3064\u60c5\u5831\u3092\u304f\u308c\u307e\u3059\u3002",
+                "english": "A guidebook will give you helpful information for your trip.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86532.mp3",
+                "kana": "\u30ac\u30a4\u30c9\u30d6\u30c3\u30af\u306f\u3001\u308a\u3087\u3053\u3046\u306b\u3084\u304f\u3060\u3064\u3058\u3087\u3046\u307b\u3046\u3092\u304f\u308c\u307e\u3059\u3002",
+                "romaji": "Gaidobukku wa, ryok\u014d ni yakudatsu j\u014dh\u014d o kuremasu."
+            }
+        ]
+    },
+    {
+        "img": "21853",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206719.mp3",
+        "class": "noun",
+        "english": "entrance",
+        "flashcardId": "2320415",
+        "meaning": "entry (noun) - a place of ingress or entrance, especially an entrance hall or vestibule; entrance (noun) - a door, gate etc that you go through to enter a place",
+        "id": "1560",
+        "word": "\u5165\u308a\u53e3",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/88927.mp3",
+        "kana": "\u3044\u308a\u3050\u3061",
+        "romaji": "iriguchi",
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206722.mp3",
+                "text": "\u305d\u306e\u5973\u306e\u5b50\u306f\u3001\u5165\u308a\u53e3\u306b\u5411\u304b\u3063\u3066\u3044\u308b\u3002",
+                "english": "The girl is moving toward the entrance.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u304a\u3093\u306a\u306e\u3053\u306f\u3001\u3044\u308a\u3050\u3061\u306b\u3080\u304b\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Sono onna no ko wa, iriguchi ni mukatte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206720.mp3",
+                "text": "\u30db\u30c6\u30eb\u306e\u5165\u308a\u53e3\u3067\u30c4\u30a2\u30fc\u30ac\u30a4\u30c9\u3068\u5f85\u3061\u5408\u308f\u305b\u3066\u304f\u3060\u3055\u3044\u3002",
+                "english": "Meet your tour guide at the entrance to the hotel.",
+                "en_audio": "",
+                "kana": "\u30db\u30c6\u30eb\u306e\u3044\u308a\u3050\u3061\u3067\u30c4\u30a2\u30fc\u30ac\u30a4\u30c9\u3068\u307e\u3061\u3042\u308f\u305b\u3066\u304f\u3060\u3055\u3044\u3002",
+                "romaji": "Hoteru no iriguchi de, tsu\u0101 gaido to machiawasete kudasai."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206722.mp3",
+                "text": "\u305d\u306e\u5973\u306e\u5b50\u306f\u3001\u5165\u308a\u53e3\u306b\u5411\u304b\u3063\u3066\u3044\u308b\u3002",
+                "english": "The girl is moving toward the entrance.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198089.mp3",
+                "kana": "\u305d\u306e\u304a\u3093\u306a\u306e\u3053\u306f\u3001\u3044\u308a\u3050\u3061\u306b\u3080\u304b\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Sono onna no ko wa, iriguchi ni mukatte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206720.mp3",
+                "text": "\u30db\u30c6\u30eb\u306e\u5165\u308a\u53e3\u3067\u30c4\u30a2\u30fc\u30ac\u30a4\u30c9\u3068\u5f85\u3061\u5408\u308f\u305b\u3066\u304f\u3060\u3055\u3044\u3002",
+                "english": "Meet your tour guide at the entrance to the hotel.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89426.mp3",
+                "kana": "\u30db\u30c6\u30eb\u306e\u3044\u308a\u3050\u3061\u3067\u30c4\u30a2\u30fc\u30ac\u30a4\u30c9\u3068\u307e\u3061\u3042\u308f\u305b\u3066\u304f\u3060\u3055\u3044\u3002",
+                "romaji": "Hoteru no iriguchi de, tsu\u0101 gaido to machiawasete kudasai."
+            }
+        ]
+    }
+]

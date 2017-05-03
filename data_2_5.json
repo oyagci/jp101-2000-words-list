@@ -1,0 +1,267 @@
+[
+    {
+        "img": "9108",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201382.mp3",
+        "class": "noun",
+        "english": "scooter",
+        "flashcardId": "2166655",
+        "meaning": "scooter\ta type of small, less powerful motorcycle with small wheels",
+        "id": "1616",
+        "word": "\u30b9\u30af\u30fc\u30bf\u30fc",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/88999.mp3",
+        "kana": "\u30b9\u30af\u30fc\u30bf\u30fc",
+        "romaji": "suk\u016bt\u0101",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253241.mp3",
+                "text": "\u96fb\u6c17\u30b9\u30af\u30fc\u30bf\u30fc",
+                "english": "electric scooter",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102559.mp3",
+                "kana": "\u3067\u3093\u304d\u30b9\u30af\u30fc\u30bf\u30fc",
+                "romaji": "denki suk\u016bt\u0101"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201384.mp3",
+                "text": "\u9ec4\u8272\u3044\u30b9\u30af\u30fc\u30bf\u30fc",
+                "english": "yellow scooter",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86353.mp3",
+                "kana": "\u304d\u3044\u308d\u3044\u30b9\u30af\u30fc\u30bf\u30fc",
+                "romaji": "kiiroi suk\u016bt\u0101"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201383.mp3",
+                "text": "\u30b9\u30af\u30fc\u30bf\u30fc",
+                "english": "motor scooter",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86351.mp3",
+                "kana": "\u30b9\u30af\u30fc\u30bf\u30fc",
+                "romaji": "suk\u016bt\u0101"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/549525.mp3",
+                "text": "\u30ae\u30ea\u30b7\u30e3\u3067\u306f\u3001\u30b9\u30af\u30fc\u30bf\u30fc\u3092\u501f\u308a\u3066\u4e57\u308a\u5468\u308a\u307e\u3057\u305f\u3002",
+                "english": "In Greece, we rented scooters and drove around town.",
+                "en_audio": "",
+                "kana": "\u30ae\u30ea\u30b7\u30e3\u3067\u306f\u3001\u30b9\u30af\u30fc\u30bf\u30fc\u3092\u304b\u308a\u3066\u306e\u308a\u307e\u308f\u308a\u307e\u3057\u305f\u3002",
+                "romaji": "Girisha de wa, suk\u016bt\u0101 o karite norimawarimashita."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201386.mp3",
+                "text": "\u305d\u306e\u5973\u306e\u4eba\u306f\u9ec4\u8272\u3044\u30b9\u30af\u30fc\u30bf\u30fc\u306b\u4e57\u3063\u3066\u3044\u308b\u3002",
+                "english": "The woman is riding a yellow scooter.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u304a\u3093\u306a\u306e\u3072\u3068\u306f\u304d\u3044\u308d\u3044\u30b9\u30af\u30fc\u30bf\u30fc\u306b\u306e\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Sono onna no hito wa kiiroi suk\u016bt\u0101 ni notte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201385.mp3",
+                "text": "\u30b9\u30af\u30fc\u30bf\u30fc\u306f\u3001\u904b\u8ee2\u3057\u3066\u3044\u3066\u697d\u3057\u3044\u3057\u3001\u71c3\u8cbb\u3082\u826f\u3044\u3002",
+                "english": "The motor scooter is fun to drive and gets good mileage.",
+                "en_audio": "",
+                "kana": "\u30b9\u30af\u30fc\u30bf\u30fc\u306f\u3001\u3046\u3093\u3066\u3093\u3057\u3066\u3044\u3066\u305f\u306e\u3057\u3044\u3057\u3001\u306d\u3093\u3074\u3082\u3088\u3044\u3002",
+                "romaji": "Suk\u016bt\u0101 wa, unten shite ite tanoshii shi, nenpi mo yoi."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253241.mp3",
+                "text": "\u96fb\u6c17\u30b9\u30af\u30fc\u30bf\u30fc",
+                "english": "electric scooter",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102559.mp3",
+                "kana": "\u3067\u3093\u304d\u30b9\u30af\u30fc\u30bf\u30fc",
+                "romaji": "denki suk\u016bt\u0101"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/549525.mp3",
+                "text": "\u30ae\u30ea\u30b7\u30e3\u3067\u306f\u3001\u30b9\u30af\u30fc\u30bf\u30fc\u3092\u501f\u308a\u3066\u4e57\u308a\u5468\u308a\u307e\u3057\u305f\u3002",
+                "english": "In Greece, we rented scooters and drove around town.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102560.mp3",
+                "kana": "\u30ae\u30ea\u30b7\u30e3\u3067\u306f\u3001\u30b9\u30af\u30fc\u30bf\u30fc\u3092\u304b\u308a\u3066\u306e\u308a\u307e\u308f\u308a\u307e\u3057\u305f\u3002",
+                "romaji": "Girisha de wa, suk\u016bt\u0101 o karite norimawarimashita."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201386.mp3",
+                "text": "\u305d\u306e\u5973\u306e\u4eba\u306f\u9ec4\u8272\u3044\u30b9\u30af\u30fc\u30bf\u30fc\u306b\u4e57\u3063\u3066\u3044\u308b\u3002",
+                "english": "The woman is riding a yellow scooter.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86352.mp3",
+                "kana": "\u305d\u306e\u304a\u3093\u306a\u306e\u3072\u3068\u306f\u304d\u3044\u308d\u3044\u30b9\u30af\u30fc\u30bf\u30fc\u306b\u306e\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Sono onna no hito wa kiiroi suk\u016bt\u0101 ni notte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201385.mp3",
+                "text": "\u30b9\u30af\u30fc\u30bf\u30fc\u306f\u3001\u904b\u8ee2\u3057\u3066\u3044\u3066\u697d\u3057\u3044\u3057\u3001\u71c3\u8cbb\u3082\u826f\u3044\u3002",
+                "english": "The motor scooter is fun to drive and gets good mileage.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86350.mp3",
+                "kana": "\u30b9\u30af\u30fc\u30bf\u30fc\u306f\u3001\u3046\u3093\u3066\u3093\u3057\u3066\u3044\u3066\u305f\u306e\u3057\u3044\u3057\u3001\u306d\u3093\u3074\u3082\u3088\u3044\u3002",
+                "romaji": "Suk\u016bt\u0101 wa, unten shite ite tanoshii shi, nenpi mo yoi."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201384.mp3",
+                "text": "\u9ec4\u8272\u3044\u30b9\u30af\u30fc\u30bf\u30fc",
+                "english": "yellow scooter",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86353.mp3",
+                "kana": "\u304d\u3044\u308d\u3044\u30b9\u30af\u30fc\u30bf\u30fc",
+                "romaji": "kiiroi suk\u016bt\u0101"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201383.mp3",
+                "text": "\u30b9\u30af\u30fc\u30bf\u30fc",
+                "english": "motor scooter",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86351.mp3",
+                "kana": "\u30b9\u30af\u30fc\u30bf\u30fc",
+                "romaji": "suk\u016bt\u0101"
+            }
+        ]
+    },
+    {
+        "img": "22303",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375111.mp3",
+        "class": "noun",
+        "english": "boat",
+        "flashcardId": "2166656",
+        "meaning": "boat (noun) - a vehicle that travels across water",
+        "id": "5832",
+        "word": "\u8239",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89011.mp3",
+        "kana": "\u3075\u306d",
+        "romaji": "fune",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375114.mp3",
+                "text": "\u767d\u9ed2\u306e\u8239",
+                "english": "black and white boat",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197898.mp3",
+                "kana": "\u3057\u308d\u304f\u308d\u306e\u3075\u306d",
+                "romaji": "shiro kuro no fune"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201388.mp3",
+                "text": "\u91e3\u308a\u8239",
+                "english": "fishing boat",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102545.mp3",
+                "kana": "\u3064\u308a\u3076\u306d",
+                "romaji": "tsuribune"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375113.mp3",
+                "text": "\u8239\u304c\u6c34\u9762\u3092\u9032\u3093\u3067\u3044\u308b\u3002",
+                "english": "The boat is moving through the water.",
+                "en_audio": "",
+                "kana": "\u3075\u306d\u304c\u3059\u3044\u3081\u3093\u3092\u3059\u3059\u3093\u3067\u3044\u308b\u3002",
+                "romaji": "Fune ga suimen o susunde iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375112.mp3",
+                "text": "\u8239\u3092\u6240\u6709\u3059\u308b\u306e\u306f\u5927\u5909\u3060\u304c\u3001\u305d\u308c\u3060\u3051\u306e\u4fa1\u5024\u304c\u3042\u308b\u3002",
+                "english": "Owning a boat is a lot of work, but it's worth it.",
+                "en_audio": "",
+                "kana": "\u3075\u306d\u3092\u3057\u3087\u3086\u3046\u3059\u308b\u306e\u306f\u305f\u3044\u3078\u3093\u3060\u304c\u3001\u305d\u308c\u3060\u3051\u306e\u304b\u3061\u304c\u3042\u308b\u3002",
+                "romaji": "Fune o shoy\u016b suru no wa taihen da ga, sore dake no kachi ga aru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375114.mp3",
+                "text": "\u767d\u9ed2\u306e\u8239",
+                "english": "black and white boat",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197898.mp3",
+                "kana": "\u3057\u308d\u304f\u308d\u306e\u3075\u306d",
+                "romaji": "shiro kuro no fune"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375113.mp3",
+                "text": "\u8239\u304c\u6c34\u9762\u3092\u9032\u3093\u3067\u3044\u308b\u3002",
+                "english": "The boat is moving through the water.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197897.mp3",
+                "kana": "\u3075\u306d\u304c\u3059\u3044\u3081\u3093\u3092\u3059\u3059\u3093\u3067\u3044\u308b\u3002",
+                "romaji": "Fune ga suimen o susunde iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375112.mp3",
+                "text": "\u8239\u3092\u6240\u6709\u3059\u308b\u306e\u306f\u5927\u5909\u3060\u304c\u3001\u305d\u308c\u3060\u3051\u306e\u4fa1\u5024\u304c\u3042\u308b\u3002",
+                "english": "Owning a boat is a lot of work, but it's worth it.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102544.mp3",
+                "kana": "\u3075\u306d\u3092\u3057\u3087\u3086\u3046\u3059\u308b\u306e\u306f\u305f\u3044\u3078\u3093\u3060\u304c\u3001\u305d\u308c\u3060\u3051\u306e\u304b\u3061\u304c\u3042\u308b\u3002",
+                "romaji": "Fune o shoy\u016b suru no wa taihen da ga, sore dake no kachi ga aru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201388.mp3",
+                "text": "\u91e3\u308a\u8239",
+                "english": "fishing boat",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102545.mp3",
+                "kana": "\u3064\u308a\u3076\u306d",
+                "romaji": "tsuribune"
+            }
+        ]
+    },
+    {
+        "img": "9396",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/549527.mp3",
+        "class": "noun",
+        "english": "helicopter",
+        "flashcardId": "224469",
+        "meaning": "helicopter (noun) - a type of aircraft with large metal blades on top which turn around very quickly to make it fly",
+        "id": "5191",
+        "word": "\u30d8\u30ea\u30b3\u30d7\u30bf\u30fc",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263284.mp3",
+        "kana": "\u30d8\u30ea\u30b3\u30d7\u30bf\u30fc",
+        "romaji": "herikoput\u0101",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201453.mp3",
+                "text": "\u9752\u3068\u767d\u306e\u30d8\u30ea\u30b3\u30d7\u30bf\u30fc",
+                "english": "blue and white helicopter",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102556.mp3",
+                "kana": "\u3042\u304a\u3068\u3057\u308d\u306e\u30d8\u30ea\u30b3\u30d7\u30bf\u30fc",
+                "romaji": "ao to shiro no herikoput\u0101"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201451.mp3",
+                "text": "\u30d8\u30ea\u30b3\u30d7\u30bf\u30fc\u306e\u30d1\u30a4\u30ed\u30c3\u30c8",
+                "english": "helicopter pilot",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102554.mp3",
+                "kana": "\u30d8\u30ea\u30b3\u30d7\u30bf\u30fc\u306e\u30d1\u30a4\u30ed\u30c3\u30c8",
+                "romaji": "herikoput\u0101 no pairotto"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201452.mp3",
+                "text": "\u6700\u9ad8\u7d4c\u55b6\u8cac\u4efb\u8005\u306f\u30d8\u30ea\u30b3\u30d7\u30bf\u30fc\u3067\u4ed5\u4e8b\u306b\u884c\u304f\u3002",
+                "english": "The CEO travels to work by helicopter.",
+                "en_audio": "",
+                "kana": "\u3055\u3044\u3053\u3046\u3051\u3044\u3048\u3044\u305b\u304d\u306b\u3093\u3057\u3083\u306f\u30d8\u30ea\u30b3\u30d7\u30bf\u30fc\u3067\u3057\u3054\u3068\u306b\u3044\u304f\u3002",
+                "romaji": "Saik\u014d keiei sekininsha wa herikoput\u0101 de shigoto ni iku."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201453.mp3",
+                "text": "\u9752\u3068\u767d\u306e\u30d8\u30ea\u30b3\u30d7\u30bf\u30fc",
+                "english": "blue and white helicopter",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102556.mp3",
+                "kana": "\u3042\u304a\u3068\u3057\u308d\u306e\u30d8\u30ea\u30b3\u30d7\u30bf\u30fc",
+                "romaji": "ao to shiro no herikoput\u0101"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201452.mp3",
+                "text": "\u6700\u9ad8\u7d4c\u55b6\u8cac\u4efb\u8005\u306f\u30d8\u30ea\u30b3\u30d7\u30bf\u30fc\u3067\u4ed5\u4e8b\u306b\u884c\u304f\u3002",
+                "english": "The CEO travels to work by helicopter.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102555.mp3",
+                "kana": "\u3055\u3044\u3053\u3046\u3051\u3044\u3048\u3044\u305b\u304d\u306b\u3093\u3057\u3083\u306f\u30d8\u30ea\u30b3\u30d7\u30bf\u30fc\u3067\u3057\u3054\u3068\u306b\u3044\u304f\u3002",
+                "romaji": "Saik\u014d keiei sekininsha wa herikoput\u0101 de shigoto ni iku."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201451.mp3",
+                "text": "\u30d8\u30ea\u30b3\u30d7\u30bf\u30fc\u306e\u30d1\u30a4\u30ed\u30c3\u30c8",
+                "english": "helicopter pilot",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102554.mp3",
+                "kana": "\u30d8\u30ea\u30b3\u30d7\u30bf\u30fc\u306e\u30d1\u30a4\u30ed\u30c3\u30c8",
+                "romaji": "herikoput\u0101 no pairotto"
+            }
+        ]
+    }
+]

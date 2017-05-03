@@ -1,0 +1,1597 @@
+[
+    {
+        "img": "8104",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271645.mp3",
+        "class": "noun",
+        "english": "town",
+        "flashcardId": "224350",
+        "meaning": "town (noun) - a place where people live that is larger than a village but smaller than a city",
+        "id": "32044",
+        "word": "\u8857",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263055.mp3",
+        "kana": "\u307e\u3061",
+        "romaji": "machi",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271646.mp3",
+                "text": "\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u8857",
+                "english": "shopping district of town",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263056.mp3",
+                "kana": "\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u304c\u3044",
+                "romaji": "shoppingu gai"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/69441.mp3",
+                "text": "\u3061\u3087\u3063\u3068\u8857\u3092\u6563\u7b56\u3057\u305f\u3044\u3002",
+                "english": "I want to go for a walk in town.",
+                "en_audio": "",
+                "kana": "\u3061\u3087\u3063\u3068\u307e\u3061\u3092\u3055\u3093\u3055\u304f\u3057\u305f\u3044\u3002",
+                "romaji": "Chotto machi o sansaku shitai."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271646.mp3",
+                "text": "\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u8857",
+                "english": "shopping district of town",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263056.mp3",
+                "kana": "\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u304c\u3044",
+                "romaji": "shoppingu gai"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/69441.mp3",
+                "text": "\u3061\u3087\u3063\u3068\u8857\u3092\u6563\u7b56\u3057\u305f\u3044\u3002",
+                "english": "I want to go for a walk in town.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/69442.mp3",
+                "kana": "\u3061\u3087\u3063\u3068\u307e\u3061\u3092\u3055\u3093\u3055\u304f\u3057\u305f\u3044\u3002",
+                "romaji": "Chotto machi o sansaku shitai."
+            }
+        ]
+    },
+    {
+        "img": "9602",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271655.mp3",
+        "class": "noun",
+        "english": "suburb",
+        "flashcardId": "2156679",
+        "meaning": "suburb",
+        "id": "32046",
+        "word": "\u30d9\u30c3\u30c9\u30bf\u30a6\u30f3",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263061.mp3",
+        "kana": "\u30d9\u30c3\u30c9\u30bf\u30a6\u30f3",
+        "romaji": "beddotaun",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271656.mp3",
+                "text": "\u9759\u304b\u306a\u30d9\u30c3\u30c9\u30bf\u30a6\u30f3",
+                "english": "quiet suburb",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263062.mp3",
+                "kana": "\u3057\u305a\u304b\u306a\u30d9\u30c3\u30c9\u30bf\u30a6\u30f3",
+                "romaji": "shizuka na beddotaun"
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271656.mp3",
+                "text": "\u9759\u304b\u306a\u30d9\u30c3\u30c9\u30bf\u30a6\u30f3",
+                "english": "quiet suburb",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263062.mp3",
+                "kana": "\u3057\u305a\u304b\u306a\u30d9\u30c3\u30c9\u30bf\u30a6\u30f3",
+                "romaji": "shizuka na beddotaun"
+            }
+        ]
+    },
+    {
+        "img": "10286",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1980.mp3",
+        "class": "noun",
+        "english": "room",
+        "flashcardId": "2165194",
+        "meaning": "room (noun) - a part of the inside of a building that has its own walls, floor, and ceiling",
+        "id": "763",
+        "word": "\u90e8\u5c4b",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/88103.mp3",
+        "kana": "\u3078\u3084",
+        "romaji": "heya",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226796.mp3",
+                "text": "\u5bee\u306e\u90e8\u5c4b",
+                "english": "dormitory room",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5550.mp3",
+                "kana": "\u308a\u3087\u3046\u306e\u3078\u3084",
+                "romaji": "ry\u014d no heya"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226793.mp3",
+                "text": "\u30db\u30c6\u30eb\u306e\u90e8\u5c4b",
+                "english": "hotel room",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5413.mp3",
+                "kana": "\u30db\u30c6\u30eb\u306e\u3078\u3084",
+                "romaji": "hoteru no heya"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226791.mp3",
+                "text": "\u90e8\u5c4b\u4ee3\u3068\u98df\u4e8b\u4ee3",
+                "english": "room and board",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5410.mp3",
+                "kana": "\u3078\u3084\u3060\u3044\u3068\u3057\u3087\u304f\u3058\u3060\u3044",
+                "romaji": "heya dai to shokuji dai"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226795.mp3",
+                "text": "\u30dc\u30fc\u30a4\u304c\u79c1\u9054\u306e\u8377\u7269\u3092\u90e8\u5c4b\u307e\u3067\u904b\u3093\u3067\u304f\u308c\u305f\u3002",
+                "english": "A porter carried our bags to our room.",
+                "en_audio": "",
+                "kana": "\u30dc\u30fc\u30a4\u304c\u308f\u305f\u3057\u305f\u3061\u306e\u306b\u3082\u3064\u3092\u3078\u3084\u307e\u3067\u306f\u3053\u3093\u3067\u304f\u308c\u305f\u3002",
+                "romaji": "B\u014di ga watashi-tachi no nimotsu o heya made hakonde kureta."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226794.mp3",
+                "text": "\u5bb6\u306e\u5168\u3066\u306e\u90e8\u5c4b\u306b\u65b0\u3057\u3044\u30ab\u30fc\u30da\u30c3\u30c8\u304c\u5fc5\u8981\u3060\u3002",
+                "english": "New carpet is needed in every room in the house.",
+                "en_audio": "",
+                "kana": "\u3044\u3048\u306e\u3059\u3079\u3066\u306e\u3078\u3084\u306b\u3042\u305f\u3089\u3057\u3044\u30ab\u30fc\u30da\u30c3\u30c8\u304c\u3072\u3064\u3088\u3046\u3060\u3002",
+                "romaji": "Ie no subete no heya ni atarashii k\u0101petto ga hitsuy\u014d da."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226796.mp3",
+                "text": "\u5bee\u306e\u90e8\u5c4b",
+                "english": "dormitory room",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5550.mp3",
+                "kana": "\u308a\u3087\u3046\u306e\u3078\u3084",
+                "romaji": "ry\u014d no heya"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226795.mp3",
+                "text": "\u30dc\u30fc\u30a4\u304c\u79c1\u9054\u306e\u8377\u7269\u3092\u90e8\u5c4b\u307e\u3067\u904b\u3093\u3067\u304f\u308c\u305f\u3002",
+                "english": "A porter carried our bags to our room.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5411.mp3",
+                "kana": "\u30dc\u30fc\u30a4\u304c\u308f\u305f\u3057\u305f\u3061\u306e\u306b\u3082\u3064\u3092\u3078\u3084\u307e\u3067\u306f\u3053\u3093\u3067\u304f\u308c\u305f\u3002",
+                "romaji": "B\u014di ga watashi-tachi no nimotsu o heya made hakonde kureta."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226794.mp3",
+                "text": "\u5bb6\u306e\u5168\u3066\u306e\u90e8\u5c4b\u306b\u65b0\u3057\u3044\u30ab\u30fc\u30da\u30c3\u30c8\u304c\u5fc5\u8981\u3060\u3002",
+                "english": "New carpet is needed in every room in the house.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5409.mp3",
+                "kana": "\u3044\u3048\u306e\u3059\u3079\u3066\u306e\u3078\u3084\u306b\u3042\u305f\u3089\u3057\u3044\u30ab\u30fc\u30da\u30c3\u30c8\u304c\u3072\u3064\u3088\u3046\u3060\u3002",
+                "romaji": "Ie no subete no heya ni atarashii k\u0101petto ga hitsuy\u014d da."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226793.mp3",
+                "text": "\u30db\u30c6\u30eb\u306e\u90e8\u5c4b",
+                "english": "hotel room",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5413.mp3",
+                "kana": "\u30db\u30c6\u30eb\u306e\u3078\u3084",
+                "romaji": "hoteru no heya"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226791.mp3",
+                "text": "\u90e8\u5c4b\u4ee3\u3068\u98df\u4e8b\u4ee3",
+                "english": "room and board",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5410.mp3",
+                "kana": "\u3078\u3084\u3060\u3044\u3068\u3057\u3087\u304f\u3058\u3060\u3044",
+                "romaji": "heya dai to shokuji dai"
+            }
+        ]
+    },
+    {
+        "img": "10288",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227225.mp3",
+        "class": "noun",
+        "english": "rose",
+        "flashcardId": "2123209",
+        "meaning": "rose (noun) - a flower that often has a pleasant smell, and is usually red, pink, white, or yellow, or the bush that this flower grows on",
+        "id": "5674",
+        "word": "\u30d0\u30e9",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/7991.mp3",
+        "kana": "\u30d0\u30e9",
+        "romaji": "bara",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/830317.mp3",
+                "text": "\u830e\u304c\u9577\u3044\u8d64\u3044\u30d0\u30e9",
+                "english": "long stem red rose",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253461.mp3",
+                "kana": "\u304f\u304d\u304c\u306a\u304c\u3044\u3042\u304b\u3044\u30d0\u30e9",
+                "romaji": "kuki ga nagai akai bara"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201624.mp3",
+                "text": "\u4e00\u8f2a\u306e\u8d64\u3044\u30d0\u30e9",
+                "english": "single red rose",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102864.mp3",
+                "kana": "\u3044\u3061\u308a\u3093\u306e\u3042\u304b\u3044\u30d0\u30e9",
+                "romaji": "ichi-rin no akai bara"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201622.mp3",
+                "text": "\u4e00\u672c\u306e\u8d64\u3044\u30d0\u30e9",
+                "english": "single red rose",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102864.mp3",
+                "kana": "\u3044\u3063\u307d\u3093\u306e\u3042\u304b\u3044\u30d0\u30e9",
+                "romaji": "i-ppon no akai bara"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201623.mp3",
+                "text": "\u8d64\u3044\u30d0\u30e9\u306f\u3068\u3066\u3082\u30ed\u30de\u30f3\u30c1\u30c3\u30af\u3060\u3002",
+                "english": "A red rose is very romantic.",
+                "en_audio": "",
+                "kana": "\u3042\u304b\u3044\u30d0\u30e9\u306f\u3068\u3066\u3082\u30ed\u30de\u30f3\u30c1\u30c3\u30af\u3060\u3002",
+                "romaji": "Akai bara wa totemo romanchikku da."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/830317.mp3",
+                "text": "\u830e\u304c\u9577\u3044\u8d64\u3044\u30d0\u30e9",
+                "english": "long stem red rose",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253461.mp3",
+                "kana": "\u304f\u304d\u304c\u306a\u304c\u3044\u3042\u304b\u3044\u30d0\u30e9",
+                "romaji": "kuki ga nagai akai bara"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201624.mp3",
+                "text": "\u4e00\u8f2a\u306e\u8d64\u3044\u30d0\u30e9",
+                "english": "single red rose",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102864.mp3",
+                "kana": "\u3044\u3061\u308a\u3093\u306e\u3042\u304b\u3044\u30d0\u30e9",
+                "romaji": "ichi-rin no akai bara"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201623.mp3",
+                "text": "\u8d64\u3044\u30d0\u30e9\u306f\u3068\u3066\u3082\u30ed\u30de\u30f3\u30c1\u30c3\u30af\u3060\u3002",
+                "english": "A red rose is very romantic.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102862.mp3",
+                "kana": "\u3042\u304b\u3044\u30d0\u30e9\u306f\u3068\u3066\u3082\u30ed\u30de\u30f3\u30c1\u30c3\u30af\u3060\u3002",
+                "romaji": "Akai bara wa totemo romanchikku da."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201622.mp3",
+                "text": "\u4e00\u672c\u306e\u8d64\u3044\u30d0\u30e9",
+                "english": "single red rose",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102864.mp3",
+                "kana": "\u3044\u3063\u307d\u3093\u306e\u3042\u304b\u3044\u30d0\u30e9",
+                "romaji": "i-ppon no akai bara"
+            }
+        ]
+    },
+    {
+        "img": "8698",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227227.mp3",
+        "class": "noun",
+        "english": "flower",
+        "flashcardId": "2147173",
+        "meaning": "flower - the reproductive structure found in flowering plants; reproductive organ of angiosperm plants especially one having showy or colorful parts",
+        "id": "1145",
+        "word": "\u82b1",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/306071.mp3",
+        "kana": "\u306f\u306a",
+        "romaji": "hana",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227231.mp3",
+                "text": "\u6458\u307f\u305f\u3066\u306e\u82b1",
+                "english": "fresh flower",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102867.mp3",
+                "kana": "\u3064\u307f\u305f\u3066\u306e\u306f\u306a",
+                "romaji": "tsumitate no hana"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227234.mp3",
+                "text": "\u305d\u306e\u5c11\u5e74\u306f\u9ec4\u8272\u3044\u82b1\u3092\u6458\u3093\u3067\u3044\u308b\u3002",
+                "english": "The boy is picking yellow flowers.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u3057\u3087\u3046\u306d\u3093\u306f\u304d\u3044\u308d\u3044\u306f\u306a\u3092\u3064\u3093\u3067\u3044\u308b\u3002",
+                "romaji": "Sono sh\u014dnen wa kiiroi hana o tsunde iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227230.mp3",
+                "text": "\u6bce\u9031\u65e5\u66dc\u3001\u79c1\u306f\u59bb\u306b\u65b0\u9bae\u306a\u82b1\u3092\u6458\u3093\u3067\u304f\u308b\u3002",
+                "english": "Every Sunday morning I bring my wife fresh flowers.",
+                "en_audio": "",
+                "kana": "\u307e\u3044\u3057\u3085\u3046\u306b\u3061\u3088\u3046\u3001\u308f\u305f\u3057\u306f\u3064\u307e\u306b\u3057\u3093\u305b\u3093\u306a\u306f\u306a\u3092\u3064\u3093\u3067\u304f\u308b\u3002",
+                "romaji": "Maish\u016b nichi-y\u014d watashi wa tsuma ni shinsen na hana o tsunde kuru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227234.mp3",
+                "text": "\u305d\u306e\u5c11\u5e74\u306f\u9ec4\u8272\u3044\u82b1\u3092\u6458\u3093\u3067\u3044\u308b\u3002",
+                "english": "The boy is picking yellow flowers.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198004.mp3",
+                "kana": "\u305d\u306e\u3057\u3087\u3046\u306d\u3093\u306f\u304d\u3044\u308d\u3044\u306f\u306a\u3092\u3064\u3093\u3067\u3044\u308b\u3002",
+                "romaji": "Sono sh\u014dnen wa kiiroi hana o tsunde iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227231.mp3",
+                "text": "\u6458\u307f\u305f\u3066\u306e\u82b1",
+                "english": "fresh flower",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102867.mp3",
+                "kana": "\u3064\u307f\u305f\u3066\u306e\u306f\u306a",
+                "romaji": "tsumitate no hana"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227230.mp3",
+                "text": "\u6bce\u9031\u65e5\u66dc\u3001\u79c1\u306f\u59bb\u306b\u65b0\u9bae\u306a\u82b1\u3092\u6458\u3093\u3067\u304f\u308b\u3002",
+                "english": "Every Sunday morning I bring my wife fresh flowers.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102866.mp3",
+                "kana": "\u307e\u3044\u3057\u3085\u3046\u306b\u3061\u3088\u3046\u3001\u308f\u305f\u3057\u306f\u3064\u307e\u306b\u3057\u3093\u305b\u3093\u306a\u306f\u306a\u3092\u3064\u3093\u3067\u304f\u308b\u3002",
+                "romaji": "Maish\u016b nichi-y\u014d watashi wa tsuma ni shinsen na hana o tsunde kuru."
+            }
+        ]
+    },
+    {
+        "img": "21876",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228566.mp3",
+        "class": "noun",
+        "english": "lily",
+        "flashcardId": "2147825",
+        "meaning": "lily (noun) - one of several types of plant with large bell-shaped flowers of various colours, especially white",
+        "id": "4005",
+        "word": "\u30e6\u30ea",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/7997.mp3",
+        "kana": "\u30e6\u30ea",
+        "romaji": "yuri",
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201897.mp3",
+                "text": "\u30e6\u30ea\u306b\u306f\u767e\u4ee5\u4e0a\u306e\u7a2e\u985e\u304c\u3042\u308b\u3002",
+                "english": "There are more than one hundred species of lilies.",
+                "en_audio": "",
+                "kana": "\u30e6\u30ea\u306b\u306f\u3072\u3083\u304f\u3044\u3058\u3087\u3046\u306e\u3057\u3085\u308b\u3044\u304c\u3042\u308b\u3002",
+                "romaji": "Yuri ni wa hyaku ij\u014d no shurui ga aru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201897.mp3",
+                "text": "\u30e6\u30ea\u306b\u306f\u767e\u4ee5\u4e0a\u306e\u7a2e\u985e\u304c\u3042\u308b\u3002",
+                "english": "There are more than one hundred species of lilies.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102938.mp3",
+                "kana": "\u30e6\u30ea\u306b\u306f\u3072\u3083\u304f\u3044\u3058\u3087\u3046\u306e\u3057\u3085\u308b\u3044\u304c\u3042\u308b\u3002",
+                "romaji": "Yuri ni wa hyaku ij\u014d no shurui ga aru."
+            }
+        ]
+    },
+    {
+        "img": "8348",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228563.mp3",
+        "class": "noun",
+        "english": "sunflower",
+        "flashcardId": "1475488",
+        "meaning": "sunflower (noun) - a very tall plant with a large yellow flower and seeds that can be eaten",
+        "id": "3995",
+        "word": "\u30d2\u30de\u30ef\u30ea",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/7994.mp3",
+        "kana": "\u30d2\u30de\u30ef\u30ea",
+        "romaji": "himawari",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201903.mp3",
+                "text": "\u4e00\u8f2a\u306e\u30d2\u30de\u30ef\u30ea",
+                "english": "single sunflower",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102942.mp3",
+                "kana": "\u3044\u3061\u308a\u3093\u306e\u30d2\u30de\u30ef\u30ea",
+                "romaji": "ichi-rin no himawari"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201902.mp3",
+                "text": "\u30d2\u30de\u30ef\u30ea\u306f\uff18\u304b\u3089\uff11\uff12\u30d5\u30a3\u30fc\u30c8\u306e\u9ad8\u3055\u306b\u6210\u9577\u3059\u308b\u3002",
+                "english": "Sunflowers grow to heights between 8-12 feet.",
+                "en_audio": "",
+                "kana": "\u30d2\u30de\u30ef\u30ea\u306f\u306f\u3061\u304b\u3089\u3058\u3085\u3046\u306b\u30d5\u30a3\u30fc\u30c8\u306e\u305f\u304b\u3055\u306b\u305b\u3044\u3061\u3087\u3046\u3059\u308b\u3002",
+                "romaji": "Himawari wa hachi kara j\u016b-ni-f\u012bto no takasa ni seich\u014d suru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201903.mp3",
+                "text": "\u4e00\u8f2a\u306e\u30d2\u30de\u30ef\u30ea",
+                "english": "single sunflower",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102942.mp3",
+                "kana": "\u3044\u3061\u308a\u3093\u306e\u30d2\u30de\u30ef\u30ea",
+                "romaji": "ichi-rin no himawari"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201902.mp3",
+                "text": "\u30d2\u30de\u30ef\u30ea\u306f\uff18\u304b\u3089\uff11\uff12\u30d5\u30a3\u30fc\u30c8\u306e\u9ad8\u3055\u306b\u6210\u9577\u3059\u308b\u3002",
+                "english": "Sunflowers grow to heights between 8-12 feet.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102941.mp3",
+                "kana": "\u30d2\u30de\u30ef\u30ea\u306f\u306f\u3061\u304b\u3089\u3058\u3085\u3046\u306b\u30d5\u30a3\u30fc\u30c8\u306e\u305f\u304b\u3055\u306b\u305b\u3044\u3061\u3087\u3046\u3059\u308b\u3002",
+                "romaji": "Himawari wa hachi kara j\u016b-ni-f\u012bto no takasa ni seich\u014d suru."
+            }
+        ]
+    },
+    {
+        "img": "8210",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228560.mp3",
+        "class": "noun",
+        "english": "dandelion",
+        "flashcardId": "2147826",
+        "meaning": "dandelion (noun) - a wild plant with a bright yellow flower which later becomes a white ball of seeds that are blown away in the wind",
+        "id": "3984",
+        "word": "\u30bf\u30f3\u30dd\u30dd",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/7996.mp3",
+        "kana": "\u30bf\u30f3\u30dd\u30dd",
+        "romaji": "tanpopo",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201910.mp3",
+                "text": "\u9ec4\u8272\u3044\u30bf\u30f3\u30dd\u30dd",
+                "english": "yellow dandelions",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102946.mp3",
+                "kana": "\u304d\u3044\u308d\u3044\u30bf\u30f3\u30dd\u30dd",
+                "romaji": "kiiroi tanpopo"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201909.mp3",
+                "text": "\u30bf\u30f3\u30dd\u30dd\u306e\u7dbf\u6bdb",
+                "english": "dandelion puff",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102943.mp3",
+                "kana": "\u30bf\u30f3\u30dd\u30dd\u306e\u308f\u305f\u3052",
+                "romaji": "tanpopo no watage"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201908.mp3",
+                "text": "\u5730\u57df\u306b\u3088\u3063\u3066\u306f\u3001\u30bf\u30f3\u30dd\u30dd\u306f\u30b9\u30fc\u30d7\u3084\u30b5\u30e9\u30c0\u306b\u5165\u308c\u3066\u98df\u3079\u3089\u308c\u3066\u3044\u308b\u3002",
+                "english": "Dandelions are eaten in soups and salads in someplaces.",
+                "en_audio": "",
+                "kana": "\u3061\u3044\u304d\u306b\u3088\u3063\u3066\u306f\u3001\u30bf\u30f3\u30dd\u30dd\u306f\u30b9\u30fc\u30d7\u3084\u30b5\u30e9\u30c0\u306b\u3044\u308c\u3066\u305f\u3079\u3089\u308c\u3066\u3044\u308b\u3002",
+                "romaji": "Chiiki ni yotte wa, tanpopo wa s\u016bpu ya sarada ni irete taberarete iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201907.mp3",
+                "text": "\u30bf\u30f3\u30dd\u30dd\u306f\u96d1\u8349\u3068\u307f\u306a\u3055\u308c\u3066\u3044\u308b\u3002",
+                "english": "Dandelions are considered weeds.",
+                "en_audio": "",
+                "kana": "\u30bf\u30f3\u30dd\u30dd\u306f\u3056\u3063\u305d\u3046\u3068\u307f\u306a\u3055\u308c\u3066\u3044\u308b\u3002",
+                "romaji": "Tanpopo wa zass\u014d to minasarete iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201910.mp3",
+                "text": "\u9ec4\u8272\u3044\u30bf\u30f3\u30dd\u30dd",
+                "english": "yellow dandelions",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102946.mp3",
+                "kana": "\u304d\u3044\u308d\u3044\u30bf\u30f3\u30dd\u30dd",
+                "romaji": "kiiroi tanpopo"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201909.mp3",
+                "text": "\u30bf\u30f3\u30dd\u30dd\u306e\u7dbf\u6bdb",
+                "english": "dandelion puff",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102943.mp3",
+                "kana": "\u30bf\u30f3\u30dd\u30dd\u306e\u308f\u305f\u3052",
+                "romaji": "tanpopo no watage"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201908.mp3",
+                "text": "\u5730\u57df\u306b\u3088\u3063\u3066\u306f\u3001\u30bf\u30f3\u30dd\u30dd\u306f\u30b9\u30fc\u30d7\u3084\u30b5\u30e9\u30c0\u306b\u5165\u308c\u3066\u98df\u3079\u3089\u308c\u3066\u3044\u308b\u3002",
+                "english": "Dandelions are eaten in soups and salads in someplaces.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102945.mp3",
+                "kana": "\u3061\u3044\u304d\u306b\u3088\u3063\u3066\u306f\u3001\u30bf\u30f3\u30dd\u30dd\u306f\u30b9\u30fc\u30d7\u3084\u30b5\u30e9\u30c0\u306b\u3044\u308c\u3066\u305f\u3079\u3089\u308c\u3066\u3044\u308b\u3002",
+                "romaji": "Chiiki ni yotte wa, tanpopo wa s\u016bpu ya sarada ni irete taberarete iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201907.mp3",
+                "text": "\u30bf\u30f3\u30dd\u30dd\u306f\u96d1\u8349\u3068\u307f\u306a\u3055\u308c\u3066\u3044\u308b\u3002",
+                "english": "Dandelions are considered weeds.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102944.mp3",
+                "kana": "\u30bf\u30f3\u30dd\u30dd\u306f\u3056\u3063\u305d\u3046\u3068\u307f\u306a\u3055\u308c\u3066\u3044\u308b\u3002",
+                "romaji": "Tanpopo wa zass\u014d to minasarete iru."
+            }
+        ]
+    },
+    {
+        "img": "8206",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/891777.mp3",
+        "class": "noun",
+        "english": "flood",
+        "flashcardId": "224356",
+        "meaning": "flood (noun) - \ta very large amount of water that covers an area that is usually dry:",
+        "id": "1633",
+        "word": "\u6d2a\u6c34",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89023.mp3",
+        "kana": "\u3053\u3046\u305a\u3044",
+        "romaji": "k\u014dzui",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201046.mp3",
+                "text": "\u6d2a\u6c34\u306b\u8972\u308f\u308c\u305f",
+                "english": "hit by a flood",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3737.mp3",
+                "kana": "\u3053\u3046\u305a\u3044\u306b\u304a\u305d\u308f\u308c\u305f",
+                "romaji": "k\u014dzui ni osowareta"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201045.mp3",
+                "text": "\u6d2a\u6c34\u8b66\u5831",
+                "english": "flood warning",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3735.mp3",
+                "kana": "\u3053\u3046\u305a\u3044\u3051\u3044\u307b\u3046",
+                "romaji": "k\u014dzui keih\u014d"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201051.mp3",
+                "text": "\u30b8\u30fc\u30d7\u304c\u6d2a\u6c34\u306e\u4e2d\u3092\u4f55\u3068\u304b\u9032\u3093\u3067\u3044\u308b\u3002",
+                "english": "The jeep is pushing through the flood.",
+                "en_audio": "",
+                "kana": "\u30b8\u30fc\u30d7\u304c\u3053\u3046\u305a\u3044\u306e\u306a\u304b\u3092\u306a\u3093\u3068\u304b\u3059\u3059\u3093\u3067\u3044\u308b\u3002",
+                "romaji": "J\u012bpu ga k\u014dzui no naka o nantoka susunde iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201048.mp3",
+                "text": "\u6d2a\u6c34\u3067\u3001\u753a\u304c\u7834\u58ca\u3055\u308c\u305f\u3002",
+                "english": "The flood destroyed the town.",
+                "en_audio": "",
+                "kana": "\u3053\u3046\u305a\u3044\u3067\u3001\u307e\u3061\u304c\u306f\u304b\u3044\u3055\u308c\u305f\u3002",
+                "romaji": "K\u014dzui de, machi ga hakai sareta."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201047.mp3",
+                "text": "\u96e8\u304c\u3053\u3093\u306a\u306b\u3069\u3093\u3069\u3093\u964d\u308a\u7d9a\u3044\u305f\u3089\u3001\u9053\u8def\u306f\u6d2a\u6c34\u306b\u306a\u308b\u3060\u308d\u3046\u3002",
+                "english": "The roads will flood if the rain keeps coming this fast.",
+                "en_audio": "",
+                "kana": "\u3042\u3081\u304c\u3053\u3093\u306a\u306b\u3069\u3093\u3069\u3093\u304a\u308a\u3064\u3065\u3044\u305f\u3089\u3001\u3069\u3046\u308d\u306f\u3053\u3046\u305a\u3044\u306b\u306a\u308b\u3060\u308d\u3046\u3002",
+                "romaji": "Ame ga konna ni dondon furi tsuzuitara, d\u014dro wa k\u014dzui ni naru dar\u014d."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201051.mp3",
+                "text": "\u30b8\u30fc\u30d7\u304c\u6d2a\u6c34\u306e\u4e2d\u3092\u4f55\u3068\u304b\u9032\u3093\u3067\u3044\u308b\u3002",
+                "english": "The jeep is pushing through the flood.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198394.mp3",
+                "kana": "\u30b8\u30fc\u30d7\u304c\u3053\u3046\u305a\u3044\u306e\u306a\u304b\u3092\u306a\u3093\u3068\u304b\u3059\u3059\u3093\u3067\u3044\u308b\u3002",
+                "romaji": "J\u012bpu ga k\u014dzui no naka o nantoka susunde iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201048.mp3",
+                "text": "\u6d2a\u6c34\u3067\u3001\u753a\u304c\u7834\u58ca\u3055\u308c\u305f\u3002",
+                "english": "The flood destroyed the town.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3736.mp3",
+                "kana": "\u3053\u3046\u305a\u3044\u3067\u3001\u307e\u3061\u304c\u306f\u304b\u3044\u3055\u308c\u305f\u3002",
+                "romaji": "K\u014dzui de, machi ga hakai sareta."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201047.mp3",
+                "text": "\u96e8\u304c\u3053\u3093\u306a\u306b\u3069\u3093\u3069\u3093\u964d\u308a\u7d9a\u3044\u305f\u3089\u3001\u9053\u8def\u306f\u6d2a\u6c34\u306b\u306a\u308b\u3060\u308d\u3046\u3002",
+                "english": "The roads will flood if the rain keeps coming this fast.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3734.mp3",
+                "kana": "\u3042\u3081\u304c\u3053\u3093\u306a\u306b\u3069\u3093\u3069\u3093\u304a\u308a\u3064\u3065\u3044\u305f\u3089\u3001\u3069\u3046\u308d\u306f\u3053\u3046\u305a\u3044\u306b\u306a\u308b\u3060\u308d\u3046\u3002",
+                "romaji": "Ame ga konna ni dondon furi tsuzuitara, d\u014dro wa k\u014dzui ni naru dar\u014d."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201046.mp3",
+                "text": "\u6d2a\u6c34\u306b\u8972\u308f\u308c\u305f",
+                "english": "hit by a flood",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3737.mp3",
+                "kana": "\u3053\u3046\u305a\u3044\u306b\u304a\u305d\u308f\u308c\u305f",
+                "romaji": "k\u014dzui ni osowareta"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201045.mp3",
+                "text": "\u6d2a\u6c34\u8b66\u5831",
+                "english": "flood warning",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3735.mp3",
+                "kana": "\u3053\u3046\u305a\u3044\u3051\u3044\u307b\u3046",
+                "romaji": "k\u014dzui keih\u014d"
+            }
+        ]
+    },
+    {
+        "img": "8748",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/824726.mp3",
+        "class": "noun",
+        "english": "typhoon",
+        "flashcardId": "224357",
+        "meaning": "typhoon (noun) - a very violent tropical storm",
+        "id": "1635",
+        "word": "\u53f0\u98a8",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89025.mp3",
+        "kana": "\u305f\u3044\u3075\u3046",
+        "romaji": "taif\u016b",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/936.mp3",
+                "text": "\u592a\u5e73\u6d0b\u306e\u53f0\u98a8",
+                "english": "pacific typhoon",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3742.mp3",
+                "kana": "\u305f\u3044\u3078\u3044\u3088\u3046\u306e\u305f\u3044\u3075\u3046",
+                "romaji": "Taiheiy\u014d no taif\u016b"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227896.mp3",
+                "text": "\u53f0\u98a8\u304c\u4e0a\u9678\u3057\u305f\u3002",
+                "english": "The typhoon has hit.",
+                "en_audio": "",
+                "kana": "\u305f\u3044\u3075\u3046\u304c\u3058\u3087\u3046\u308a\u304f\u3057\u305f\u3002",
+                "romaji": "Taif\u016b ga j\u014driku shita."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/824727.mp3",
+                "text": "\u305d\u306e\u897f\u5927\u5e73\u6d0b\u306e\u53f0\u98a8\u306e\u305b\u3044\u3067\u8239\u304c\u30b3\u30fc\u30b9\u304b\u3089\u5916\u308c\u305f\u3002",
+                "english": "The typhoon in the western pacific blew the ship off course.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u306b\u3057\u305f\u3044\u3078\u3044\u3088\u3046\u306e\u305f\u3044\u3075\u3046\u306e\u305b\u3044\u3067\u3075\u306d\u304c\u30b3\u30fc\u30b9\u304b\u3089\u306f\u305a\u308c\u305f\u3002",
+                "romaji": "Sono nishitaiheiy\u014d no taif\u016b no sei de fune ga k\u014dsu kara hazureta."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227896.mp3",
+                "text": "\u53f0\u98a8\u304c\u4e0a\u9678\u3057\u305f\u3002",
+                "english": "The typhoon has hit.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254222.mp3",
+                "kana": "\u305f\u3044\u3075\u3046\u304c\u3058\u3087\u3046\u308a\u304f\u3057\u305f\u3002",
+                "romaji": "Taif\u016b ga j\u014driku shita."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/824727.mp3",
+                "text": "\u305d\u306e\u897f\u5927\u5e73\u6d0b\u306e\u53f0\u98a8\u306e\u305b\u3044\u3067\u8239\u304c\u30b3\u30fc\u30b9\u304b\u3089\u5916\u308c\u305f\u3002",
+                "english": "The typhoon in the western pacific blew the ship off course.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3741.mp3",
+                "kana": "\u305d\u306e\u306b\u3057\u305f\u3044\u3078\u3044\u3088\u3046\u306e\u305f\u3044\u3075\u3046\u306e\u305b\u3044\u3067\u3075\u306d\u304c\u30b3\u30fc\u30b9\u304b\u3089\u306f\u305a\u308c\u305f\u3002",
+                "romaji": "Sono nishitaiheiy\u014d no taif\u016b no sei de fune ga k\u014dsu kara hazureta."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/936.mp3",
+                "text": "\u592a\u5e73\u6d0b\u306e\u53f0\u98a8",
+                "english": "pacific typhoon",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3742.mp3",
+                "kana": "\u305f\u3044\u3078\u3044\u3088\u3046\u306e\u305f\u3044\u3075\u3046",
+                "romaji": "Taiheiy\u014d no taif\u016b"
+            }
+        ]
+    },
+    {
+        "img": "8755",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/950.mp3",
+        "class": "noun",
+        "english": "hurricane",
+        "flashcardId": "224358",
+        "meaning": "hurricane (noun) - a storm that has very strong fast winds and that moves over water",
+        "id": "1659",
+        "word": "\u30cf\u30ea\u30b1\u30fc\u30f3",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262853.mp3",
+        "kana": "\u30cf\u30ea\u30b1\u30fc\u30f3",
+        "romaji": "harik\u0113n",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201054.mp3",
+                "text": "\u5de8\u5927\u30cf\u30ea\u30b1\u30fc\u30f3",
+                "english": "massive hurricane",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198396.mp3",
+                "kana": "\u304d\u3087\u3060\u3044\u30cf\u30ea\u30b1\u30fc\u30f3",
+                "romaji": "kyodai harik\u0113n"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/951.mp3",
+                "text": "\u30cf\u30ea\u30b1\u30fc\u30f3\u7d1a\u306e\u98a8",
+                "english": "hurricane force winds",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3766.mp3",
+                "kana": "\u30cf\u30ea\u30b1\u30fc\u30f3\u304d\u3085\u3046\u306e\u304b\u305c",
+                "romaji": "harik\u0113n-ky\u016b no kaze"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201055.mp3",
+                "text": "\u30cf\u30ea\u30b1\u30fc\u30f3\u304c\u3001\u6d77\u304b\u3089\u5439\u304d\u8fbc\u3093\u3067\u304d\u3066\u3044\u308b\u3002",
+                "english": "The hurricane is blowing in from the sea.",
+                "en_audio": "",
+                "kana": "\u30cf\u30ea\u30b1\u30fc\u30f3\u304c\u3001\u3046\u307f\u304b\u3089\u3075\u304d\u3053\u3093\u3067\u304d\u3066\u3044\u308b\u3002",
+                "romaji": "Harik\u0113n ga, umi kara fukikonde kite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201053.mp3",
+                "text": "\u885b\u661f\u304c\u30cf\u30ea\u30b1\u30fc\u30f3\u306e\u753b\u50cf\u3092\u3068\u3089\u3048\u305f\u3002\u6d77\u4e0a\u3067\u30cf\u30ea\u30b1\u30fc\u30f3\u304c\u767a\u751f\u3057\u305f\u3002",
+                "english": "The satellite has captured a picture of a hurricane. A hurricane has formed over the ocean.",
+                "en_audio": "",
+                "kana": "\u3048\u3044\u305b\u3044\u304c\u30cf\u30ea\u30b1\u30fc\u30f3\u306e\u304c\u305e\u3046\u3092\u3068\u3089\u3048\u305f\u3002\u304b\u3044\u3058\u3087\u3046\u3067\u30cf\u30ea\u30b1\u30fc\u30f3\u304c\u306f\u3063\u305b\u3044\u3057\u305f\u3002",
+                "romaji": "Eisei ga harik\u0113n no gaz\u014d o toraeta. Kaij\u014d de harik\u0113n ga hassei shita."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271408.mp3",
+                "text": "\u73fe\u4ee3\u306e\u30ec\u30fc\u30c0\u30fc\u6a5f\u5668\u306e\u304a\u304b\u3052\u3067\u30cf\u30ea\u30b1\u30fc\u30f3\u306e\u4f4d\u7f6e\u3092\u6b63\u78ba\u306b\u8ffd\u8de1\u3059\u308b\u3053\u3068\u304c\u51fa\u6765\u308b\u3002",
+                "english": "Modern radar equipment allows us to precisely track a hurricane.",
+                "en_audio": "",
+                "kana": "\u3052\u3093\u3060\u3044\u306e\u30ec\u30fc\u30c0\u30fc\u304d\u304d\u306e\u304a\u304b\u3052\u3067\u30cf\u30ea\u30b1\u30fc\u30f3\u306e\u3044\u3061\u3092\u305b\u3044\u304b\u304f\u306b\u3064\u3044\u305b\u304d\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002",
+                "romaji": "Gendai no r\u0113d\u0101 kiki no okage de harik\u0113n no ichi o seikaku ni tsuiseki suru koto ga dekiru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201055.mp3",
+                "text": "\u30cf\u30ea\u30b1\u30fc\u30f3\u304c\u3001\u6d77\u304b\u3089\u5439\u304d\u8fbc\u3093\u3067\u304d\u3066\u3044\u308b\u3002",
+                "english": "The hurricane is blowing in from the sea.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198397.mp3",
+                "kana": "\u30cf\u30ea\u30b1\u30fc\u30f3\u304c\u3001\u3046\u307f\u304b\u3089\u3075\u304d\u3053\u3093\u3067\u304d\u3066\u3044\u308b\u3002",
+                "romaji": "Harik\u0113n ga, umi kara fukikonde kite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201054.mp3",
+                "text": "\u5de8\u5927\u30cf\u30ea\u30b1\u30fc\u30f3",
+                "english": "massive hurricane",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198396.mp3",
+                "kana": "\u304d\u3087\u3060\u3044\u30cf\u30ea\u30b1\u30fc\u30f3",
+                "romaji": "kyodai harik\u0113n"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201053.mp3",
+                "text": "\u885b\u661f\u304c\u30cf\u30ea\u30b1\u30fc\u30f3\u306e\u753b\u50cf\u3092\u3068\u3089\u3048\u305f\u3002\u6d77\u4e0a\u3067\u30cf\u30ea\u30b1\u30fc\u30f3\u304c\u767a\u751f\u3057\u305f\u3002",
+                "english": "The satellite has captured a picture of a hurricane. A hurricane has formed over the ocean.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198395.mp3",
+                "kana": "\u3048\u3044\u305b\u3044\u304c\u30cf\u30ea\u30b1\u30fc\u30f3\u306e\u304c\u305e\u3046\u3092\u3068\u3089\u3048\u305f\u3002\u304b\u3044\u3058\u3087\u3046\u3067\u30cf\u30ea\u30b1\u30fc\u30f3\u304c\u306f\u3063\u305b\u3044\u3057\u305f\u3002",
+                "romaji": "Eisei ga harik\u0113n no gaz\u014d o toraeta. Kaij\u014d de harik\u0113n ga hassei shita."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271408.mp3",
+                "text": "\u73fe\u4ee3\u306e\u30ec\u30fc\u30c0\u30fc\u6a5f\u5668\u306e\u304a\u304b\u3052\u3067\u30cf\u30ea\u30b1\u30fc\u30f3\u306e\u4f4d\u7f6e\u3092\u6b63\u78ba\u306b\u8ffd\u8de1\u3059\u308b\u3053\u3068\u304c\u51fa\u6765\u308b\u3002",
+                "english": "Modern radar equipment allows us to precisely track a hurricane.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3765.mp3",
+                "kana": "\u3052\u3093\u3060\u3044\u306e\u30ec\u30fc\u30c0\u30fc\u304d\u304d\u306e\u304a\u304b\u3052\u3067\u30cf\u30ea\u30b1\u30fc\u30f3\u306e\u3044\u3061\u3092\u305b\u3044\u304b\u304f\u306b\u3064\u3044\u305b\u304d\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002",
+                "romaji": "Gendai no r\u0113d\u0101 kiki no okage de harik\u0113n no ichi o seikaku ni tsuiseki suru koto ga dekiru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/951.mp3",
+                "text": "\u30cf\u30ea\u30b1\u30fc\u30f3\u7d1a\u306e\u98a8",
+                "english": "hurricane force winds",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3766.mp3",
+                "kana": "\u30cf\u30ea\u30b1\u30fc\u30f3\u304d\u3085\u3046\u306e\u304b\u305c",
+                "romaji": "harik\u0113n-ky\u016b no kaze"
+            }
+        ]
+    },
+    {
+        "img": "8293",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/953.mp3",
+        "class": "noun",
+        "english": "tornado",
+        "flashcardId": "2166681",
+        "meaning": "tornado (noun) - an extremely violent storm consisting of air that spins very quickly and causes a lot of damage",
+        "id": "1660",
+        "word": "\u7adc\u5dfb",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89054.mp3",
+        "kana": "\u305f\u3064\u307e\u304d",
+        "romaji": "tatsumaki",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201056.mp3",
+                "text": "\u5f37\u70c8\u306a\u7adc\u5dfb",
+                "english": "killer tornado",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3771.mp3",
+                "kana": "\u304d\u3087\u3046\u308c\u3064\u306a\u305f\u3064\u307e\u304d",
+                "romaji": "ky\u014dretsu na tatsumaki"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/955.mp3",
+                "text": "\u5927\u304d\u306a\u7adc\u5dfb",
+                "english": "big tornado",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3773.mp3",
+                "kana": "\u304a\u304a\u304d\u306a\u305f\u3064\u307e\u304d",
+                "romaji": "\u014dki na tatsumaki"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/957.mp3",
+                "text": "\u7adc\u5dfb\u304c\u753a\u306b\u8fd1\u3065\u3044\u3066\u3044\u308b\u3002",
+                "english": "The tornado is approaching the town.",
+                "en_audio": "",
+                "kana": "\u305f\u3064\u307e\u304d\u304c\u307e\u3061\u306b\u3061\u304b\u3065\u3044\u3066\u3044\u308b\u3002",
+                "romaji": "Tatsumaki ga machi ni chikazuite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227927.mp3",
+                "text": "\u96f7\u96e8\u304b\u3089\u3001\u77e5\u3089\u306a\u3044\u3046\u3061\u306b\u3001\u7adc\u5dfb\u304c\u767a\u751f\u3059\u308b\u3053\u3068\u304c\u3042\u308b\u3002",
+                "english": "A tornado can drop from a thunder storm without notice.",
+                "en_audio": "",
+                "kana": "\u3089\u3044\u3046\u304b\u3089\u3001\u3057\u3089\u306a\u3044\u3046\u3061\u306b\u3001\u305f\u3064\u307e\u304d\u304c\u306f\u3063\u305b\u3044\u3059\u308b\u3053\u3068\u304c\u3042\u308b\u3002",
+                "romaji": "Raiu kara, shiranai uchi ni, tatsumaki ga hassei suru koto ga aru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201056.mp3",
+                "text": "\u5f37\u70c8\u306a\u7adc\u5dfb",
+                "english": "killer tornado",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3771.mp3",
+                "kana": "\u304d\u3087\u3046\u308c\u3064\u306a\u305f\u3064\u307e\u304d",
+                "romaji": "ky\u014dretsu na tatsumaki"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/957.mp3",
+                "text": "\u7adc\u5dfb\u304c\u753a\u306b\u8fd1\u3065\u3044\u3066\u3044\u308b\u3002",
+                "english": "The tornado is approaching the town.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3772.mp3",
+                "kana": "\u305f\u3064\u307e\u304d\u304c\u307e\u3061\u306b\u3061\u304b\u3065\u3044\u3066\u3044\u308b\u3002",
+                "romaji": "Tatsumaki ga machi ni chikazuite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227927.mp3",
+                "text": "\u96f7\u96e8\u304b\u3089\u3001\u77e5\u3089\u306a\u3044\u3046\u3061\u306b\u3001\u7adc\u5dfb\u304c\u767a\u751f\u3059\u308b\u3053\u3068\u304c\u3042\u308b\u3002",
+                "english": "A tornado can drop from a thunder storm without notice.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3770.mp3",
+                "kana": "\u3089\u3044\u3046\u304b\u3089\u3001\u3057\u3089\u306a\u3044\u3046\u3061\u306b\u3001\u305f\u3064\u307e\u304d\u304c\u306f\u3063\u305b\u3044\u3059\u308b\u3053\u3068\u304c\u3042\u308b\u3002",
+                "romaji": "Raiu kara, shiranai uchi ni, tatsumaki ga hassei suru koto ga aru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/955.mp3",
+                "text": "\u5927\u304d\u306a\u7adc\u5dfb",
+                "english": "big tornado",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3773.mp3",
+                "kana": "\u304a\u304a\u304d\u306a\u305f\u3064\u307e\u304d",
+                "romaji": "\u014dki na tatsumaki"
+            }
+        ]
+    },
+    {
+        "img": "9644",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271671.mp3",
+        "class": "noun",
+        "english": "drought",
+        "flashcardId": "2147828",
+        "meaning": "drought (noun) - a long period of dry weather when there is not enough water for plants and animals to live",
+        "id": "3023",
+        "word": "\u65e5\u7167\u308a",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263076.mp3",
+        "kana": "\u3072\u3067\u308a",
+        "romaji": "hideri",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1901.mp3",
+                "text": "\u65e5\u7167\u308a\u7d9a\u304d\u306e\u72b6\u6cc1",
+                "english": "drought conditions",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/490148.mp3",
+                "kana": "\u3072\u3067\u308a\u3064\u3065\u304d\u306e\u3058\u3087\u3046\u304d\u3087\u3046",
+                "romaji": "hideri tsuzuki no j\u014dky\u014d"
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1901.mp3",
+                "text": "\u65e5\u7167\u308a\u7d9a\u304d\u306e\u72b6\u6cc1",
+                "english": "drought conditions",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/490148.mp3",
+                "kana": "\u3072\u3067\u308a\u3064\u3065\u304d\u306e\u3058\u3087\u3046\u304d\u3087\u3046",
+                "romaji": "hideri tsuzuki no j\u014dky\u014d"
+            }
+        ]
+    },
+    {
+        "img": "8507",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1903.mp3",
+        "class": "noun",
+        "english": "tsunami",
+        "flashcardId": "2032507",
+        "meaning": "tsunami (noun) - a very large wave, caused by extreme conditions such as an earthquake, which can cause a lot of damage when it reaches land",
+        "id": "3025",
+        "word": "\u6d25\u6ce2",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5273.mp3",
+        "kana": "\u3064\u306a\u307f",
+        "romaji": "tsunami",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1905.mp3",
+                "text": "\u6d25\u6ce2\u306b\u8972\u308f\u308c\u308b",
+                "english": "hit by tsunami",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5275.mp3",
+                "kana": "\u3064\u306a\u307f\u306b\u304a\u305d\u308f\u308c\u308b",
+                "romaji": "tsunami ni osowareru"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1904.mp3",
+                "text": "\u6d25\u6ce2\u304c\u753a\u3092\u8972\u3063\u305f\u3002",
+                "english": "The tsunami hit the city.",
+                "en_audio": "",
+                "kana": "\u3064\u306a\u307f\u304c\u307e\u3061\u3092\u304a\u305d\u3063\u305f\u3002",
+                "romaji": "Tsunami ga machi o osotta."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1905.mp3",
+                "text": "\u6d25\u6ce2\u306b\u8972\u308f\u308c\u308b",
+                "english": "hit by tsunami",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5275.mp3",
+                "kana": "\u3064\u306a\u307f\u306b\u304a\u305d\u308f\u308c\u308b",
+                "romaji": "tsunami ni osowareru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1904.mp3",
+                "text": "\u6d25\u6ce2\u304c\u753a\u3092\u8972\u3063\u305f\u3002",
+                "english": "The tsunami hit the city.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5274.mp3",
+                "kana": "\u3064\u306a\u307f\u304c\u307e\u3061\u3092\u304a\u305d\u3063\u305f\u3002",
+                "romaji": "Tsunami ga machi o osotta."
+            }
+        ]
+    },
+    {
+        "img": "8656",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1906.mp3",
+        "class": "noun",
+        "english": "avalanche",
+        "flashcardId": "224363",
+        "meaning": "avalanche (noun) - a large mass of snow, ice, and rocks that falls down the side of a mountain",
+        "id": "3026",
+        "word": "\u96ea\u5d29",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5276.mp3",
+        "kana": "\u306a\u3060\u308c",
+        "romaji": "nadare",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228448.mp3",
+                "text": "\u96ea\u5d29\u306e\u5371\u967a",
+                "english": "avalanche danger",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5279.mp3",
+                "kana": "\u306a\u3060\u308c\u306e\u304d\u3051\u3093",
+                "romaji": "nadare no kiken"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/209161.mp3",
+                "text": "\u96ea\u5d29\u304c\u30b9\u30ad\u30fc\u30ea\u30be\u30fc\u30c8\u3092\u7834\u58ca\u3057\u305f\u304c\u3001\u5e78\u904b\u306a\u3053\u3068\u306b\u3001\u8ab0\u3082\u602a\u6211\u4eba\u306f\u3044\u306a\u304b\u3063\u305f\u3002",
+                "english": "The avalanche destroyed the ski resort, but luckily, nobody was hurt.",
+                "en_audio": "",
+                "kana": "\u306a\u3060\u308c\u304c\u30b9\u30ad\u30fc\u30ea\u30be\u30fc\u30c8\u3092\u306f\u304b\u3044\u3057\u305f\u304c\u3001\u3053\u3046\u3046\u3093\u306a\u3053\u3068\u306b\u3001\u3060\u308c\u3082\u3051\u304c\u306b\u3093\u306f\u3044\u306a\u304b\u3063\u305f\u3002",
+                "romaji": "Nadare ga suk\u012b riz\u014dto o hakai shita ga, k\u014dun na koto ni, dare mo keganin wa inakatta."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/209161.mp3",
+                "text": "\u96ea\u5d29\u304c\u30b9\u30ad\u30fc\u30ea\u30be\u30fc\u30c8\u3092\u7834\u58ca\u3057\u305f\u304c\u3001\u5e78\u904b\u306a\u3053\u3068\u306b\u3001\u8ab0\u3082\u602a\u6211\u4eba\u306f\u3044\u306a\u304b\u3063\u305f\u3002",
+                "english": "The avalanche destroyed the ski resort, but luckily, nobody was hurt.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5280.mp3",
+                "kana": "\u306a\u3060\u308c\u304c\u30b9\u30ad\u30fc\u30ea\u30be\u30fc\u30c8\u3092\u306f\u304b\u3044\u3057\u305f\u304c\u3001\u3053\u3046\u3046\u3093\u306a\u3053\u3068\u306b\u3001\u3060\u308c\u3082\u3051\u304c\u306b\u3093\u306f\u3044\u306a\u304b\u3063\u305f\u3002",
+                "romaji": "Nadare ga suk\u012b riz\u014dto o hakai shita ga, k\u014dun na koto ni, dare mo keganin wa inakatta."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228448.mp3",
+                "text": "\u96ea\u5d29\u306e\u5371\u967a",
+                "english": "avalanche danger",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5279.mp3",
+                "kana": "\u306a\u3060\u308c\u306e\u304d\u3051\u3093",
+                "romaji": "nadare no kiken"
+            }
+        ]
+    },
+    {
+        "img": "9720",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/830257.mp3",
+        "class": "noun",
+        "english": "fire",
+        "flashcardId": "2091119",
+        "meaning": "fire (noun) - uncontrolled flames, light, and heat that destroy and damage things",
+        "id": "3340",
+        "word": "\u706b\u4e8b",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5264.mp3",
+        "kana": "\u304b\u3058",
+        "romaji": "kaji",
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/830258.mp3",
+                "text": "\u6d88\u9632\u58eb\u9054\u304c\u3001\u30cf\u30b7\u30b4\u306b\u767b\u3063\u3066\u3001\u706b\u4e8b\u3068\u683c\u95d8\u3057\u3066\u3044\u308b\u3002",
+                "english": "The fire fighters are fighting the fire on the ladder.",
+                "en_audio": "",
+                "kana": "\u3057\u3087\u3046\u307c\u3046\u3057\u305f\u3061\u304c\u3001\u30cf\u30b7\u30b4\u306b\u306e\u307c\u3063\u3066\u3001\u304b\u3058\u3068\u304b\u304f\u3068\u3046\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Sh\u014db\u014dshi-tachi ga, hashigo ni nobotte, kaji to kakut\u014d shite iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/830258.mp3",
+                "text": "\u6d88\u9632\u58eb\u9054\u304c\u3001\u30cf\u30b7\u30b4\u306b\u767b\u3063\u3066\u3001\u706b\u4e8b\u3068\u683c\u95d8\u3057\u3066\u3044\u308b\u3002",
+                "english": "The fire fighters are fighting the fire on the ladder.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263075.mp3",
+                "kana": "\u3057\u3087\u3046\u307c\u3046\u3057\u305f\u3061\u304c\u3001\u30cf\u30b7\u30b4\u306b\u306e\u307c\u3063\u3066\u3001\u304b\u3058\u3068\u304b\u304f\u3068\u3046\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Sh\u014db\u014dshi-tachi ga, hashigo ni nobotte, kaji to kakut\u014d shite iru."
+            }
+        ]
+    },
+    {
+        "img": "9294",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1909.mp3",
+        "class": "noun",
+        "english": "earthquake",
+        "flashcardId": "224364",
+        "meaning": "earthquake (noun) - a sudden shaking of the earth's surface that often causes a lot of damage",
+        "id": "3341",
+        "word": "\u5730\u9707",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5281.mp3",
+        "kana": "\u3058\u3057\u3093",
+        "romaji": "jishin",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1911.mp3",
+                "text": "\u5730\u9707\u306e\u88ab\u5bb3",
+                "english": "earthquake damage",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5287.mp3",
+                "kana": "\u3058\u3057\u3093\u306e\u3072\u304c\u3044",
+                "romaji": "jishin no higai"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201063.mp3",
+                "text": "\u5730\u9707\u3067\u5730\u9762\u304c\u63fa\u308c\u3066\u3044\u308b\u3002",
+                "english": "The earthquake is shaking the ground.",
+                "en_audio": "",
+                "kana": "\u3058\u3057\u3093\u3067\u3058\u3081\u3093\u304c\u3086\u308c\u3066\u3044\u308b\u3002",
+                "romaji": "Jishin de jimen ga yurete iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201060.mp3",
+                "text": "\u5730\u9707\u3067\u5efa\u7269\u304c\u5d29\u58ca\u3057\u305f\u3002",
+                "english": "The earthquake destroyed the building.",
+                "en_audio": "",
+                "kana": "\u3058\u3057\u3093\u3067\u305f\u3066\u3082\u306e\u304c\u307b\u3046\u304b\u3044\u3057\u305f\u3002",
+                "romaji": "Jishin de tatemono ga h\u014dkai shita."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201059.mp3",
+                "text": "\u6771\u4eac\u3092\u8972\u3063\u305f\u5730\u9707\u306f\u3001\u30de\u30b0\u30cb\u30c1\u30e5\u30fc\u30c94.3\u3092\u8a18\u9332\u3057\u305f\u3002",
+                "english": "The earthquake that hit Tokyo measured 4.3 on the Richter scale.",
+                "en_audio": "",
+                "kana": "\u3068\u3046\u304d\u3087\u3046\u3092\u304a\u305d\u3063\u305f\u3058\u3057\u3093\u306f\u3001\u30de\u30b0\u30cb\u30c1\u30e5\u30fc\u30c9\u3088\u3093\u3066\u3093\u3055\u3093\u3092\u304d\u308d\u304f\u3057\u305f\u3002",
+                "romaji": "T\u014dky\u014d o osotta jishin wa, magunich\u016bdo yon-ten-san o kiroku shita."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201063.mp3",
+                "text": "\u5730\u9707\u3067\u5730\u9762\u304c\u63fa\u308c\u3066\u3044\u308b\u3002",
+                "english": "The earthquake is shaking the ground.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198399.mp3",
+                "kana": "\u3058\u3057\u3093\u3067\u3058\u3081\u3093\u304c\u3086\u308c\u3066\u3044\u308b\u3002",
+                "romaji": "Jishin de jimen ga yurete iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201060.mp3",
+                "text": "\u5730\u9707\u3067\u5efa\u7269\u304c\u5d29\u58ca\u3057\u305f\u3002",
+                "english": "The earthquake destroyed the building.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5286.mp3",
+                "kana": "\u3058\u3057\u3093\u3067\u305f\u3066\u3082\u306e\u304c\u307b\u3046\u304b\u3044\u3057\u305f\u3002",
+                "romaji": "Jishin de tatemono ga h\u014dkai shita."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201059.mp3",
+                "text": "\u6771\u4eac\u3092\u8972\u3063\u305f\u5730\u9707\u306f\u3001\u30de\u30b0\u30cb\u30c1\u30e5\u30fc\u30c94.3\u3092\u8a18\u9332\u3057\u305f\u3002",
+                "english": "The earthquake that hit Tokyo measured 4.3 on the Richter scale.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5285.mp3",
+                "kana": "\u3068\u3046\u304d\u3087\u3046\u3092\u304a\u305d\u3063\u305f\u3058\u3057\u3093\u306f\u3001\u30de\u30b0\u30cb\u30c1\u30e5\u30fc\u30c9\u3088\u3093\u3066\u3093\u3055\u3093\u3092\u304d\u308d\u304f\u3057\u305f\u3002",
+                "romaji": "T\u014dky\u014d o osotta jishin wa, magunich\u016bdo yon-ten-san o kiroku shita."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1911.mp3",
+                "text": "\u5730\u9707\u306e\u88ab\u5bb3",
+                "english": "earthquake damage",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5287.mp3",
+                "kana": "\u3058\u3057\u3093\u306e\u3072\u304c\u3044",
+                "romaji": "jishin no higai"
+            }
+        ]
+    },
+    {
+        "img": "9748",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271672.mp3",
+        "class": "noun",
+        "english": "sandstorm",
+        "flashcardId": "2147830",
+        "meaning": "sandstorm (noun) - a storm in the desert in which sand is blown around by strong winds",
+        "id": "3024",
+        "word": "\u7802\u5d50",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263078.mp3",
+        "kana": "\u3059\u306a\u3042\u3089\u3057",
+        "romaji": "suna'arashi",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271674.mp3",
+                "text": "\u7a81\u7136\u306e\u7802\u5d50",
+                "english": "sudden sandstorm",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263080.mp3",
+                "kana": "\u3068\u3064\u305c\u3093\u306e\u3059\u306a\u3042\u3089\u3057",
+                "romaji": "totsuzen no suna'arashi"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271673.mp3",
+                "text": "\u7802\u5d50\u304c\u3084\u3063\u3066\u304d\u305f\u3002",
+                "english": "The sandstorm has touched down.",
+                "en_audio": "",
+                "kana": "\u3059\u306a\u3042\u3089\u3057\u304c\u3084\u3063\u3066\u304d\u305f\u3002",
+                "romaji": "Suna'arashi ga yattekita."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271674.mp3",
+                "text": "\u7a81\u7136\u306e\u7802\u5d50",
+                "english": "sudden sandstorm",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263080.mp3",
+                "kana": "\u3068\u3064\u305c\u3093\u306e\u3059\u306a\u3042\u3089\u3057",
+                "romaji": "totsuzen no suna'arashi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271673.mp3",
+                "text": "\u7802\u5d50\u304c\u3084\u3063\u3066\u304d\u305f\u3002",
+                "english": "The sandstorm has touched down.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263079.mp3",
+                "kana": "\u3059\u306a\u3042\u3089\u3057\u304c\u3084\u3063\u3066\u304d\u305f\u3002",
+                "romaji": "Suna'arashi ga yattekita."
+            }
+        ]
+    },
+    {
+        "img": "9534",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227224.mp3",
+        "class": "noun",
+        "english": "grass",
+        "flashcardId": "1475484",
+        "meaning": "grass (noun) - plants that have narrow green leaves, that are eaten by cows, sheep, horses, etc., and that are commonly grown on lawns and in gardens; grass",
+        "id": "1143",
+        "word": "\u829d\u751f",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/88413.mp3",
+        "kana": "\u3057\u3070\u3075",
+        "romaji": "shibafu",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271129.mp3",
+                "text": "\u7dd1\u306e\u829d\u751f",
+                "english": "green grass",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86832.mp3",
+                "kana": "\u307f\u3069\u308a\u306e\u3057\u3070\u3075",
+                "romaji": "midori no shibafu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252232.mp3",
+                "text": "\u7dd1\u306e\u829d\u751f\u306b\u3044\u308b\u767d\u3044\u514e",
+                "english": "white rabbit in the green grass",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198043.mp3",
+                "kana": "\u307f\u3069\u308a\u306e\u3057\u3070\u3075\u306b\u3044\u308b\u3057\u308d\u3044\u3046\u3055\u304e",
+                "romaji": "midori no shibafu ni iru shiroi usagi"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200910.mp3",
+                "text": "\u30ad\u30c4\u30cd\u305f\u3061\u304c\u3001\u829d\u751f\u306e\u4e0a\u3067\u904a\u3093\u3067\u3044\u308b\u3002",
+                "english": "The foxes are playing in the grass.",
+                "en_audio": "",
+                "kana": "\u30ad\u30c4\u30cd\u305f\u3061\u304c\u3001\u3057\u3070\u3075\u306e\u3046\u3048\u3067\u3042\u305d\u3093\u3067\u3044\u308b\u3002",
+                "romaji": "Kitsune-tachi ga, shibafu no ue de asonde iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227307.mp3",
+                "text": "\u829d\u751f\u306b\u5165\u308b\u306a\uff01",
+                "english": "Stay off the grass!",
+                "en_audio": "",
+                "kana": "\u3057\u3070\u3075\u306b\u306f\u3044\u308b\u306a\uff01",
+                "romaji": "Shibafu ni hairu na!"
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200910.mp3",
+                "text": "\u30ad\u30c4\u30cd\u305f\u3061\u304c\u3001\u829d\u751f\u306e\u4e0a\u3067\u904a\u3093\u3067\u3044\u308b\u3002",
+                "english": "The foxes are playing in the grass.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198318.mp3",
+                "kana": "\u30ad\u30c4\u30cd\u305f\u3061\u304c\u3001\u3057\u3070\u3075\u306e\u3046\u3048\u3067\u3042\u305d\u3093\u3067\u3044\u308b\u3002",
+                "romaji": "Kitsune-tachi ga, shibafu no ue de asonde iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271129.mp3",
+                "text": "\u7dd1\u306e\u829d\u751f",
+                "english": "green grass",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86832.mp3",
+                "kana": "\u307f\u3069\u308a\u306e\u3057\u3070\u3075",
+                "romaji": "midori no shibafu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252232.mp3",
+                "text": "\u7dd1\u306e\u829d\u751f\u306b\u3044\u308b\u767d\u3044\u514e",
+                "english": "white rabbit in the green grass",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198043.mp3",
+                "kana": "\u307f\u3069\u308a\u306e\u3057\u3070\u3075\u306b\u3044\u308b\u3057\u308d\u3044\u3046\u3055\u304e",
+                "romaji": "midori no shibafu ni iru shiroi usagi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227307.mp3",
+                "text": "\u829d\u751f\u306b\u5165\u308b\u306a\uff01",
+                "english": "Stay off the grass!",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3450.mp3",
+                "kana": "\u3057\u3070\u3075\u306b\u306f\u3044\u308b\u306a\uff01",
+                "romaji": "Shibafu ni hairu na!"
+            }
+        ]
+    },
+    {
+        "img": "9682",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/549417.mp3",
+        "class": "noun",
+        "english": "soil",
+        "flashcardId": "224372",
+        "meaning": "soil (noun) - the top layer of the earth in which plants grow",
+        "id": "32047",
+        "word": "\u571f\u58cc",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/154020.mp3",
+        "kana": "\u3069\u3058\u3087\u3046",
+        "romaji": "doj\u014d"
+    },
+    {
+        "img": "9289",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271689.mp3",
+        "class": "noun",
+        "english": "dirt",
+        "flashcardId": "2123208",
+        "meaning": "dirt (noun) - a substance, such as mud or dust, that soils someone or something",
+        "id": "32036",
+        "word": "\u571f",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263095.mp3",
+        "kana": "\u3064\u3061",
+        "romaji": "tsuchi",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271690.mp3",
+                "text": "\u571f\u306e\u4e2d\u306b\u3044\u308b\u30df\u30df\u30ba",
+                "english": "worms in dirt",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198222.mp3",
+                "kana": "\u3064\u3061\u306e\u306a\u304b\u306b\u3044\u308b\u30df\u30df\u30ba",
+                "romaji": "tsuchi no naka ni iru mimizu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/229160.mp3",
+                "text": "\u690d\u7269\u3068\u571f",
+                "english": "plant and dirt",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2307.mp3",
+                "kana": "\u3057\u3087\u304f\u3076\u3064\u3068\u3064\u3061",
+                "romaji": "shokubutsu to tsuchi"
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271690.mp3",
+                "text": "\u571f\u306e\u4e2d\u306b\u3044\u308b\u30df\u30df\u30ba",
+                "english": "worms in dirt",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198222.mp3",
+                "kana": "\u3064\u3061\u306e\u306a\u304b\u306b\u3044\u308b\u30df\u30df\u30ba",
+                "romaji": "tsuchi no naka ni iru mimizu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/229160.mp3",
+                "text": "\u690d\u7269\u3068\u571f",
+                "english": "plant and dirt",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2307.mp3",
+                "kana": "\u3057\u3087\u304f\u3076\u3064\u3068\u3064\u3061",
+                "romaji": "shokubutsu to tsuchi"
+            }
+        ]
+    },
+    {
+        "img": "22182",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/810069.mp3",
+        "class": "noun",
+        "english": "rock",
+        "flashcardId": "2165357",
+        "meaning": "rock (noun) - the hard substance that forms the main surface of the Earth",
+        "id": "32050",
+        "word": "\u77f3",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263092.mp3",
+        "kana": "\u3044\u3057",
+        "romaji": "ishi",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271688.mp3",
+                "text": "\u77f3\u3092\u6295\u3052\u308b",
+                "english": "throw a rock",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263094.mp3",
+                "kana": "\u3044\u3057\u3092\u306a\u3052\u308b",
+                "romaji": "ishi o nageru"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271687.mp3",
+                "text": "\u30ed\u30fc\u30d6\u3092\u7740\u305f\u7537\u6027\u304c\u3001\u77f3\u3092\u6295\u3052\u3066\u3044\u308b\u3002",
+                "english": "The man in the robe is throwing a rock.",
+                "en_audio": "",
+                "kana": "\u30ed\u30fc\u30d6\u3092\u304d\u305f\u3060\u3093\u305b\u3044\u304c\u3001\u3044\u3057\u3092\u306a\u3052\u3066\u3044\u308b\u3002",
+                "romaji": "R\u014dbu o kita dansei ga, ishi o nagete iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271688.mp3",
+                "text": "\u77f3\u3092\u6295\u3052\u308b",
+                "english": "throw a rock",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263094.mp3",
+                "kana": "\u3044\u3057\u3092\u306a\u3052\u308b",
+                "romaji": "ishi o nageru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271687.mp3",
+                "text": "\u30ed\u30fc\u30d6\u3092\u7740\u305f\u7537\u6027\u304c\u3001\u77f3\u3092\u6295\u3052\u3066\u3044\u308b\u3002",
+                "english": "The man in the robe is throwing a rock.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263093.mp3",
+                "kana": "\u30ed\u30fc\u30d6\u3092\u304d\u305f\u3060\u3093\u305b\u3044\u304c\u3001\u3044\u3057\u3092\u306a\u3052\u3066\u3044\u308b\u3002",
+                "romaji": "R\u014dbu o kita dansei ga, ishi o nagete iru."
+            }
+        ]
+    },
+    {
+        "img": "8834",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227216.mp3",
+        "class": "noun",
+        "english": "tree",
+        "flashcardId": "2165905",
+        "meaning": "tree (noun) - a very tall plant that has branches and leaves, and lives for many years",
+        "id": "1142",
+        "word": "\u6728",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/447764.mp3",
+        "kana": "\u304d",
+        "romaji": "ki",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227222.mp3",
+                "text": "\u6843\u306e\u5b9f\u304c\u3064\u3044\u305f\u6843\u306e\u6728",
+                "english": "peach tree with peaches",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197885.mp3",
+                "kana": "\u3082\u3082\u306e\u307f\u304c\u3064\u3044\u305f\u3082\u3082\u306e\u304d",
+                "romaji": "momo no mi ga tsuita momo no ki"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227220.mp3",
+                "text": "\u7dd1\u306e\u8449\u306e\u3064\u3044\u305f\u6728",
+                "english": "green leafed tree",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102693.mp3",
+                "kana": "\u307f\u3069\u308a\u306e\u306f\u306e\u3064\u3044\u305f\u304d",
+                "romaji": "midori no ha no tsuita ki"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227219.mp3",
+                "text": "\u5927\u304d\u306a\u6728",
+                "english": "big tree",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102692.mp3",
+                "kana": "\u304a\u304a\u304d\u306a\u304d",
+                "romaji": "\u014dki na ki"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227217.mp3",
+                "text": "\u30ea\u30f3\u30b4\u306e\u6728",
+                "english": "apple tree",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102690.mp3",
+                "kana": "\u30ea\u30f3\u30b4\u306e\u304d",
+                "romaji": "ringo no ki"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227221.mp3",
+                "text": "\u79c1\u305f\u3061\u306f\u3001\u6bce\u5e74\u3001\u88cf\u5ead\u306e\u30ea\u30f3\u30b4\u306e\u6728\u304b\u3089\u53d6\u308c\u308b\u5b9f\u3092\u98df\u3079\u308b\u3002",
+                "english": "We eat fruit every year from the apple tree in my back yard.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u305f\u3061\u306f\u3001\u307e\u3044\u3068\u3057\u3001\u3046\u3089\u306b\u308f\u306e\u30ea\u30f3\u30b4\u306e\u304d\u304b\u3089\u3068\u308c\u308b\u307f\u3092\u305f\u3079\u308b\u3002",
+                "romaji": "Watashi-tachi wa, maitoshi, uraniwa no ringo no ki kara toreru mi o taberu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227222.mp3",
+                "text": "\u6843\u306e\u5b9f\u304c\u3064\u3044\u305f\u6843\u306e\u6728",
+                "english": "peach tree with peaches",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197885.mp3",
+                "kana": "\u3082\u3082\u306e\u307f\u304c\u3064\u3044\u305f\u3082\u3082\u306e\u304d",
+                "romaji": "momo no mi ga tsuita momo no ki"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227221.mp3",
+                "text": "\u79c1\u305f\u3061\u306f\u3001\u6bce\u5e74\u3001\u88cf\u5ead\u306e\u30ea\u30f3\u30b4\u306e\u6728\u304b\u3089\u53d6\u308c\u308b\u5b9f\u3092\u98df\u3079\u308b\u3002",
+                "english": "We eat fruit every year from the apple tree in my back yard.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102689.mp3",
+                "kana": "\u308f\u305f\u3057\u305f\u3061\u306f\u3001\u307e\u3044\u3068\u3057\u3001\u3046\u3089\u306b\u308f\u306e\u30ea\u30f3\u30b4\u306e\u304d\u304b\u3089\u3068\u308c\u308b\u307f\u3092\u305f\u3079\u308b\u3002",
+                "romaji": "Watashi-tachi wa, maitoshi, uraniwa no ringo no ki kara toreru mi o taberu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227220.mp3",
+                "text": "\u7dd1\u306e\u8449\u306e\u3064\u3044\u305f\u6728",
+                "english": "green leafed tree",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102693.mp3",
+                "kana": "\u307f\u3069\u308a\u306e\u306f\u306e\u3064\u3044\u305f\u304d",
+                "romaji": "midori no ha no tsuita ki"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227219.mp3",
+                "text": "\u5927\u304d\u306a\u6728",
+                "english": "big tree",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102692.mp3",
+                "kana": "\u304a\u304a\u304d\u306a\u304d",
+                "romaji": "\u014dki na ki"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227217.mp3",
+                "text": "\u30ea\u30f3\u30b4\u306e\u6728",
+                "english": "apple tree",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102690.mp3",
+                "kana": "\u30ea\u30f3\u30b4\u306e\u304d",
+                "romaji": "ringo no ki"
+            }
+        ]
+    },
+    {
+        "img": "22086",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1303.mp3",
+        "class": "noun",
+        "english": "movie",
+        "flashcardId": "2165897",
+        "meaning": "movie (noun) - a film made to be shown at the cinema or on television; film (noun) - the meaning as \"movie\"",
+        "id": "545",
+        "word": "\u6620\u753b",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87773.mp3",
+        "kana": "\u3048\u3044\u304c",
+        "romaji": "eiga",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201266.mp3",
+                "text": "\u5927\u304d\u306a\u30c6\u30ec\u30d3\u753b\u9762\u3067\u6620\u753b\u3092\u898b\u308b",
+                "english": "watch a movie on a big screen TV",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198434.mp3",
+                "kana": "\u304a\u304a\u304d\u306a\u30c6\u30ec\u30d3\u304c\u3081\u3093\u3067\u3048\u3044\u304c\u3092\u307f\u308b",
+                "romaji": "\u014dkina terebi gamen de eiga o miru"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206265.mp3",
+                "text": "\u6620\u753b\u9928\u3067\u4eba\u3005\u304c\u6620\u753b\u3092\u898b\u3066\u3044\u308b\u3002",
+                "english": "The people are watching a movie at a movie theater.",
+                "en_audio": "",
+                "kana": "\u3048\u3044\u304c\u304b\u3093\u3067\u3072\u3068\u3073\u3068\u304c\u3048\u3044\u304c\u3092\u307f\u3066\u3044\u308b\u3002",
+                "romaji": "Eigakan de hitobito ga eiga o mite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251909.mp3",
+                "text": "\u697d\u3057\u3044\u591c\u306e\u5916\u51fa\u306b\u306f\u3001\u30c7\u30a3\u30ca\u30fc\u3068\u6620\u753b\u304c\u3064\u304d\u3082\u306e\u3060\u3002",
+                "english": "A great night out includes diner and a movie.",
+                "en_audio": "",
+                "kana": "\u305f\u306e\u3057\u3044\u3088\u308b\u306e\u304c\u3044\u3057\u3085\u3064\u306b\u306f\u3001\u30c7\u30a3\u30ca\u30fc\u3068\u3048\u3044\u304c\u304c\u3064\u304d\u3082\u306e\u3060\u3002",
+                "romaji": "Tanoshii yoru no gaishutsu ni wa, din\u0101 to eiga ga tsukimono da."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201266.mp3",
+                "text": "\u5927\u304d\u306a\u30c6\u30ec\u30d3\u753b\u9762\u3067\u6620\u753b\u3092\u898b\u308b",
+                "english": "watch a movie on a big screen TV",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198434.mp3",
+                "kana": "\u304a\u304a\u304d\u306a\u30c6\u30ec\u30d3\u304c\u3081\u3093\u3067\u3048\u3044\u304c\u3092\u307f\u308b",
+                "romaji": "\u014dkina terebi gamen de eiga o miru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206265.mp3",
+                "text": "\u6620\u753b\u9928\u3067\u4eba\u3005\u304c\u6620\u753b\u3092\u898b\u3066\u3044\u308b\u3002",
+                "english": "The people are watching a movie at a movie theater.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197906.mp3",
+                "kana": "\u3048\u3044\u304c\u304b\u3093\u3067\u3072\u3068\u3073\u3068\u304c\u3048\u3044\u304c\u3092\u307f\u3066\u3044\u308b\u3002",
+                "romaji": "Eigakan de hitobito ga eiga o mite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251909.mp3",
+                "text": "\u697d\u3057\u3044\u591c\u306e\u5916\u51fa\u306b\u306f\u3001\u30c7\u30a3\u30ca\u30fc\u3068\u6620\u753b\u304c\u3064\u304d\u3082\u306e\u3060\u3002",
+                "english": "A great night out includes diner and a movie.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4459.mp3",
+                "kana": "\u305f\u306e\u3057\u3044\u3088\u308b\u306e\u304c\u3044\u3057\u3085\u3064\u306b\u306f\u3001\u30c7\u30a3\u30ca\u30fc\u3068\u3048\u3044\u304c\u304c\u3064\u304d\u3082\u306e\u3060\u3002",
+                "romaji": "Tanoshii yoru no gaishutsu ni wa, din\u0101 to eiga ga tsukimono da."
+            }
+        ]
+    },
+    {
+        "img": "9686",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/229320.mp3",
+        "class": "noun",
+        "english": "chess",
+        "flashcardId": "2320333",
+        "meaning": "chess (noun) - a game for two players, who move their playing pieces according to particular rules across a special board to try to trap their opponent's king (=most important piece)",
+        "id": "19320",
+        "word": "\u30c1\u30a7\u30b9",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103551.mp3",
+        "kana": "\u30c1\u30a7\u30b9",
+        "romaji": "chesu",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/229324.mp3",
+                "text": "\u65e5\u672c\u306e\u30c1\u30a7\u30b9",
+                "english": "Japanese chess",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102965.mp3",
+                "kana": "\u306b\u307b\u3093\u306e\u30c1\u30a7\u30b9",
+                "romaji": "nihon no chesu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/229323.mp3",
+                "text": "\u4e2d\u56fd\u306e\u30c1\u30a7\u30b9",
+                "english": "Chinese chess",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102964.mp3",
+                "kana": "\u3061\u3085\u3046\u3054\u304f\u306e\u30c1\u30a7\u30b9",
+                "romaji": "ch\u016bgoku no chesu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/229321.mp3",
+                "text": "\u30c1\u30a7\u30b9\u306e\u8a66\u5408",
+                "english": "chess match",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102962.mp3",
+                "kana": "\u30c1\u30a7\u30b9\u306e\u3057\u3042\u3044",
+                "romaji": "chiesu no shiai"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/229322.mp3",
+                "text": "\u79c1\u306f\u3001\u8f9b\u62b1\u5f37\u3044\u4eba\u9593\u3067\u306f\u306a\u3044\u306e\u3067\u3001\u901f\u3044\u30c1\u30a7\u30b9\u306e\u65b9\u304c\u597d\u304d\u3060\u3002",
+                "english": "I'm not a patient person, so I prefer speed chess.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306f\u3001\u3057\u3093\u307c\u3046\u3065\u3088\u3044\u306b\u3093\u3052\u3093\u3067\u306f\u306a\u3044\u306e\u3067\u3001\u306f\u3084\u3044\u30c1\u30a7\u30b9\u306e\u307b\u3046\u304c\u3059\u304d\u3060\u3002",
+                "romaji": "Watashi wa, shinb\u014d zuyoi ningen de wa nai node, hayai chesu no h\u014d ga suki da."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/229324.mp3",
+                "text": "\u65e5\u672c\u306e\u30c1\u30a7\u30b9",
+                "english": "Japanese chess",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102965.mp3",
+                "kana": "\u306b\u307b\u3093\u306e\u30c1\u30a7\u30b9",
+                "romaji": "nihon no chesu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/229323.mp3",
+                "text": "\u4e2d\u56fd\u306e\u30c1\u30a7\u30b9",
+                "english": "Chinese chess",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102964.mp3",
+                "kana": "\u3061\u3085\u3046\u3054\u304f\u306e\u30c1\u30a7\u30b9",
+                "romaji": "ch\u016bgoku no chesu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/229322.mp3",
+                "text": "\u79c1\u306f\u3001\u8f9b\u62b1\u5f37\u3044\u4eba\u9593\u3067\u306f\u306a\u3044\u306e\u3067\u3001\u901f\u3044\u30c1\u30a7\u30b9\u306e\u65b9\u304c\u597d\u304d\u3060\u3002",
+                "english": "I'm not a patient person, so I prefer speed chess.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102963.mp3",
+                "kana": "\u308f\u305f\u3057\u306f\u3001\u3057\u3093\u307c\u3046\u3065\u3088\u3044\u306b\u3093\u3052\u3093\u3067\u306f\u306a\u3044\u306e\u3067\u3001\u306f\u3084\u3044\u30c1\u30a7\u30b9\u306e\u307b\u3046\u304c\u3059\u304d\u3060\u3002",
+                "romaji": "Watashi wa, shinb\u014d zuyoi ningen de wa nai node, hayai chesu no h\u014d ga suki da."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/229321.mp3",
+                "text": "\u30c1\u30a7\u30b9\u306e\u8a66\u5408",
+                "english": "chess match",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102962.mp3",
+                "kana": "\u30c1\u30a7\u30b9\u306e\u3057\u3042\u3044",
+                "romaji": "chiesu no shiai"
+            }
+        ]
+    }
+]

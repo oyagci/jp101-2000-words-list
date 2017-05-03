@@ -1,0 +1,2569 @@
+[
+    {
+        "img": "22019",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1225.mp3",
+        "class": "noun",
+        "english": "week",
+        "flashcardId": "2162487",
+        "meaning": "week (noun) - \ta period of seven days and nights",
+        "id": "485",
+        "word": "\u9031",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4258.mp3",
+        "kana": "\u3057\u3085\u3046",
+        "romaji": "sh\u016b",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200327.mp3",
+                "text": "\u4e00\u9031\u9593\u306b\u4e03\u65e5",
+                "english": "seven days a week",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/104035.mp3",
+                "kana": "\u3044\u3063\u3057\u3085\u3046\u304b\u3093\u306b\u306a\u306e\u304b",
+                "romaji": "i-ssh\u016bkan ni nanoka"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251565.mp3",
+                "text": "\u4e00\u9031\u9593\u306f\u4e03\u65e5\u3042\u308b\u3002",
+                "english": "There are seven days in a week.",
+                "en_audio": "",
+                "kana": "\u3044\u3063\u3057\u3085\u3046\u304b\u3093\u306f\u306a\u306e\u304b\u3042\u308b\u3002",
+                "romaji": "I-ssh\u016bkan wa nano-ka aru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200328.mp3",
+                "text": "\u4e00\u9031\u9593\u305a\u3063\u3068\u98a8\u90aa\u3092\u3072\u3044\u3066\u3044\u3066\u3001\u307e\u3060\u3088\u304f\u306a\u3089\u306a\u3044\u3002",
+                "english": "I've had a cold for one week, and I still haven't got better.",
+                "en_audio": "",
+                "kana": "\u3044\u3063\u3057\u3085\u3046\u304b\u3093\u305a\u3063\u3068\u304b\u305c\u3092\u3072\u3044\u3066\u3044\u3066\u3001\u307e\u3060\u3088\u304f\u306a\u3089\u306a\u3044\u3002",
+                "romaji": "I-ssh\u016bkan zutto kaze o hiite ite, mada yoku naranai."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/824617.mp3",
+                "text": "\u4e00\u9031\u9593\u306f\u4e03\u65e5\u3067\u3001\u4e00\u30f6\u6708\u306f\u56db\u9031\u9593\u3060\u3002",
+                "english": "There are seven days in one week, and four full weeks in a month.",
+                "en_audio": "",
+                "kana": "\u3044\u3063\u3057\u3085\u3046\u304b\u3093\u306f\u306a\u306e\u304b\u3067\u3001\u3044\u3063\u304b\u3052\u3064\u306f\u3088\u3093\u3057\u3085\u3046\u304b\u3093\u3060\u3002",
+                "romaji": "I-ssh\u016bkan wa nano-ka de, i-kkagetsu wa yon-sh\u016bkan da."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251565.mp3",
+                "text": "\u4e00\u9031\u9593\u306f\u4e03\u65e5\u3042\u308b\u3002",
+                "english": "There are seven days in a week.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253708.mp3",
+                "kana": "\u3044\u3063\u3057\u3085\u3046\u304b\u3093\u306f\u306a\u306e\u304b\u3042\u308b\u3002",
+                "romaji": "I-ssh\u016bkan wa nano-ka aru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200328.mp3",
+                "text": "\u4e00\u9031\u9593\u305a\u3063\u3068\u98a8\u90aa\u3092\u3072\u3044\u3066\u3044\u3066\u3001\u307e\u3060\u3088\u304f\u306a\u3089\u306a\u3044\u3002",
+                "english": "I've had a cold for one week, and I still haven't got better.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102573.mp3",
+                "kana": "\u3044\u3063\u3057\u3085\u3046\u304b\u3093\u305a\u3063\u3068\u304b\u305c\u3092\u3072\u3044\u3066\u3044\u3066\u3001\u307e\u3060\u3088\u304f\u306a\u3089\u306a\u3044\u3002",
+                "romaji": "I-ssh\u016bkan zutto kaze o hiite ite, mada yoku naranai."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200327.mp3",
+                "text": "\u4e00\u9031\u9593\u306b\u4e03\u65e5",
+                "english": "seven days a week",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/104035.mp3",
+                "kana": "\u3044\u3063\u3057\u3085\u3046\u304b\u3093\u306b\u306a\u306e\u304b",
+                "romaji": "i-ssh\u016bkan ni nanoka"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/824617.mp3",
+                "text": "\u4e00\u9031\u9593\u306f\u4e03\u65e5\u3067\u3001\u4e00\u30f6\u6708\u306f\u56db\u9031\u9593\u3060\u3002",
+                "english": "There are seven days in one week, and four full weeks in a month.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4261.mp3",
+                "kana": "\u3044\u3063\u3057\u3085\u3046\u304b\u3093\u306f\u306a\u306e\u304b\u3067\u3001\u3044\u3063\u304b\u3052\u3064\u306f\u3088\u3093\u3057\u3085\u3046\u304b\u3093\u3060\u3002",
+                "romaji": "I-ssh\u016bkan wa nano-ka de, i-kkagetsu wa yon-sh\u016bkan da."
+            }
+        ]
+    },
+    {
+        "img": "22020",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375193.mp3",
+        "class": "noun",
+        "english": "year",
+        "flashcardId": "2164106",
+        "meaning": "year (noun) - the regular period of 12 months that begins in January and ends in December",
+        "id": "487",
+        "word": "\u5e74",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3120.mp3",
+        "kana": "\u3068\u3057",
+        "romaji": "toshi",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200333.mp3",
+                "text": "\u3046\u308b\u3046\u5e74",
+                "english": "leap year",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3124.mp3",
+                "kana": "\u3046\u308b\u3046\u3069\u3057",
+                "romaji": "ur\u016bdoshi"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200332.mp3",
+                "text": "\u79c1\u306f\u6bce\u5e74\u3001\u5e74\u3092\u3068\u308b\u3002",
+                "english": "I get older every year.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306f\u307e\u3044\u3068\u3057\u3001\u3068\u3057\u3092\u3068\u308b\u3002",
+                "romaji": "Watashi wa maitoshi, toshi o toru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200333.mp3",
+                "text": "\u3046\u308b\u3046\u5e74",
+                "english": "leap year",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3124.mp3",
+                "kana": "\u3046\u308b\u3046\u3069\u3057",
+                "romaji": "ur\u016bdoshi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200332.mp3",
+                "text": "\u79c1\u306f\u6bce\u5e74\u3001\u5e74\u3092\u3068\u308b\u3002",
+                "english": "I get older every year.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3123.mp3",
+                "kana": "\u308f\u305f\u3057\u306f\u307e\u3044\u3068\u3057\u3001\u3068\u3057\u3092\u3068\u308b\u3002",
+                "romaji": "Watashi wa maitoshi, toshi o toru."
+            }
+        ]
+    },
+    {
+        "img": "22014",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/668.mp3",
+        "class": "noun",
+        "english": "today",
+        "flashcardId": "2162489",
+        "meaning": "today (noun) - the day that is happening now(yesterday, today, tomorrow)",
+        "id": "1496",
+        "word": "\u4eca\u65e5",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/88852.mp3",
+        "kana": "\u304d\u3087\u3046",
+        "romaji": "ky\u014d",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1170909.mp3",
+                "text": "\u4eca\u65e5\u306e",
+                "english": "today's",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1174401.mp3",
+                "kana": "\u304d\u3087\u3046\u306e",
+                "romaji": "ky\u014d no"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/672.mp3",
+                "text": "\u4eca\u65e5\u306e\u516d\u6642\u5341\u4e94\u5206",
+                "english": "today at 6:15",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3174.mp3",
+                "kana": "\u304d\u3087\u3046\u306e\u308d\u304f\u3058\u3058\u3085\u3046\u3054\u3075\u3093",
+                "romaji": "ky\u014d no roku-ji j\u016b-go-fun"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/670.mp3",
+                "text": "\u4eca\u65e5\u306e\u5bbf\u984c",
+                "english": "today's homework",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3176.mp3",
+                "kana": "\u304d\u3087\u3046\u306e\u3057\u3085\u304f\u3060\u3044",
+                "romaji": "ky\u014d no shukudai"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1170952.mp3",
+                "text": "\u4eca\u65e5\u306f\u3068\u3066\u3082\u5bd2\u3044\u3067\u3059\u3002",
+                "english": "It's very cold today.",
+                "en_audio": "",
+                "kana": "\u304d\u3087\u3046\u306f\u3068\u3066\u3082\u3055\u3080\u3044\u3067\u3059\u3002",
+                "romaji": "Ky\u014d wa totemo samui desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1170922.mp3",
+                "text": "\u4eca\u65e5\u306e\u5929\u6c17\u4e88\u5831\u306f\u6674\u308c\u3067\u3059\u3002",
+                "english": "Today's weather forecast is sunny.",
+                "en_audio": "",
+                "kana": "\u304d\u3087\u3046\u306e\u3066\u3093\u304d\u3088\u307b\u3046\u306f\u306f\u308c\u3067\u3059\u3002",
+                "romaji": "Ky\u014d no tenkiyoh\u014d wa hare desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200436.mp3",
+                "text": "\u4eca\u65e5\u5f7c\u5973\u306f\u3068\u3066\u3082\u60b2\u3057\u305d\u3046\u3067\u3059\u3002",
+                "english": "She looks really sad today.",
+                "en_audio": "",
+                "kana": "\u304d\u3087\u3046\u304b\u306e\u3058\u3087\u306f\u3068\u3066\u3082\u304b\u306a\u3057\u305d\u3046\u3067\u3059\u3002",
+                "romaji": "Ky\u014d kanojo wa totemo kanashi s\u014d desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/671.mp3",
+                "text": "\u4eca\u65e5\u306f\u305f\u304f\u3055\u3093\u3059\u308b\u4e8b\u304c\u3042\u308b\u3002",
+                "english": "I have a lot to do today.",
+                "en_audio": "",
+                "kana": "\u304d\u3087\u3046\u306f\u305f\u304f\u3055\u3093\u3059\u308b\u3053\u3068\u304c\u3042\u308b\u3002",
+                "romaji": "Ky\u014d wa takusan suru koto ga aru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/669.mp3",
+                "text": "\u4eca\u65e5\u306f\u3001\u4e5d\u6708\u5341\u65e5\u571f\u66dc\u65e5\u3067\u3059\u3002",
+                "english": "Today is Saturday, September 10th.",
+                "en_audio": "",
+                "kana": "\u304d\u3087\u3046\u306f\u3001\u304f\u304c\u3064\u3068\u3046\u304b\u3069\u3088\u3046\u3073\u3067\u3059\u3002",
+                "romaji": "Ky\u014d wa, ku-gatsu t\u014d-ka do-y\u014dbi desu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1170952.mp3",
+                "text": "\u4eca\u65e5\u306f\u3068\u3066\u3082\u5bd2\u3044\u3067\u3059\u3002",
+                "english": "It's very cold today.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1174497.mp3",
+                "kana": "\u304d\u3087\u3046\u306f\u3068\u3066\u3082\u3055\u3080\u3044\u3067\u3059\u3002",
+                "romaji": "Ky\u014d wa totemo samui desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1170909.mp3",
+                "text": "\u4eca\u65e5\u306e",
+                "english": "today's",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1174401.mp3",
+                "kana": "\u304d\u3087\u3046\u306e",
+                "romaji": "ky\u014d no"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1170922.mp3",
+                "text": "\u4eca\u65e5\u306e\u5929\u6c17\u4e88\u5831\u306f\u6674\u308c\u3067\u3059\u3002",
+                "english": "Today's weather forecast is sunny.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1174415.mp3",
+                "kana": "\u304d\u3087\u3046\u306e\u3066\u3093\u304d\u3088\u307b\u3046\u306f\u306f\u308c\u3067\u3059\u3002",
+                "romaji": "Ky\u014d no tenkiyoh\u014d wa hare desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200436.mp3",
+                "text": "\u4eca\u65e5\u5f7c\u5973\u306f\u3068\u3066\u3082\u60b2\u3057\u305d\u3046\u3067\u3059\u3002",
+                "english": "She looks really sad today.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3296.mp3",
+                "kana": "\u304d\u3087\u3046\u304b\u306e\u3058\u3087\u306f\u3068\u3066\u3082\u304b\u306a\u3057\u305d\u3046\u3067\u3059\u3002",
+                "romaji": "Ky\u014d kanojo wa totemo kanashi s\u014d desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/672.mp3",
+                "text": "\u4eca\u65e5\u306e\u516d\u6642\u5341\u4e94\u5206",
+                "english": "today at 6:15",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3174.mp3",
+                "kana": "\u304d\u3087\u3046\u306e\u308d\u304f\u3058\u3058\u3085\u3046\u3054\u3075\u3093",
+                "romaji": "ky\u014d no roku-ji j\u016b-go-fun"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/670.mp3",
+                "text": "\u4eca\u65e5\u306e\u5bbf\u984c",
+                "english": "today's homework",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3176.mp3",
+                "kana": "\u304d\u3087\u3046\u306e\u3057\u3085\u304f\u3060\u3044",
+                "romaji": "ky\u014d no shukudai"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/671.mp3",
+                "text": "\u4eca\u65e5\u306f\u305f\u304f\u3055\u3093\u3059\u308b\u4e8b\u304c\u3042\u308b\u3002",
+                "english": "I have a lot to do today.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3173.mp3",
+                "kana": "\u304d\u3087\u3046\u306f\u305f\u304f\u3055\u3093\u3059\u308b\u3053\u3068\u304c\u3042\u308b\u3002",
+                "romaji": "Ky\u014d wa takusan suru koto ga aru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/669.mp3",
+                "text": "\u4eca\u65e5\u306f\u3001\u4e5d\u6708\u5341\u65e5\u571f\u66dc\u65e5\u3067\u3059\u3002",
+                "english": "Today is Saturday, September 10th.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3175.mp3",
+                "kana": "\u304d\u3087\u3046\u306f\u3001\u304f\u304c\u3064\u3068\u3046\u304b\u3069\u3088\u3046\u3073\u3067\u3059\u3002",
+                "romaji": "Ky\u014d wa, ku-gatsu t\u014d-ka do-y\u014dbi desu."
+            }
+        ]
+    },
+    {
+        "img": "22015",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/405631.mp3",
+        "class": "noun",
+        "english": "tomorrow",
+        "flashcardId": "224121",
+        "meaning": "tomorrow (noun) - the day after today",
+        "id": "1504",
+        "word": "\u660e\u65e5",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/88860.mp3",
+        "kana": "\u3042\u3057\u305f",
+        "romaji": "ashita",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/678.mp3",
+                "text": "\u660e\u65e5\u306e\u5341\u6642\u5341\u5206",
+                "english": "tomorrow at 10:10",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3182.mp3",
+                "kana": "\u3042\u3057\u305f\u306e\u3058\u3085\u3046\u3058\u3058\u3085\u3063\u3077\u3093",
+                "romaji": "ashita no j\u016b-ji ju-ppun"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/677.mp3",
+                "text": "\u660e\u65e5\u306e\u5348\u5f8c",
+                "english": "tomorrow afternoon",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3179.mp3",
+                "kana": "\u3042\u3057\u305f\u306e\u3054\u3054",
+                "romaji": "ashita no gogo"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/675.mp3",
+                "text": "\u660e\u65e5\u306e\u591c",
+                "english": "tomorrow night",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3181.mp3",
+                "kana": "\u3042\u3057\u305f\u306e\u3088\u308b",
+                "romaji": "ashita no yoru"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271153.mp3",
+                "text": "\u307e\u305f\u660e\u65e5\uff01",
+                "english": "See you tomorrow!",
+                "en_audio": "",
+                "kana": "\u307e\u305f\u3042\u3057\u305f\uff01",
+                "romaji": "Mata ashita!"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227775.mp3",
+                "text": "\u660e\u65e5\u306f\u6c34\u66dc\u65e5\u3001\u660e\u5f8c\u65e5\u306f\u6728\u66dc\u65e5\u3067\u3059\u3002",
+                "english": "Tomorrow is Wednesday, and the day after tomorrow is Thursday.",
+                "en_audio": "",
+                "kana": "\u3042\u3057\u305f\u306f\u3059\u3044\u3088\u3046\u3073\u3001\u3042\u3055\u3063\u3066\u306f\u3082\u304f\u3088\u3046\u3073\u3067\u3059\u3002",
+                "romaji": "Ashita wa sui-y\u014dbi, asatte wa moku-y\u014dbi desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/676.mp3",
+                "text": "\u660e\u65e5\u306f\u79c1\u306e\u8a95\u751f\u65e5\u3067\u3059\u3002",
+                "english": "Tomorrow is my birthday.",
+                "en_audio": "",
+                "kana": "\u3042\u3057\u305f\u306f\u308f\u305f\u3057\u306e\u305f\u3093\u3058\u3087\u3046\u3073\u3067\u3059\u3002",
+                "romaji": "Ashita wa watashi no tanj\u014dbi desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/674.mp3",
+                "text": "\u660e\u65e5\u306f\u6674\u308c\u308b\u3067\u3057\u3087\u3046\u3002",
+                "english": "It will be sunny tomorrow.",
+                "en_audio": "",
+                "kana": "\u3042\u3057\u305f\u306f\u306f\u308c\u308b\u3067\u3057\u3087\u3046\u3002",
+                "romaji": "Ashita wa hareru desh\u014d."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271153.mp3",
+                "text": "\u307e\u305f\u660e\u65e5\uff01",
+                "english": "See you tomorrow!",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/64962.mp3",
+                "kana": "\u307e\u305f\u3042\u3057\u305f\uff01",
+                "romaji": "Mata ashita!"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227775.mp3",
+                "text": "\u660e\u65e5\u306f\u6c34\u66dc\u65e5\u3001\u660e\u5f8c\u65e5\u306f\u6728\u66dc\u65e5\u3067\u3059\u3002",
+                "english": "Tomorrow is Wednesday, and the day after tomorrow is Thursday.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/55020.mp3",
+                "kana": "\u3042\u3057\u305f\u306f\u3059\u3044\u3088\u3046\u3073\u3001\u3042\u3055\u3063\u3066\u306f\u3082\u304f\u3088\u3046\u3073\u3067\u3059\u3002",
+                "romaji": "Ashita wa sui-y\u014dbi, asatte wa moku-y\u014dbi desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/678.mp3",
+                "text": "\u660e\u65e5\u306e\u5341\u6642\u5341\u5206",
+                "english": "tomorrow at 10:10",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3182.mp3",
+                "kana": "\u3042\u3057\u305f\u306e\u3058\u3085\u3046\u3058\u3058\u3085\u3063\u3077\u3093",
+                "romaji": "ashita no j\u016b-ji ju-ppun"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/677.mp3",
+                "text": "\u660e\u65e5\u306e\u5348\u5f8c",
+                "english": "tomorrow afternoon",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3179.mp3",
+                "kana": "\u3042\u3057\u305f\u306e\u3054\u3054",
+                "romaji": "ashita no gogo"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/675.mp3",
+                "text": "\u660e\u65e5\u306e\u591c",
+                "english": "tomorrow night",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3181.mp3",
+                "kana": "\u3042\u3057\u305f\u306e\u3088\u308b",
+                "romaji": "ashita no yoru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/676.mp3",
+                "text": "\u660e\u65e5\u306f\u79c1\u306e\u8a95\u751f\u65e5\u3067\u3059\u3002",
+                "english": "Tomorrow is my birthday.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3178.mp3",
+                "kana": "\u3042\u3057\u305f\u306f\u308f\u305f\u3057\u306e\u305f\u3093\u3058\u3087\u3046\u3073\u3067\u3059\u3002",
+                "romaji": "Ashita wa watashi no tanj\u014dbi desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/674.mp3",
+                "text": "\u660e\u65e5\u306f\u6674\u308c\u308b\u3067\u3057\u3087\u3046\u3002",
+                "english": "It will be sunny tomorrow.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3180.mp3",
+                "kana": "\u3042\u3057\u305f\u306f\u306f\u308c\u308b\u3067\u3057\u3087\u3046\u3002",
+                "romaji": "Ashita wa hareru desh\u014d."
+            }
+        ]
+    },
+    {
+        "img": "22016",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/527101.mp3",
+        "class": "noun",
+        "english": "yesterday",
+        "flashcardId": "224122",
+        "meaning": "yesterday (noun) - the day before today",
+        "id": "1506",
+        "word": "\u6628\u65e5",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/88862.mp3",
+        "kana": "\u304d\u306e\u3046",
+        "romaji": "kin\u014d",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/683.mp3",
+                "text": "\u6628\u65e5\u306e\u5348\u5f8c",
+                "english": "yesterday afternoon",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3185.mp3",
+                "kana": "\u304d\u306e\u3046\u306e\u3054\u3054",
+                "romaji": "kin\u014d no gogo"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/680.mp3",
+                "text": "\u6628\u65e5\u306e\u671d",
+                "english": "yesterday morning",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3186.mp3",
+                "kana": "\u304d\u306e\u3046\u306e\u3042\u3055",
+                "romaji": "kin\u014d no asa"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/682.mp3",
+                "text": "\u6628\u65e5\u306f\u795d\u65e5\u3060\u3063\u305f\u306e\u3067\u3001\u79c1\u305f\u3061\u306f\u4f11\u307f\u3067\u3057\u305f\u3002",
+                "english": "Yesterday was a holiday, so we had the day off.",
+                "en_audio": "",
+                "kana": "\u304d\u306e\u3046\u306f\u3057\u3085\u304f\u3058\u3064\u3060\u3063\u305f\u306e\u3067\u3001\u308f\u305f\u3057\u305f\u3061\u306f\u3084\u3059\u307f\u3067\u3057\u305f\u3002",
+                "romaji": "Kin\u014d wa shukujitsu datta node, watasi-tachi wa yasumi deshita."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/681.mp3",
+                "text": "\u79c1\u306f\u3001\u6628\u65e5\u4f11\u307f\u307e\u3057\u305f\u3002",
+                "english": "I took a day off yesterday.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306f\u3001\u304d\u306e\u3046\u3084\u3059\u307f\u307e\u3057\u305f\u3002",
+                "romaji": "Watashi wa, kin\u014d, yasumimashita."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/683.mp3",
+                "text": "\u6628\u65e5\u306e\u5348\u5f8c",
+                "english": "yesterday afternoon",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3185.mp3",
+                "kana": "\u304d\u306e\u3046\u306e\u3054\u3054",
+                "romaji": "kin\u014d no gogo"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/682.mp3",
+                "text": "\u6628\u65e5\u306f\u795d\u65e5\u3060\u3063\u305f\u306e\u3067\u3001\u79c1\u305f\u3061\u306f\u4f11\u307f\u3067\u3057\u305f\u3002",
+                "english": "Yesterday was a holiday, so we had the day off.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3184.mp3",
+                "kana": "\u304d\u306e\u3046\u306f\u3057\u3085\u304f\u3058\u3064\u3060\u3063\u305f\u306e\u3067\u3001\u308f\u305f\u3057\u305f\u3061\u306f\u3084\u3059\u307f\u3067\u3057\u305f\u3002",
+                "romaji": "Kin\u014d wa shukujitsu datta node, watasi-tachi wa yasumi deshita."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/681.mp3",
+                "text": "\u79c1\u306f\u3001\u6628\u65e5\u4f11\u307f\u307e\u3057\u305f\u3002",
+                "english": "I took a day off yesterday.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3187.mp3",
+                "kana": "\u308f\u305f\u3057\u306f\u3001\u304d\u306e\u3046\u3084\u3059\u307f\u307e\u3057\u305f\u3002",
+                "romaji": "Watashi wa, kin\u014d, yasumimashita."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/680.mp3",
+                "text": "\u6628\u65e5\u306e\u671d",
+                "english": "yesterday morning",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3186.mp3",
+                "kana": "\u304d\u306e\u3046\u306e\u3042\u3055",
+                "romaji": "kin\u014d no asa"
+            }
+        ]
+    },
+    {
+        "img": "21796",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200503.mp3",
+        "class": "noun",
+        "english": "calendar",
+        "flashcardId": "2162492",
+        "meaning": "calendar (noun) - a set of pages that show the days, weeks, and months of a particular year, that you usually hang on a wall",
+        "id": "3598",
+        "word": "\u30ab\u30ec\u30f3\u30c0\u30fc",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262702.mp3",
+        "kana": "\u30ab\u30ec\u30f3\u30c0\u30fc",
+        "romaji": "karend\u0101",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200504.mp3",
+                "text": "\u65e5\u3054\u3068\u306e\u30ab\u30ec\u30f3\u30c0\u30fc",
+                "english": "day calendar",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262703.mp3",
+                "kana": "\u3072\u3054\u3068\u306e\u30ab\u30ec\u30f3\u30c0\u30fc",
+                "romaji": "hi-goto no karend\u0101"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271155.mp3",
+                "text": "\u79c1\u306f\u3001\u30ab\u30ec\u30f3\u30c0\u30fc\u306b\u81ea\u5206\u9054\u306e\u8a18\u5ff5\u65e5\u3092\u8a18\u3057\u307e\u3057\u305f\u3002",
+                "english": "I marked our anniversary on the calendar.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306f\u3001\u30ab\u30ec\u30f3\u30c0\u30fc\u306b\u3058\u3076\u3093\u305f\u3061\u306e\u304d\u306d\u3093\u3073\u3092\u3057\u308b\u3057\u307e\u3057\u305f\u3002",
+                "romaji": "Watashi wa, karend\u0101 ni jibun-tachi no kinenbi o shirushimashita."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271155.mp3",
+                "text": "\u79c1\u306f\u3001\u30ab\u30ec\u30f3\u30c0\u30fc\u306b\u81ea\u5206\u9054\u306e\u8a18\u5ff5\u65e5\u3092\u8a18\u3057\u307e\u3057\u305f\u3002",
+                "english": "I marked our anniversary on the calendar.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262704.mp3",
+                "kana": "\u308f\u305f\u3057\u306f\u3001\u30ab\u30ec\u30f3\u30c0\u30fc\u306b\u3058\u3076\u3093\u305f\u3061\u306e\u304d\u306d\u3093\u3073\u3092\u3057\u308b\u3057\u307e\u3057\u305f\u3002",
+                "romaji": "Watashi wa, karend\u0101 ni jibun-tachi no kinenbi o shirushimashita."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200504.mp3",
+                "text": "\u65e5\u3054\u3068\u306e\u30ab\u30ec\u30f3\u30c0\u30fc",
+                "english": "day calendar",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262703.mp3",
+                "kana": "\u3072\u3054\u3068\u306e\u30ab\u30ec\u30f3\u30c0\u30fc",
+                "romaji": "hi-goto no karend\u0101"
+            }
+        ]
+    },
+    {
+        "img": "22047",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/701.mp3",
+        "class": "noun",
+        "english": "second",
+        "flashcardId": "2164109",
+        "meaning": "second (noun) - time measurement",
+        "id": "504",
+        "word": "\u79d2",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/91685.mp3",
+        "kana": "\u3073\u3087\u3046",
+        "romaji": "by\u014d",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/702.mp3",
+                "text": "\u5341\u79d2\u9593",
+                "english": "for ten seconds",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3245.mp3",
+                "kana": "\u3058\u3085\u3046\u3073\u3087\u3046\u304b\u3093",
+                "romaji": "j\u016b-by\u014d-kan"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200353.mp3",
+                "text": "\u4e00\u5206\u9593\u306f\u516d\u5341\u79d2\u3042\u308a\u307e\u3059\u3002",
+                "english": "There are sixty seconds in a minute.",
+                "en_audio": "",
+                "kana": "\u3044\u3063\u3077\u3093\u304b\u3093\u306f\u308d\u304f\u3058\u3085\u3046\u3073\u3087\u3046\u3042\u308a\u307e\u3059\u3002",
+                "romaji": "I-ppun-kan wa roku-j\u016b-by\u014d arimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/258600.mp3",
+                "text": "\u30b9\u30c8\u30c3\u30d7\u30a6\u30a9\u30c3\u30c1\u3067\u3042\u3068\u4e94\u5341\u516b\u79d2\u3042\u308b\u3002",
+                "english": "There are fifty eight seconds left on the stopwatch.",
+                "en_audio": "",
+                "kana": "\u30b9\u30c8\u30c3\u30d7\u30a6\u30a9\u30c3\u30c1\u3067\u3042\u3068\u3054\u3058\u3085\u3046\u306f\u3061\u3073\u3087\u3046\u3042\u308b\u3002",
+                "romaji": "Sutoppuwotchi de ato go-j\u016b hachi-by\u014d aru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200353.mp3",
+                "text": "\u4e00\u5206\u9593\u306f\u516d\u5341\u79d2\u3042\u308a\u307e\u3059\u3002",
+                "english": "There are sixty seconds in a minute.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3260.mp3",
+                "kana": "\u3044\u3063\u3077\u3093\u304b\u3093\u306f\u308d\u304f\u3058\u3085\u3046\u3073\u3087\u3046\u3042\u308a\u307e\u3059\u3002",
+                "romaji": "I-ppun-kan wa roku-j\u016b-by\u014d arimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/258600.mp3",
+                "text": "\u30b9\u30c8\u30c3\u30d7\u30a6\u30a9\u30c3\u30c1\u3067\u3042\u3068\u4e94\u5341\u516b\u79d2\u3042\u308b\u3002",
+                "english": "There are fifty eight seconds left on the stopwatch.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253719.mp3",
+                "kana": "\u30b9\u30c8\u30c3\u30d7\u30a6\u30a9\u30c3\u30c1\u3067\u3042\u3068\u3054\u3058\u3085\u3046\u306f\u3061\u3073\u3087\u3046\u3042\u308b\u3002",
+                "romaji": "Sutoppuwotchi de ato go-j\u016b hachi-by\u014d aru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/702.mp3",
+                "text": "\u5341\u79d2\u9593",
+                "english": "for ten seconds",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3245.mp3",
+                "kana": "\u3058\u3085\u3046\u3073\u3087\u3046\u304b\u3093",
+                "romaji": "j\u016b-by\u014d-kan"
+            }
+        ]
+    },
+    {
+        "img": "22041",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/706.mp3",
+        "class": "noun",
+        "english": "hour",
+        "flashcardId": "224127",
+        "meaning": "hour (noun) - time measurement for hour",
+        "id": "505",
+        "word": "\u6642\u9593",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3248.mp3",
+        "kana": "\u3058\u304b\u3093",
+        "romaji": "jikan",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/709.mp3",
+                "text": "\u4e00\u6642\u9593\u96e2\u308c\u305f",
+                "english": "an hour away",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3252.mp3",
+                "kana": "\u3044\u3061\u3058\u304b\u3093\u306f\u306a\u308c\u305f",
+                "romaji": "ichi-jikan hanareta"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/712.mp3",
+                "text": "\u4e00\u6642\u9593\u306f\u516d\u5341\u5206\u3067\u3059\u3002",
+                "english": "There are 60 minutes in an hour.",
+                "en_audio": "",
+                "kana": "\u3044\u3061\u3058\u304b\u3093\u306f\u308d\u304f\u3058\u3085\u3063\u3077\u3093\u3067\u3059\u3002",
+                "romaji": "Ichi-jikan wa roku-juppun desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/711.mp3",
+                "text": "\u79c1\u306f\u8077\u5834\u304b\u3089\u4e00\u6642\u9593\u3067\u5bb6\u306b\u7740\u304f\u3060\u308d\u3046\u3002",
+                "english": "I\u2019ll be home from work in an hour.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306f\u3057\u3087\u304f\u3070\u304b\u3089\u3044\u3061\u3058\u304b\u3093\u3067\u3046\u3061\u306b\u3064\u304f\u3060\u308d\u3046\u3002",
+                "romaji": "Watashi wa shokuba kara ichi-jikan de uchi ni tsuku dar\u014d."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/708.mp3",
+                "text": "\u308f\u305f\u3057\u306f\u3001\u6bce\u65e5\u516b\u6642\u9593\u7720\u308b\u3002",
+                "english": "I sleep for 8 hours every day.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306f\u3001\u307e\u3044\u306b\u3061\u306f\u3061\u3058\u304b\u3093\u306d\u3080\u308b\u3002",
+                "romaji": "Watashi wa, mainichi hachi-jikan nemuru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/712.mp3",
+                "text": "\u4e00\u6642\u9593\u306f\u516d\u5341\u5206\u3067\u3059\u3002",
+                "english": "There are 60 minutes in an hour.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3255.mp3",
+                "kana": "\u3044\u3061\u3058\u304b\u3093\u306f\u308d\u304f\u3058\u3085\u3063\u3077\u3093\u3067\u3059\u3002",
+                "romaji": "Ichi-jikan wa roku-juppun desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/711.mp3",
+                "text": "\u79c1\u306f\u8077\u5834\u304b\u3089\u4e00\u6642\u9593\u3067\u5bb6\u306b\u7740\u304f\u3060\u308d\u3046\u3002",
+                "english": "I\u2019ll be home from work in an hour.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3251.mp3",
+                "kana": "\u308f\u305f\u3057\u306f\u3057\u3087\u304f\u3070\u304b\u3089\u3044\u3061\u3058\u304b\u3093\u3067\u3046\u3061\u306b\u3064\u304f\u3060\u308d\u3046\u3002",
+                "romaji": "Watashi wa shokuba kara ichi-jikan de uchi ni tsuku dar\u014d."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/709.mp3",
+                "text": "\u4e00\u6642\u9593\u96e2\u308c\u305f",
+                "english": "an hour away",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3252.mp3",
+                "kana": "\u3044\u3061\u3058\u304b\u3093\u306f\u306a\u308c\u305f",
+                "romaji": "ichi-jikan hanareta"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/708.mp3",
+                "text": "\u308f\u305f\u3057\u306f\u3001\u6bce\u65e5\u516b\u6642\u9593\u7720\u308b\u3002",
+                "english": "I sleep for 8 hours every day.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3254.mp3",
+                "kana": "\u308f\u305f\u3057\u306f\u3001\u307e\u3044\u306b\u3061\u306f\u3061\u3058\u304b\u3093\u306d\u3080\u308b\u3002",
+                "romaji": "Watashi wa, mainichi hachi-jikan nemuru."
+            }
+        ]
+    },
+    {
+        "img": "22043",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/713.mp3",
+        "class": "noun",
+        "english": "minute",
+        "flashcardId": "224128",
+        "meaning": "minute (noun) - time measurement for minute",
+        "id": "506",
+        "word": "\u5206",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3257.mp3",
+        "kana": "\u3075\u3093",
+        "romaji": "fun",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/714.mp3",
+                "text": "\u4e09\u5206",
+                "english": "three minutes",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3263.mp3",
+                "kana": "\u3055\u3093\u3077\u3093",
+                "romaji": "san-pun"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/70545.mp3",
+                "text": "\u4e00\u5206\u306f\u516d\u5341\u79d2\u3067\u3059\u3002",
+                "english": "There are sixty seconds in a minute.",
+                "en_audio": "",
+                "kana": "\u3044\u3063\u3077\u3093\u306f\u308d\u304f\u3058\u3085\u3046\u3073\u3087\u3046\u3067\u3059\u3002",
+                "romaji": "I-ppun wa roku-j\u016b-by\u014d desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/824518.mp3",
+                "text": "\u591c\u4e2d\u306e\u5341\u4e8c\u6642\u306e\u4e00\u5206\u524d\u3067\u3059\u3002",
+                "english": "It's one minute to midnight.",
+                "en_audio": "",
+                "kana": "\u3088\u306a\u304b\u306e\u3058\u3085\u3046\u306b\u3058\u306e\u3044\u3063\u3077\u3093\u307e\u3048\u3067\u3059\u3002",
+                "romaji": "Yonaka no j\u016b ni-ji no i-ppun mae desu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/70545.mp3",
+                "text": "\u4e00\u5206\u306f\u516d\u5341\u79d2\u3067\u3059\u3002",
+                "english": "There are sixty seconds in a minute.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3260.mp3",
+                "kana": "\u3044\u3063\u3077\u3093\u306f\u308d\u304f\u3058\u3085\u3046\u3073\u3087\u3046\u3067\u3059\u3002",
+                "romaji": "I-ppun wa roku-j\u016b-by\u014d desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/824518.mp3",
+                "text": "\u591c\u4e2d\u306e\u5341\u4e8c\u6642\u306e\u4e00\u5206\u524d\u3067\u3059\u3002",
+                "english": "It's one minute to midnight.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3262.mp3",
+                "kana": "\u3088\u306a\u304b\u306e\u3058\u3085\u3046\u306b\u3058\u306e\u3044\u3063\u3077\u3093\u307e\u3048\u3067\u3059\u3002",
+                "romaji": "Yonaka no j\u016b ni-ji no i-ppun mae desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/714.mp3",
+                "text": "\u4e09\u5206",
+                "english": "three minutes",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3263.mp3",
+                "kana": "\u3055\u3093\u3077\u3093",
+                "romaji": "san-pun"
+            }
+        ]
+    },
+    {
+        "img": "22044",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/719.mp3",
+        "class": "noun",
+        "english": "o'clock",
+        "flashcardId": "1770717",
+        "meaning": "o'clock (adverb) - of, by, or according to the clock (used in specifying the hour of the day): It is now 4 o'clock.",
+        "id": "511",
+        "word": "\u6642",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87738.mp3",
+        "kana": "\u3058",
+        "romaji": "ji",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/723.mp3",
+                "text": "\u4e09\u6642",
+                "english": "3 o\u2019clock",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3270.mp3",
+                "kana": "\u3055\u3093\u3058",
+                "romaji": "san-ji"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/720.mp3",
+                "text": "\u4e09\u6642\u306b",
+                "english": "at three o'clock",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3271.mp3",
+                "kana": "\u3055\u3093\u3058\u306b",
+                "romaji": "san-ji ni"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/722.mp3",
+                "text": "\u5b66\u6821\u306f\u5348\u5f8c\u4e09\u6642\u306b\u7d42\u308f\u308a\u307e\u3059\u3002",
+                "english": "School ends at 3 o\u2019clock in the afternoon.",
+                "en_audio": "",
+                "kana": "\u304c\u3063\u3053\u3046\u306f\u3054\u3054\u3055\u3093\u3058\u306b\u304a\u308f\u308a\u307e\u3059\u3002",
+                "romaji": "Gakk\u014d wa gogo san-ji ni owarimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/721.mp3",
+                "text": "\u4e5d\u6642\u306b\u99c5\u3067\u5f85\u3061\u5408\u308f\u305b\u307e\u3057\u3087\u3046\u3002",
+                "english": "Let's meet at the station at 9 o'clock.",
+                "en_audio": "",
+                "kana": "\u304f\u3058\u306b\u3048\u304d\u3067\u307e\u3061\u3042\u308f\u305b\u307e\u3057\u3087\u3046\u3002",
+                "romaji": "Ku-ji ni eki de machiawasemash\u014d."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/723.mp3",
+                "text": "\u4e09\u6642",
+                "english": "3 o\u2019clock",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3270.mp3",
+                "kana": "\u3055\u3093\u3058",
+                "romaji": "san-ji"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/722.mp3",
+                "text": "\u5b66\u6821\u306f\u5348\u5f8c\u4e09\u6642\u306b\u7d42\u308f\u308a\u307e\u3059\u3002",
+                "english": "School ends at 3 o\u2019clock in the afternoon.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3269.mp3",
+                "kana": "\u304c\u3063\u3053\u3046\u306f\u3054\u3054\u3055\u3093\u3058\u306b\u304a\u308f\u308a\u307e\u3059\u3002",
+                "romaji": "Gakk\u014d wa gogo san-ji ni owarimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/721.mp3",
+                "text": "\u4e5d\u6642\u306b\u99c5\u3067\u5f85\u3061\u5408\u308f\u305b\u307e\u3057\u3087\u3046\u3002",
+                "english": "Let's meet at the station at 9 o'clock.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3272.mp3",
+                "kana": "\u304f\u3058\u306b\u3048\u304d\u3067\u307e\u3061\u3042\u308f\u305b\u307e\u3057\u3087\u3046\u3002",
+                "romaji": "Ku-ji ni eki de machiawasemash\u014d."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/720.mp3",
+                "text": "\u4e09\u6642\u306b",
+                "english": "at three o'clock",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3271.mp3",
+                "kana": "\u3055\u3093\u3058\u306b",
+                "romaji": "san-ji ni"
+            }
+        ]
+    },
+    {
+        "img": "20235",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200497.mp3",
+        "class": "noun",
+        "english": "clock",
+        "flashcardId": "224130",
+        "meaning": "clock (noun) - \tan instrument that shows what time it is, in a room or outside on a building",
+        "id": "3595",
+        "word": "\u6642\u8a08",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/104222.mp3",
+        "kana": "\u3068\u3051\u3044",
+        "romaji": "tokei",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206866.mp3",
+                "text": "\u76ee\u899a\u307e\u3057\u6642\u8a08\u3092\u30bb\u30c3\u30c8\u3059\u308b",
+                "english": "set an alarm clock",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86182.mp3",
+                "kana": "\u3081\u3056\u307e\u3057\u3069\u3051\u3044\u3092\u30bb\u30c3\u30c8\u3059\u308b",
+                "romaji": "mezamashidokei o setto suru"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200502.mp3",
+                "text": "\u76ee\u899a\u307e\u3057\u6642\u8a08\u306f\u4e94\u6642\u306b\u30bb\u30c3\u30c8\u3055\u308c\u3066\u3044\u308b\u3002",
+                "english": "The alarm clock is set for 5 a.m.",
+                "en_audio": "",
+                "kana": "\u3081\u3056\u307e\u3057\u3069\u3051\u3044\u306f\u3054\u3058\u306b\u30bb\u30c3\u30c8\u3055\u308c\u3066\u3044\u308b\u3002",
+                "romaji": "Mezamashidokei wa go-ji ni setto sarete iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200502.mp3",
+                "text": "\u76ee\u899a\u307e\u3057\u6642\u8a08\u306f\u4e94\u6642\u306b\u30bb\u30c3\u30c8\u3055\u308c\u3066\u3044\u308b\u3002",
+                "english": "The alarm clock is set for 5 a.m.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86183.mp3",
+                "kana": "\u3081\u3056\u307e\u3057\u3069\u3051\u3044\u306f\u3054\u3058\u306b\u30bb\u30c3\u30c8\u3055\u308c\u3066\u3044\u308b\u3002",
+                "romaji": "Mezamashidokei wa go-ji ni setto sarete iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206866.mp3",
+                "text": "\u76ee\u899a\u307e\u3057\u6642\u8a08\u3092\u30bb\u30c3\u30c8\u3059\u308b",
+                "english": "set an alarm clock",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86182.mp3",
+                "kana": "\u3081\u3056\u307e\u3057\u3069\u3051\u3044\u3092\u30bb\u30c3\u30c8\u3059\u308b",
+                "romaji": "mezamashidokei o setto suru"
+            }
+        ]
+    },
+    {
+        "img": "9008",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1129.mp3",
+        "class": "verb",
+        "english": "can",
+        "flashcardId": "1966469",
+        "meaning": "can (verb) - the meaning as able",
+        "id": "1044",
+        "word": "\u3067\u304d\u308b",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89127.mp3",
+        "kana": "\u3067\u304d\u308b",
+        "romaji": "dekiru",
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1133.mp3",
+                "text": "\u79c1\u306f\u4e2d\u56fd\u8a9e\u3067\u4e00\u304b\u3089\u5341\u307e\u3067\u6570\u3048\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002",
+                "english": "I can count from one to ten in Chinese.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306f\u3061\u3085\u3046\u3054\u304f\u3054\u3067\u3044\u3061\u304b\u3089\u3058\u3085\u3046\u307e\u3067\u304b\u305e\u3048\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002",
+                "romaji": "Watashi wa Ch\u016bgoku-go de ichi kara j\u016b made kazoeru koto ga dekiru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227147.mp3",
+                "text": "\u5f7c\u306f\u3001\u8eca\u306e\u904b\u8ee2\u306f\u3067\u304d\u308b\u304c\u3001\u3042\u307e\u308a\u4e0a\u624b\u3067\u306f\u306a\u3044\u3002",
+                "english": "He can drive, but not very well.",
+                "en_audio": "",
+                "kana": "\u304b\u308c\u306f\u3001\u304f\u308b\u307e\u306e\u3046\u3093\u3066\u3093\u306f\u3067\u304d\u308b\u304c\u3001\u3042\u307e\u308a\u3058\u3087\u3046\u305a\u3067\u306f\u306a\u3044\u3002",
+                "romaji": "Kare wa, kuruma no unten wa dekiru ga, amari j\u014dzu de wa nai."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1133.mp3",
+                "text": "\u79c1\u306f\u4e2d\u56fd\u8a9e\u3067\u4e00\u304b\u3089\u5341\u307e\u3067\u6570\u3048\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002",
+                "english": "I can count from one to ten in Chinese.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4102.mp3",
+                "kana": "\u308f\u305f\u3057\u306f\u3061\u3085\u3046\u3054\u304f\u3054\u3067\u3044\u3061\u304b\u3089\u3058\u3085\u3046\u307e\u3067\u304b\u305e\u3048\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002",
+                "romaji": "Watashi wa Ch\u016bgoku-go de ichi kara j\u016b made kazoeru koto ga dekiru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227147.mp3",
+                "text": "\u5f7c\u306f\u3001\u8eca\u306e\u904b\u8ee2\u306f\u3067\u304d\u308b\u304c\u3001\u3042\u307e\u308a\u4e0a\u624b\u3067\u306f\u306a\u3044\u3002",
+                "english": "He can drive, but not very well.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4104.mp3",
+                "kana": "\u304b\u308c\u306f\u3001\u304f\u308b\u307e\u306e\u3046\u3093\u3066\u3093\u306f\u3067\u304d\u308b\u304c\u3001\u3042\u307e\u308a\u3058\u3087\u3046\u305a\u3067\u306f\u306a\u3044\u3002",
+                "romaji": "Kare wa, kuruma no unten wa dekiru ga, amari j\u014dzu de wa nai."
+            }
+        ]
+    },
+    {
+        "img": "17270",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1134.mp3",
+        "class": "verb",
+        "english": "use",
+        "flashcardId": "2164080",
+        "meaning": "use (verb) - if you use a particular tool, method, service, ability etc, you do something with that tool, by means of that method etc, for a particular purpose",
+        "id": "1595",
+        "word": "\u4f7f\u3046",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4105.mp3",
+        "kana": "\u3064\u304b\u3046",
+        "romaji": "tsukau",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227851.mp3",
+                "text": "\u30d1\u30bd\u30b3\u30f3\u3092\u4f7f\u3046",
+                "english": "use a computer",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198419.mp3",
+                "kana": "\u30d1\u30bd\u30b3\u30f3\u3092\u3064\u304b\u3046",
+                "romaji": "pasokon o tsukau"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1136.mp3",
+                "text": "\u96fb\u8eca\u3092\u4f7f\u3046",
+                "english": "use a train",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4111.mp3",
+                "kana": "\u3067\u3093\u3057\u3083\u3092\u3064\u304b\u3046",
+                "romaji": "densha o tsukau"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305115.mp3",
+                "text": "\u30d7\u30ed\u30b0\u30e9\u30de\u30fc\u304c\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u3092\u4f7f\u3046\u3002",
+                "english": "The programmer uses the computer.",
+                "en_audio": "",
+                "kana": "\u30d7\u30ed\u30b0\u30e9\u30de\u30fc\u304c\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u3092\u3064\u304b\u3046\u3002",
+                "romaji": "Puroguram\u0101 ga konpy\u016bta o tsukau."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305116.mp3",
+                "text": "\u30d7\u30ed\u30b0\u30e9\u30de\u30fc\u304c\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u3092\u4f7f\u3063\u305f\u3002",
+                "english": "The programmer used the computer.",
+                "en_audio": "",
+                "kana": "\u30d7\u30ed\u30b0\u30e9\u30de\u30fc\u304c\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u3092\u3064\u304b\u3063\u305f\u3002",
+                "romaji": "Puroguram\u0101 ga konpy\u016bta o tsukatta."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305114.mp3",
+                "text": "\u30d7\u30ed\u30b0\u30e9\u30de\u30fc\u304c\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u3092\u4f7f\u3063\u3066\u3044\u308b\u3002",
+                "english": "The programmer is using the computer.",
+                "en_audio": "",
+                "kana": "\u30d7\u30ed\u30b0\u30e9\u30de\u30fc\u304c\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u3092\u3064\u304b\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Puroguram\u0101 ga konpy\u016bta o tsukatte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251476.mp3",
+                "text": "\u305d\u306e\u4eba\u306f\u3001Email\u3092\u9001\u308b\u306e\u306b\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fc\u3092\u4f7f\u3063\u3066\u3044\u308b\u3002",
+                "english": "The person is using a computer to write an e-mail.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u3072\u3068\u306f\u3001\u30a4\u30fc\u30e1\u30fc\u30eb\u3092\u304a\u304f\u308b\u306e\u306b\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fc\u3092\u3064\u304b\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Sono hito wa, \u012bm\u0113ru o okuru no ni konpy\u016bt\u0101 o tsukatte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1137.mp3",
+                "text": "\u5927\u5de5\u306f\u5bb6\u3092\u5efa\u3066\u308b\u3068\u304d\u3001\u305f\u304f\u3055\u3093\u306e\u9053\u5177\u3092\u4f7f\u3046\u3002",
+                "english": "A carpenter uses a lot of tools when building a house.",
+                "en_audio": "",
+                "kana": "\u3060\u3044\u304f\u306f\u3044\u3048\u3092\u305f\u3066\u308b\u3068\u304d\u3001\u305f\u304f\u3055\u3093\u306e\u3069\u3046\u3050\u3092\u3064\u304b\u3046\u3002",
+                "romaji": "Daiku wa ie o tateru toki, takusan no d\u014dgu o tsukau."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305115.mp3",
+                "text": "\u30d7\u30ed\u30b0\u30e9\u30de\u30fc\u304c\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u3092\u4f7f\u3046\u3002",
+                "english": "The programmer uses the computer.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/303457.mp3",
+                "kana": "\u30d7\u30ed\u30b0\u30e9\u30de\u30fc\u304c\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u3092\u3064\u304b\u3046\u3002",
+                "romaji": "Puroguram\u0101 ga konpy\u016bta o tsukau."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305116.mp3",
+                "text": "\u30d7\u30ed\u30b0\u30e9\u30de\u30fc\u304c\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u3092\u4f7f\u3063\u305f\u3002",
+                "english": "The programmer used the computer.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/303458.mp3",
+                "kana": "\u30d7\u30ed\u30b0\u30e9\u30de\u30fc\u304c\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u3092\u3064\u304b\u3063\u305f\u3002",
+                "romaji": "Puroguram\u0101 ga konpy\u016bta o tsukatta."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305114.mp3",
+                "text": "\u30d7\u30ed\u30b0\u30e9\u30de\u30fc\u304c\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u3092\u4f7f\u3063\u3066\u3044\u308b\u3002",
+                "english": "The programmer is using the computer.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/302989.mp3",
+                "kana": "\u30d7\u30ed\u30b0\u30e9\u30de\u30fc\u304c\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u3092\u3064\u304b\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Puroguram\u0101 ga konpy\u016bta o tsukatte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251476.mp3",
+                "text": "\u305d\u306e\u4eba\u306f\u3001Email\u3092\u9001\u308b\u306e\u306b\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fc\u3092\u4f7f\u3063\u3066\u3044\u308b\u3002",
+                "english": "The person is using a computer to write an e-mail.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1178597.mp3",
+                "kana": "\u305d\u306e\u3072\u3068\u306f\u3001\u30a4\u30fc\u30e1\u30fc\u30eb\u3092\u304a\u304f\u308b\u306e\u306b\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fc\u3092\u3064\u304b\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Sono hito wa, \u012bm\u0113ru o okuru no ni konpy\u016bt\u0101 o tsukatte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1137.mp3",
+                "text": "\u5927\u5de5\u306f\u5bb6\u3092\u5efa\u3066\u308b\u3068\u304d\u3001\u305f\u304f\u3055\u3093\u306e\u9053\u5177\u3092\u4f7f\u3046\u3002",
+                "english": "A carpenter uses a lot of tools when building a house.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4108.mp3",
+                "kana": "\u3060\u3044\u304f\u306f\u3044\u3048\u3092\u305f\u3066\u308b\u3068\u304d\u3001\u305f\u304f\u3055\u3093\u306e\u3069\u3046\u3050\u3092\u3064\u304b\u3046\u3002",
+                "romaji": "Daiku wa ie o tateru toki, takusan no d\u014dgu o tsukau."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227851.mp3",
+                "text": "\u30d1\u30bd\u30b3\u30f3\u3092\u4f7f\u3046",
+                "english": "use a computer",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198419.mp3",
+                "kana": "\u30d1\u30bd\u30b3\u30f3\u3092\u3064\u304b\u3046",
+                "romaji": "pasokon o tsukau"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1136.mp3",
+                "text": "\u96fb\u8eca\u3092\u4f7f\u3046",
+                "english": "use a train",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4111.mp3",
+                "kana": "\u3067\u3093\u3057\u3083\u3092\u3064\u304b\u3046",
+                "romaji": "densha o tsukau"
+            }
+        ]
+    },
+    {
+        "img": "9432",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/616.mp3",
+        "class": "verb",
+        "english": "do",
+        "flashcardId": "224107",
+        "meaning": "do (verb) - to perform an action or activity",
+        "id": "344",
+        "word": "\u3059\u308b",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3066.mp3",
+        "kana": "\u3059\u308b",
+        "romaji": "suru",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305084.mp3",
+                "text": "\u5bb6\u4e8b\u3092\u3059\u308b",
+                "english": "do housework",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/304013.mp3",
+                "kana": "\u304b\u3058\u3092\u3059\u308b",
+                "romaji": "kaji o suru"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305080.mp3",
+                "text": "\u5973\u306e\u4eba\u304c\u5bb6\u4e8b\u3092\u3057\u305f\u3002",
+                "english": "The woman did housework.",
+                "en_audio": "",
+                "kana": "\u304a\u3093\u306a\u306e\u3072\u3068\u304c\u304b\u3058\u3092\u3057\u305f\u3002",
+                "romaji": "Onna no hito ga kaji o shita."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1170896.mp3",
+                "text": "\u571f\u66dc\u65e5\u306f\u3001\u5bb6\u4e8b\u3092\u3057\u307e\u3059\u3002",
+                "english": "I do housework on Saturdays.",
+                "en_audio": "",
+                "kana": "\u3069\u3088\u3046\u3073\u306f\u3001\u304b\u3058\u3092\u3057\u307e\u3059\u3002",
+                "romaji": "Do-y\u014dbi wa kaji o shimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305079.mp3",
+                "text": "\u5973\u306e\u4eba\u304c\u5bb6\u4e8b\u3092\u3059\u308b\u3002",
+                "english": "The woman does housework.",
+                "en_audio": "",
+                "kana": "\u304a\u3093\u306a\u306e\u3072\u3068\u304c\u304b\u3058\u3092\u3059\u308b\u3002",
+                "romaji": "Onna no hito ga kaji o suru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305078.mp3",
+                "text": "\u5973\u306e\u4eba\u304c\u5bb6\u4e8b\u3092\u3057\u3066\u3044\u308b\u3002",
+                "english": "The woman is doing housework.",
+                "en_audio": "",
+                "kana": "\u304a\u3093\u306a\u306e\u3072\u3068\u304c\u304b\u3058\u3092\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Onna no hito ga kaji o shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/620.mp3",
+                "text": "\u79c1\u306b\u306f\u3001\u3059\u308b\u3079\u304d\u4ed5\u4e8b\u304c\u305f\u304f\u3055\u3093\u3042\u308b\u3002",
+                "english": "I have so much work to do!",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306b\u306f\u3001\u3059\u308b\u3079\u304d\u3057\u3054\u3068\u304c\u305f\u304f\u3055\u3093\u3042\u308b\u3002",
+                "romaji": "Watashi ni wa, suru beki shigoto ga takusan aru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/530727.mp3",
+                "text": "\u308f\u305f\u3057\u306f\u3001\u6bce\u65e5\u5b66\u6821\u306e\u5f8c\u3001\u5bbf\u984c\u3092\u3057\u307e\u3059\u3002",
+                "english": "I do homework every day after school.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306f\u3001\u307e\u3044\u306b\u3061\u304c\u3063\u3053\u3046\u306e\u3042\u3068\u3001\u3057\u3085\u304f\u3060\u3044\u3092\u3057\u307e\u3059\u3002",
+                "romaji": "Watashi wa, mainichi gakk\u014d no ato, shukudai o shimasu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305080.mp3",
+                "text": "\u5973\u306e\u4eba\u304c\u5bb6\u4e8b\u3092\u3057\u305f\u3002",
+                "english": "The woman did housework.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/303443.mp3",
+                "kana": "\u304a\u3093\u306a\u306e\u3072\u3068\u304c\u304b\u3058\u3092\u3057\u305f\u3002",
+                "romaji": "Onna no hito ga kaji o shita."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1170896.mp3",
+                "text": "\u571f\u66dc\u65e5\u306f\u3001\u5bb6\u4e8b\u3092\u3057\u307e\u3059\u3002",
+                "english": "I do housework on Saturdays.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1174335.mp3",
+                "kana": "\u3069\u3088\u3046\u3073\u306f\u3001\u304b\u3058\u3092\u3057\u307e\u3059\u3002",
+                "romaji": "Do-y\u014dbi wa kaji o shimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305084.mp3",
+                "text": "\u5bb6\u4e8b\u3092\u3059\u308b",
+                "english": "do housework",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/304013.mp3",
+                "kana": "\u304b\u3058\u3092\u3059\u308b",
+                "romaji": "kaji o suru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305079.mp3",
+                "text": "\u5973\u306e\u4eba\u304c\u5bb6\u4e8b\u3092\u3059\u308b\u3002",
+                "english": "The woman does housework.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/303442.mp3",
+                "kana": "\u304a\u3093\u306a\u306e\u3072\u3068\u304c\u304b\u3058\u3092\u3059\u308b\u3002",
+                "romaji": "Onna no hito ga kaji o suru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305078.mp3",
+                "text": "\u5973\u306e\u4eba\u304c\u5bb6\u4e8b\u3092\u3057\u3066\u3044\u308b\u3002",
+                "english": "The woman is doing housework.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/310905.mp3",
+                "kana": "\u304a\u3093\u306a\u306e\u3072\u3068\u304c\u304b\u3058\u3092\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Onna no hito ga kaji o shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/620.mp3",
+                "text": "\u79c1\u306b\u306f\u3001\u3059\u308b\u3079\u304d\u4ed5\u4e8b\u304c\u305f\u304f\u3055\u3093\u3042\u308b\u3002",
+                "english": "I have so much work to do!",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3069.mp3",
+                "kana": "\u308f\u305f\u3057\u306b\u306f\u3001\u3059\u308b\u3079\u304d\u3057\u3054\u3068\u304c\u305f\u304f\u3055\u3093\u3042\u308b\u3002",
+                "romaji": "Watashi ni wa, suru beki shigoto ga takusan aru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/530727.mp3",
+                "text": "\u308f\u305f\u3057\u306f\u3001\u6bce\u65e5\u5b66\u6821\u306e\u5f8c\u3001\u5bbf\u984c\u3092\u3057\u307e\u3059\u3002",
+                "english": "I do homework every day after school.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3071.mp3",
+                "kana": "\u308f\u305f\u3057\u306f\u3001\u307e\u3044\u306b\u3061\u304c\u3063\u3053\u3046\u306e\u3042\u3068\u3001\u3057\u3085\u304f\u3060\u3044\u3092\u3057\u307e\u3059\u3002",
+                "romaji": "Watashi wa, mainichi gakk\u014d no ato, shukudai o shimasu."
+            }
+        ]
+    },
+    {
+        "img": "9499",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375123.mp3",
+        "class": "verb",
+        "english": "go",
+        "flashcardId": "2163717",
+        "meaning": "go (verb) - to move on a course",
+        "id": "347",
+        "word": "\u884c\u304f",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3073.mp3",
+        "kana": "\u3044\u304f",
+        "romaji": "iku",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1021984.mp3",
+                "text": "\u5b66\u6821\u306b\u884c\u304f",
+                "english": "I go to school",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1591333.mp3",
+                "kana": "\u304c\u3063\u3053\u3046\u306b\u3044\u304f",
+                "romaji": "gakk\u014d ni iku"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226345.mp3",
+                "text": "\u771f\u3063\u3059\u3050\u524d\u306b\u884c\u304f",
+                "english": "go straight ahead",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254228.mp3",
+                "kana": "\u307e\u3063\u3059\u3050\u307e\u3048\u306b\u3044\u304f",
+                "romaji": "massugu mae ni iku"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/623.mp3",
+                "text": "\u516c\u5712\u306b\u884c\u304f",
+                "english": "go to the park",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3079.mp3",
+                "kana": "\u3053\u3046\u3048\u3093\u306b\u3044\u304f",
+                "romaji": "k\u014den ni iku"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/555112.mp3",
+                "text": "\u884c\u304f\u3068\u3053\u308d\u304c\u7121\u3044",
+                "english": "nowhere to go",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3077.mp3",
+                "kana": "\u3044\u304f\u3068\u3053\u308d\u304c\u306a\u3044",
+                "romaji": "iku tokoro ga nai"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1175279.mp3",
+                "text": "\u6b69\u3044\u3066\u3001\u5b66\u6821\u306b\u884c\u304d\u307e\u3059\u3002",
+                "english": "I go to school on foot.",
+                "en_audio": "",
+                "kana": "\u3042\u308b\u3044\u3066\u3001\u304c\u3063\u3053\u3046\u306b\u3044\u304d\u307e\u3059\u3002",
+                "romaji": "Aruite, gakk\u014d ni ikimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/527148.mp3",
+                "text": "\u3082\u3046\u3001\u79c1\u306e\u59c9\u59b9\u304c\u7a7a\u6e2f\u306b\u884c\u304f\u6642\u9593\u3067\u3059\u3002",
+                "english": "It's time for my sister to go to the airport.",
+                "en_audio": "",
+                "kana": "\u3082\u3046\u3001\u308f\u305f\u3057\u306e\u3057\u307e\u3044\u304c\u304f\u3046\u3053\u3046\u306b\u3044\u304f\u3058\u304b\u3093\u3067\u3059\u3002",
+                "romaji": "M\u014d, watashi no shimai ga k\u016bk\u014d ni iku jikan desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/490007.mp3",
+                "text": "\u308f\u305f\u3057\u306f\u3001\u753a\u306e\u5b66\u6821\u306b\u884c\u3063\u3066\u3044\u307e\u3059\u3002",
+                "english": "I go to school in the city.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306f\u3001\u307e\u3061\u306e\u304c\u3063\u3053\u3046\u306b\u3044\u3063\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Watashi wa, machi no gakk\u014d ni itte imasu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1021984.mp3",
+                "text": "\u5b66\u6821\u306b\u884c\u304f",
+                "english": "I go to school",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1591333.mp3",
+                "kana": "\u304c\u3063\u3053\u3046\u306b\u3044\u304f",
+                "romaji": "gakk\u014d ni iku"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1175279.mp3",
+                "text": "\u6b69\u3044\u3066\u3001\u5b66\u6821\u306b\u884c\u304d\u307e\u3059\u3002",
+                "english": "I go to school on foot.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1174342.mp3",
+                "kana": "\u3042\u308b\u3044\u3066\u3001\u304c\u3063\u3053\u3046\u306b\u3044\u304d\u307e\u3059\u3002",
+                "romaji": "Aruite, gakk\u014d ni ikimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226345.mp3",
+                "text": "\u771f\u3063\u3059\u3050\u524d\u306b\u884c\u304f",
+                "english": "go straight ahead",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254228.mp3",
+                "kana": "\u307e\u3063\u3059\u3050\u307e\u3048\u306b\u3044\u304f",
+                "romaji": "massugu mae ni iku"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/527148.mp3",
+                "text": "\u3082\u3046\u3001\u79c1\u306e\u59c9\u59b9\u304c\u7a7a\u6e2f\u306b\u884c\u304f\u6642\u9593\u3067\u3059\u3002",
+                "english": "It's time for my sister to go to the airport.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3076.mp3",
+                "kana": "\u3082\u3046\u3001\u308f\u305f\u3057\u306e\u3057\u307e\u3044\u304c\u304f\u3046\u3053\u3046\u306b\u3044\u304f\u3058\u304b\u3093\u3067\u3059\u3002",
+                "romaji": "M\u014d, watashi no shimai ga k\u016bk\u014d ni iku jikan desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/623.mp3",
+                "text": "\u516c\u5712\u306b\u884c\u304f",
+                "english": "go to the park",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3079.mp3",
+                "kana": "\u3053\u3046\u3048\u3093\u306b\u3044\u304f",
+                "romaji": "k\u014den ni iku"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/555112.mp3",
+                "text": "\u884c\u304f\u3068\u3053\u308d\u304c\u7121\u3044",
+                "english": "nowhere to go",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3077.mp3",
+                "kana": "\u3044\u304f\u3068\u3053\u308d\u304c\u306a\u3044",
+                "romaji": "iku tokoro ga nai"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/490007.mp3",
+                "text": "\u308f\u305f\u3057\u306f\u3001\u753a\u306e\u5b66\u6821\u306b\u884c\u3063\u3066\u3044\u307e\u3059\u3002",
+                "english": "I go to school in the city.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3078.mp3",
+                "kana": "\u308f\u305f\u3057\u306f\u3001\u307e\u3061\u306e\u304c\u3063\u3053\u3046\u306b\u3044\u3063\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Watashi wa, machi no gakk\u014d ni itte imasu."
+            }
+        ]
+    },
+    {
+        "img": "9189",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/636.mp3",
+        "class": "verb",
+        "english": "come",
+        "flashcardId": "2163718",
+        "meaning": "come (verb) - to move towards you or arrive at the place where you are",
+        "id": "352",
+        "word": "\u6765\u308b",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3106.mp3",
+        "kana": "\u304f\u308b",
+        "romaji": "kuru",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305212.mp3",
+                "text": "\u30d3\u30c7\u30aa\u30ab\u30e1\u30e9\u306e\u65b9\u306b\u6765\u308b",
+                "english": "come towards a video camera",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/304045.mp3",
+                "kana": "\u30d3\u30c7\u30aa\u30ab\u30e1\u30e9\u306e\u307b\u3046\u306b\u304f\u308b",
+                "romaji": "bideo kamera no h\u014d ni kuru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200529.mp3",
+                "text": "\u8fd1\u3065\u3044\u3066\u6765\u308b",
+                "english": "come towards",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254230.mp3",
+                "kana": "\u3061\u304b\u3065\u3044\u3066\u304f\u308b",
+                "romaji": "chikazuite kuru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200521.mp3",
+                "text": "\u65e9\u304f\u6765\u308b",
+                "english": "come early",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3110.mp3",
+                "kana": "\u306f\u3084\u304f\u304f\u308b",
+                "romaji": "hayaku kuru"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305211.mp3",
+                "text": "\u5973\u306e\u5b50\u304c\u30d3\u30c7\u30aa\u30ab\u30e1\u30e9\u306e\u65b9\u306b\u6765\u305f\u3002",
+                "english": "The girl came towards the video camera.",
+                "en_audio": "",
+                "kana": "\u304a\u3093\u306a\u306e\u3053\u304c\u30d3\u30c7\u30aa\u30ab\u30e1\u30e9\u306e\u307b\u3046\u306b\u304d\u305f\u3002",
+                "romaji": "Onna no ko ga bideo kamera no h\u014d ni kita."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305210.mp3",
+                "text": "\u5973\u306e\u5b50\u304c\u30d3\u30c7\u30aa\u30ab\u30e1\u30e9\u306e\u65b9\u306b\u6765\u308b\u3002",
+                "english": "The girl comes towards the video camera.",
+                "en_audio": "",
+                "kana": "\u304a\u3093\u306a\u306e\u3053\u304c\u30d3\u30c7\u30aa\u30ab\u30e1\u30e9\u306e\u307b\u3046\u306b\u304f\u308b\u3002",
+                "romaji": "Onna no ko ga bideo kamera no h\u014d ni kuru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305209.mp3",
+                "text": "\u5973\u306e\u5b50\u304c\u30d3\u30c7\u30aa\u30ab\u30e1\u30e9\u306e\u65b9\u306b\u6765\u3066\u3044\u308b\u3002",
+                "english": "The girl is coming towards the video camera.",
+                "en_audio": "",
+                "kana": "\u304a\u3093\u306a\u306e\u3053\u304c\u30d3\u30c7\u30aa\u30ab\u30e1\u30e9\u306e\u307b\u3046\u306b\u304d\u3066\u3044\u308b\u3002",
+                "romaji": "Onna no ko ga bideo kamera no h\u014d ni kite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200526.mp3",
+                "text": "\u304a\u3044\u3057\u3044\u5915\u98df\u3092\u98df\u3079\u306b\u5bb6\u306b\u6765\u3066\u304f\u3060\u3055\u3044\u3002",
+                "english": "Come over to my house for a nice dinner.",
+                "en_audio": "",
+                "kana": "\u304a\u3044\u3057\u3044\u3086\u3046\u3057\u3087\u304f\u3092\u305f\u3079\u306b\u3046\u3061\u306b\u304d\u3066\u304f\u3060\u3055\u3044\u3002",
+                "romaji": "Oishii y\u016bshoku o tabe ni uchi ni kite kudasai."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305211.mp3",
+                "text": "\u5973\u306e\u5b50\u304c\u30d3\u30c7\u30aa\u30ab\u30e1\u30e9\u306e\u65b9\u306b\u6765\u305f\u3002",
+                "english": "The girl came towards the video camera.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/303511.mp3",
+                "kana": "\u304a\u3093\u306a\u306e\u3053\u304c\u30d3\u30c7\u30aa\u30ab\u30e1\u30e9\u306e\u307b\u3046\u306b\u304d\u305f\u3002",
+                "romaji": "Onna no ko ga bideo kamera no h\u014d ni kita."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305212.mp3",
+                "text": "\u30d3\u30c7\u30aa\u30ab\u30e1\u30e9\u306e\u65b9\u306b\u6765\u308b",
+                "english": "come towards a video camera",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/304045.mp3",
+                "kana": "\u30d3\u30c7\u30aa\u30ab\u30e1\u30e9\u306e\u307b\u3046\u306b\u304f\u308b",
+                "romaji": "bideo kamera no h\u014d ni kuru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305210.mp3",
+                "text": "\u5973\u306e\u5b50\u304c\u30d3\u30c7\u30aa\u30ab\u30e1\u30e9\u306e\u65b9\u306b\u6765\u308b\u3002",
+                "english": "The girl comes towards the video camera.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/303510.mp3",
+                "kana": "\u304a\u3093\u306a\u306e\u3053\u304c\u30d3\u30c7\u30aa\u30ab\u30e1\u30e9\u306e\u307b\u3046\u306b\u304f\u308b\u3002",
+                "romaji": "Onna no ko ga bideo kamera no h\u014d ni kuru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305209.mp3",
+                "text": "\u5973\u306e\u5b50\u304c\u30d3\u30c7\u30aa\u30ab\u30e1\u30e9\u306e\u65b9\u306b\u6765\u3066\u3044\u308b\u3002",
+                "english": "The girl is coming towards the video camera.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/303057.mp3",
+                "kana": "\u304a\u3093\u306a\u306e\u3053\u304c\u30d3\u30c7\u30aa\u30ab\u30e1\u30e9\u306e\u307b\u3046\u306b\u304d\u3066\u3044\u308b\u3002",
+                "romaji": "Onna no ko ga bideo kamera no h\u014d ni kite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200526.mp3",
+                "text": "\u304a\u3044\u3057\u3044\u5915\u98df\u3092\u98df\u3079\u306b\u5bb6\u306b\u6765\u3066\u304f\u3060\u3055\u3044\u3002",
+                "english": "Come over to my house for a nice dinner.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3109.mp3",
+                "kana": "\u304a\u3044\u3057\u3044\u3086\u3046\u3057\u3087\u304f\u3092\u305f\u3079\u306b\u3046\u3061\u306b\u304d\u3066\u304f\u3060\u3055\u3044\u3002",
+                "romaji": "Oishii y\u016bshoku o tabe ni uchi ni kite kudasai."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200529.mp3",
+                "text": "\u8fd1\u3065\u3044\u3066\u6765\u308b",
+                "english": "come towards",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254230.mp3",
+                "kana": "\u3061\u304b\u3065\u3044\u3066\u304f\u308b",
+                "romaji": "chikazuite kuru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200521.mp3",
+                "text": "\u65e9\u304f\u6765\u308b",
+                "english": "come early",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3110.mp3",
+                "kana": "\u306f\u3084\u304f\u304f\u308b",
+                "romaji": "hayaku kuru"
+            }
+        ]
+    },
+    {
+        "img": "9527",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271156.mp3",
+        "class": "verb",
+        "english": "laugh",
+        "flashcardId": "2164081",
+        "meaning": "laugh (verb) - to make sounds with your voice, usually while you are smiling, because you think something is funny",
+        "id": "2188",
+        "word": "\u7b11\u3046",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/306149.mp3",
+        "kana": "\u308f\u3089\u3046",
+        "romaji": "warau",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305739.mp3",
+                "text": "\u5197\u8ac7\u306b\u7b11\u3046",
+                "english": "laugh at a joke",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/304207.mp3",
+                "kana": "\u3058\u3087\u3046\u3060\u3093\u306b\u308f\u3089\u3046",
+                "romaji": "j\u014ddan ni warau"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305740.mp3",
+                "text": "\u5199\u771f\u3092\u898b\u3066\u7b11\u3046",
+                "english": "laugh at a picture",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/304208.mp3",
+                "kana": "\u3057\u3083\u3057\u3093\u3092\u307f\u3066\u308f\u3089\u3046",
+                "romaji": "shashin o mite warau"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271158.mp3",
+                "text": "\u4f55\u304b\u9762\u767d\u3044\u3053\u3068\u306b\u7b11\u3046",
+                "english": "laugh at something funny",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92419.mp3",
+                "kana": "\u306a\u306b\u304b\u304a\u3082\u3057\u308d\u3044\u3053\u3068\u306b\u308f\u3089\u3046",
+                "romaji": "nani ka omoshiroi koto ni warau"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305737.mp3",
+                "text": "\u305d\u306e\u30ab\u30c3\u30d7\u30eb\u306f\u3001\u5197\u8ac7\u306b\u7b11\u3046\u3002",
+                "english": "The couple laughs at a joke.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u30ab\u30c3\u30d7\u30eb\u306f\u3001\u3058\u3087\u3046\u3060\u3093\u306b\u308f\u3089\u3046\u3002",
+                "romaji": "Sono kappuru wa, j\u014ddan ni warau."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305736.mp3",
+                "text": "\u305d\u306e\u30ab\u30c3\u30d7\u30eb\u306f\u3001\u5199\u771f\u3092\u898b\u3066\u7b11\u3063\u305f\u3002",
+                "english": "The couple laughed at the picture.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u30ab\u30c3\u30d7\u30eb\u306f\u3001\u3057\u3083\u3057\u3093\u3092\u307f\u3066\u308f\u3089\u3063\u305f\u3002",
+                "romaji": "Sono kappuru wa, shashin o mite waratta."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305738.mp3",
+                "text": "\u305d\u306e\u30ab\u30c3\u30d7\u30eb\u306f\u3001\u5197\u8ac7\u306b\u7b11\u3063\u305f\u3002",
+                "english": "The couple laughed at a joke.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u30ab\u30c3\u30d7\u30eb\u306f\u3001\u3058\u3087\u3046\u3060\u3093\u306b\u308f\u3089\u3063\u305f\u3002",
+                "romaji": "Sono kappuru wa, j\u014ddan ni waratta."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305735.mp3",
+                "text": "\u305d\u306e\u30ab\u30c3\u30d7\u30eb\u306f\u3001\u5199\u771f\u3092\u898b\u3066\u7b11\u3046\u3002",
+                "english": "The couple laughs at the picture.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u30ab\u30c3\u30d7\u30eb\u306f\u3001\u3057\u3083\u3057\u3093\u3092\u307f\u3066\u308f\u3089\u3046\u3002",
+                "romaji": "Sono kappuru wa, shashin o mite warau."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305734.mp3",
+                "text": "\u305d\u306e\u30ab\u30c3\u30d7\u30eb\u306f\u3001\u5199\u771f\u3092\u898b\u3066\u7b11\u3063\u3066\u3044\u308b\u3002",
+                "english": "The couple is laughing at the picture.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u30ab\u30c3\u30d7\u30eb\u306f\u3001\u3057\u3083\u3057\u3093\u3092\u307f\u3066\u308f\u3089\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Sono kappuru wa, shashin o mite waratte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271159.mp3",
+                "text": "\u8001\u4eba\u9054\u304c\u7b11\u3063\u3066\u3044\u307e\u3059\u3002",
+                "english": "The elderly people are laughing.",
+                "en_audio": "",
+                "kana": "\u308d\u3046\u3058\u3093\u305f\u3061\u304c\u308f\u3089\u3063\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "R\u014djin-tachi ga waratte imasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271160.mp3",
+                "text": "\u7537\u306e\u4eba\u305f\u3061\u304c\u4f55\u304b\u9762\u767d\u3044\u3082\u306e\u3092\u898b\u3066\u7b11\u3063\u3066\u3044\u307e\u3059\u3002",
+                "english": "The men are laughing at something funny.",
+                "en_audio": "",
+                "kana": "\u304a\u3068\u3053\u306e\u3072\u3068\u305f\u3061\u304c\u306a\u306b\u304b\u304a\u3082\u3057\u308d\u3044\u3082\u306e\u3092\u307f\u3066\u308f\u3089\u3063\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Otoko no hito-tachi ga nani ka omoshiroi mono o mite waratte imasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305733.mp3",
+                "text": "\u305d\u306e\u30ab\u30c3\u30d7\u30eb\u306f\u3001\u5197\u8ac7\u306b\u7b11\u3063\u3066\u3044\u308b\u3002",
+                "english": "The couple is laughing at a joke.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u30ab\u30c3\u30d7\u30eb\u306f\u3001\u3058\u3087\u3046\u3060\u3093\u306b\u308f\u3089\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Sono kappuru wa, j\u014ddan ni waratte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271157.mp3",
+                "text": "\u304a\u6bcd\u3055\u3093\u3068\u5a18\u304c\u7b11\u3063\u3066\u3044\u307e\u3059\u3002",
+                "english": "The mother and daughter are laughing.",
+                "en_audio": "",
+                "kana": "\u304a\u304b\u3042\u3055\u3093\u3068\u3080\u3059\u3081\u304c\u308f\u3089\u3063\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "O-k\u0101-san to musume ga waratte imasu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305737.mp3",
+                "text": "\u305d\u306e\u30ab\u30c3\u30d7\u30eb\u306f\u3001\u5197\u8ac7\u306b\u7b11\u3046\u3002",
+                "english": "The couple laughs at a joke.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/304205.mp3",
+                "kana": "\u305d\u306e\u30ab\u30c3\u30d7\u30eb\u306f\u3001\u3058\u3087\u3046\u3060\u3093\u306b\u308f\u3089\u3046\u3002",
+                "romaji": "Sono kappuru wa, j\u014ddan ni warau."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305736.mp3",
+                "text": "\u305d\u306e\u30ab\u30c3\u30d7\u30eb\u306f\u3001\u5199\u771f\u3092\u898b\u3066\u7b11\u3063\u305f\u3002",
+                "english": "The couple laughed at the picture.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/303756.mp3",
+                "kana": "\u305d\u306e\u30ab\u30c3\u30d7\u30eb\u306f\u3001\u3057\u3083\u3057\u3093\u3092\u307f\u3066\u308f\u3089\u3063\u305f\u3002",
+                "romaji": "Sono kappuru wa, shashin o mite waratta."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305738.mp3",
+                "text": "\u305d\u306e\u30ab\u30c3\u30d7\u30eb\u306f\u3001\u5197\u8ac7\u306b\u7b11\u3063\u305f\u3002",
+                "english": "The couple laughed at a joke.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/304206.mp3",
+                "kana": "\u305d\u306e\u30ab\u30c3\u30d7\u30eb\u306f\u3001\u3058\u3087\u3046\u3060\u3093\u306b\u308f\u3089\u3063\u305f\u3002",
+                "romaji": "Sono kappuru wa, j\u014ddan ni waratta."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305739.mp3",
+                "text": "\u5197\u8ac7\u306b\u7b11\u3046",
+                "english": "laugh at a joke",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/304207.mp3",
+                "kana": "\u3058\u3087\u3046\u3060\u3093\u306b\u308f\u3089\u3046",
+                "romaji": "j\u014ddan ni warau"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305740.mp3",
+                "text": "\u5199\u771f\u3092\u898b\u3066\u7b11\u3046",
+                "english": "laugh at a picture",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/304208.mp3",
+                "kana": "\u3057\u3083\u3057\u3093\u3092\u307f\u3066\u308f\u3089\u3046",
+                "romaji": "shashin o mite warau"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305735.mp3",
+                "text": "\u305d\u306e\u30ab\u30c3\u30d7\u30eb\u306f\u3001\u5199\u771f\u3092\u898b\u3066\u7b11\u3046\u3002",
+                "english": "The couple laughs at the picture.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/303755.mp3",
+                "kana": "\u305d\u306e\u30ab\u30c3\u30d7\u30eb\u306f\u3001\u3057\u3083\u3057\u3093\u3092\u307f\u3066\u308f\u3089\u3046\u3002",
+                "romaji": "Sono kappuru wa, shashin o mite warau."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305734.mp3",
+                "text": "\u305d\u306e\u30ab\u30c3\u30d7\u30eb\u306f\u3001\u5199\u771f\u3092\u898b\u3066\u7b11\u3063\u3066\u3044\u308b\u3002",
+                "english": "The couple is laughing at the picture.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/303389.mp3",
+                "kana": "\u305d\u306e\u30ab\u30c3\u30d7\u30eb\u306f\u3001\u3057\u3083\u3057\u3093\u3092\u307f\u3066\u308f\u3089\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Sono kappuru wa, shashin o mite waratte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271158.mp3",
+                "text": "\u4f55\u304b\u9762\u767d\u3044\u3053\u3068\u306b\u7b11\u3046",
+                "english": "laugh at something funny",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92419.mp3",
+                "kana": "\u306a\u306b\u304b\u304a\u3082\u3057\u308d\u3044\u3053\u3068\u306b\u308f\u3089\u3046",
+                "romaji": "nani ka omoshiroi koto ni warau"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271159.mp3",
+                "text": "\u8001\u4eba\u9054\u304c\u7b11\u3063\u3066\u3044\u307e\u3059\u3002",
+                "english": "The elderly people are laughing.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87143.mp3",
+                "kana": "\u308d\u3046\u3058\u3093\u305f\u3061\u304c\u308f\u3089\u3063\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "R\u014djin-tachi ga waratte imasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271160.mp3",
+                "text": "\u7537\u306e\u4eba\u305f\u3061\u304c\u4f55\u304b\u9762\u767d\u3044\u3082\u306e\u3092\u898b\u3066\u7b11\u3063\u3066\u3044\u307e\u3059\u3002",
+                "english": "The men are laughing at something funny.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262705.mp3",
+                "kana": "\u304a\u3068\u3053\u306e\u3072\u3068\u305f\u3061\u304c\u306a\u306b\u304b\u304a\u3082\u3057\u308d\u3044\u3082\u306e\u3092\u307f\u3066\u308f\u3089\u3063\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Otoko no hito-tachi ga nani ka omoshiroi mono o mite waratte imasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305733.mp3",
+                "text": "\u305d\u306e\u30ab\u30c3\u30d7\u30eb\u306f\u3001\u5197\u8ac7\u306b\u7b11\u3063\u3066\u3044\u308b\u3002",
+                "english": "The couple is laughing at a joke.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/303754.mp3",
+                "kana": "\u305d\u306e\u30ab\u30c3\u30d7\u30eb\u306f\u3001\u3058\u3087\u3046\u3060\u3093\u306b\u308f\u3089\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Sono kappuru wa, j\u014ddan ni waratte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271157.mp3",
+                "text": "\u304a\u6bcd\u3055\u3093\u3068\u5a18\u304c\u7b11\u3063\u3066\u3044\u307e\u3059\u3002",
+                "english": "The mother and daughter are laughing.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92418.mp3",
+                "kana": "\u304a\u304b\u3042\u3055\u3093\u3068\u3080\u3059\u3081\u304c\u308f\u3089\u3063\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "O-k\u0101-san to musume ga waratte imasu."
+            }
+        ]
+    },
+    {
+        "img": "8742",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200530.mp3",
+        "class": "verb",
+        "english": "make",
+        "flashcardId": "2164082",
+        "meaning": "make (verb) - to produce something, for example by putting the different parts of it together",
+        "id": "29681",
+        "word": "\u4f5c\u308b",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4118.mp3",
+        "kana": "\u3064\u304f\u308b",
+        "romaji": "tsukuru",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200533.mp3",
+                "text": "\u6599\u7406\u3092\u4f5c\u308b",
+                "english": "make food",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262706.mp3",
+                "kana": "\u308a\u3087\u3046\u308a\u3092\u3064\u304f\u308b",
+                "romaji": "ry\u014dri o tsukuru"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305088.mp3",
+                "text": "\u30b7\u30a7\u30d5\u304c\u30aa\u30ec\u30f3\u30b8\u30b8\u30e5\u30fc\u30b9\u3092\u4f5c\u3063\u305f\u3002",
+                "english": "The chef made orange juice.",
+                "en_audio": "",
+                "kana": "\u30b7\u30a7\u30d5\u304c\u30aa\u30ec\u30f3\u30b8\u30b8\u30e5\u30fc\u30b9\u3092\u3064\u304f\u3063\u305f\u3002",
+                "romaji": "Shefu ga orenji j\u016bsu o tsukutta."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305087.mp3",
+                "text": "\u30b7\u30a7\u30d5\u304c\u30aa\u30ec\u30f3\u30b8\u30b8\u30e5\u30fc\u30b9\u3092\u4f5c\u308b\u3002",
+                "english": "The chef makes orange juice.",
+                "en_audio": "",
+                "kana": "\u30b7\u30a7\u30d5\u304c\u30aa\u30ec\u30f3\u30b8\u30b8\u30e5\u30fc\u30b9\u3092\u3064\u304f\u308b\u3002",
+                "romaji": "Shefu ga orenji j\u016bsu o tsukuru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305085.mp3",
+                "text": "\u30b7\u30a7\u30d5\u304c\u30aa\u30ec\u30f3\u30b8\u30b8\u30e5\u30fc\u30b9\u3092\u4f5c\u3063\u3066\u3044\u308b\u3002",
+                "english": "The chef is making orange juice.",
+                "en_audio": "",
+                "kana": "\u30b7\u30a7\u30d5\u304c\u30aa\u30ec\u30f3\u30b8\u30b8\u30e5\u30fc\u30b9\u3092\u3064\u304f\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Shefu ga orenji j\u016bsu o tsukutte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200532.mp3",
+                "text": "\u305d\u306e\u7537\u6027\u3068\u5973\u6027\u306f\u3001\u6bce\u6669\u5915\u98df\u3092\u4f5c\u308a\u307e\u3059\u3002",
+                "english": "The man and woman make dinner every night.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u3060\u3093\u305b\u3044\u3068\u3058\u3087\u305b\u3044\u306f\u3001\u307e\u3044\u3070\u3093\u3086\u3046\u3057\u3087\u304f\u3092\u3064\u304f\u308a\u307e\u3059\u3002",
+                "romaji": "Sono dansei to josei wa, maiban y\u016bshoku o tsukurimasu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305088.mp3",
+                "text": "\u30b7\u30a7\u30d5\u304c\u30aa\u30ec\u30f3\u30b8\u30b8\u30e5\u30fc\u30b9\u3092\u4f5c\u3063\u305f\u3002",
+                "english": "The chef made orange juice.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/303446.mp3",
+                "kana": "\u30b7\u30a7\u30d5\u304c\u30aa\u30ec\u30f3\u30b8\u30b8\u30e5\u30fc\u30b9\u3092\u3064\u304f\u3063\u305f\u3002",
+                "romaji": "Shefu ga orenji j\u016bsu o tsukutta."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305087.mp3",
+                "text": "\u30b7\u30a7\u30d5\u304c\u30aa\u30ec\u30f3\u30b8\u30b8\u30e5\u30fc\u30b9\u3092\u4f5c\u308b\u3002",
+                "english": "The chef makes orange juice.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/303445.mp3",
+                "kana": "\u30b7\u30a7\u30d5\u304c\u30aa\u30ec\u30f3\u30b8\u30b8\u30e5\u30fc\u30b9\u3092\u3064\u304f\u308b\u3002",
+                "romaji": "Shefu ga orenji j\u016bsu o tsukuru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305085.mp3",
+                "text": "\u30b7\u30a7\u30d5\u304c\u30aa\u30ec\u30f3\u30b8\u30b8\u30e5\u30fc\u30b9\u3092\u4f5c\u3063\u3066\u3044\u308b\u3002",
+                "english": "The chef is making orange juice.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/302973.mp3",
+                "kana": "\u30b7\u30a7\u30d5\u304c\u30aa\u30ec\u30f3\u30b8\u30b8\u30e5\u30fc\u30b9\u3092\u3064\u304f\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Shefu ga orenji j\u016bsu o tsukutte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200533.mp3",
+                "text": "\u6599\u7406\u3092\u4f5c\u308b",
+                "english": "make food",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262706.mp3",
+                "kana": "\u308a\u3087\u3046\u308a\u3092\u3064\u304f\u308b",
+                "romaji": "ry\u014dri o tsukuru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200532.mp3",
+                "text": "\u305d\u306e\u7537\u6027\u3068\u5973\u6027\u306f\u3001\u6bce\u6669\u5915\u98df\u3092\u4f5c\u308a\u307e\u3059\u3002",
+                "english": "The man and woman make dinner every night.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4123.mp3",
+                "kana": "\u305d\u306e\u3060\u3093\u305b\u3044\u3068\u3058\u3087\u305b\u3044\u306f\u3001\u307e\u3044\u3070\u3093\u3086\u3046\u3057\u3087\u304f\u3092\u3064\u304f\u308a\u307e\u3059\u3002",
+                "romaji": "Sono dansei to josei wa, maiban y\u016bshoku o tsukurimasu."
+            }
+        ]
+    },
+    {
+        "img": "17269",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1142.mp3",
+        "class": "verb",
+        "english": "see",
+        "flashcardId": "224106",
+        "meaning": "see (verb) - to notice or examine someone or something, using your eyes",
+        "id": "12726",
+        "word": "\u898b\u308b",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4124.mp3",
+        "kana": "\u307f\u308b",
+        "romaji": "miru",
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/309602.mp3",
+                "text": "\u65c5\u884c\u8005\u9054\u304c\u5915\u65e5\u3092\u898b\u308b\u3002",
+                "english": "The tourists see the sunset.",
+                "en_audio": "",
+                "kana": "\u308a\u3087\u3053\u3046\u3057\u3083\u305f\u3061\u304c\u3086\u3046\u3072\u3092\u307f\u308b\u3002",
+                "romaji": "Ryok\u014dsha-tachi ga y\u016bhi o miru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305052.mp3",
+                "text": "\u65c5\u884c\u8005\u9054\u304c\u5915\u65e5\u3092\u898b\u305f\u3002",
+                "english": "The tourists saw the sunset.",
+                "en_audio": "",
+                "kana": "\u308a\u3087\u3053\u3046\u3057\u3083\u305f\u3061\u304c\u3086\u3046\u3072\u3092\u307f\u305f\u3002",
+                "romaji": "Ryok\u014dsha-tachi ga y\u016bhi o mita."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253398.mp3",
+                "text": "\u5f7c\u5973\u306f\u30e1\u30ac\u30cd\u304c\u7121\u3044\u3068\u4f55\u3082\u898b\u3048\u306a\u3044\u3002",
+                "english": "She cannot see anything without her glasses.",
+                "en_audio": "",
+                "kana": "\u304b\u306e\u3058\u3087\u306f\u30e1\u30ac\u30cd\u304c\u306a\u3044\u3068\u306a\u306b\u3082\u307f\u3048\u306a\u3044\u3002",
+                "romaji": "Kanojo wa megane ga nai to nani mo mienai."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200534.mp3",
+                "text": "\u305d\u306e\u5973\u6027\u306b\u306f\u3001\u7a7a\u306b\u4f55\u304b\u304c\u898b\u3048\u308b\u3002",
+                "english": "The woman can see something in the sky.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u3058\u3087\u305b\u3044\u306b\u306f\u3001\u305d\u3089\u306b\u306a\u306b\u304b\u304c\u307f\u3048\u308b\u3002",
+                "romaji": "Sono josei ni wa, sora ni nani ka ga mieru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1144.mp3",
+                "text": "\u308f\u305f\u3057\u306f\u3001\u65e5\u66dc\u65e5\u306b\u5287\u3092\u898b\u308b\u3064\u3082\u308a\u3060\u3002",
+                "english": "I'll see a play on Sunday.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306f\u3001\u306b\u3061\u3088\u3046\u3073\u306b\u3052\u304d\u3092\u307f\u308b\u3064\u3082\u308a\u3060\u3002",
+                "romaji": "Watashi wa, nichi-y\u014dbi ni geki o miru tsumori da."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/309602.mp3",
+                "text": "\u65c5\u884c\u8005\u9054\u304c\u5915\u65e5\u3092\u898b\u308b\u3002",
+                "english": "The tourists see the sunset.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/303736.mp3",
+                "kana": "\u308a\u3087\u3053\u3046\u3057\u3083\u305f\u3061\u304c\u3086\u3046\u3072\u3092\u307f\u308b\u3002",
+                "romaji": "Ryok\u014dsha-tachi ga y\u016bhi o miru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305052.mp3",
+                "text": "\u65c5\u884c\u8005\u9054\u304c\u5915\u65e5\u3092\u898b\u305f\u3002",
+                "english": "The tourists saw the sunset.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/304196.mp3",
+                "kana": "\u308a\u3087\u3053\u3046\u3057\u3083\u305f\u3061\u304c\u3086\u3046\u3072\u3092\u307f\u305f\u3002",
+                "romaji": "Ryok\u014dsha-tachi ga y\u016bhi o mita."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253398.mp3",
+                "text": "\u5f7c\u5973\u306f\u30e1\u30ac\u30cd\u304c\u7121\u3044\u3068\u4f55\u3082\u898b\u3048\u306a\u3044\u3002",
+                "english": "She cannot see anything without her glasses.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/91299.mp3",
+                "kana": "\u304b\u306e\u3058\u3087\u306f\u30e1\u30ac\u30cd\u304c\u306a\u3044\u3068\u306a\u306b\u3082\u307f\u3048\u306a\u3044\u3002",
+                "romaji": "Kanojo wa megane ga nai to nani mo mienai."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200534.mp3",
+                "text": "\u305d\u306e\u5973\u6027\u306b\u306f\u3001\u7a7a\u306b\u4f55\u304b\u304c\u898b\u3048\u308b\u3002",
+                "english": "The woman can see something in the sky.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u3058\u3087\u305b\u3044\u306b\u306f\u3001\u305d\u3089\u306b\u306a\u306b\u304b\u304c\u307f\u3048\u308b\u3002",
+                "romaji": "Sono josei ni wa, sora ni nani ka ga mieru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1144.mp3",
+                "text": "\u308f\u305f\u3057\u306f\u3001\u65e5\u66dc\u65e5\u306b\u5287\u3092\u898b\u308b\u3064\u3082\u308a\u3060\u3002",
+                "english": "I'll see a play on Sunday.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4127.mp3",
+                "kana": "\u308f\u305f\u3057\u306f\u3001\u306b\u3061\u3088\u3046\u3073\u306b\u3052\u304d\u3092\u307f\u308b\u3064\u3082\u308a\u3060\u3002",
+                "romaji": "Watashi wa, nichi-y\u014dbi ni geki o miru tsumori da."
+            }
+        ]
+    },
+    {
+        "img": "8065",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/779.mp3",
+        "class": "i-adjective",
+        "english": "far",
+        "flashcardId": "2164087",
+        "meaning": "far (adjective) - a long distance away",
+        "id": "32680",
+        "word": "\u9060\u3044",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/88444.mp3",
+        "kana": "\u3068\u304a\u3044",
+        "romaji": "t\u014di",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/780.mp3",
+                "text": "\u9060\u304f\u3078",
+                "english": "far along",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3387.mp3",
+                "kana": "\u3068\u304a\u304f\u3078",
+                "romaji": "t\u014dku e"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227272.mp3",
+                "text": "\u5973\u6027\u306f\u3001\u9060\u304f\u306b\u4f55\u304b\u3092\u898b\u3066\u3044\u308b\u3002",
+                "english": "The woman is looking at something far away.",
+                "en_audio": "",
+                "kana": "\u3058\u3087\u305b\u3044\u306f\u3001\u3068\u304a\u304f\u306b\u306a\u306b\u304b\u3092\u307f\u3066\u3044\u308b\u3002",
+                "romaji": "Josei wa, t\u014dku ni nani ka o mite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/781.mp3",
+                "text": "\u99c5\u306f\u3001\u3053\u3053\u304b\u3089\u9060\u3044\u3002",
+                "english": "The station is far from here.",
+                "en_audio": "",
+                "kana": "\u3048\u304d\u306f\u3001\u3053\u3053\u304b\u3089\u3068\u304a\u3044\u3002",
+                "romaji": "Eki wa, koko kara t\u014di."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227272.mp3",
+                "text": "\u5973\u6027\u306f\u3001\u9060\u304f\u306b\u4f55\u304b\u3092\u898b\u3066\u3044\u308b\u3002",
+                "english": "The woman is looking at something far away.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3390.mp3",
+                "kana": "\u3058\u3087\u305b\u3044\u306f\u3001\u3068\u304a\u304f\u306b\u306a\u306b\u304b\u3092\u307f\u3066\u3044\u308b\u3002",
+                "romaji": "Josei wa, t\u014dku ni nani ka o mite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/781.mp3",
+                "text": "\u99c5\u306f\u3001\u3053\u3053\u304b\u3089\u9060\u3044\u3002",
+                "english": "The station is far from here.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3388.mp3",
+                "kana": "\u3048\u304d\u306f\u3001\u3053\u3053\u304b\u3089\u3068\u304a\u3044\u3002",
+                "romaji": "Eki wa, koko kara t\u014di."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/780.mp3",
+                "text": "\u9060\u304f\u3078",
+                "english": "far along",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3387.mp3",
+                "kana": "\u3068\u304a\u304f\u3078",
+                "romaji": "t\u014dku e"
+            }
+        ]
+    },
+    {
+        "img": "21795",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200542.mp3",
+        "class": "i-adjective",
+        "english": "small",
+        "flashcardId": "2165375",
+        "meaning": "small (adjective) - not large in size or amount",
+        "id": "1371",
+        "word": "\u5c0f\u3055\u3044",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/88687.mp3",
+        "kana": "\u3061\u3044\u3055\u3044",
+        "romaji": "chiisai",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200550.mp3",
+                "text": "\u3068\u3066\u3082\u5c0f\u3055\u3044",
+                "english": "very small",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254058.mp3",
+                "kana": "\u3068\u3066\u3082\u3061\u3044\u3055\u3044",
+                "romaji": "totemo chiisai"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1170935.mp3",
+                "text": "\u5c0f\u3055\u3059\u304e\u308b",
+                "english": "too small",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1174462.mp3",
+                "kana": "\u3061\u3044\u3055\u3059\u304e\u308b",
+                "romaji": "chiisasugiru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200548.mp3",
+                "text": "\u5c0f\u3055\u3044\u3072\u3088\u3053",
+                "english": "small chick",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2808.mp3",
+                "kana": "\u3061\u3044\u3055\u3044\u3072\u3088\u3053",
+                "romaji": "chiisai hiyoko"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200547.mp3",
+                "text": "\u5c0f\u3055\u3044\u30b5\u30a4\u30ba",
+                "english": "small size",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2807.mp3",
+                "kana": "\u3061\u3044\u3055\u3044\u30b5\u30a4\u30ba",
+                "romaji": "chiisai saizu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200546.mp3",
+                "text": "\u5c0f\u3055\u3044\u8eca",
+                "english": "small car",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2804.mp3",
+                "kana": "\u3061\u3044\u3055\u3044\u304f\u308b\u307e",
+                "romaji": "chiisai kuruma"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200543.mp3",
+                "text": "\u5c0f\u3055\u3044\u30df\u30b9",
+                "english": "small mistake",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2805.mp3",
+                "kana": "\u3061\u3044\u3055\u3044\u30df\u30b9",
+                "romaji": "chiisai misu"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200549.mp3",
+                "text": "\u3068\u3066\u3082\u5c0f\u3055\u3044\u30cf\u30f3\u30d0\u30fc\u30ac\u30fc\u304c\u30b9\u30d7\u30fc\u30f3\u306b\u306e\u3063\u3066\u3044\u308b\u3002",
+                "english": "There is a very small hamburger on the spoon.",
+                "en_audio": "",
+                "kana": "\u3068\u3066\u3082\u3061\u3044\u3055\u3044\u30cf\u30f3\u30d0\u30fc\u30ac\u30fc\u304c\u30b9\u30d7\u30fc\u30f3\u306b\u306e\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Totemo chiisai hanb\u0101g\u0101 ga sup\u016bn ni notte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1170946.mp3",
+                "text": "\u3053\u306e\u30bb\u30fc\u30bf\u30fc\u306f\u3001\u5c0f\u3055\u3059\u304e\u307e\u3059\u3002",
+                "english": "This sweater's too small.",
+                "en_audio": "",
+                "kana": "\u3053\u306e\u30bb\u30fc\u30bf\u30fc\u306f\u3001\u3061\u3044\u3055\u3059\u304e\u307e\u3059\u3002",
+                "romaji": "Kono s\u0113t\u0101 wa chiisasugimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200544.mp3",
+                "text": "\u5c0f\u3055\u3044\u554f\u984c\u304c\u5927\u304d\u3044\u554f\u984c\u306b\u306a\u308b\u3053\u3068\u304c\u3042\u308b\u3002",
+                "english": "Small problems can become big problems.",
+                "en_audio": "",
+                "kana": "\u3061\u3044\u3055\u3044\u3082\u3093\u3060\u3044\u304c\u304a\u304a\u304d\u3044\u3082\u3093\u3060\u3044\u306b\u306a\u308b\u3053\u3068\u304c\u3042\u308b\u3002",
+                "romaji": "Chiisai mondai ga \u014dkii mondai ni naru koto ga aru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200545.mp3",
+                "text": "\u305d\u306e\u8eca\u306f\u5c0f\u3055\u3044\u304c\u3001\u3068\u3066\u3082\u99ac\u529b\u304c\u3042\u308b\u3002",
+                "english": "The car is small, but it's very powerful.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u304f\u308b\u307e\u306f\u3061\u3044\u3055\u3044\u304c\u3001\u3068\u3066\u3082\u3070\u308a\u304d\u304c\u3042\u308b\u3002",
+                "romaji": "Sono kuruma wa chiisai ga, totemo bariki ga aru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200549.mp3",
+                "text": "\u3068\u3066\u3082\u5c0f\u3055\u3044\u30cf\u30f3\u30d0\u30fc\u30ac\u30fc\u304c\u30b9\u30d7\u30fc\u30f3\u306b\u306e\u3063\u3066\u3044\u308b\u3002",
+                "english": "There is a very small hamburger on the spoon.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254057.mp3",
+                "kana": "\u3068\u3066\u3082\u3061\u3044\u3055\u3044\u30cf\u30f3\u30d0\u30fc\u30ac\u30fc\u304c\u30b9\u30d7\u30fc\u30f3\u306b\u306e\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Totemo chiisai hanb\u0101g\u0101 ga sup\u016bn ni notte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200550.mp3",
+                "text": "\u3068\u3066\u3082\u5c0f\u3055\u3044",
+                "english": "very small",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254058.mp3",
+                "kana": "\u3068\u3066\u3082\u3061\u3044\u3055\u3044",
+                "romaji": "totemo chiisai"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1170935.mp3",
+                "text": "\u5c0f\u3055\u3059\u304e\u308b",
+                "english": "too small",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1174462.mp3",
+                "kana": "\u3061\u3044\u3055\u3059\u304e\u308b",
+                "romaji": "chiisasugiru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1170946.mp3",
+                "text": "\u3053\u306e\u30bb\u30fc\u30bf\u30fc\u306f\u3001\u5c0f\u3055\u3059\u304e\u307e\u3059\u3002",
+                "english": "This sweater's too small.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1174476.mp3",
+                "kana": "\u3053\u306e\u30bb\u30fc\u30bf\u30fc\u306f\u3001\u3061\u3044\u3055\u3059\u304e\u307e\u3059\u3002",
+                "romaji": "Kono s\u0113t\u0101 wa chiisasugimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200548.mp3",
+                "text": "\u5c0f\u3055\u3044\u3072\u3088\u3053",
+                "english": "small chick",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2808.mp3",
+                "kana": "\u3061\u3044\u3055\u3044\u3072\u3088\u3053",
+                "romaji": "chiisai hiyoko"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200547.mp3",
+                "text": "\u5c0f\u3055\u3044\u30b5\u30a4\u30ba",
+                "english": "small size",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2807.mp3",
+                "kana": "\u3061\u3044\u3055\u3044\u30b5\u30a4\u30ba",
+                "romaji": "chiisai saizu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200544.mp3",
+                "text": "\u5c0f\u3055\u3044\u554f\u984c\u304c\u5927\u304d\u3044\u554f\u984c\u306b\u306a\u308b\u3053\u3068\u304c\u3042\u308b\u3002",
+                "english": "Small problems can become big problems.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2806.mp3",
+                "kana": "\u3061\u3044\u3055\u3044\u3082\u3093\u3060\u3044\u304c\u304a\u304a\u304d\u3044\u3082\u3093\u3060\u3044\u306b\u306a\u308b\u3053\u3068\u304c\u3042\u308b\u3002",
+                "romaji": "Chiisai mondai ga \u014dkii mondai ni naru koto ga aru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200545.mp3",
+                "text": "\u305d\u306e\u8eca\u306f\u5c0f\u3055\u3044\u304c\u3001\u3068\u3066\u3082\u99ac\u529b\u304c\u3042\u308b\u3002",
+                "english": "The car is small, but it's very powerful.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2803.mp3",
+                "kana": "\u305d\u306e\u304f\u308b\u307e\u306f\u3061\u3044\u3055\u3044\u304c\u3001\u3068\u3066\u3082\u3070\u308a\u304d\u304c\u3042\u308b\u3002",
+                "romaji": "Sono kuruma wa chiisai ga, totemo bariki ga aru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200546.mp3",
+                "text": "\u5c0f\u3055\u3044\u8eca",
+                "english": "small car",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2804.mp3",
+                "kana": "\u3061\u3044\u3055\u3044\u304f\u308b\u307e",
+                "romaji": "chiisai kuruma"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200543.mp3",
+                "text": "\u5c0f\u3055\u3044\u30df\u30b9",
+                "english": "small mistake",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2805.mp3",
+                "kana": "\u3061\u3044\u3055\u3044\u30df\u30b9",
+                "romaji": "chiisai misu"
+            }
+        ]
+    },
+    {
+        "img": "16933",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271284.mp3",
+        "class": "i-adjective",
+        "english": "good",
+        "flashcardId": "2164089",
+        "meaning": "good (adjective) - of a high standard or quality",
+        "id": "1718",
+        "word": "\u826f\u3044",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3004.mp3",
+        "kana": "\u3088\u3044",
+        "romaji": "yoi",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/582.mp3",
+                "text": "\u4f53\u306b\u826f\u3044",
+                "english": "good for one's body",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3007.mp3",
+                "kana": "\u304b\u3089\u3060\u306b\u3088\u3044",
+                "romaji": "karada ni yoi"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/585.mp3",
+                "text": "\u91ce\u83dc\u306f\u3001\u4f53\u306b\u826f\u3044\u98df\u3079\u7269\u3067\u3059\u3002",
+                "english": "Vegetables are good for you.",
+                "en_audio": "",
+                "kana": "\u3084\u3055\u3044\u306f\u3001\u304b\u3089\u3060\u306b\u3044\u3044\u305f\u3079\u3082\u306e\u3067\u3059\u3002",
+                "romaji": "Yasai wa, karada ni ii tabemono desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/583.mp3",
+                "text": "\u5f7c\u5973\u306f\u826f\u3044\u4eba\u3067\u3059\u3002",
+                "english": "She is a good person.",
+                "en_audio": "",
+                "kana": "\u304b\u306e\u3058\u3087\u306f\u3044\u3044\u3072\u3068\u3067\u3059\u3002",
+                "romaji": "Kanojo wa ii hito desu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/585.mp3",
+                "text": "\u91ce\u83dc\u306f\u3001\u4f53\u306b\u826f\u3044\u98df\u3079\u7269\u3067\u3059\u3002",
+                "english": "Vegetables are good for you.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3008.mp3",
+                "kana": "\u3084\u3055\u3044\u306f\u3001\u304b\u3089\u3060\u306b\u3044\u3044\u305f\u3079\u3082\u306e\u3067\u3059\u3002",
+                "romaji": "Yasai wa, karada ni ii tabemono desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/583.mp3",
+                "text": "\u5f7c\u5973\u306f\u826f\u3044\u4eba\u3067\u3059\u3002",
+                "english": "She is a good person.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3005.mp3",
+                "kana": "\u304b\u306e\u3058\u3087\u306f\u3044\u3044\u3072\u3068\u3067\u3059\u3002",
+                "romaji": "Kanojo wa ii hito desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/582.mp3",
+                "text": "\u4f53\u306b\u826f\u3044",
+                "english": "good for one's body",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3007.mp3",
+                "kana": "\u304b\u3089\u3060\u306b\u3088\u3044",
+                "romaji": "karada ni yoi"
+            }
+        ]
+    },
+    {
+        "img": "9658",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271285.mp3",
+        "class": "na-adjective",
+        "english": "beautiful",
+        "flashcardId": "224114",
+        "meaning": "beautiful (adjective) - someone or something that is beautiful is extremely attractive to look at",
+        "id": "266",
+        "word": "\u304d\u308c\u3044",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87475.mp3",
+        "kana": "\u304d\u308c\u3044",
+        "romaji": "kirei",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375265.mp3",
+                "text": "\u304d\u308c\u3044\u306a\u5973\u306e\u4eba",
+                "english": "beautiful woman",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3831.mp3",
+                "kana": "\u304d\u308c\u3044\u306a\u304a\u3093\u306a\u306e\u3072\u3068",
+                "romaji": "kirei na onna no hito"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226575.mp3",
+                "text": "\u304d\u308c\u3044\u306a\u5973\u512a",
+                "english": "beautiful actress",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92599.mp3",
+                "kana": "\u304d\u308c\u3044\u306a\u3058\u3087\u3086\u3046",
+                "romaji": "kirei na joy\u016b"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1008.mp3",
+                "text": "\u304d\u308c\u3044\u306a\u76ee",
+                "english": "beautiful eyes",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3827.mp3",
+                "kana": "\u304d\u308c\u3044\u306a\u3081",
+                "romaji": "kirei na me"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1006.mp3",
+                "text": "\u304d\u308c\u3044\u306a\u30c9\u30ec\u30b9",
+                "english": "beautiful dress",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3825.mp3",
+                "kana": "\u304d\u308c\u3044\u306a\u30c9\u30ec\u30b9",
+                "romaji": "kirei na doresu"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1009.mp3",
+                "text": "\u5f7c\u5973\u306f\u304d\u308c\u3044\u306a\u5973\u6027\u3060\u3002",
+                "english": "She is a beautiful woman.",
+                "en_audio": "",
+                "kana": "\u304b\u306e\u3058\u3087\u306f\u304d\u308c\u3044\u306a\u3058\u3087\u305b\u3044\u3060\u3002",
+                "romaji": "Kanojo wa kirei na josei da."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1007.mp3",
+                "text": "\u5f7c\u5973\u306f\u304d\u308c\u3044\u306a\u3060\u3051\u3067\u306f\u306a\u304f\u3001\u3068\u3066\u3082\u982d\u304c\u3044\u3044\u3002",
+                "english": "She's not only beautiful, but also very smart.",
+                "en_audio": "",
+                "kana": "\u304b\u306e\u3058\u3087\u306f\u304d\u308c\u3044\u306a\u3060\u3051\u3067\u306f\u306a\u304f\u3001\u3068\u3066\u3082\u3042\u305f\u307e\u304c\u3044\u3044\u3002",
+                "romaji": "Kanojo wa kirei na dake de wa naku, totemo atama ga ii."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1005.mp3",
+                "text": "\u3042\u308c\u306f\u304d\u308c\u3044\u306a\u30a6\u30a7\u30c7\u30a3\u30f3\u30b0\u30c9\u30ec\u30b9\u3067\u3059\u3002",
+                "english": "That is a beautiful wedding dress.",
+                "en_audio": "",
+                "kana": "\u3042\u308c\u306f\u304d\u308c\u3044\u306a\u30a6\u30a8\u30c7\u30a3\u30f3\u30b0\u30c9\u30ec\u30b9\u3067\u3059\u3002",
+                "romaji": "Are wa kirei na wedingudoresu desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1003.mp3",
+                "text": "\u666f\u8272\u304c\u304d\u308c\u3044\u3060\u3002",
+                "english": "The scenary is beautiful.",
+                "en_audio": "",
+                "kana": "\u3051\u3057\u304d\u304c\u304d\u308c\u3044\u3060\u3002",
+                "romaji": "Keshiki ga kirei da."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1009.mp3",
+                "text": "\u5f7c\u5973\u306f\u304d\u308c\u3044\u306a\u5973\u6027\u3060\u3002",
+                "english": "She is a beautiful woman.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3830.mp3",
+                "kana": "\u304b\u306e\u3058\u3087\u306f\u304d\u308c\u3044\u306a\u3058\u3087\u305b\u3044\u3060\u3002",
+                "romaji": "Kanojo wa kirei na josei da."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375265.mp3",
+                "text": "\u304d\u308c\u3044\u306a\u5973\u306e\u4eba",
+                "english": "beautiful woman",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3831.mp3",
+                "kana": "\u304d\u308c\u3044\u306a\u304a\u3093\u306a\u306e\u3072\u3068",
+                "romaji": "kirei na onna no hito"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226575.mp3",
+                "text": "\u304d\u308c\u3044\u306a\u5973\u512a",
+                "english": "beautiful actress",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92599.mp3",
+                "kana": "\u304d\u308c\u3044\u306a\u3058\u3087\u3086\u3046",
+                "romaji": "kirei na joy\u016b"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1008.mp3",
+                "text": "\u304d\u308c\u3044\u306a\u76ee",
+                "english": "beautiful eyes",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3827.mp3",
+                "kana": "\u304d\u308c\u3044\u306a\u3081",
+                "romaji": "kirei na me"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1007.mp3",
+                "text": "\u5f7c\u5973\u306f\u304d\u308c\u3044\u306a\u3060\u3051\u3067\u306f\u306a\u304f\u3001\u3068\u3066\u3082\u982d\u304c\u3044\u3044\u3002",
+                "english": "She's not only beautiful, but also very smart.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3826.mp3",
+                "kana": "\u304b\u306e\u3058\u3087\u306f\u304d\u308c\u3044\u306a\u3060\u3051\u3067\u306f\u306a\u304f\u3001\u3068\u3066\u3082\u3042\u305f\u307e\u304c\u3044\u3044\u3002",
+                "romaji": "Kanojo wa kirei na dake de wa naku, totemo atama ga ii."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1005.mp3",
+                "text": "\u3042\u308c\u306f\u304d\u308c\u3044\u306a\u30a6\u30a7\u30c7\u30a3\u30f3\u30b0\u30c9\u30ec\u30b9\u3067\u3059\u3002",
+                "english": "That is a beautiful wedding dress.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3824.mp3",
+                "kana": "\u3042\u308c\u306f\u304d\u308c\u3044\u306a\u30a6\u30a8\u30c7\u30a3\u30f3\u30b0\u30c9\u30ec\u30b9\u3067\u3059\u3002",
+                "romaji": "Are wa kirei na wedingudoresu desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1006.mp3",
+                "text": "\u304d\u308c\u3044\u306a\u30c9\u30ec\u30b9",
+                "english": "beautiful dress",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3825.mp3",
+                "kana": "\u304d\u308c\u3044\u306a\u30c9\u30ec\u30b9",
+                "romaji": "kirei na doresu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1003.mp3",
+                "text": "\u666f\u8272\u304c\u304d\u308c\u3044\u3060\u3002",
+                "english": "The scenary is beautiful.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3828.mp3",
+                "kana": "\u3051\u3057\u304d\u304c\u304d\u308c\u3044\u3060\u3002",
+                "romaji": "Keshiki ga kirei da."
+            }
+        ]
+    },
+    {
+        "img": "8197",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271291.mp3",
+        "class": "i-adjective",
+        "english": "ugly",
+        "flashcardId": "2165569",
+        "meaning": "ugly (adjective) - extremely unattractive and unpleasant to look at",
+        "id": "12664",
+        "word": "\u919c\u3044",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3843.mp3",
+        "kana": "\u307f\u306b\u304f\u3044",
+        "romaji": "minikui",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200552.mp3",
+                "text": "\u919c\u3044\u9854",
+                "english": "ugly face",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262774.mp3",
+                "kana": "\u307f\u306b\u304f\u3044\u304b\u304a",
+                "romaji": "minikui kao"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1017.mp3",
+                "text": "\u919c\u3044\u52d5\u7269",
+                "english": "ugly animal",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3845.mp3",
+                "kana": "\u307f\u306b\u304f\u3044\u3069\u3046\u3076\u3064",
+                "romaji": "minikui d\u014dbutsu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1015.mp3",
+                "text": "\u919c\u3044\u59ff",
+                "english": "ugly figure",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3847.mp3",
+                "kana": "\u307f\u306b\u304f\u3044\u3059\u304c\u305f",
+                "romaji": "minikui sugata"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1016.mp3",
+                "text": "\u305d\u308c\u306f\u3001\u3068\u3066\u3082\u919c\u3044\u72ac\u3060\u3002",
+                "english": "That is a very ugly dog.",
+                "en_audio": "",
+                "kana": "\u305d\u308c\u306f\u3001\u3068\u3066\u3082\u307f\u306b\u304f\u3044\u3044\u306c\u3060\u3002",
+                "romaji": "Sore wa, totemo minikui inu da."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1014.mp3",
+                "text": "\u919c\u3044\u30a2\u30d2\u30eb\u306e\u5b50\u304c\u304d\u308c\u3044\u306a\u767d\u9ce5\u306b\u306a\u3063\u305f\u3002",
+                "english": "The ugly duckling became a beautiful swan.",
+                "en_audio": "",
+                "kana": "\u307f\u306b\u304f\u3044\u30a2\u30d2\u30eb\u306e\u3053\u304c\u304d\u308c\u3044\u306a\u306f\u304f\u3061\u3087\u3046\u306b\u306a\u3063\u305f\u3002",
+                "romaji": "Minikui ahiru no ko ga kirei na hakuch\u014d ni natta."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200552.mp3",
+                "text": "\u919c\u3044\u9854",
+                "english": "ugly face",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262774.mp3",
+                "kana": "\u307f\u306b\u304f\u3044\u304b\u304a",
+                "romaji": "minikui kao"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1017.mp3",
+                "text": "\u919c\u3044\u52d5\u7269",
+                "english": "ugly animal",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3845.mp3",
+                "kana": "\u307f\u306b\u304f\u3044\u3069\u3046\u3076\u3064",
+                "romaji": "minikui d\u014dbutsu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1016.mp3",
+                "text": "\u305d\u308c\u306f\u3001\u3068\u3066\u3082\u919c\u3044\u72ac\u3060\u3002",
+                "english": "That is a very ugly dog.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3844.mp3",
+                "kana": "\u305d\u308c\u306f\u3001\u3068\u3066\u3082\u307f\u306b\u304f\u3044\u3044\u306c\u3060\u3002",
+                "romaji": "Sore wa, totemo minikui inu da."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1015.mp3",
+                "text": "\u919c\u3044\u59ff",
+                "english": "ugly figure",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3847.mp3",
+                "kana": "\u307f\u306b\u304f\u3044\u3059\u304c\u305f",
+                "romaji": "minikui sugata"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1014.mp3",
+                "text": "\u919c\u3044\u30a2\u30d2\u30eb\u306e\u5b50\u304c\u304d\u308c\u3044\u306a\u767d\u9ce5\u306b\u306a\u3063\u305f\u3002",
+                "english": "The ugly duckling became a beautiful swan.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3846.mp3",
+                "kana": "\u307f\u306b\u304f\u3044\u30a2\u30d2\u30eb\u306e\u3053\u304c\u304d\u308c\u3044\u306a\u306f\u304f\u3061\u3087\u3046\u306b\u306a\u3063\u305f\u3002",
+                "romaji": "Minikui ahiru no ko ga kirei na hakuch\u014d ni natta."
+            }
+        ]
+    },
+    {
+        "img": "17227",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1192.mp3",
+        "class": "i-adjective",
+        "english": "difficult",
+        "flashcardId": "224116",
+        "meaning": "difficult (adjective) - hard to do, understand, or deal with",
+        "id": "2171",
+        "word": "\u96e3\u3057\u3044",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4217.mp3",
+        "kana": "\u3080\u305a\u304b\u3057\u3044",
+        "romaji": "muzukashii",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1198.mp3",
+                "text": "\u96e3\u3057\u3044\u4ed5\u4e8b",
+                "english": "difficult job",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4223.mp3",
+                "kana": "\u3080\u305a\u304b\u3057\u3044\u3057\u3054\u3068",
+                "romaji": "muzukashii shigoto"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271294.mp3",
+                "text": "\u6271\u3046\u306e\u304c\u96e3\u3057\u3044\u5b50\u4f9b",
+                "english": "difficult child",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4219.mp3",
+                "kana": "\u3042\u3064\u304b\u3046\u306e\u304c\u3080\u305a\u304b\u3057\u3044\u3053\u3069\u3082",
+                "romaji": "atsukau no ga muzukashii kodomo"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1194.mp3",
+                "text": "\u96e3\u3057\u3044\u672c",
+                "english": "difficult book",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4221.mp3",
+                "kana": "\u3080\u305a\u304b\u3057\u3044\u307b\u3093",
+                "romaji": "muzukashii hon"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200553.mp3",
+                "text": "\u82f1\u8a9e\u306f\u96e3\u3057\u3044\u3002",
+                "english": "English is difficult.",
+                "en_audio": "",
+                "kana": "\u3048\u3044\u3054\u306f\u3080\u305a\u304b\u3057\u3044\u3002",
+                "romaji": "Eigo wa muzukashii."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1197.mp3",
+                "text": "\u5f7c\u306f\u96e3\u3057\u3044\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fc\u306e\u30d7\u30ed\u30b0\u30e9\u30e0\u3092\u4f7f\u3063\u3066\u3044\u307e\u3059\u3002",
+                "english": "He is using a difficult computer program.",
+                "en_audio": "",
+                "kana": "\u304b\u308c\u306f\u3080\u305a\u304b\u3057\u3044\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fc\u306e\u30d7\u30ed\u30b0\u30e9\u30e0\u3092\u3064\u304b\u3063\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Kare wa muzukashii konpy\u016bt\u0101 no puroguramu o tsukatte imasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1195.mp3",
+                "text": "\u305d\u308c\u306f\u7b54\u3048\u308b\u306e\u304c\u96e3\u3057\u3044\u8cea\u554f\u3067\u3059\u3002",
+                "english": "That is a difficult question to answer.",
+                "en_audio": "",
+                "kana": "\u305d\u308c\u306f\u3053\u305f\u3048\u308b\u306e\u304c\u3080\u305a\u304b\u3057\u3044\u3057\u3064\u3082\u3093\u3067\u3059\u3002",
+                "romaji": "Sore wa kotaeru no ga muzukashii shitsumon desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1193.mp3",
+                "text": "\u6c34\u66dc\u65e5\u306e\u30c6\u30b9\u30c8\u306f\u96e3\u3057\u3044\u3060\u308d\u3046\u3002",
+                "english": "Wednesday's test will be difficult.",
+                "en_audio": "",
+                "kana": "\u3059\u3044\u3088\u3046\u3073\u306e\u30c6\u30b9\u30c8\u306f\u3080\u305a\u304b\u3057\u3044\u3060\u308d\u3046\u3002",
+                "romaji": "Suiy\u014dbi no tesuto wa muzukashii dar\u014d."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1198.mp3",
+                "text": "\u96e3\u3057\u3044\u4ed5\u4e8b",
+                "english": "difficult job",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4223.mp3",
+                "kana": "\u3080\u305a\u304b\u3057\u3044\u3057\u3054\u3068",
+                "romaji": "muzukashii shigoto"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200553.mp3",
+                "text": "\u82f1\u8a9e\u306f\u96e3\u3057\u3044\u3002",
+                "english": "English is difficult.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/64718.mp3",
+                "kana": "\u3048\u3044\u3054\u306f\u3080\u305a\u304b\u3057\u3044\u3002",
+                "romaji": "Eigo wa muzukashii."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1197.mp3",
+                "text": "\u5f7c\u306f\u96e3\u3057\u3044\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fc\u306e\u30d7\u30ed\u30b0\u30e9\u30e0\u3092\u4f7f\u3063\u3066\u3044\u307e\u3059\u3002",
+                "english": "He is using a difficult computer program.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4222.mp3",
+                "kana": "\u304b\u308c\u306f\u3080\u305a\u304b\u3057\u3044\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fc\u306e\u30d7\u30ed\u30b0\u30e9\u30e0\u3092\u3064\u304b\u3063\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Kare wa muzukashii konpy\u016bt\u0101 no puroguramu o tsukatte imasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271294.mp3",
+                "text": "\u6271\u3046\u306e\u304c\u96e3\u3057\u3044\u5b50\u4f9b",
+                "english": "difficult child",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4219.mp3",
+                "kana": "\u3042\u3064\u304b\u3046\u306e\u304c\u3080\u305a\u304b\u3057\u3044\u3053\u3069\u3082",
+                "romaji": "atsukau no ga muzukashii kodomo"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1194.mp3",
+                "text": "\u96e3\u3057\u3044\u672c",
+                "english": "difficult book",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4221.mp3",
+                "kana": "\u3080\u305a\u304b\u3057\u3044\u307b\u3093",
+                "romaji": "muzukashii hon"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1195.mp3",
+                "text": "\u305d\u308c\u306f\u7b54\u3048\u308b\u306e\u304c\u96e3\u3057\u3044\u8cea\u554f\u3067\u3059\u3002",
+                "english": "That is a difficult question to answer.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4218.mp3",
+                "kana": "\u305d\u308c\u306f\u3053\u305f\u3048\u308b\u306e\u304c\u3080\u305a\u304b\u3057\u3044\u3057\u3064\u3082\u3093\u3067\u3059\u3002",
+                "romaji": "Sore wa kotaeru no ga muzukashii shitsumon desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1193.mp3",
+                "text": "\u6c34\u66dc\u65e5\u306e\u30c6\u30b9\u30c8\u306f\u96e3\u3057\u3044\u3060\u308d\u3046\u3002",
+                "english": "Wednesday's test will be difficult.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4220.mp3",
+                "kana": "\u3059\u3044\u3088\u3046\u3073\u306e\u30c6\u30b9\u30c8\u306f\u3080\u305a\u304b\u3057\u3044\u3060\u308d\u3046\u3002",
+                "romaji": "Suiy\u014dbi no tesuto wa muzukashii dar\u014d."
+            }
+        ]
+    }
+]

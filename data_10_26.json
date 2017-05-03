@@ -1,0 +1,2699 @@
+[
+    {
+        "img": "8273",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227868.mp3",
+        "class": "phrase",
+        "english": "hold onto the handrail",
+        "flashcardId": "2320484",
+        "meaning": "hold onto the handrail (phrase)",
+        "id": "1613",
+        "word": "\u624b\u3059\u308a\u306b\u3064\u304b\u307e\u308b",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254159.mp3",
+        "kana": "\u3066\u3059\u308a\u306b\u3064\u304b\u307e\u308b",
+        "romaji": "tesuri ni tsukamaru",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253196.mp3",
+                "text": "\u624b\u3059\u308a\u306b\u3064\u304b\u307e\u308b",
+                "english": "hold on to the handrail",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254161.mp3",
+                "kana": "\u3066\u3059\u308a\u306b\u3064\u304b\u307e\u308b",
+                "romaji": "tesuri ni tsukamaru"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253195.mp3",
+                "text": "\u8eca\u304c\u52d5\u3044\u3066\u3044\u308b\u6700\u4e2d\u306f\u3001\u624b\u3059\u308a\u306b\u3064\u304b\u307e\u3063\u3066\u304f\u3060\u3055\u3044\u3002",
+                "english": "Please hold on to the handrail while the vehicle is in motion.",
+                "en_audio": "",
+                "kana": "\u304f\u308b\u307e\u304c\u3046\u3054\u3044\u3066\u3044\u308b\u3055\u3044\u3061\u3085\u3046\u306f\u3001\u3066\u3059\u308a\u306b\u3064\u304b\u307e\u3063\u3066\u304f\u3060\u3055\u3044\u3002",
+                "romaji": "Kuruma ga ugoite iru saich\u016b wa, tesuri ni tsukamatte kudasai."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253196.mp3",
+                "text": "\u624b\u3059\u308a\u306b\u3064\u304b\u307e\u308b",
+                "english": "hold on to the handrail",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254161.mp3",
+                "kana": "\u3066\u3059\u308a\u306b\u3064\u304b\u307e\u308b",
+                "romaji": "tesuri ni tsukamaru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253195.mp3",
+                "text": "\u8eca\u304c\u52d5\u3044\u3066\u3044\u308b\u6700\u4e2d\u306f\u3001\u624b\u3059\u308a\u306b\u3064\u304b\u307e\u3063\u3066\u304f\u3060\u3055\u3044\u3002",
+                "english": "Please hold on to the handrail while the vehicle is in motion.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254160.mp3",
+                "kana": "\u304f\u308b\u307e\u304c\u3046\u3054\u3044\u3066\u3044\u308b\u3055\u3044\u3061\u3085\u3046\u306f\u3001\u3066\u3059\u308a\u306b\u3064\u304b\u307e\u3063\u3066\u304f\u3060\u3055\u3044\u3002",
+                "romaji": "Kuruma ga ugoite iru saich\u016b wa, tesuri ni tsukamatte kudasai."
+            }
+        ]
+    },
+    {
+        "img": "8223",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271866.mp3",
+        "class": "phrase",
+        "english": "give up a seat",
+        "flashcardId": "2320469",
+        "meaning": "give up a seat (phrase)",
+        "id": "1621",
+        "word": "\u5e2d\u3092\u8b72\u308b",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254162.mp3",
+        "kana": "\u305b\u304d\u3092\u3086\u305a\u308b",
+        "romaji": "seki o yuzuru",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253198.mp3",
+                "text": "\u5e2d\u3092\u8b72\u308a\u307e\u3059\u3088\u3002",
+                "english": "I'll give up my seat.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254164.mp3",
+                "kana": "\u305b\u304d\u3092\u3086\u305a\u308a\u307e\u3059\u3088\u3002",
+                "romaji": "Seki o yuzurimasu yo."
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253197.mp3",
+                "text": "\u3088\u308d\u3053\u3093\u3067\u3001\u598a\u5a20\u3057\u3066\u3044\u308b\u4eba\u3084\u3001\u9ad8\u9f62\u8005\u306b\u5e2d\u3092\u8b72\u308a\u307e\u3059\u3002",
+                "english": "I will gladly give up my seat for a pregnant woman or a senior rider.",
+                "en_audio": "",
+                "kana": "\u3088\u308d\u3053\u3093\u3067\u3001\u306b\u3093\u3057\u3093\u3057\u3066\u3044\u308b\u3072\u3068\u3084\u3001\u3053\u3046\u308c\u3044\u3057\u3083\u306b\u305b\u304d\u3092\u3086\u305a\u308a\u307e\u3059\u3002",
+                "romaji": "Yorokonde, ninshin shite iru hito ya, k\u014dreisha ni seki o yuzurimasu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253198.mp3",
+                "text": "\u5e2d\u3092\u8b72\u308a\u307e\u3059\u3088\u3002",
+                "english": "I'll give up my seat.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254164.mp3",
+                "kana": "\u305b\u304d\u3092\u3086\u305a\u308a\u307e\u3059\u3088\u3002",
+                "romaji": "Seki o yuzurimasu yo."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253197.mp3",
+                "text": "\u3088\u308d\u3053\u3093\u3067\u3001\u598a\u5a20\u3057\u3066\u3044\u308b\u4eba\u3084\u3001\u9ad8\u9f62\u8005\u306b\u5e2d\u3092\u8b72\u308a\u307e\u3059\u3002",
+                "english": "I will gladly give up my seat for a pregnant woman or a senior rider.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254163.mp3",
+                "kana": "\u3088\u308d\u3053\u3093\u3067\u3001\u306b\u3093\u3057\u3093\u3057\u3066\u3044\u308b\u3072\u3068\u3084\u3001\u3053\u3046\u308c\u3044\u3057\u3083\u306b\u305b\u304d\u3092\u3086\u305a\u308a\u307e\u3059\u3002",
+                "romaji": "Yorokonde, ninshin shite iru hito ya, k\u014dreisha ni seki o yuzurimasu."
+            }
+        ]
+    },
+    {
+        "img": "8330",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375368.mp3",
+        "class": "noun",
+        "english": "fare",
+        "flashcardId": "2320507",
+        "meaning": "fare (noun) - the price you pay to travel somewhere by bus, train, plane etc",
+        "id": "1623",
+        "word": "\u6599\u91d1",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89009.mp3",
+        "kana": "\u308a\u3087\u3046\u304d\u3093",
+        "romaji": "ry\u014dkin",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375370.mp3",
+                "text": "\u96fb\u8eca\u306e\u6599\u91d1",
+                "english": "train fare",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102805.mp3",
+                "kana": "\u3067\u3093\u3057\u3083\u306e\u308a\u3087\u3046\u304d\u3093",
+                "romaji": "densha no ry\u014dkin"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375369.mp3",
+                "text": "\u30d0\u30b9\u306e\u6599\u91d1",
+                "english": "bus fare",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102804.mp3",
+                "kana": "\u30d0\u30b9\u306e\u308a\u3087\u3046\u304d\u3093",
+                "romaji": "basu no ry\u014dkin"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375372.mp3",
+                "text": "\u30d0\u30b9\u306e\u6599\u91d1\u306f\u3044\u304f\u3089\u3067\u3059\u304b\uff1f",
+                "english": "How much is the bus fare?",
+                "en_audio": "",
+                "kana": "\u30d0\u30b9\u306e\u308a\u3087\u3046\u304d\u3093\u306f\u3044\u304f\u3089\u3067\u3059\u304b\uff1f",
+                "romaji": "Basu no ry\u014dkin wa ikura desu ka?"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375371.mp3",
+                "text": "\u3053\u306e\u4e94\u5e74\u9593\u3067\u30d0\u30b9\u306e\u6599\u91d1\u306f\u4e8c\u500d\u306b\u306a\u3063\u305f\u3002",
+                "english": "The bus fare has doubled in the last five years.",
+                "en_audio": "",
+                "kana": "\u3053\u306e\u3054\u306d\u3093\u304b\u3093\u3067\u30d0\u30b9\u306e\u308a\u3087\u3046\u304d\u3093\u306f\u306b\u3070\u3044\u306b\u306a\u3063\u305f\u3002",
+                "romaji": "Kono go-nenkan de basu no ry\u014dkin wa ni-bai ni natta."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375372.mp3",
+                "text": "\u30d0\u30b9\u306e\u6599\u91d1\u306f\u3044\u304f\u3089\u3067\u3059\u304b\uff1f",
+                "english": "How much is the bus fare?",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254170.mp3",
+                "kana": "\u30d0\u30b9\u306e\u308a\u3087\u3046\u304d\u3093\u306f\u3044\u304f\u3089\u3067\u3059\u304b\uff1f",
+                "romaji": "Basu no ry\u014dkin wa ikura desu ka?"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375371.mp3",
+                "text": "\u3053\u306e\u4e94\u5e74\u9593\u3067\u30d0\u30b9\u306e\u6599\u91d1\u306f\u4e8c\u500d\u306b\u306a\u3063\u305f\u3002",
+                "english": "The bus fare has doubled in the last five years.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102803.mp3",
+                "kana": "\u3053\u306e\u3054\u306d\u3093\u304b\u3093\u3067\u30d0\u30b9\u306e\u308a\u3087\u3046\u304d\u3093\u306f\u306b\u3070\u3044\u306b\u306a\u3063\u305f\u3002",
+                "romaji": "Kono go-nenkan de basu no ry\u014dkin wa ni-bai ni natta."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375370.mp3",
+                "text": "\u96fb\u8eca\u306e\u6599\u91d1",
+                "english": "train fare",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102805.mp3",
+                "kana": "\u3067\u3093\u3057\u3083\u306e\u308a\u3087\u3046\u304d\u3093",
+                "romaji": "densha no ry\u014dkin"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375369.mp3",
+                "text": "\u30d0\u30b9\u306e\u6599\u91d1",
+                "english": "bus fare",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102804.mp3",
+                "kana": "\u30d0\u30b9\u306e\u308a\u3087\u3046\u304d\u3093",
+                "romaji": "basu no ry\u014dkin"
+            }
+        ]
+    },
+    {
+        "img": "8464",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225903.mp3",
+        "class": "noun",
+        "english": "waiting room",
+        "flashcardId": "2320477",
+        "meaning": "waiting room (noun) - a room (as in a hotel or airport) with seating where people can wait; waiting area; lounge (noun) - a public room in a hotel or other building, that is used by many people as a place to relax",
+        "id": "43",
+        "word": "\u5f85\u5408\u5ba4",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263305.mp3",
+        "kana": "\u307e\u3061\u3042\u3044\u3057\u3064",
+        "romaji": "machiaishitsu",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253207.mp3",
+                "text": "\u5f85\u5408\u5ba4\u3067\u5f85\u3061\u307e\u3059",
+                "english": "wait in the waiting room",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89642.mp3",
+                "kana": "\u307e\u3061\u3042\u3044\u3057\u3064\u3067\u307e\u3061\u307e\u3059",
+                "romaji": "machiaishitsu de machimasu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253205.mp3",
+                "text": "\u6df7\u3093\u3067\u3044\u308b\u5f85\u5408\u5ba4",
+                "english": "crowded waiting room",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89640.mp3",
+                "kana": "\u3053\u3093\u3067\u3044\u308b\u307e\u3061\u3042\u3044\u3057\u3064",
+                "romaji": "konde iru machiaishitsu"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253206.mp3",
+                "text": "\u7537\u6027\u304c\u5f85\u5408\u5ba4\u3067\u5f85\u3063\u3066\u3044\u307e\u3059\u3002",
+                "english": "The man is waiting in the waiting room.",
+                "en_audio": "",
+                "kana": "\u3060\u3093\u305b\u3044\u304c\u307e\u3061\u3042\u3044\u3057\u3064\u3067\u307e\u3063\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Dansei ga machiaishitsu de matte imasu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253207.mp3",
+                "text": "\u5f85\u5408\u5ba4\u3067\u5f85\u3061\u307e\u3059",
+                "english": "wait in the waiting room",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89642.mp3",
+                "kana": "\u307e\u3061\u3042\u3044\u3057\u3064\u3067\u307e\u3061\u307e\u3059",
+                "romaji": "machiaishitsu de machimasu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253206.mp3",
+                "text": "\u7537\u6027\u304c\u5f85\u5408\u5ba4\u3067\u5f85\u3063\u3066\u3044\u307e\u3059\u3002",
+                "english": "The man is waiting in the waiting room.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89641.mp3",
+                "kana": "\u3060\u3093\u305b\u3044\u304c\u307e\u3061\u3042\u3044\u3057\u3064\u3067\u307e\u3063\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Dansei ga machiaishitsu de matte imasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253205.mp3",
+                "text": "\u6df7\u3093\u3067\u3044\u308b\u5f85\u5408\u5ba4",
+                "english": "crowded waiting room",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89640.mp3",
+                "kana": "\u3053\u3093\u3067\u3044\u308b\u307e\u3061\u3042\u3044\u3057\u3064",
+                "romaji": "konde iru machiaishitsu"
+            }
+        ]
+    },
+    {
+        "img": "17510",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253208.mp3",
+        "class": "noun",
+        "english": "stop",
+        "flashcardId": "2320410",
+        "meaning": "bus stop (noun) - a place on a bus route where buses stop to discharge and take on passengers; stop (noun) - a place where a bus or train regularly stops for people to get on and off",
+        "id": "34558",
+        "word": "\u505c\u7559\u6240",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89008.mp3",
+        "kana": "\u3066\u3044\u308a\u3085\u3046\u3058\u3087",
+        "romaji": "teiry\u016bjo",
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/979518.mp3",
+                "text": "\u6b21\u306e\u505c\u7559\u6240\u306f\u3001\u30ca\u30f3\u30b8\u30f3\u901a\u308a\u3067\u3059\u3002",
+                "english": "Next stop is Nanjing Road.",
+                "en_audio": "",
+                "kana": "\u3064\u304e\u306e\u3066\u3044\u308a\u3085\u3046\u3058\u3087\u306f\u3001\u30ca\u30f3\u30b8\u30f3\u3069\u304a\u308a\u3067\u3059\u3002",
+                "romaji": "Tsugi no teiry\u016bjo wa, Nanjin-d\u014dri desu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/979518.mp3",
+                "text": "\u6b21\u306e\u505c\u7559\u6240\u306f\u3001\u30ca\u30f3\u30b8\u30f3\u901a\u308a\u3067\u3059\u3002",
+                "english": "Next stop is Nanjing Road.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/53824.mp3",
+                "kana": "\u3064\u304e\u306e\u3066\u3044\u308a\u3085\u3046\u3058\u3087\u306f\u3001\u30ca\u30f3\u30b8\u30f3\u3069\u304a\u308a\u3067\u3059\u3002",
+                "romaji": "Tsugi no teiry\u016bjo wa, Nanjin-d\u014dri desu."
+            }
+        ]
+    },
+    {
+        "img": "8208",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/549537.mp3",
+        "class": "noun",
+        "english": "train station",
+        "flashcardId": "224762",
+        "meaning": "train station (phrase)",
+        "id": "5118",
+        "word": "\u99c5",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263306.mp3",
+        "kana": "\u3048\u304d",
+        "romaji": "eki",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/529177.mp3",
+                "text": "\u99c5\u3067",
+                "english": "at the train station",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263307.mp3",
+                "kana": "\u3048\u304d\u3067",
+                "romaji": "eki de"
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/529177.mp3",
+                "text": "\u99c5\u3067",
+                "english": "at the train station",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263307.mp3",
+                "kana": "\u3048\u304d\u3067",
+                "romaji": "eki de"
+            }
+        ]
+    },
+    {
+        "img": "8678",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271869.mp3",
+        "class": "noun",
+        "english": "ticket machine",
+        "flashcardId": "2320427",
+        "meaning": "ticket machine (phrase)",
+        "id": "11979",
+        "word": "\u5207\u7b26\u81ea\u52d5\u8ca9\u58f2\u6a5f",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263308.mp3",
+        "kana": "\u304d\u3063\u3077\u3058\u3069\u3046\u306f\u3093\u3070\u3044\u304d",
+        "romaji": "kippu jid\u014d hanbaiki",
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271870.mp3",
+                "text": "\u305d\u306e\u5207\u7b26\u8ca9\u58f2\u6a5f\u306f\u58ca\u308c\u3066\u3044\u307e\u3059\u3002",
+                "english": "The ticket machine is broken.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u304d\u3063\u3077\u306f\u3093\u3070\u3044\u304d\u306f\u3053\u308f\u308c\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Sono kippu hanbaiki wa kowarete imasu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271870.mp3",
+                "text": "\u305d\u306e\u5207\u7b26\u8ca9\u58f2\u6a5f\u306f\u58ca\u308c\u3066\u3044\u307e\u3059\u3002",
+                "english": "The ticket machine is broken.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263309.mp3",
+                "kana": "\u305d\u306e\u304d\u3063\u3077\u306f\u3093\u3070\u3044\u304d\u306f\u3053\u308f\u308c\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Sono kippu hanbaiki wa kowarete imasu."
+            }
+        ]
+    },
+    {
+        "img": "21955",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253210.mp3",
+        "class": "noun",
+        "english": "ticket booth",
+        "flashcardId": "2320334",
+        "meaning": "ticket booth",
+        "id": "34560",
+        "word": "\u30c1\u30b1\u30c3\u30c8\u58f2\u308a\u5834",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254173.mp3",
+        "kana": "\u30c1\u30b1\u30c3\u30c8\u3046\u308a\u3070",
+        "romaji": "chiketto uriba",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271872.mp3",
+                "text": "\u7a7a\u306e\u30c1\u30b1\u30c3\u30c8\u58f2\u308a\u5834",
+                "english": "empty ticket booth",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263311.mp3",
+                "kana": "\u304b\u3089\u306e\u30c1\u30b1\u30c3\u30c8\u3046\u308a\u3070",
+                "romaji": "kara no chiketto uriba"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271871.mp3",
+                "text": "\u30c1\u30b1\u30c3\u30c8\u58f2\u308a\u5834\u306f\u7a7a\u3067\u3059\u3002",
+                "english": "The ticket booth is empty.",
+                "en_audio": "",
+                "kana": "\u30c1\u30b1\u30c3\u30c8\u3046\u308a\u3070\u306f\u304b\u3089\u3067\u3059\u3002",
+                "romaji": "Chiketto uriba wa kara desu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271872.mp3",
+                "text": "\u7a7a\u306e\u30c1\u30b1\u30c3\u30c8\u58f2\u308a\u5834",
+                "english": "empty ticket booth",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263311.mp3",
+                "kana": "\u304b\u3089\u306e\u30c1\u30b1\u30c3\u30c8\u3046\u308a\u3070",
+                "romaji": "kara no chiketto uriba"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271871.mp3",
+                "text": "\u30c1\u30b1\u30c3\u30c8\u58f2\u308a\u5834\u306f\u7a7a\u3067\u3059\u3002",
+                "english": "The ticket booth is empty.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263310.mp3",
+                "kana": "\u30c1\u30b1\u30c3\u30c8\u3046\u308a\u3070\u306f\u304b\u3089\u3067\u3059\u3002",
+                "romaji": "Chiketto uriba wa kara desu."
+            }
+        ]
+    },
+    {
+        "img": "22302",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227858.mp3",
+        "class": "verb",
+        "english": "ride",
+        "flashcardId": "2067010",
+        "meaning": "ride (verb) - to travel in a bus, car, or other vehicle that you are not driving:",
+        "id": "1606",
+        "word": "\u4e57\u308b",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/306025.mp3",
+        "kana": "\u306e\u308b",
+        "romaji": "noru",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271884.mp3",
+                "text": "\u30d0\u30b9\u306b\u4e57\u308b",
+                "english": "ride on a bus",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/304053.mp3",
+                "kana": "\u30d0\u30b9\u306b\u306e\u308b",
+                "romaji": "basu ni noru"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305229.mp3",
+                "text": "\u751f\u5f92\u9054\u304c\u30d0\u30b9\u306b\u4e57\u3063\u305f\u3002",
+                "english": "The students rode the bus.",
+                "en_audio": "",
+                "kana": "\u305b\u3044\u3068\u305f\u3061\u304c\u30d0\u30b9\u306b\u306e\u3063\u305f\u3002",
+                "romaji": "Seito-tachi ga basu ni notta."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305228.mp3",
+                "text": "\u751f\u5f92\u9054\u304c\u30d0\u30b9\u306b\u4e57\u308b\u3002",
+                "english": "The students ride the bus.",
+                "en_audio": "",
+                "kana": "\u305b\u3044\u3068\u305f\u3061\u304c\u30d0\u30b9\u306b\u306e\u308b\u3002",
+                "romaji": "Seito-tachi ga basu ni noru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305227.mp3",
+                "text": "\u751f\u5f92\u9054\u304c\u30d0\u30b9\u306b\u4e57\u3063\u3066\u3044\u308b\u3002",
+                "english": "The students are riding the bus.",
+                "en_audio": "",
+                "kana": "\u305b\u3044\u3068\u305f\u3061\u304c\u30d0\u30b9\u306b\u306e\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Seito-tachi ga basu ni notte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271883.mp3",
+                "text": "\u81ea\u5206\u3067\u8eca\u3092\u904b\u8ee2\u3059\u308b\u3088\u308a\u3001\u30d0\u30b9\u306b\u4e57\u308b\u3053\u3068\u306b\u3057\u307e\u3057\u305f\u3002",
+                "english": "I chose to ride the bus instead of drive my car.",
+                "en_audio": "",
+                "kana": "\u3058\u3076\u3093\u3067\u304f\u308b\u307e\u3092\u3046\u3093\u3066\u3093\u3059\u308b\u3088\u308a\u3001\u30d0\u30b9\u306b\u306e\u308b\u3053\u3068\u306b\u3057\u307e\u3057\u305f\u3002",
+                "romaji": "Jibun de kuruma o unten suru yori, basu ni noru koto ni shimashita."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305229.mp3",
+                "text": "\u751f\u5f92\u9054\u304c\u30d0\u30b9\u306b\u4e57\u3063\u305f\u3002",
+                "english": "The students rode the bus.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/303521.mp3",
+                "kana": "\u305b\u3044\u3068\u305f\u3061\u304c\u30d0\u30b9\u306b\u306e\u3063\u305f\u3002",
+                "romaji": "Seito-tachi ga basu ni notta."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305228.mp3",
+                "text": "\u751f\u5f92\u9054\u304c\u30d0\u30b9\u306b\u4e57\u308b\u3002",
+                "english": "The students ride the bus.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/303520.mp3",
+                "kana": "\u305b\u3044\u3068\u305f\u3061\u304c\u30d0\u30b9\u306b\u306e\u308b\u3002",
+                "romaji": "Seito-tachi ga basu ni noru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305227.mp3",
+                "text": "\u751f\u5f92\u9054\u304c\u30d0\u30b9\u306b\u4e57\u3063\u3066\u3044\u308b\u3002",
+                "english": "The students are riding the bus.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/303071.mp3",
+                "kana": "\u305b\u3044\u3068\u305f\u3061\u304c\u30d0\u30b9\u306b\u306e\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Seito-tachi ga basu ni notte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271884.mp3",
+                "text": "\u30d0\u30b9\u306b\u4e57\u308b",
+                "english": "ride on a bus",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/304053.mp3",
+                "kana": "\u30d0\u30b9\u306b\u306e\u308b",
+                "romaji": "basu ni noru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271883.mp3",
+                "text": "\u81ea\u5206\u3067\u8eca\u3092\u904b\u8ee2\u3059\u308b\u3088\u308a\u3001\u30d0\u30b9\u306b\u4e57\u308b\u3053\u3068\u306b\u3057\u307e\u3057\u305f\u3002",
+                "english": "I chose to ride the bus instead of drive my car.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86456.mp3",
+                "kana": "\u3058\u3076\u3093\u3067\u304f\u308b\u307e\u3092\u3046\u3093\u3066\u3093\u3059\u308b\u3088\u308a\u3001\u30d0\u30b9\u306b\u306e\u308b\u3053\u3068\u306b\u3057\u307e\u3057\u305f\u3002",
+                "romaji": "Jibun de kuruma o unten suru yori, basu ni noru koto ni shimashita."
+            }
+        ]
+    },
+    {
+        "img": "17430",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227884.mp3",
+        "class": "noun",
+        "english": "ferry",
+        "flashcardId": "2181689",
+        "meaning": "ferry (noun) - a boat that carries people or goods across a river or a narrow area of water; ferryboat",
+        "id": "1624",
+        "word": "\u30d5\u30a7\u30ea\u30fc",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89010.mp3",
+        "kana": "\u30d5\u30a7\u30ea\u30fc",
+        "romaji": "fer\u012b",
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/860562.mp3",
+                "text": "\u305d\u306e\u30d5\u30a7\u30ea\u30fc\u306f\u3001\u6c34\u4e0a\u3092\u4e57\u5ba2\u3092\u4e57\u305b\u3066\u904b\u3093\u3067\u3044\u308b\u3002",
+                "english": "The ferry is transporting passengers across the water.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u30d5\u30a7\u30ea\u30fc\u306f\u3001\u3059\u3044\u3058\u3087\u3046\u3092\u3058\u3087\u3046\u304d\u3083\u304f\u3092\u306e\u305b\u3066\u306f\u3053\u3093\u3067\u3044\u308b\u3002",
+                "romaji": "Sono fer\u012b wa, suij\u014d o j\u014dkyaku o nosete hakonnde iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/860561.mp3",
+                "text": "\u30d5\u30a7\u30ea\u30fc\u3092\u4f7f\u3048\u3070\u3001\u5cf6\u306b\u8eca\u3092\u6301\u3063\u3066\u3044\u304f\u3053\u3068\u304c\u3067\u304d\u308b\u3002",
+                "english": "The ferry allows me to take my car with me to the island.",
+                "en_audio": "",
+                "kana": "\u30d5\u30a7\u30ea\u30fc\u3092\u3064\u304b\u3048\u3070\u3001\u3057\u307e\u306b\u304f\u308b\u307e\u3092\u3082\u3063\u3066\u3044\u304f\u3053\u3068\u304c\u3067\u304d\u308b\u3002",
+                "romaji": "Fer\u012b o tsukaeba, shima ni kuruma o motte iku koto ga dekiru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/860562.mp3",
+                "text": "\u305d\u306e\u30d5\u30a7\u30ea\u30fc\u306f\u3001\u6c34\u4e0a\u3092\u4e57\u5ba2\u3092\u4e57\u305b\u3066\u904b\u3093\u3067\u3044\u308b\u3002",
+                "english": "The ferry is transporting passengers across the water.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103455.mp3",
+                "kana": "\u305d\u306e\u30d5\u30a7\u30ea\u30fc\u306f\u3001\u3059\u3044\u3058\u3087\u3046\u3092\u3058\u3087\u3046\u304d\u3083\u304f\u3092\u306e\u305b\u3066\u306f\u3053\u3093\u3067\u3044\u308b\u3002",
+                "romaji": "Sono fer\u012b wa, suij\u014d o j\u014dkyaku o nosete hakonnde iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/860561.mp3",
+                "text": "\u30d5\u30a7\u30ea\u30fc\u3092\u4f7f\u3048\u3070\u3001\u5cf6\u306b\u8eca\u3092\u6301\u3063\u3066\u3044\u304f\u3053\u3068\u304c\u3067\u304d\u308b\u3002",
+                "english": "The ferry allows me to take my car with me to the island.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103453.mp3",
+                "kana": "\u30d5\u30a7\u30ea\u30fc\u3092\u3064\u304b\u3048\u3070\u3001\u3057\u307e\u306b\u304f\u308b\u307e\u3092\u3082\u3063\u3066\u3044\u304f\u3053\u3068\u304c\u3067\u304d\u308b\u3002",
+                "romaji": "Fer\u012b o tsukaeba, shima ni kuruma o motte iku koto ga dekiru."
+            }
+        ]
+    },
+    {
+        "img": "17401",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206560.mp3",
+        "class": "verb",
+        "english": "commute",
+        "flashcardId": "224240",
+        "meaning": "commute (verb) - to regularly travel a long distance to get to work",
+        "id": "1669",
+        "word": "\u901a\u52e4\u3059\u308b",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/306023.mp3",
+        "kana": "\u3064\u3046\u304d\u3093\u3059\u308b",
+        "romaji": "ts\u016bkin suru",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305224.mp3",
+                "text": "\u671d\u3001\u901a\u52e4\u3059\u308b",
+                "english": "commute in the morning",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/304050.mp3",
+                "kana": "\u3042\u3055\u3001\u3064\u3046\u304d\u3093\u3059\u308b",
+                "romaji": "asa, ts\u016bkin suru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201173.mp3",
+                "text": "\u901a\u52e4\u3059\u308b",
+                "english": "commute to work",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87168.mp3",
+                "kana": "\u3064\u3046\u304d\u3093\u3059\u308b",
+                "romaji": "ts\u016bkin suru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201174.mp3",
+                "text": "\u96fb\u8eca\u3067\u901a\u52e4\u3059\u308b",
+                "english": "commute to work by train",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197888.mp3",
+                "kana": "\u3067\u3093\u3057\u3083\u3067\u3064\u3046\u304d\u3093\u3059\u308b",
+                "romaji": "densha de ts\u016bkin suru"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305223.mp3",
+                "text": "\u671d\u3001\u4eba\u3005\u304c\u901a\u52e4\u3057\u305f\u3002",
+                "english": "The people commuted in the morning.",
+                "en_audio": "",
+                "kana": "\u3042\u3055\u3001\u3072\u3068\u3073\u3068\u304c\u3064\u3046\u304d\u3093\u3057\u305f\u3002",
+                "romaji": "Asa, hitobito ga ts\u016bkin shita."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305222.mp3",
+                "text": "\u671d\u3001\u4eba\u3005\u304c\u901a\u52e4\u3059\u308b\u3002",
+                "english": "The people commute in the morning.",
+                "en_audio": "",
+                "kana": "\u3042\u3055\u3001\u3072\u3068\u3073\u3068\u304c\u3064\u3046\u304d\u3093\u3059\u308b\u3002",
+                "romaji": "Asa, hitobito ga ts\u016bkin suru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253270.mp3",
+                "text": "\u4eba\u3005\u306f\u96fb\u8eca\u3067\u901a\u52e4\u3057\u3066\u3044\u307e\u3059\u3002",
+                "english": "The people are commuting to work by train.",
+                "en_audio": "",
+                "kana": "\u3072\u3068\u3073\u3068\u306f\u3067\u3093\u3057\u3083\u3067\u3064\u3046\u304d\u3093\u3057\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Hitobito wa densha de ts\u016bkin shite imasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201172.mp3",
+                "text": "\u79c1\u306f\u96fb\u8eca\u3067\u901a\u52e4\u3059\u308b\u3002",
+                "english": "I commute to work by train.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306f\u3067\u3093\u3057\u3083\u3067\u3064\u3046\u304d\u3093\u3059\u308b\u3002",
+                "romaji": "Watashi wa densha de ts\u016bkin suru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305223.mp3",
+                "text": "\u671d\u3001\u4eba\u3005\u304c\u901a\u52e4\u3057\u305f\u3002",
+                "english": "The people commuted in the morning.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/303518.mp3",
+                "kana": "\u3042\u3055\u3001\u3072\u3068\u3073\u3068\u304c\u3064\u3046\u304d\u3093\u3057\u305f\u3002",
+                "romaji": "Asa, hitobito ga ts\u016bkin shita."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305224.mp3",
+                "text": "\u671d\u3001\u901a\u52e4\u3059\u308b",
+                "english": "commute in the morning",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/304050.mp3",
+                "kana": "\u3042\u3055\u3001\u3064\u3046\u304d\u3093\u3059\u308b",
+                "romaji": "asa, ts\u016bkin suru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305222.mp3",
+                "text": "\u671d\u3001\u4eba\u3005\u304c\u901a\u52e4\u3059\u308b\u3002",
+                "english": "The people commute in the morning.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/303517.mp3",
+                "kana": "\u3042\u3055\u3001\u3072\u3068\u3073\u3068\u304c\u3064\u3046\u304d\u3093\u3059\u308b\u3002",
+                "romaji": "Asa, hitobito ga ts\u016bkin suru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253270.mp3",
+                "text": "\u4eba\u3005\u306f\u96fb\u8eca\u3067\u901a\u52e4\u3057\u3066\u3044\u307e\u3059\u3002",
+                "english": "The people are commuting to work by train.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198410.mp3",
+                "kana": "\u3072\u3068\u3073\u3068\u306f\u3067\u3093\u3057\u3083\u3067\u3064\u3046\u304d\u3093\u3057\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Hitobito wa densha de ts\u016bkin shite imasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201173.mp3",
+                "text": "\u901a\u52e4\u3059\u308b",
+                "english": "commute to work",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87168.mp3",
+                "kana": "\u3064\u3046\u304d\u3093\u3059\u308b",
+                "romaji": "ts\u016bkin suru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201174.mp3",
+                "text": "\u96fb\u8eca\u3067\u901a\u52e4\u3059\u308b",
+                "english": "commute to work by train",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197888.mp3",
+                "kana": "\u3067\u3093\u3057\u3083\u3067\u3064\u3046\u304d\u3093\u3059\u308b",
+                "romaji": "densha de ts\u016bkin suru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201172.mp3",
+                "text": "\u79c1\u306f\u96fb\u8eca\u3067\u901a\u52e4\u3059\u308b\u3002",
+                "english": "I commute to work by train.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87167.mp3",
+                "kana": "\u308f\u305f\u3057\u306f\u3067\u3093\u3057\u3083\u3067\u3064\u3046\u304d\u3093\u3059\u308b\u3002",
+                "romaji": "Watashi wa densha de ts\u016bkin suru."
+            }
+        ]
+    },
+    {
+        "img": "8208",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271885.mp3",
+        "class": "verb",
+        "english": "transfer",
+        "flashcardId": "2320392",
+        "meaning": "transfer (verb) - intransitive. to change from one bus, plane etc to another while you are travelling, or arrange for someone to do this",
+        "id": "5142",
+        "word": "\u4e57\u308a\u63db\u3048\u308b",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2511.mp3",
+        "kana": "\u306e\u308a\u304b\u3048\u308b",
+        "romaji": "norikaeru",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228792.mp3",
+                "text": "\u96fb\u8eca\u3092\u4e57\u308a\u63db\u3048\u308b",
+                "english": "transfer trains",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2518.mp3",
+                "kana": "\u3067\u3093\u3057\u3083\u3092\u306e\u308a\u304b\u3048\u308b",
+                "romaji": "densha o norikaeru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228791.mp3",
+                "text": "L\u5217\u8eca\u306b\u4e57\u308a\u63db\u3048\u308b",
+                "english": "transfer to the L train",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2516.mp3",
+                "kana": "\u30a8\u30eb\u308c\u3063\u3057\u3083\u306b\u306e\u308a\u304b\u3048\u308b",
+                "romaji": "eru-ressha ni norikaeru"
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228792.mp3",
+                "text": "\u96fb\u8eca\u3092\u4e57\u308a\u63db\u3048\u308b",
+                "english": "transfer trains",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2518.mp3",
+                "kana": "\u3067\u3093\u3057\u3083\u3092\u306e\u308a\u304b\u3048\u308b",
+                "romaji": "densha o norikaeru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228791.mp3",
+                "text": "L\u5217\u8eca\u306b\u4e57\u308a\u63db\u3048\u308b",
+                "english": "transfer to the L train",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2516.mp3",
+                "kana": "\u30a8\u30eb\u308c\u3063\u3057\u3083\u306b\u306e\u308a\u304b\u3048\u308b",
+                "romaji": "eru-ressha ni norikaeru"
+            }
+        ]
+    },
+    {
+        "img": "1398",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/891813.mp3",
+        "class": "phrase",
+        "english": "pay money",
+        "flashcardId": "2182154",
+        "meaning": "pay money (phrase)",
+        "id": "48126",
+        "word": "\u91d1\u3092\u6255\u3046",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/987426.mp3",
+        "kana": "\u304b\u306d\u3092\u306f\u3089\u3046",
+        "romaji": "kane o harau"
+    },
+    {
+        "img": "9112",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375109.mp3",
+        "class": "noun",
+        "english": "driver",
+        "flashcardId": "2320636",
+        "meaning": "driver (noun) - someone who drives a car, bus etc",
+        "id": "1302",
+        "word": "\u904b\u8ee2\u624b",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254178.mp3",
+        "kana": "\u3046\u3093\u3066\u3093\u3057\u3085",
+        "romaji": "untenshu",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253225.mp3",
+                "text": "\u30d0\u30b9\u306e\u904b\u8ee2\u624b",
+                "english": "bus driver",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85748.mp3",
+                "kana": "\u30d0\u30b9\u306e\u3046\u3093\u3066\u3093\u3057\u3085",
+                "romaji": "basu no untenshu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253224.mp3",
+                "text": "\u8cac\u4efb\u611f\u306e\u5f37\u3044\u904b\u8ee2\u624b",
+                "english": "responsible driver",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85747.mp3",
+                "kana": "\u305b\u304d\u306b\u3093\u304b\u3093\u306e\u3064\u3088\u3044\u3046\u3093\u3066\u3093\u3057\u3085",
+                "romaji": "sekininkan no tsuyoi untenshu"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253223.mp3",
+                "text": "\u904b\u8ee2\u624b\u3068\u3057\u3066\u3001\u5468\u308a\u306e\u3053\u3068\u306b\u6ce8\u610f\u3092\u6255\u308f\u306a\u3051\u308c\u3070\u306a\u308a\u307e\u305b\u3093\u3002",
+                "english": "As the driver you must pay attention to everything around you.",
+                "en_audio": "",
+                "kana": "\u3046\u3093\u3066\u3093\u3057\u3085\u3068\u3057\u3066\u3001\u307e\u308f\u308a\u306e\u3053\u3068\u306b\u3061\u3085\u3046\u3044\u3092\u306f\u3089\u308f\u306a\u3051\u308c\u3070\u306a\u308a\u307e\u305b\u3093\u3002",
+                "romaji": "Untenshu to shite, mawari no koto ni ch\u016bi o harawanakereba narimasen.."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253225.mp3",
+                "text": "\u30d0\u30b9\u306e\u904b\u8ee2\u624b",
+                "english": "bus driver",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85748.mp3",
+                "kana": "\u30d0\u30b9\u306e\u3046\u3093\u3066\u3093\u3057\u3085",
+                "romaji": "basu no untenshu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253224.mp3",
+                "text": "\u8cac\u4efb\u611f\u306e\u5f37\u3044\u904b\u8ee2\u624b",
+                "english": "responsible driver",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85747.mp3",
+                "kana": "\u305b\u304d\u306b\u3093\u304b\u3093\u306e\u3064\u3088\u3044\u3046\u3093\u3066\u3093\u3057\u3085",
+                "romaji": "sekininkan no tsuyoi untenshu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253223.mp3",
+                "text": "\u904b\u8ee2\u624b\u3068\u3057\u3066\u3001\u5468\u308a\u306e\u3053\u3068\u306b\u6ce8\u610f\u3092\u6255\u308f\u306a\u3051\u308c\u3070\u306a\u308a\u307e\u305b\u3093\u3002",
+                "english": "As the driver you must pay attention to everything around you.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85746.mp3",
+                "kana": "\u3046\u3093\u3066\u3093\u3057\u3085\u3068\u3057\u3066\u3001\u307e\u308f\u308a\u306e\u3053\u3068\u306b\u3061\u3085\u3046\u3044\u3092\u306f\u3089\u308f\u306a\u3051\u308c\u3070\u306a\u308a\u307e\u305b\u3093\u3002",
+                "romaji": "Untenshu to shite, mawari no koto ni ch\u016bi o harawanakereba narimasen.."
+            }
+        ]
+    },
+    {
+        "img": "8709",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206884.mp3",
+        "class": "noun",
+        "english": "subway",
+        "flashcardId": "2123189",
+        "meaning": "metro (noun) - a railway system that runs under the ground below a city:; subway (noun) - a railway system that runs under the ground below a big city",
+        "id": "1527",
+        "word": "\u5730\u4e0b\u9244",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/88892.mp3",
+        "kana": "\u3061\u304b\u3066\u3064",
+        "romaji": "chikatetsu",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206885.mp3",
+                "text": "\u5730\u4e0b\u9244\u8eca\u4e21",
+                "english": "subway car",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102798.mp3",
+                "kana": "\u3061\u304b\u3066\u3064\u3057\u3083\u308a\u3087\u3046",
+                "romaji": "chikatetsu shary\u014d"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271850.mp3",
+                "text": "\u79c1\u306f\u5730\u4e0b\u9244\u3067\u4f1a\u793e\u306b\u884c\u304d\u307e\u3059\u3002",
+                "english": "I take the subway to the office.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306f\u3061\u304b\u3066\u3064\u3067\u304b\u3044\u3057\u3083\u306b\u3044\u304d\u307e\u3059\u3002",
+                "romaji": "Watashi wa chikatetsu de kaisha ni ikimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206887.mp3",
+                "text": "\u79c1\u306f\u3001\u5730\u4e0b\u9244\u3067\u753a\u4e2d\u3069\u3053\u3078\u3067\u3082\u884c\u304f\u3053\u3068\u304c\u3067\u304d\u308b\u3002",
+                "english": "I can ride the subway underground all over the city.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306f\u3001\u3061\u304b\u3066\u3064\u3067\u307e\u3061\u3058\u3085\u3046\u3069\u3053\u3078\u3067\u3082\u3044\u304f\u3053\u3068\u304c\u3067\u304d\u308b\u3002",
+                "romaji": "Watashi wa, chikatetsu de machi j\u016b doko e demo iku koto ga dekiru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271850.mp3",
+                "text": "\u79c1\u306f\u5730\u4e0b\u9244\u3067\u4f1a\u793e\u306b\u884c\u304d\u307e\u3059\u3002",
+                "english": "I take the subway to the office.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254152.mp3",
+                "kana": "\u308f\u305f\u3057\u306f\u3061\u304b\u3066\u3064\u3067\u304b\u3044\u3057\u3083\u306b\u3044\u304d\u307e\u3059\u3002",
+                "romaji": "Watashi wa chikatetsu de kaisha ni ikimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206887.mp3",
+                "text": "\u79c1\u306f\u3001\u5730\u4e0b\u9244\u3067\u753a\u4e2d\u3069\u3053\u3078\u3067\u3082\u884c\u304f\u3053\u3068\u304c\u3067\u304d\u308b\u3002",
+                "english": "I can ride the subway underground all over the city.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102797.mp3",
+                "kana": "\u308f\u305f\u3057\u306f\u3001\u3061\u304b\u3066\u3064\u3067\u307e\u3061\u3058\u3085\u3046\u3069\u3053\u3078\u3067\u3082\u3044\u304f\u3053\u3068\u304c\u3067\u304d\u308b\u3002",
+                "romaji": "Watashi wa, chikatetsu de machi j\u016b doko e demo iku koto ga dekiru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206885.mp3",
+                "text": "\u5730\u4e0b\u9244\u8eca\u4e21",
+                "english": "subway car",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102798.mp3",
+                "kana": "\u3061\u304b\u3066\u3064\u3057\u3083\u308a\u3087\u3046",
+                "romaji": "chikatetsu shary\u014d"
+            }
+        ]
+    },
+    {
+        "img": "8709",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206884.mp3",
+        "class": "noun",
+        "english": "metro",
+        "flashcardId": "2123189",
+        "meaning": "metro (noun) - a railway system that runs under the ground below a city:; subway (noun) - a railway system that runs under the ground below a big city",
+        "id": "1527",
+        "word": "\u5730\u4e0b\u9244",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86930.mp3",
+        "kana": "\u3061\u304b\u3066\u3064",
+        "romaji": "chikatetsu",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206885.mp3",
+                "text": "\u5730\u4e0b\u9244\u8eca\u4e21",
+                "english": "subway car",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102798.mp3",
+                "kana": "\u3061\u304b\u3066\u3064\u3057\u3083\u308a\u3087\u3046",
+                "romaji": "chikatetsu shary\u014d"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271850.mp3",
+                "text": "\u79c1\u306f\u5730\u4e0b\u9244\u3067\u4f1a\u793e\u306b\u884c\u304d\u307e\u3059\u3002",
+                "english": "I take the subway to the office.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306f\u3061\u304b\u3066\u3064\u3067\u304b\u3044\u3057\u3083\u306b\u3044\u304d\u307e\u3059\u3002",
+                "romaji": "Watashi wa chikatetsu de kaisha ni ikimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206887.mp3",
+                "text": "\u79c1\u306f\u3001\u5730\u4e0b\u9244\u3067\u753a\u4e2d\u3069\u3053\u3078\u3067\u3082\u884c\u304f\u3053\u3068\u304c\u3067\u304d\u308b\u3002",
+                "english": "I can ride the subway underground all over the city.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306f\u3001\u3061\u304b\u3066\u3064\u3067\u307e\u3061\u3058\u3085\u3046\u3069\u3053\u3078\u3067\u3082\u3044\u304f\u3053\u3068\u304c\u3067\u304d\u308b\u3002",
+                "romaji": "Watashi wa, chikatetsu de machi j\u016b doko e demo iku koto ga dekiru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271850.mp3",
+                "text": "\u79c1\u306f\u5730\u4e0b\u9244\u3067\u4f1a\u793e\u306b\u884c\u304d\u307e\u3059\u3002",
+                "english": "I take the subway to the office.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254152.mp3",
+                "kana": "\u308f\u305f\u3057\u306f\u3061\u304b\u3066\u3064\u3067\u304b\u3044\u3057\u3083\u306b\u3044\u304d\u307e\u3059\u3002",
+                "romaji": "Watashi wa chikatetsu de kaisha ni ikimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206887.mp3",
+                "text": "\u79c1\u306f\u3001\u5730\u4e0b\u9244\u3067\u753a\u4e2d\u3069\u3053\u3078\u3067\u3082\u884c\u304f\u3053\u3068\u304c\u3067\u304d\u308b\u3002",
+                "english": "I can ride the subway underground all over the city.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102797.mp3",
+                "kana": "\u308f\u305f\u3057\u306f\u3001\u3061\u304b\u3066\u3064\u3067\u307e\u3061\u3058\u3085\u3046\u3069\u3053\u3078\u3067\u3082\u3044\u304f\u3053\u3068\u304c\u3067\u304d\u308b\u3002",
+                "romaji": "Watashi wa, chikatetsu de machi j\u016b doko e demo iku koto ga dekiru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206885.mp3",
+                "text": "\u5730\u4e0b\u9244\u8eca\u4e21",
+                "english": "subway car",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102798.mp3",
+                "kana": "\u3061\u304b\u3066\u3064\u3057\u3083\u308a\u3087\u3046",
+                "romaji": "chikatetsu shary\u014d"
+            }
+        ]
+    },
+    {
+        "img": "22304",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253227.mp3",
+        "class": "noun",
+        "english": "subway",
+        "flashcardId": "533349",
+        "meaning": "metro (noun) - a railway system that runs under the ground below a city:; subway (noun) - a railway system that runs under the ground below a big city",
+        "id": "34618",
+        "word": "\u5730\u4e0b\u9244",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/88892.mp3",
+        "kana": "\u3061\u304b\u3066\u3064",
+        "romaji": "chikatetsu",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253228.mp3",
+                "text": "\u5730\u4e0b\u9244\u7dda",
+                "english": "subway line",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102799.mp3",
+                "kana": "\u3061\u304b\u3066\u3064\u305b\u3093",
+                "romaji": "chikatetsu sen"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253229.mp3",
+                "text": "\u3053\u3053\u304b\u3089\u4e00\u756a\u8fd1\u3044\u5730\u4e0b\u9244\u306e\u99c5\u306f\u3069\u3053\u3067\u3059\u304b\uff1f",
+                "english": "Could you tell me where the nearest metro station is?",
+                "en_audio": "",
+                "kana": "\u3053\u3053\u304b\u3089\u3044\u3061\u3070\u3093\u3061\u304b\u3044\u3061\u304b\u3066\u3064\u306e\u3048\u304d\u306f\u3069\u3053\u3067\u3059\u304b\uff1f",
+                "romaji": "Koko kara ichi-ban chikai chikatetsu no eki wa doko desu ka?"
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253229.mp3",
+                "text": "\u3053\u3053\u304b\u3089\u4e00\u756a\u8fd1\u3044\u5730\u4e0b\u9244\u306e\u99c5\u306f\u3069\u3053\u3067\u3059\u304b\uff1f",
+                "english": "Could you tell me where the nearest metro station is?",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263277.mp3",
+                "kana": "\u3053\u3053\u304b\u3089\u3044\u3061\u3070\u3093\u3061\u304b\u3044\u3061\u304b\u3066\u3064\u306e\u3048\u304d\u306f\u3069\u3053\u3067\u3059\u304b\uff1f",
+                "romaji": "Koko kara ichi-ban chikai chikatetsu no eki wa doko desu ka?"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253228.mp3",
+                "text": "\u5730\u4e0b\u9244\u7dda",
+                "english": "subway line",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102799.mp3",
+                "kana": "\u3061\u304b\u3066\u3064\u305b\u3093",
+                "romaji": "chikatetsu sen"
+            }
+        ]
+    },
+    {
+        "img": "22304",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253227.mp3",
+        "class": "noun",
+        "english": "metro",
+        "flashcardId": "533349",
+        "meaning": "metro (noun) - a railway system that runs under the ground below a city:; subway (noun) - a railway system that runs under the ground below a big city",
+        "id": "34618",
+        "word": "\u5730\u4e0b\u9244",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86930.mp3",
+        "kana": "\u3061\u304b\u3066\u3064",
+        "romaji": "chikatetsu",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253228.mp3",
+                "text": "\u5730\u4e0b\u9244\u7dda",
+                "english": "subway line",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102799.mp3",
+                "kana": "\u3061\u304b\u3066\u3064\u305b\u3093",
+                "romaji": "chikatetsu sen"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253229.mp3",
+                "text": "\u3053\u3053\u304b\u3089\u4e00\u756a\u8fd1\u3044\u5730\u4e0b\u9244\u306e\u99c5\u306f\u3069\u3053\u3067\u3059\u304b\uff1f",
+                "english": "Could you tell me where the nearest metro station is?",
+                "en_audio": "",
+                "kana": "\u3053\u3053\u304b\u3089\u3044\u3061\u3070\u3093\u3061\u304b\u3044\u3061\u304b\u3066\u3064\u306e\u3048\u304d\u306f\u3069\u3053\u3067\u3059\u304b\uff1f",
+                "romaji": "Koko kara ichi-ban chikai chikatetsu no eki wa doko desu ka?"
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253229.mp3",
+                "text": "\u3053\u3053\u304b\u3089\u4e00\u756a\u8fd1\u3044\u5730\u4e0b\u9244\u306e\u99c5\u306f\u3069\u3053\u3067\u3059\u304b\uff1f",
+                "english": "Could you tell me where the nearest metro station is?",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263277.mp3",
+                "kana": "\u3053\u3053\u304b\u3089\u3044\u3061\u3070\u3093\u3061\u304b\u3044\u3061\u304b\u3066\u3064\u306e\u3048\u304d\u306f\u3069\u3053\u3067\u3059\u304b\uff1f",
+                "romaji": "Koko kara ichi-ban chikai chikatetsu no eki wa doko desu ka?"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253228.mp3",
+                "text": "\u5730\u4e0b\u9244\u7dda",
+                "english": "subway line",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102799.mp3",
+                "kana": "\u3061\u304b\u3066\u3064\u305b\u3093",
+                "romaji": "chikatetsu sen"
+            }
+        ]
+    },
+    {
+        "img": "9451",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201337.mp3",
+        "class": "noun",
+        "english": "train",
+        "flashcardId": "1678120",
+        "meaning": "train (noun) - A series of railroad cars moved as a unit by a locomotive or by integral motors.",
+        "id": "1538",
+        "word": "\u96fb\u8eca",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/306006.mp3",
+        "kana": "\u3067\u3093\u3057\u3083",
+        "romaji": "densha",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201345.mp3",
+                "text": "\u96fb\u8eca\u306b\u4e57\u308b",
+                "english": "take the train",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102801.mp3",
+                "kana": "\u3067\u3093\u3057\u3083\u306b\u306e\u308b",
+                "romaji": "densha ni noru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201341.mp3",
+                "text": "\u96fb\u8eca\u306b\u4e57\u3063\u3066",
+                "english": "on the train",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3453.mp3",
+                "kana": "\u3067\u3093\u3057\u3083\u306b\u306e\u3063\u3066",
+                "romaji": "densha ni notte"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201340.mp3",
+                "text": "\u96fb\u8eca\u306f\u65c5\u3092\u3059\u308b\u306e\u306b\u5b89\u5168\u3067\u3001\u697d\u3057\u304f\u3001\u4fbf\u5229\u306a\u4e57\u308a\u7269\u3068\u8a00\u3048\u308b\u3002",
+                "english": "The train can be a safe, fun and convenient way to travel.",
+                "en_audio": "",
+                "kana": "\u3067\u3093\u3057\u3083\u306f\u305f\u3073\u3092\u3059\u308b\u306e\u306b\u3042\u3093\u305c\u3093\u3067\u3001\u305f\u306e\u3057\u304f\u3001\u3079\u3093\u308a\u306a\u306e\u308a\u3082\u306e\u3068\u3044\u3048\u308b\u3002",
+                "romaji": "Densha wa tabi o suru no ni anzen de, tanoshiku, benri na norimono to ieru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201345.mp3",
+                "text": "\u96fb\u8eca\u306b\u4e57\u308b",
+                "english": "take the train",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102801.mp3",
+                "kana": "\u3067\u3093\u3057\u3083\u306b\u306e\u308b",
+                "romaji": "densha ni noru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201341.mp3",
+                "text": "\u96fb\u8eca\u306b\u4e57\u3063\u3066",
+                "english": "on the train",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3453.mp3",
+                "kana": "\u3067\u3093\u3057\u3083\u306b\u306e\u3063\u3066",
+                "romaji": "densha ni notte"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201340.mp3",
+                "text": "\u96fb\u8eca\u306f\u65c5\u3092\u3059\u308b\u306e\u306b\u5b89\u5168\u3067\u3001\u697d\u3057\u304f\u3001\u4fbf\u5229\u306a\u4e57\u308a\u7269\u3068\u8a00\u3048\u308b\u3002",
+                "english": "The train can be a safe, fun and convenient way to travel.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102800.mp3",
+                "kana": "\u3067\u3093\u3057\u3083\u306f\u305f\u3073\u3092\u3059\u308b\u306e\u306b\u3042\u3093\u305c\u3093\u3067\u3001\u305f\u306e\u3057\u304f\u3001\u3079\u3093\u308a\u306a\u306e\u308a\u3082\u306e\u3068\u3044\u3048\u308b\u3002",
+                "romaji": "Densha wa tabi o suru no ni anzen de, tanoshiku, benri na norimono to ieru."
+            }
+        ]
+    },
+    {
+        "img": "9152",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201685.mp3",
+        "class": "noun",
+        "english": "airplane",
+        "flashcardId": "2166649",
+        "meaning": "airplane (noun) - a powered fixed-wing aircraft that is propelled forward by thrust from a jet engine or propeller",
+        "id": "5809",
+        "word": "\u98db\u884c\u6a5f",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263276.mp3",
+        "kana": "\u3072\u3053\u3046\u304d",
+        "romaji": "hik\u014dki",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201352.mp3",
+                "text": "\u81ea\u5bb6\u7528\u98db\u884c\u6a5f",
+                "english": "private airplane",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92053.mp3",
+                "kana": "\u3058\u304b\u3088\u3046\u3072\u3053\u3046\u304d",
+                "romaji": "jika-y\u014d hik\u014dki"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201348.mp3",
+                "text": "\u98db\u884c\u6a5f\u306e\u30d1\u30a4\u30ed\u30c3\u30c8",
+                "english": "airplane pilot",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92050.mp3",
+                "kana": "\u3072\u3053\u3046\u304d\u306e\u30d1\u30a4\u30ed\u30c3\u30c8",
+                "romaji": "hik\u014dki no pairotto"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201349.mp3",
+                "text": "\u98db\u3093\u3067\u3044\u308b\u98db\u884c\u6a5f",
+                "english": "flying airplane",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92052.mp3",
+                "kana": "\u3068\u3093\u3067\u3044\u308b\u3072\u3053\u3046\u304d",
+                "romaji": "tonde iru hik\u014dki"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201347.mp3",
+                "text": "\u30b8\u30a7\u30c3\u30c8\u98db\u884c\u6a5f",
+                "english": "jet airplane",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92049.mp3",
+                "kana": "\u30b8\u30a7\u30c3\u30c8\u3072\u3053\u3046\u304d",
+                "romaji": "jetto hik\u014dki"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201353.mp3",
+                "text": "\u98db\u884c\u6a5f\u304c\u7a7a\u3092\u98db\u3093\u3067\u3044\u308b\u3002",
+                "english": "The airplane is flying in the sky.",
+                "en_audio": "",
+                "kana": "\u3072\u3053\u3046\u304d\u304c\u305d\u3089\u3092\u3068\u3093\u3067\u3044\u308b\u3002",
+                "romaji": "Hik\u014dki ga sora o tonde iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201351.mp3",
+                "text": "\u30e9\u30a4\u30c8\u5144\u5f1f\u306f\u3001\u767e\u5e74\u4ee5\u4e0a\u524d\u306b\u3001\u521d\u3081\u3066\u98db\u884c\u6a5f\u3092\u98db\u3070\u3057\u305f\u3002",
+                "english": "The Wright Brothers flew the first airplane over 100 years ago.",
+                "en_audio": "",
+                "kana": "\u30e9\u30a4\u30c8\u304d\u3087\u3046\u3060\u3044\u306f\u3001\u3072\u3083\u304f\u306d\u3093\u3044\u3058\u3087\u3046\u307e\u3048\u306b\u3001\u306f\u3058\u3081\u3066\u3072\u3053\u3046\u304d\u3092\u3068\u3070\u3057\u305f\u3002",
+                "romaji": "Raito ky\u014ddai wa, hyaku-nen ij\u014d mae ni, hajimete hik\u014dki o tobashita."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201350.mp3",
+                "text": "\u79c1\u305f\u3061\u306f\u3001\u96e2\u9678\u3059\u308b\u307e\u3067\u4e8c\u6642\u9593\u3001\u98db\u884c\u6a5f\u306e\u4e2d\u3067\u5ea7\u3063\u3066\u3044\u305f\u3002",
+                "english": "We sat on the airplane for two hours before it took off.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u305f\u3061\u306f\u3001\u308a\u308a\u304f\u3059\u308b\u307e\u3067\u306b\u3058\u304b\u3093\u3001\u3072\u3053\u3046\u304d\u306e\u306a\u304b\u3067\u3059\u308f\u3063\u3066\u3044\u305f\u3002",
+                "romaji": "Watashi-tachi wa, ririku suru made ni-jikan, hik\u014dki no naka de suwatte ita."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201352.mp3",
+                "text": "\u81ea\u5bb6\u7528\u98db\u884c\u6a5f",
+                "english": "private airplane",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92053.mp3",
+                "kana": "\u3058\u304b\u3088\u3046\u3072\u3053\u3046\u304d",
+                "romaji": "jika-y\u014d hik\u014dki"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201353.mp3",
+                "text": "\u98db\u884c\u6a5f\u304c\u7a7a\u3092\u98db\u3093\u3067\u3044\u308b\u3002",
+                "english": "The airplane is flying in the sky.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197890.mp3",
+                "kana": "\u3072\u3053\u3046\u304d\u304c\u305d\u3089\u3092\u3068\u3093\u3067\u3044\u308b\u3002",
+                "romaji": "Hik\u014dki ga sora o tonde iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201351.mp3",
+                "text": "\u30e9\u30a4\u30c8\u5144\u5f1f\u306f\u3001\u767e\u5e74\u4ee5\u4e0a\u524d\u306b\u3001\u521d\u3081\u3066\u98db\u884c\u6a5f\u3092\u98db\u3070\u3057\u305f\u3002",
+                "english": "The Wright Brothers flew the first airplane over 100 years ago.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92051.mp3",
+                "kana": "\u30e9\u30a4\u30c8\u304d\u3087\u3046\u3060\u3044\u306f\u3001\u3072\u3083\u304f\u306d\u3093\u3044\u3058\u3087\u3046\u307e\u3048\u306b\u3001\u306f\u3058\u3081\u3066\u3072\u3053\u3046\u304d\u3092\u3068\u3070\u3057\u305f\u3002",
+                "romaji": "Raito ky\u014ddai wa, hyaku-nen ij\u014d mae ni, hajimete hik\u014dki o tobashita."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201350.mp3",
+                "text": "\u79c1\u305f\u3061\u306f\u3001\u96e2\u9678\u3059\u308b\u307e\u3067\u4e8c\u6642\u9593\u3001\u98db\u884c\u6a5f\u306e\u4e2d\u3067\u5ea7\u3063\u3066\u3044\u305f\u3002",
+                "english": "We sat on the airplane for two hours before it took off.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92048.mp3",
+                "kana": "\u308f\u305f\u3057\u305f\u3061\u306f\u3001\u308a\u308a\u304f\u3059\u308b\u307e\u3067\u306b\u3058\u304b\u3093\u3001\u3072\u3053\u3046\u304d\u306e\u306a\u304b\u3067\u3059\u308f\u3063\u3066\u3044\u305f\u3002",
+                "romaji": "Watashi-tachi wa, ririku suru made ni-jikan, hik\u014dki no naka de suwatte ita."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201348.mp3",
+                "text": "\u98db\u884c\u6a5f\u306e\u30d1\u30a4\u30ed\u30c3\u30c8",
+                "english": "airplane pilot",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92050.mp3",
+                "kana": "\u3072\u3053\u3046\u304d\u306e\u30d1\u30a4\u30ed\u30c3\u30c8",
+                "romaji": "hik\u014dki no pairotto"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201349.mp3",
+                "text": "\u98db\u3093\u3067\u3044\u308b\u98db\u884c\u6a5f",
+                "english": "flying airplane",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92052.mp3",
+                "kana": "\u3068\u3093\u3067\u3044\u308b\u3072\u3053\u3046\u304d",
+                "romaji": "tonde iru hik\u014dki"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201347.mp3",
+                "text": "\u30b8\u30a7\u30c3\u30c8\u98db\u884c\u6a5f",
+                "english": "jet airplane",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92049.mp3",
+                "kana": "\u30b8\u30a7\u30c3\u30c8\u3072\u3053\u3046\u304d",
+                "romaji": "jetto hik\u014dki"
+            }
+        ]
+    },
+    {
+        "img": "9325",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253226.mp3",
+        "class": "noun",
+        "english": "bus",
+        "flashcardId": "2166650",
+        "meaning": "bus (noun) - a large vehicle that people pay to travel on",
+        "id": "1600",
+        "word": "\u30d0\u30b9",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/310907.mp3",
+        "kana": "\u30d0\u30b9",
+        "romaji": "basu",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201355.mp3",
+                "text": "\u3044\u3064\u3082\u6c7a\u307e\u3063\u305f\u9053\u3092\u8d70\u308b\u30d0\u30b9",
+                "english": "bus on a regular route",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102530.mp3",
+                "kana": "\u3044\u3064\u3082\u304d\u307e\u3063\u305f\u307f\u3061\u3092\u306f\u3057\u308b\u30d0\u30b9",
+                "romaji": "itsumo kimatta michi o hashiru basu"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201360.mp3",
+                "text": "\u30d0\u30b9\u304c\u8def\u4e0a\u306b\u99d0\u8eca\u3057\u3066\u3044\u308b\u3002",
+                "english": "The bus is parked on the street.",
+                "en_audio": "",
+                "kana": "\u30d0\u30b9\u304c\u308d\u3058\u3087\u3046\u306b\u3061\u3085\u3046\u3057\u3083\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Basu ga roj\u014d ni ch\u016bsha shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201358.mp3",
+                "text": "\u79c1\u305f\u3061\u306f\u3001\u30d0\u30b9\u3067\u7a7a\u6e2f\u306b\u884c\u304d\u307e\u3059\u3002",
+                "english": "We'll go to the airport by bus.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u305f\u3061\u306f\u3001\u30d0\u30b9\u3067\u304f\u3046\u3053\u3046\u306b\u3044\u304d\u307e\u3059\u3002",
+                "romaji": "Watashi-tachi wa basu de k\u016bk\u014d ni ikimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/527144.mp3",
+                "text": "\u79c1\u9054\u306e\u30b0\u30eb\u30fc\u30d7\u306f\u3001\u30d0\u30b9\u3067\u305d\u306e\u56fd\u3092\u65c5\u884c\u3057\u305f\u3002",
+                "english": "Our group toured the country on a bus.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u305f\u3061\u306e\u30b0\u30eb\u30fc\u30d7\u306f\u3001\u30d0\u30b9\u3067\u305d\u306e\u304f\u306b\u3092\u308a\u3087\u3053\u3046\u3057\u305f\u3002",
+                "romaji": "Watashi-tachi no gur\u016bpu wa, basu de sono kuni o ryok\u014d shita."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201360.mp3",
+                "text": "\u30d0\u30b9\u304c\u8def\u4e0a\u306b\u99d0\u8eca\u3057\u3066\u3044\u308b\u3002",
+                "english": "The bus is parked on the street.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102533.mp3",
+                "kana": "\u30d0\u30b9\u304c\u308d\u3058\u3087\u3046\u306b\u3061\u3085\u3046\u3057\u3083\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Basu ga roj\u014d ni ch\u016bsha shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201358.mp3",
+                "text": "\u79c1\u305f\u3061\u306f\u3001\u30d0\u30b9\u3067\u7a7a\u6e2f\u306b\u884c\u304d\u307e\u3059\u3002",
+                "english": "We'll go to the airport by bus.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102531.mp3",
+                "kana": "\u308f\u305f\u3057\u305f\u3061\u306f\u3001\u30d0\u30b9\u3067\u304f\u3046\u3053\u3046\u306b\u3044\u304d\u307e\u3059\u3002",
+                "romaji": "Watashi-tachi wa basu de k\u016bk\u014d ni ikimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/527144.mp3",
+                "text": "\u79c1\u9054\u306e\u30b0\u30eb\u30fc\u30d7\u306f\u3001\u30d0\u30b9\u3067\u305d\u306e\u56fd\u3092\u65c5\u884c\u3057\u305f\u3002",
+                "english": "Our group toured the country on a bus.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102528.mp3",
+                "kana": "\u308f\u305f\u3057\u305f\u3061\u306e\u30b0\u30eb\u30fc\u30d7\u306f\u3001\u30d0\u30b9\u3067\u305d\u306e\u304f\u306b\u3092\u308a\u3087\u3053\u3046\u3057\u305f\u3002",
+                "romaji": "Watashi-tachi no gur\u016bpu wa, basu de sono kuni o ryok\u014d shita."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201355.mp3",
+                "text": "\u3044\u3064\u3082\u6c7a\u307e\u3063\u305f\u9053\u3092\u8d70\u308b\u30d0\u30b9",
+                "english": "bus on a regular route",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102530.mp3",
+                "kana": "\u3044\u3064\u3082\u304d\u307e\u3063\u305f\u307f\u3061\u3092\u306f\u3057\u308b\u30d0\u30b9",
+                "romaji": "itsumo kimatta michi o hashiru basu"
+            }
+        ]
+    },
+    {
+        "img": "9648",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201361.mp3",
+        "class": "noun",
+        "english": "taxi",
+        "flashcardId": "224463",
+        "meaning": "taxi (noun) - a car and driver that you pay to take you somewhere",
+        "id": "1601",
+        "word": "\u30bf\u30af\u30b7\u30fc",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/88980.mp3",
+        "kana": "\u30bf\u30af\u30b7\u30fc",
+        "romaji": "takush\u012b",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201366.mp3",
+                "text": "\u30bf\u30af\u30b7\u30fc\u306b\u4e57\u308b",
+                "english": "take a taxi",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197893.mp3",
+                "kana": "\u30bf\u30af\u30b7\u30fc\u306b\u306e\u308b",
+                "romaji": "takush\u012b ni noru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201364.mp3",
+                "text": "\u9ec4\u8272\u3044\u30bf\u30af\u30b7\u30fc",
+                "english": "yellow taxi",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102537.mp3",
+                "kana": "\u304d\u3044\u308d\u3044\u30bf\u30af\u30b7\u30fc",
+                "romaji": "kiiroi takush\u012b"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201362.mp3",
+                "text": "\u30bf\u30af\u30b7\u30fc\u4e57\u8eca",
+                "english": "taxi cab ride",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102536.mp3",
+                "kana": "\u30bf\u30af\u30b7\u30fc\u3058\u3087\u3046\u3057\u3083",
+                "romaji": "takush\u012b j\u014dsha"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201365.mp3",
+                "text": "\u305d\u306e\u5973\u6027\u306f\u30bf\u30af\u30b7\u30fc\u306b\u4e57\u308d\u3046\u3068\u3057\u3066\u3044\u308b\u3002",
+                "english": "The woman is getting in a taxi.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u3058\u3087\u305b\u3044\u306f\u30bf\u30af\u30b7\u30fc\u306b\u306e\u308d\u3046\u3068\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Sono josei wa takush\u012b ni nor\u014d to shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201363.mp3",
+                "text": "\u30bf\u30af\u30b7\u30fc\u306b\u4e57\u308b\u306e\u306f\u4fbf\u5229\u3060\u304c\u3001\u5b89\u304f\u306a\u3044\u3002",
+                "english": "Taking a taxi is convenient, but not cheap.",
+                "en_audio": "",
+                "kana": "\u30bf\u30af\u30b7\u30fc\u306b\u306e\u308b\u306e\u306f\u3079\u3093\u308a\u3060\u304c\u3001\u3084\u3059\u304f\u306a\u3044\u3002",
+                "romaji": "Takush\u012b ni noru no wa benri da ga, yasukunai."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201366.mp3",
+                "text": "\u30bf\u30af\u30b7\u30fc\u306b\u4e57\u308b",
+                "english": "take a taxi",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197893.mp3",
+                "kana": "\u30bf\u30af\u30b7\u30fc\u306b\u306e\u308b",
+                "romaji": "takush\u012b ni noru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201365.mp3",
+                "text": "\u305d\u306e\u5973\u6027\u306f\u30bf\u30af\u30b7\u30fc\u306b\u4e57\u308d\u3046\u3068\u3057\u3066\u3044\u308b\u3002",
+                "english": "The woman is getting in a taxi.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197891.mp3",
+                "kana": "\u305d\u306e\u3058\u3087\u305b\u3044\u306f\u30bf\u30af\u30b7\u30fc\u306b\u306e\u308d\u3046\u3068\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Sono josei wa takush\u012b ni nor\u014d to shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201364.mp3",
+                "text": "\u9ec4\u8272\u3044\u30bf\u30af\u30b7\u30fc",
+                "english": "yellow taxi",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102537.mp3",
+                "kana": "\u304d\u3044\u308d\u3044\u30bf\u30af\u30b7\u30fc",
+                "romaji": "kiiroi takush\u012b"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201363.mp3",
+                "text": "\u30bf\u30af\u30b7\u30fc\u306b\u4e57\u308b\u306e\u306f\u4fbf\u5229\u3060\u304c\u3001\u5b89\u304f\u306a\u3044\u3002",
+                "english": "Taking a taxi is convenient, but not cheap.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102535.mp3",
+                "kana": "\u30bf\u30af\u30b7\u30fc\u306b\u306e\u308b\u306e\u306f\u3079\u3093\u308a\u3060\u304c\u3001\u3084\u3059\u304f\u306a\u3044\u3002",
+                "romaji": "Takush\u012b ni noru no wa benri da ga, yasukunai."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201362.mp3",
+                "text": "\u30bf\u30af\u30b7\u30fc\u4e57\u8eca",
+                "english": "taxi cab ride",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102536.mp3",
+                "kana": "\u30bf\u30af\u30b7\u30fc\u3058\u3087\u3046\u3057\u3083",
+                "romaji": "takush\u012b j\u014dsha"
+            }
+        ]
+    },
+    {
+        "img": "8967",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201686.mp3",
+        "class": "noun",
+        "english": "bicycle",
+        "flashcardId": "224464",
+        "meaning": "bicycle (noun) - a vehicle with two wheels that you ride by pushing itspedals with your feet",
+        "id": "1605",
+        "word": "\u81ea\u8ee2\u8eca",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/88985.mp3",
+        "kana": "\u3058\u3066\u3093\u3057\u3083",
+        "romaji": "jitensha",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201368.mp3",
+                "text": "\u81ea\u8ee2\u8eca\u306e\u30bf\u30a4\u30e4",
+                "english": "bicycle tire",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102539.mp3",
+                "kana": "\u3058\u3066\u3093\u3057\u3083\u306e\u30bf\u30a4\u30e4",
+                "romaji": "jitensha no taiya"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201369.mp3",
+                "text": "\u81ea\u8ee2\u8eca\u306f\u3001\u753a\u3092\u8d70\u308a\u56de\u308b\u306e\u306b\u4fbf\u5229\u3060\u3002",
+                "english": "The bicycle is a convenient way to get around the city.",
+                "en_audio": "",
+                "kana": "\u3058\u3066\u3093\u3057\u3083\u306f\u3001\u307e\u3061\u3092\u306f\u3057\u308a\u307e\u308f\u308b\u306e\u306b\u3079\u3093\u308a\u3060\u3002",
+                "romaji": "Jitensha wa machi o hashiri mawaru no ni benri da."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201369.mp3",
+                "text": "\u81ea\u8ee2\u8eca\u306f\u3001\u753a\u3092\u8d70\u308a\u56de\u308b\u306e\u306b\u4fbf\u5229\u3060\u3002",
+                "english": "The bicycle is a convenient way to get around the city.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102538.mp3",
+                "kana": "\u3058\u3066\u3093\u3057\u3083\u306f\u3001\u307e\u3061\u3092\u306f\u3057\u308a\u307e\u308f\u308b\u306e\u306b\u3079\u3093\u308a\u3060\u3002",
+                "romaji": "Jitensha wa machi o hashiri mawaru no ni benri da."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201368.mp3",
+                "text": "\u81ea\u8ee2\u8eca\u306e\u30bf\u30a4\u30e4",
+                "english": "bicycle tire",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102539.mp3",
+                "kana": "\u3058\u3066\u3093\u3057\u3083\u306e\u30bf\u30a4\u30e4",
+                "romaji": "jitensha no taiya"
+            }
+        ]
+    },
+    {
+        "img": "9054",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227876.mp3",
+        "class": "noun",
+        "english": "trolley car",
+        "flashcardId": "2320624",
+        "meaning": "trolley car (noun) - a wheeled vehicle that runs on rails and is propelled by electricity; tramcar",
+        "id": "1607",
+        "word": "\u8def\u9762\u96fb\u8eca",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263279.mp3",
+        "kana": "\u308d\u3081\u3093\u3067\u3093\u3057\u3083",
+        "romaji": "romen densha",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253231.mp3",
+                "text": "\u8def\u9762\u96fb\u8eca\u306b\u4e57\u308b",
+                "english": "trolley car ride",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87159.mp3",
+                "kana": "\u308d\u3081\u3093\u3067\u3093\u3057\u3083\u306b\u306e\u308b",
+                "romaji": "romen densha ni noru"
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253231.mp3",
+                "text": "\u8def\u9762\u96fb\u8eca\u306b\u4e57\u308b",
+                "english": "trolley car ride",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87159.mp3",
+                "kana": "\u308d\u3081\u3093\u3067\u3093\u3057\u3083\u306b\u306e\u308b",
+                "romaji": "romen densha ni noru"
+            }
+        ]
+    },
+    {
+        "img": "9704",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227859.mp3",
+        "class": "noun",
+        "english": "monorail",
+        "flashcardId": "2320373",
+        "meaning": "monorail (noun) - a railway system that uses a single rail, usually high above the ground",
+        "id": "1608",
+        "word": "\u30e2\u30ce\u30ec\u30fc\u30eb",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/88989.mp3",
+        "kana": "\u30e2\u30ce\u30ec\u30fc\u30eb",
+        "romaji": "monor\u0113ru",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227864.mp3",
+                "text": "\u7dda\u8def\u3092\u8d70\u3063\u3066\u3044\u308b\u30e2\u30ce\u30ec\u30fc\u30eb",
+                "english": "monorail on a monorail track",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103448.mp3",
+                "kana": "\u305b\u3093\u308d\u3092\u306f\u3057\u3063\u3066\u3044\u308b\u30e2\u30ce\u30ec\u30fc\u30eb",
+                "romaji": "senro o hashitte iru monor\u0113ru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/891804.mp3",
+                "text": "\u30e2\u30ce\u30ec\u30fc\u30eb\u306e\u4e57\u308a\u7269",
+                "english": "monorail people movers",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103447.mp3",
+                "kana": "\u30e2\u30ce\u30ec\u30fc\u30eb\u306e\u306e\u308a\u3082\u306e",
+                "romaji": "monor\u0113ru no norimono"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227862.mp3",
+                "text": "\u30e2\u30ce\u30ec\u30fc\u30eb\u306f\u5b89\u5168\u3067\u4fe1\u983c\u6027\u306e\u3042\u308b\u4ea4\u901a\u30b7\u30b9\u30c6\u30e0\u3060\u3068\u8a3c\u660e\u3055\u308c\u3066\u3044\u308b\u3002",
+                "english": "The monorail has proven to be a safe and reliable transportation system.",
+                "en_audio": "",
+                "kana": "\u30e2\u30ce\u30ec\u30fc\u30eb\u306f\u3042\u3093\u305c\u3093\u3067\u3057\u3093\u3089\u3044\u305b\u3044\u306e\u3042\u308b\u3053\u3046\u3064\u3046\u30b7\u30b9\u30c6\u30e0\u3060\u3068\u3057\u3087\u3046\u3081\u3044\u3055\u308c\u3066\u3044\u308b\u3002",
+                "romaji": "Monor\u0113ru wa anzen de shinraisei no aru k\u014dts\u016b shisutemu da to sh\u014dmei sarete iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227864.mp3",
+                "text": "\u7dda\u8def\u3092\u8d70\u3063\u3066\u3044\u308b\u30e2\u30ce\u30ec\u30fc\u30eb",
+                "english": "monorail on a monorail track",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103448.mp3",
+                "kana": "\u305b\u3093\u308d\u3092\u306f\u3057\u3063\u3066\u3044\u308b\u30e2\u30ce\u30ec\u30fc\u30eb",
+                "romaji": "senro o hashitte iru monor\u0113ru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227862.mp3",
+                "text": "\u30e2\u30ce\u30ec\u30fc\u30eb\u306f\u5b89\u5168\u3067\u4fe1\u983c\u6027\u306e\u3042\u308b\u4ea4\u901a\u30b7\u30b9\u30c6\u30e0\u3060\u3068\u8a3c\u660e\u3055\u308c\u3066\u3044\u308b\u3002",
+                "english": "The monorail has proven to be a safe and reliable transportation system.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103446.mp3",
+                "kana": "\u30e2\u30ce\u30ec\u30fc\u30eb\u306f\u3042\u3093\u305c\u3093\u3067\u3057\u3093\u3089\u3044\u305b\u3044\u306e\u3042\u308b\u3053\u3046\u3064\u3046\u30b7\u30b9\u30c6\u30e0\u3060\u3068\u3057\u3087\u3046\u3081\u3044\u3055\u308c\u3066\u3044\u308b\u3002",
+                "romaji": "Monor\u0113ru wa anzen de shinraisei no aru k\u014dts\u016b shisutemu da to sh\u014dmei sarete iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/891804.mp3",
+                "text": "\u30e2\u30ce\u30ec\u30fc\u30eb\u306e\u4e57\u308a\u7269",
+                "english": "monorail people movers",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103447.mp3",
+                "kana": "\u30e2\u30ce\u30ec\u30fc\u30eb\u306e\u306e\u308a\u3082\u306e",
+                "romaji": "monor\u0113ru no norimono"
+            }
+        ]
+    },
+    {
+        "img": "9559",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201687.mp3",
+        "class": "noun",
+        "english": "car",
+        "flashcardId": "2166653",
+        "meaning": "car (noun) - a motor vehicle with four wheels; usually propelled by an internal combustion engine; automobile (noun) - a motor vehicle with four wheels; usually propelled by an internal combustion engine",
+        "id": "1609",
+        "word": "\u8eca",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262652.mp3",
+        "kana": "\u304f\u308b\u307e",
+        "romaji": "kuruma",
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201380.mp3",
+                "text": "\u72ac\u304c\u8eca\u306b\u4e57\u308d\u3046\u3068\u3057\u3066\u3044\u308b\u3002",
+                "english": "The dog is getting in the car.",
+                "en_audio": "",
+                "kana": "\u3044\u306c\u304c\u304f\u308b\u307e\u306b\u306e\u308d\u3046\u3068\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Inu ga kuruma ni nor\u014d to shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/979545.mp3",
+                "text": "\u9752\u30442\u30c9\u30a2\u306e\u8eca\u3002",
+                "english": "It's a blue, two-door car.",
+                "en_audio": "",
+                "kana": "\u3042\u304a\u3044\u30c4\u30fc\u30c9\u30a2\u306e\u304f\u308b\u307e\u3002",
+                "romaji": "aoi ts\u016b doa no kuruma."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201378.mp3",
+                "text": "\u7537\u6027\u304c\u8eca\u3092\u62bc\u3057\u3066\u3044\u308b\u3002",
+                "english": "The man is pushing the car.",
+                "en_audio": "",
+                "kana": "\u3060\u3093\u305b\u3044\u304c\u304f\u308b\u307e\u3092\u304a\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Dansei ga kuruma o oshite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201376.mp3",
+                "text": "\u305d\u306e\u7537\u6027\u306f\u8eca\u3092\u904b\u8ee2\u3057\u3066\u3044\u308b\u3002",
+                "english": "The man is driving a car.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u3060\u3093\u305b\u3044\u306f\u304f\u308b\u307e\u3092\u3046\u3093\u3066\u3093\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Sono dansei wa kuruma o unten shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201375.mp3",
+                "text": "\u79c1\u306f\u6708\u66dc\u65e5\u306f\u3001\u8eca\u3067\u4ed5\u4e8b\u306b\u884c\u304f\u304c\u3001\u305d\u308c\u4ee5\u5916\u306e\u65e5\u306f\u96fb\u8eca\u3092\u4f7f\u3046\u3002",
+                "english": "I drive my car to work on Mondays, but take the train the rest of the week.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306f\u3052\u3064\u3088\u3046\u3073\u306f\u3001\u304f\u308b\u307e\u3067\u3057\u3054\u3068\u306b\u3044\u304f\u304c\u3001\u305d\u308c\u3044\u304c\u3044\u306e\u3072\u306f\u3067\u3093\u3057\u3083\u3092\u3064\u304b\u3046\u3002",
+                "romaji": "Watashi wa getsu-y\u014dbi wa, kuruma de shigoto ni iku ga, sore igai no hi wa densha o tsukau."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201380.mp3",
+                "text": "\u72ac\u304c\u8eca\u306b\u4e57\u308d\u3046\u3068\u3057\u3066\u3044\u308b\u3002",
+                "english": "The dog is getting in the car.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197895.mp3",
+                "kana": "\u3044\u306c\u304c\u304f\u308b\u307e\u306b\u306e\u308d\u3046\u3068\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Inu ga kuruma ni nor\u014d to shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/979545.mp3",
+                "text": "\u9752\u30442\u30c9\u30a2\u306e\u8eca\u3002",
+                "english": "It's a blue, two-door car.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197894.mp3",
+                "kana": "\u3042\u304a\u3044\u30c4\u30fc\u30c9\u30a2\u306e\u304f\u308b\u307e\u3002",
+                "romaji": "aoi ts\u016b doa no kuruma."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201378.mp3",
+                "text": "\u7537\u6027\u304c\u8eca\u3092\u62bc\u3057\u3066\u3044\u308b\u3002",
+                "english": "The man is pushing the car.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89936.mp3",
+                "kana": "\u3060\u3093\u305b\u3044\u304c\u304f\u308b\u307e\u3092\u304a\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Dansei ga kuruma o oshite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201376.mp3",
+                "text": "\u305d\u306e\u7537\u6027\u306f\u8eca\u3092\u904b\u8ee2\u3057\u3066\u3044\u308b\u3002",
+                "english": "The man is driving a car.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90449.mp3",
+                "kana": "\u305d\u306e\u3060\u3093\u305b\u3044\u306f\u304f\u308b\u307e\u3092\u3046\u3093\u3066\u3093\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Sono dansei wa kuruma o unten shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201375.mp3",
+                "text": "\u79c1\u306f\u6708\u66dc\u65e5\u306f\u3001\u8eca\u3067\u4ed5\u4e8b\u306b\u884c\u304f\u304c\u3001\u305d\u308c\u4ee5\u5916\u306e\u65e5\u306f\u96fb\u8eca\u3092\u4f7f\u3046\u3002",
+                "english": "I drive my car to work on Mondays, but take the train the rest of the week.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102543.mp3",
+                "kana": "\u308f\u305f\u3057\u306f\u3052\u3064\u3088\u3046\u3073\u306f\u3001\u304f\u308b\u307e\u3067\u3057\u3054\u3068\u306b\u3044\u304f\u304c\u3001\u305d\u308c\u3044\u304c\u3044\u306e\u3072\u306f\u3067\u3093\u3057\u3083\u3092\u3064\u304b\u3046\u3002",
+                "romaji": "Watashi wa getsu-y\u014dbi wa, kuruma de shigoto ni iku ga, sore igai no hi wa densha o tsukau."
+            }
+        ]
+    },
+    {
+        "img": "9559",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201687.mp3",
+        "class": "noun",
+        "english": "automobile",
+        "flashcardId": "2166653",
+        "meaning": "car (noun) - a motor vehicle with four wheels; usually propelled by an internal combustion engine; automobile (noun) - a motor vehicle with four wheels; usually propelled by an internal combustion engine",
+        "id": "1609",
+        "word": "\u8eca",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262653.mp3",
+        "kana": "\u304f\u308b\u307e",
+        "romaji": "kuruma",
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201380.mp3",
+                "text": "\u72ac\u304c\u8eca\u306b\u4e57\u308d\u3046\u3068\u3057\u3066\u3044\u308b\u3002",
+                "english": "The dog is getting in the car.",
+                "en_audio": "",
+                "kana": "\u3044\u306c\u304c\u304f\u308b\u307e\u306b\u306e\u308d\u3046\u3068\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Inu ga kuruma ni nor\u014d to shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/979545.mp3",
+                "text": "\u9752\u30442\u30c9\u30a2\u306e\u8eca\u3002",
+                "english": "It's a blue, two-door car.",
+                "en_audio": "",
+                "kana": "\u3042\u304a\u3044\u30c4\u30fc\u30c9\u30a2\u306e\u304f\u308b\u307e\u3002",
+                "romaji": "aoi ts\u016b doa no kuruma."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201378.mp3",
+                "text": "\u7537\u6027\u304c\u8eca\u3092\u62bc\u3057\u3066\u3044\u308b\u3002",
+                "english": "The man is pushing the car.",
+                "en_audio": "",
+                "kana": "\u3060\u3093\u305b\u3044\u304c\u304f\u308b\u307e\u3092\u304a\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Dansei ga kuruma o oshite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201376.mp3",
+                "text": "\u305d\u306e\u7537\u6027\u306f\u8eca\u3092\u904b\u8ee2\u3057\u3066\u3044\u308b\u3002",
+                "english": "The man is driving a car.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u3060\u3093\u305b\u3044\u306f\u304f\u308b\u307e\u3092\u3046\u3093\u3066\u3093\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Sono dansei wa kuruma o unten shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201375.mp3",
+                "text": "\u79c1\u306f\u6708\u66dc\u65e5\u306f\u3001\u8eca\u3067\u4ed5\u4e8b\u306b\u884c\u304f\u304c\u3001\u305d\u308c\u4ee5\u5916\u306e\u65e5\u306f\u96fb\u8eca\u3092\u4f7f\u3046\u3002",
+                "english": "I drive my car to work on Mondays, but take the train the rest of the week.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306f\u3052\u3064\u3088\u3046\u3073\u306f\u3001\u304f\u308b\u307e\u3067\u3057\u3054\u3068\u306b\u3044\u304f\u304c\u3001\u305d\u308c\u3044\u304c\u3044\u306e\u3072\u306f\u3067\u3093\u3057\u3083\u3092\u3064\u304b\u3046\u3002",
+                "romaji": "Watashi wa getsu-y\u014dbi wa, kuruma de shigoto ni iku ga, sore igai no hi wa densha o tsukau."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201380.mp3",
+                "text": "\u72ac\u304c\u8eca\u306b\u4e57\u308d\u3046\u3068\u3057\u3066\u3044\u308b\u3002",
+                "english": "The dog is getting in the car.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197895.mp3",
+                "kana": "\u3044\u306c\u304c\u304f\u308b\u307e\u306b\u306e\u308d\u3046\u3068\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Inu ga kuruma ni nor\u014d to shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/979545.mp3",
+                "text": "\u9752\u30442\u30c9\u30a2\u306e\u8eca\u3002",
+                "english": "It's a blue, two-door car.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197894.mp3",
+                "kana": "\u3042\u304a\u3044\u30c4\u30fc\u30c9\u30a2\u306e\u304f\u308b\u307e\u3002",
+                "romaji": "aoi ts\u016b doa no kuruma."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201378.mp3",
+                "text": "\u7537\u6027\u304c\u8eca\u3092\u62bc\u3057\u3066\u3044\u308b\u3002",
+                "english": "The man is pushing the car.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89936.mp3",
+                "kana": "\u3060\u3093\u305b\u3044\u304c\u304f\u308b\u307e\u3092\u304a\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Dansei ga kuruma o oshite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201376.mp3",
+                "text": "\u305d\u306e\u7537\u6027\u306f\u8eca\u3092\u904b\u8ee2\u3057\u3066\u3044\u308b\u3002",
+                "english": "The man is driving a car.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90449.mp3",
+                "kana": "\u305d\u306e\u3060\u3093\u305b\u3044\u306f\u304f\u308b\u307e\u3092\u3046\u3093\u3066\u3093\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Sono dansei wa kuruma o unten shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201375.mp3",
+                "text": "\u79c1\u306f\u6708\u66dc\u65e5\u306f\u3001\u8eca\u3067\u4ed5\u4e8b\u306b\u884c\u304f\u304c\u3001\u305d\u308c\u4ee5\u5916\u306e\u65e5\u306f\u96fb\u8eca\u3092\u4f7f\u3046\u3002",
+                "english": "I drive my car to work on Mondays, but take the train the rest of the week.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102543.mp3",
+                "kana": "\u308f\u305f\u3057\u306f\u3052\u3064\u3088\u3046\u3073\u306f\u3001\u304f\u308b\u307e\u3067\u3057\u3054\u3068\u306b\u3044\u304f\u304c\u3001\u305d\u308c\u3044\u304c\u3044\u306e\u3072\u306f\u3067\u3093\u3057\u3083\u3092\u3064\u304b\u3046\u3002",
+                "romaji": "Watashi wa getsu-y\u014dbi wa, kuruma de shigoto ni iku ga, sore igai no hi wa densha o tsukau."
+            }
+        ]
+    },
+    {
+        "img": "9559",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227871.mp3",
+        "class": "noun",
+        "english": "car",
+        "flashcardId": "2332116",
+        "meaning": "car (noun) - a motor vehicle with four wheels; usually propelled by an internal combustion engine; automobile (noun) - a motor vehicle with four wheels; usually propelled by an internal combustion engine",
+        "id": "1617",
+        "word": "\u81ea\u52d5\u8eca",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262652.mp3",
+        "kana": "\u3058\u3069\u3046\u3057\u3083",
+        "romaji": "jid\u014dsha",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252898.mp3",
+                "text": "\u30c4\u30fc\u30c9\u30a2\u306e\u81ea\u52d5\u8eca",
+                "english": "two-door automobile",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254032.mp3",
+                "kana": "\u30c4\u30fc\u30c9\u30a2\u306e\u3058\u3069\u3046\u3057\u3083",
+                "romaji": "ts\u016b-doa no jid\u014dsha"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252897.mp3",
+                "text": "\u81ea\u52d5\u8eca\u5de5\u5834",
+                "english": "automobile factory",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90093.mp3",
+                "kana": "\u3058\u3069\u3046\u3057\u3083\u3053\u3046\u3058\u3087\u3046",
+                "romaji": "jid\u014dsha k\u014dj\u014d"
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252898.mp3",
+                "text": "\u30c4\u30fc\u30c9\u30a2\u306e\u81ea\u52d5\u8eca",
+                "english": "two-door automobile",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254032.mp3",
+                "kana": "\u30c4\u30fc\u30c9\u30a2\u306e\u3058\u3069\u3046\u3057\u3083",
+                "romaji": "ts\u016b-doa no jid\u014dsha"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252897.mp3",
+                "text": "\u81ea\u52d5\u8eca\u5de5\u5834",
+                "english": "automobile factory",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90093.mp3",
+                "kana": "\u3058\u3069\u3046\u3057\u3083\u3053\u3046\u3058\u3087\u3046",
+                "romaji": "jid\u014dsha k\u014dj\u014d"
+            }
+        ]
+    },
+    {
+        "img": "9559",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227871.mp3",
+        "class": "noun",
+        "english": "automobile",
+        "flashcardId": "2332116",
+        "meaning": "car (noun) - a motor vehicle with four wheels; usually propelled by an internal combustion engine; automobile (noun) - a motor vehicle with four wheels; usually propelled by an internal combustion engine",
+        "id": "1617",
+        "word": "\u81ea\u52d5\u8eca",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262653.mp3",
+        "kana": "\u3058\u3069\u3046\u3057\u3083",
+        "romaji": "jid\u014dsha",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252898.mp3",
+                "text": "\u30c4\u30fc\u30c9\u30a2\u306e\u81ea\u52d5\u8eca",
+                "english": "two-door automobile",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254032.mp3",
+                "kana": "\u30c4\u30fc\u30c9\u30a2\u306e\u3058\u3069\u3046\u3057\u3083",
+                "romaji": "ts\u016b-doa no jid\u014dsha"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252897.mp3",
+                "text": "\u81ea\u52d5\u8eca\u5de5\u5834",
+                "english": "automobile factory",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90093.mp3",
+                "kana": "\u3058\u3069\u3046\u3057\u3083\u3053\u3046\u3058\u3087\u3046",
+                "romaji": "jid\u014dsha k\u014dj\u014d"
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252898.mp3",
+                "text": "\u30c4\u30fc\u30c9\u30a2\u306e\u81ea\u52d5\u8eca",
+                "english": "two-door automobile",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254032.mp3",
+                "kana": "\u30c4\u30fc\u30c9\u30a2\u306e\u3058\u3069\u3046\u3057\u3083",
+                "romaji": "ts\u016b-doa no jid\u014dsha"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252897.mp3",
+                "text": "\u81ea\u52d5\u8eca\u5de5\u5834",
+                "english": "automobile factory",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90093.mp3",
+                "kana": "\u3058\u3069\u3046\u3057\u3083\u3053\u3046\u3058\u3087\u3046",
+                "romaji": "jid\u014dsha k\u014dj\u014d"
+            }
+        ]
+    },
+    {
+        "img": "8452",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227866.mp3",
+        "class": "noun",
+        "english": "passenger",
+        "flashcardId": "2320395",
+        "meaning": "passenger",
+        "id": "1610",
+        "word": "\u4e57\u5ba2",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/306028.mp3",
+        "kana": "\u3058\u3087\u3046\u304d\u3083\u304f",
+        "romaji": "j\u014dkyaku",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/891812.mp3",
+                "text": "\u8eca\u306e\u4e57\u5ba2",
+                "english": "car passenger",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86544.mp3",
+                "kana": "\u304f\u308b\u307e\u306e\u3058\u3087\u3046\u304d\u3083\u304f",
+                "romaji": "kuruma no j\u014dkyaku"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/891748.mp3",
+                "text": "\u4e57\u5ba2\u306f\u8eca\u306e\u5f8c\u90e8\u5ea7\u5e2d\u306b\u5ea7\u3063\u3066\u3044\u307e\u3059\u3002",
+                "english": "The passengers are in the back seat of the car.",
+                "en_audio": "",
+                "kana": "\u3058\u3087\u3046\u304d\u3083\u304f\u306f\u304f\u308b\u307e\u306e\u3053\u3046\u3076\u3056\u305b\u304d\u306b\u3059\u308f\u3063\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "J\u014dkyaku wa kuruma no k\u014dbu zaseki ni suwatte imasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253232.mp3",
+                "text": "\u4e57\u5ba2\u305f\u3061\u306f\u96fb\u8eca\u3092\u4e57\u308a\u63db\u3048\u3066\u3044\u308b\u3002",
+                "english": "The passengers are transferring trains.",
+                "en_audio": "",
+                "kana": "\u3058\u3087\u3046\u304d\u3083\u304f\u305f\u3061\u306f\u3067\u3093\u3057\u3083\u3092\u306e\u308a\u304b\u3048\u3066\u3044\u308b\u3002",
+                "romaji": "J\u014dkyaku-tachi wa densha o norikaete iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/891812.mp3",
+                "text": "\u8eca\u306e\u4e57\u5ba2",
+                "english": "car passenger",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86544.mp3",
+                "kana": "\u304f\u308b\u307e\u306e\u3058\u3087\u3046\u304d\u3083\u304f",
+                "romaji": "kuruma no j\u014dkyaku"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/891748.mp3",
+                "text": "\u4e57\u5ba2\u306f\u8eca\u306e\u5f8c\u90e8\u5ea7\u5e2d\u306b\u5ea7\u3063\u3066\u3044\u307e\u3059\u3002",
+                "english": "The passengers are in the back seat of the car.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86543.mp3",
+                "kana": "\u3058\u3087\u3046\u304d\u3083\u304f\u306f\u304f\u308b\u307e\u306e\u3053\u3046\u3076\u3056\u305b\u304d\u306b\u3059\u308f\u3063\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "J\u014dkyaku wa kuruma no k\u014dbu zaseki ni suwatte imasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253232.mp3",
+                "text": "\u4e57\u5ba2\u305f\u3061\u306f\u96fb\u8eca\u3092\u4e57\u308a\u63db\u3048\u3066\u3044\u308b\u3002",
+                "english": "The passengers are transferring trains.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2517.mp3",
+                "kana": "\u3058\u3087\u3046\u304d\u3083\u304f\u305f\u3061\u306f\u3067\u3093\u3057\u3083\u3092\u306e\u308a\u304b\u3048\u3066\u3044\u308b\u3002",
+                "romaji": "J\u014dkyaku-tachi wa densha o norikaete iru."
+            }
+        ]
+    },
+    {
+        "img": "10001",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375110.mp3",
+        "class": "noun",
+        "english": "license",
+        "flashcardId": "2320414",
+        "meaning": "license (noun) - an official document, card, etc., that gives you permission to do, use, or have something",
+        "id": "1612",
+        "word": "\u514d\u8a31\u8a3c",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/88993.mp3",
+        "kana": "\u3081\u3093\u304d\u3087\u3057\u3087\u3046",
+        "romaji": "menkyosh\u014d",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253236.mp3",
+                "text": "\u30cb\u30e5\u30fc\u30e8\u30fc\u30af\u5dde\u306e\u904b\u8ee2\u514d\u8a31",
+                "english": "New York State driver's license",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2387.mp3",
+                "kana": "\u30cb\u30e5\u30fc\u30e8\u30fc\u30af\u3057\u3085\u3046\u306e\u3046\u3093\u3066\u3093\u3081\u3093\u304d\u3087",
+                "romaji": "Ny\u016by\u014dku-sh\u016b no unten menkyo"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253237.mp3",
+                "text": "\u79c1\u306f\u3001\u6628\u65e5\u3067\u904b\u8ee2\u514d\u8a31\u306e\u671f\u9650\u304c\u5207\u308c\u305f\u306e\u3067\u3001\u904b\u8ee2\u3067\u304d\u306a\u3044\u3002",
+                "english": "My driver's license expired yesterday, so I can't drive.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306f\u3001\u304d\u306e\u3046\u3067\u3046\u3093\u3066\u3093\u3081\u3093\u304d\u3087\u306e\u304d\u3052\u3093\u304c\u304d\u308c\u305f\u306e\u3067\u3001\u3046\u3093\u3066\u3093\u3067\u304d\u306a\u3044\u3002",
+                "romaji": "Watashi wa, kin\u014d de unten menkyo no kigen ga kireta node, unten dekinai."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253235.mp3",
+                "text": "\u30db\u30c6\u30eb\u306b\u767b\u9332\u3059\u308b\u969b\u306f\u3001\u514d\u8a31\u8a3c\u304b\u30d1\u30b9\u30dd\u30fc\u30c8\u304c\u5fc5\u8981\u306b\u306a\u308a\u307e\u3059\u3002",
+                "english": "You need a license or passport when you sign in at the hotel.",
+                "en_audio": "",
+                "kana": "\u30db\u30c6\u30eb\u306b\u3068\u3046\u308d\u304f\u3059\u308b\u3055\u3044\u306f\u3001\u3081\u3093\u304d\u3087\u3057\u3087\u3046\u304b\u30d1\u30b9\u30dd\u30fc\u30c8\u304c\u3072\u3064\u3088\u3046\u306b\u306a\u308a\u307e\u3059\u3002",
+                "romaji": "Hoteru ni t\u014droku suru sai wa, menkyosh\u014d ka pasup\u014dto ga hitsuy\u014d ni narimasu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253237.mp3",
+                "text": "\u79c1\u306f\u3001\u6628\u65e5\u3067\u904b\u8ee2\u514d\u8a31\u306e\u671f\u9650\u304c\u5207\u308c\u305f\u306e\u3067\u3001\u904b\u8ee2\u3067\u304d\u306a\u3044\u3002",
+                "english": "My driver's license expired yesterday, so I can't drive.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2388.mp3",
+                "kana": "\u308f\u305f\u3057\u306f\u3001\u304d\u306e\u3046\u3067\u3046\u3093\u3066\u3093\u3081\u3093\u304d\u3087\u306e\u304d\u3052\u3093\u304c\u304d\u308c\u305f\u306e\u3067\u3001\u3046\u3093\u3066\u3093\u3067\u304d\u306a\u3044\u3002",
+                "romaji": "Watashi wa, kin\u014d de unten menkyo no kigen ga kireta node, unten dekinai."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253236.mp3",
+                "text": "\u30cb\u30e5\u30fc\u30e8\u30fc\u30af\u5dde\u306e\u904b\u8ee2\u514d\u8a31",
+                "english": "New York State driver's license",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2387.mp3",
+                "kana": "\u30cb\u30e5\u30fc\u30e8\u30fc\u30af\u3057\u3085\u3046\u306e\u3046\u3093\u3066\u3093\u3081\u3093\u304d\u3087",
+                "romaji": "Ny\u016by\u014dku-sh\u016b no unten menkyo"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253235.mp3",
+                "text": "\u30db\u30c6\u30eb\u306b\u767b\u9332\u3059\u308b\u969b\u306f\u3001\u514d\u8a31\u8a3c\u304b\u30d1\u30b9\u30dd\u30fc\u30c8\u304c\u5fc5\u8981\u306b\u306a\u308a\u307e\u3059\u3002",
+                "english": "You need a license or passport when you sign in at the hotel.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86034.mp3",
+                "kana": "\u30db\u30c6\u30eb\u306b\u3068\u3046\u308d\u304f\u3059\u308b\u3055\u3044\u306f\u3001\u3081\u3093\u304d\u3087\u3057\u3087\u3046\u304b\u30d1\u30b9\u30dd\u30fc\u30c8\u304c\u3072\u3064\u3088\u3046\u306b\u306a\u308a\u307e\u3059\u3002",
+                "romaji": "Hoteru ni t\u014droku suru sai wa, menkyosh\u014d ka pasup\u014dto ga hitsuy\u014d ni narimasu."
+            }
+        ]
+    },
+    {
+        "img": "8073",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227870.mp3",
+        "class": "noun",
+        "english": "motorbike",
+        "flashcardId": "533354",
+        "meaning": "motorbike (noun) - a small fast two-wheeled vehicle with an engine",
+        "id": "1615",
+        "word": "\u30aa\u30fc\u30c8\u30d0\u30a4",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263280.mp3",
+        "kana": "\u30aa\u30fc\u30c8\u30d0\u30a4",
+        "romaji": "\u014dtobai",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253238.mp3",
+                "text": "\u96fb\u6c17\u30aa\u30fc\u30c8\u30d0\u30a4",
+                "english": "electric motorbike",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254186.mp3",
+                "kana": "\u3067\u3093\u304d\u30aa\u30fc\u30c8\u30d0\u30a4",
+                "romaji": "denki \u014dtobai"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253239.mp3",
+                "text": "\u5f7c\u5973\u306e\u30aa\u30fc\u30c8\u30d0\u30a4\u306f\u304d\u308c\u3044\u3067\u3059\u3002",
+                "english": "Her motorbike is beautiful.",
+                "en_audio": "",
+                "kana": "\u304b\u306e\u3058\u3087\u306e\u30aa\u30fc\u30c8\u30d0\u30a4\u306f\u304d\u308c\u3044\u3067\u3059\u3002",
+                "romaji": "Kanojo no \u014dtobai wa kirei desu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253239.mp3",
+                "text": "\u5f7c\u5973\u306e\u30aa\u30fc\u30c8\u30d0\u30a4\u306f\u304d\u308c\u3044\u3067\u3059\u3002",
+                "english": "Her motorbike is beautiful.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263281.mp3",
+                "kana": "\u304b\u306e\u3058\u3087\u306e\u30aa\u30fc\u30c8\u30d0\u30a4\u306f\u304d\u308c\u3044\u3067\u3059\u3002",
+                "romaji": "Kanojo no \u014dtobai wa kirei desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253238.mp3",
+                "text": "\u96fb\u6c17\u30aa\u30fc\u30c8\u30d0\u30a4",
+                "english": "electric motorbike",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254186.mp3",
+                "kana": "\u3067\u3093\u304d\u30aa\u30fc\u30c8\u30d0\u30a4",
+                "romaji": "denki \u014dtobai"
+            }
+        ]
+    },
+    {
+        "img": "8073",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1138.mp3",
+        "class": "noun",
+        "english": "motorcycle",
+        "flashcardId": "2166654",
+        "meaning": "motorcycle (noun) - a fast two-wheeled vehicle with an engine",
+        "id": "5828",
+        "word": "\u30aa\u30fc\u30c8\u30d0\u30a4",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/88998.mp3",
+        "kana": "\u30aa\u30fc\u30c8\u30d0\u30a4",
+        "romaji": "\u014dtobai",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201381.mp3",
+                "text": "\u9ed2\u3044\u30aa\u30fc\u30c8\u30d0\u30a4",
+                "english": "black motorcycle",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197896.mp3",
+                "kana": "\u304f\u308d\u3044\u30aa\u30fc\u30c8\u30d0\u30a4",
+                "romaji": "kuroi \u014dtobai"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1140.mp3",
+                "text": "\u30aa\u30fc\u30c8\u30d0\u30a4\u306e\u4e8b\u6545",
+                "english": "motorcycle accident",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4117.mp3",
+                "kana": "\u30aa\u30fc\u30c8\u30d0\u30a4\u306e\u3058\u3053",
+                "romaji": "\u014dtobai no jiko"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1139.mp3",
+                "text": "\u30aa\u30fc\u30c8\u30d0\u30a4\u306e\u30ec\u30fc\u30b9",
+                "english": "motorcycle race",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4116.mp3",
+                "kana": "\u30aa\u30fc\u30c8\u30d0\u30a4\u306e\u30ec\u30fc\u30b9",
+                "romaji": "\u014dtobai no r\u0113su"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/891806.mp3",
+                "text": "\u5f7c\u306f\u3001\u8eca\u3092\u4e8c\u53f0\u3068\u30aa\u30fc\u30c8\u30d0\u30a4\u3092\u6301\u3063\u3066\u3044\u308b\u3002",
+                "english": "He has two cars and a motorcycle..",
+                "en_audio": "",
+                "kana": "\u304b\u308c\u306f\u3001\u304f\u308b\u307e\u3092\u306b\u3060\u3044\u3068\u30aa\u30fc\u30c8\u30d0\u30a4\u3092\u3082\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Kare wa, kuruma o ni-dai to \u014dtobai o motte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1141.mp3",
+                "text": "\u5929\u6c17\u304c\u3044\u3044\u6642\u3001\u5f7c\u306f\u6d77\u5cb8\u307e\u3067\u30aa\u30fc\u30c8\u30d0\u30a4\u306b\u4e57\u3063\u3066\u884c\u304f\u3002",
+                "english": "When the weather is nice, he rides his motorcycle to the beach.",
+                "en_audio": "",
+                "kana": "\u3066\u3093\u304d\u304c\u3044\u3044\u3068\u304d\u3001\u304b\u308c\u306f\u304b\u3044\u304c\u3093\u307e\u3067\u30aa\u30fc\u30c8\u30d0\u30a4\u306b\u306e\u3063\u3066\u3044\u304f\u3002",
+                "romaji": "Tenki ga ii toki, kare wa kaigan made \u014dtobai ni notte iku."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/891806.mp3",
+                "text": "\u5f7c\u306f\u3001\u8eca\u3092\u4e8c\u53f0\u3068\u30aa\u30fc\u30c8\u30d0\u30a4\u3092\u6301\u3063\u3066\u3044\u308b\u3002",
+                "english": "He has two cars and a motorcycle..",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3599.mp3",
+                "kana": "\u304b\u308c\u306f\u3001\u304f\u308b\u307e\u3092\u306b\u3060\u3044\u3068\u30aa\u30fc\u30c8\u30d0\u30a4\u3092\u3082\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Kare wa, kuruma o ni-dai to \u014dtobai o motte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201381.mp3",
+                "text": "\u9ed2\u3044\u30aa\u30fc\u30c8\u30d0\u30a4",
+                "english": "black motorcycle",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197896.mp3",
+                "kana": "\u304f\u308d\u3044\u30aa\u30fc\u30c8\u30d0\u30a4",
+                "romaji": "kuroi \u014dtobai"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1141.mp3",
+                "text": "\u5929\u6c17\u304c\u3044\u3044\u6642\u3001\u5f7c\u306f\u6d77\u5cb8\u307e\u3067\u30aa\u30fc\u30c8\u30d0\u30a4\u306b\u4e57\u3063\u3066\u884c\u304f\u3002",
+                "english": "When the weather is nice, he rides his motorcycle to the beach.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4115.mp3",
+                "kana": "\u3066\u3093\u304d\u304c\u3044\u3044\u3068\u304d\u3001\u304b\u308c\u306f\u304b\u3044\u304c\u3093\u307e\u3067\u30aa\u30fc\u30c8\u30d0\u30a4\u306b\u306e\u3063\u3066\u3044\u304f\u3002",
+                "romaji": "Tenki ga ii toki, kare wa kaigan made \u014dtobai ni notte iku."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1140.mp3",
+                "text": "\u30aa\u30fc\u30c8\u30d0\u30a4\u306e\u4e8b\u6545",
+                "english": "motorcycle accident",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4117.mp3",
+                "kana": "\u30aa\u30fc\u30c8\u30d0\u30a4\u306e\u3058\u3053",
+                "romaji": "\u014dtobai no jiko"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1139.mp3",
+                "text": "\u30aa\u30fc\u30c8\u30d0\u30a4\u306e\u30ec\u30fc\u30b9",
+                "english": "motorcycle race",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4116.mp3",
+                "kana": "\u30aa\u30fc\u30c8\u30d0\u30a4\u306e\u30ec\u30fc\u30b9",
+                "romaji": "\u014dtobai no r\u0113su"
+            }
+        ]
+    },
+    {
+        "img": "9108",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201382.mp3",
+        "class": "noun",
+        "english": "scooter",
+        "flashcardId": "2166655",
+        "meaning": "scooter\ta type of small, less powerful motorcycle with small wheels",
+        "id": "1616",
+        "word": "\u30b9\u30af\u30fc\u30bf\u30fc",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/88999.mp3",
+        "kana": "\u30b9\u30af\u30fc\u30bf\u30fc",
+        "romaji": "suk\u016bt\u0101",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253241.mp3",
+                "text": "\u96fb\u6c17\u30b9\u30af\u30fc\u30bf\u30fc",
+                "english": "electric scooter",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102559.mp3",
+                "kana": "\u3067\u3093\u304d\u30b9\u30af\u30fc\u30bf\u30fc",
+                "romaji": "denki suk\u016bt\u0101"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201384.mp3",
+                "text": "\u9ec4\u8272\u3044\u30b9\u30af\u30fc\u30bf\u30fc",
+                "english": "yellow scooter",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86353.mp3",
+                "kana": "\u304d\u3044\u308d\u3044\u30b9\u30af\u30fc\u30bf\u30fc",
+                "romaji": "kiiroi suk\u016bt\u0101"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201383.mp3",
+                "text": "\u30b9\u30af\u30fc\u30bf\u30fc",
+                "english": "motor scooter",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86351.mp3",
+                "kana": "\u30b9\u30af\u30fc\u30bf\u30fc",
+                "romaji": "suk\u016bt\u0101"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/549525.mp3",
+                "text": "\u30ae\u30ea\u30b7\u30e3\u3067\u306f\u3001\u30b9\u30af\u30fc\u30bf\u30fc\u3092\u501f\u308a\u3066\u4e57\u308a\u5468\u308a\u307e\u3057\u305f\u3002",
+                "english": "In Greece, we rented scooters and drove around town.",
+                "en_audio": "",
+                "kana": "\u30ae\u30ea\u30b7\u30e3\u3067\u306f\u3001\u30b9\u30af\u30fc\u30bf\u30fc\u3092\u304b\u308a\u3066\u306e\u308a\u307e\u308f\u308a\u307e\u3057\u305f\u3002",
+                "romaji": "Girisha de wa, suk\u016bt\u0101 o karite norimawarimashita."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201386.mp3",
+                "text": "\u305d\u306e\u5973\u306e\u4eba\u306f\u9ec4\u8272\u3044\u30b9\u30af\u30fc\u30bf\u30fc\u306b\u4e57\u3063\u3066\u3044\u308b\u3002",
+                "english": "The woman is riding a yellow scooter.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u304a\u3093\u306a\u306e\u3072\u3068\u306f\u304d\u3044\u308d\u3044\u30b9\u30af\u30fc\u30bf\u30fc\u306b\u306e\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Sono onna no hito wa kiiroi suk\u016bt\u0101 ni notte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201385.mp3",
+                "text": "\u30b9\u30af\u30fc\u30bf\u30fc\u306f\u3001\u904b\u8ee2\u3057\u3066\u3044\u3066\u697d\u3057\u3044\u3057\u3001\u71c3\u8cbb\u3082\u826f\u3044\u3002",
+                "english": "The motor scooter is fun to drive and gets good mileage.",
+                "en_audio": "",
+                "kana": "\u30b9\u30af\u30fc\u30bf\u30fc\u306f\u3001\u3046\u3093\u3066\u3093\u3057\u3066\u3044\u3066\u305f\u306e\u3057\u3044\u3057\u3001\u306d\u3093\u3074\u3082\u3088\u3044\u3002",
+                "romaji": "Suk\u016bt\u0101 wa, unten shite ite tanoshii shi, nenpi mo yoi."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253241.mp3",
+                "text": "\u96fb\u6c17\u30b9\u30af\u30fc\u30bf\u30fc",
+                "english": "electric scooter",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102559.mp3",
+                "kana": "\u3067\u3093\u304d\u30b9\u30af\u30fc\u30bf\u30fc",
+                "romaji": "denki suk\u016bt\u0101"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/549525.mp3",
+                "text": "\u30ae\u30ea\u30b7\u30e3\u3067\u306f\u3001\u30b9\u30af\u30fc\u30bf\u30fc\u3092\u501f\u308a\u3066\u4e57\u308a\u5468\u308a\u307e\u3057\u305f\u3002",
+                "english": "In Greece, we rented scooters and drove around town.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102560.mp3",
+                "kana": "\u30ae\u30ea\u30b7\u30e3\u3067\u306f\u3001\u30b9\u30af\u30fc\u30bf\u30fc\u3092\u304b\u308a\u3066\u306e\u308a\u307e\u308f\u308a\u307e\u3057\u305f\u3002",
+                "romaji": "Girisha de wa, suk\u016bt\u0101 o karite norimawarimashita."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201386.mp3",
+                "text": "\u305d\u306e\u5973\u306e\u4eba\u306f\u9ec4\u8272\u3044\u30b9\u30af\u30fc\u30bf\u30fc\u306b\u4e57\u3063\u3066\u3044\u308b\u3002",
+                "english": "The woman is riding a yellow scooter.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86352.mp3",
+                "kana": "\u305d\u306e\u304a\u3093\u306a\u306e\u3072\u3068\u306f\u304d\u3044\u308d\u3044\u30b9\u30af\u30fc\u30bf\u30fc\u306b\u306e\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Sono onna no hito wa kiiroi suk\u016bt\u0101 ni notte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201385.mp3",
+                "text": "\u30b9\u30af\u30fc\u30bf\u30fc\u306f\u3001\u904b\u8ee2\u3057\u3066\u3044\u3066\u697d\u3057\u3044\u3057\u3001\u71c3\u8cbb\u3082\u826f\u3044\u3002",
+                "english": "The motor scooter is fun to drive and gets good mileage.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86350.mp3",
+                "kana": "\u30b9\u30af\u30fc\u30bf\u30fc\u306f\u3001\u3046\u3093\u3066\u3093\u3057\u3066\u3044\u3066\u305f\u306e\u3057\u3044\u3057\u3001\u306d\u3093\u3074\u3082\u3088\u3044\u3002",
+                "romaji": "Suk\u016bt\u0101 wa, unten shite ite tanoshii shi, nenpi mo yoi."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201384.mp3",
+                "text": "\u9ec4\u8272\u3044\u30b9\u30af\u30fc\u30bf\u30fc",
+                "english": "yellow scooter",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86353.mp3",
+                "kana": "\u304d\u3044\u308d\u3044\u30b9\u30af\u30fc\u30bf\u30fc",
+                "romaji": "kiiroi suk\u016bt\u0101"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201383.mp3",
+                "text": "\u30b9\u30af\u30fc\u30bf\u30fc",
+                "english": "motor scooter",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86351.mp3",
+                "kana": "\u30b9\u30af\u30fc\u30bf\u30fc",
+                "romaji": "suk\u016bt\u0101"
+            }
+        ]
+    },
+    {
+        "img": "9075",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227872.mp3",
+        "class": "noun",
+        "english": "cable car",
+        "flashcardId": "2320314",
+        "meaning": "cable car (noun) - a vehicle similar to a train that is pulled along by a moving cable",
+        "id": "1619",
+        "word": "\u30b1\u30fc\u30d6\u30eb\u30ab\u30fc",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263282.mp3",
+        "kana": "\u30b1\u30fc\u30d6\u30eb\u30ab\u30fc",
+        "romaji": "k\u0113buruk\u0101",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227877.mp3",
+                "text": "\u8def\u9762\u30b1\u30fc\u30d6\u30eb\u30ab\u30fc",
+                "english": "street cable car",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103452.mp3",
+                "kana": "\u308d\u3081\u3093\u30b1\u30fc\u30d6\u30eb\u30ab\u30fc",
+                "romaji": "romen k\u0113buru k\u0101"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/891762.mp3",
+                "text": "\u30b1\u30fc\u30d6\u30eb\u30ab\u30fc\u304c\u9053\u3092\u8d70\u3063\u3066\u3044\u308b\u3002",
+                "english": "The cable car is traveling down the street.",
+                "en_audio": "",
+                "kana": "\u30b1\u30fc\u30d6\u30eb\u30ab\u30fc\u304c\u307f\u3061\u3092\u306f\u3057\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "K\u0113buruk\u0101 ga michi o hashitte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227874.mp3",
+                "text": "\u4e57\u5ba2\u305f\u3061\u306f\u30b1\u30fc\u30d6\u30eb\u30ab\u30fc\u306b\u4e57\u3063\u3066\u3044\u308b\u3002",
+                "english": "The passengers are riding the cable car.",
+                "en_audio": "",
+                "kana": "\u3058\u3087\u3046\u304d\u3083\u304f\u305f\u3061\u306f\u30b1\u30fc\u30d6\u30eb\u30ab\u30fc\u306b\u306e\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "J\u014dkyaku-tachi wa k\u0113buruk\u0101 ni notte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227873.mp3",
+                "text": "\u4e16\u754c\u4e2d\u306e\u591a\u304f\u306e\u90fd\u5e02\u3067\u4eba\u3005\u306f\u30b1\u30fc\u30d6\u30eb\u30ab\u30fc\u3067\u306e\u79fb\u52d5\u306b\u983c\u3063\u3066\u3044\u308b\u3002",
+                "english": "People rely on the cable car to get around many cities around the world.",
+                "en_audio": "",
+                "kana": "\u305b\u304b\u3044\u3058\u3085\u3046\u306e\u304a\u304a\u304f\u306e\u3068\u3057\u3067\u3072\u3068\u3073\u3068\u306f\u30b1\u30fc\u30d6\u30eb\u30ab\u30fc\u3067\u306e\u3044\u3069\u3046\u306b\u305f\u3088\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Sekai j\u016b no \u014dku no toshi de hitobito wa k\u0113buruk\u0101 de no id\u014d ni tayotte iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227877.mp3",
+                "text": "\u8def\u9762\u30b1\u30fc\u30d6\u30eb\u30ab\u30fc",
+                "english": "street cable car",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103452.mp3",
+                "kana": "\u308d\u3081\u3093\u30b1\u30fc\u30d6\u30eb\u30ab\u30fc",
+                "romaji": "romen k\u0113buru k\u0101"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/891762.mp3",
+                "text": "\u30b1\u30fc\u30d6\u30eb\u30ab\u30fc\u304c\u9053\u3092\u8d70\u3063\u3066\u3044\u308b\u3002",
+                "english": "The cable car is traveling down the street.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254189.mp3",
+                "kana": "\u30b1\u30fc\u30d6\u30eb\u30ab\u30fc\u304c\u307f\u3061\u3092\u306f\u3057\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "K\u0113buruk\u0101 ga michi o hashitte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227874.mp3",
+                "text": "\u4e57\u5ba2\u305f\u3061\u306f\u30b1\u30fc\u30d6\u30eb\u30ab\u30fc\u306b\u4e57\u3063\u3066\u3044\u308b\u3002",
+                "english": "The passengers are riding the cable car.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103450.mp3",
+                "kana": "\u3058\u3087\u3046\u304d\u3083\u304f\u305f\u3061\u306f\u30b1\u30fc\u30d6\u30eb\u30ab\u30fc\u306b\u306e\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "J\u014dkyaku-tachi wa k\u0113buruk\u0101 ni notte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227873.mp3",
+                "text": "\u4e16\u754c\u4e2d\u306e\u591a\u304f\u306e\u90fd\u5e02\u3067\u4eba\u3005\u306f\u30b1\u30fc\u30d6\u30eb\u30ab\u30fc\u3067\u306e\u79fb\u52d5\u306b\u983c\u3063\u3066\u3044\u308b\u3002",
+                "english": "People rely on the cable car to get around many cities around the world.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103449.mp3",
+                "kana": "\u305b\u304b\u3044\u3058\u3085\u3046\u306e\u304a\u304a\u304f\u306e\u3068\u3057\u3067\u3072\u3068\u3073\u3068\u306f\u30b1\u30fc\u30d6\u30eb\u30ab\u30fc\u3067\u306e\u3044\u3069\u3046\u306b\u305f\u3088\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Sekai j\u016b no \u014dku no toshi de hitobito wa k\u0113buruk\u0101 de no id\u014d ni tayotte iru."
+            }
+        ]
+    },
+    {
+        "img": "9303",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/229315.mp3",
+        "class": "noun",
+        "english": "vehicle",
+        "flashcardId": "2320393",
+        "meaning": "vehicle (noun) - a machine with an engine that is used to take people or things from one place to another, such as a car, bus, or truck",
+        "id": "15443",
+        "word": "\u4e57\u308a\u7269",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263283.mp3",
+        "kana": "\u306e\u308a\u3082\u306e",
+        "romaji": "norimono",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/229316.mp3",
+                "text": "\u3044\u308d\u3044\u308d\u306a\u7a2e\u985e\u306e\u4e57\u308a\u7269",
+                "english": "vehicle varieties",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90871.mp3",
+                "kana": "\u3044\u308d\u3044\u308d\u306a\u3057\u3085\u308b\u3044\u306e\u306e\u308a\u3082\u306e",
+                "romaji": "iroiro na shurui no norimono"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/229317.mp3",
+                "text": "\u3069\u3093\u306a\u7a2e\u985e\u306e\u4e57\u308a\u7269\u306b\u4e57\u308b\u306e\u304c\u4e00\u756a\u697d\u3057\u3044\u3067\u3059\u304b\u3002",
+                "english": "What kind of vehicle do you enjoy riding the most?",
+                "en_audio": "",
+                "kana": "\u3069\u3093\u306a\u3057\u3085\u308b\u3044\u306e\u306e\u308a\u3082\u306e\u306b\u306e\u308b\u306e\u304c\u3044\u3061\u3070\u3093\u305f\u306e\u3057\u3044\u3067\u3059\u304b\u3002",
+                "romaji": "Donna shurui no norimono ni noru no ga ichi-ban tanoshii desu ka."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/229317.mp3",
+                "text": "\u3069\u3093\u306a\u7a2e\u985e\u306e\u4e57\u308a\u7269\u306b\u4e57\u308b\u306e\u304c\u4e00\u756a\u697d\u3057\u3044\u3067\u3059\u304b\u3002",
+                "english": "What kind of vehicle do you enjoy riding the most?",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90870.mp3",
+                "kana": "\u3069\u3093\u306a\u3057\u3085\u308b\u3044\u306e\u306e\u308a\u3082\u306e\u306b\u306e\u308b\u306e\u304c\u3044\u3061\u3070\u3093\u305f\u306e\u3057\u3044\u3067\u3059\u304b\u3002",
+                "romaji": "Donna shurui no norimono ni noru no ga ichi-ban tanoshii desu ka."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/229316.mp3",
+                "text": "\u3044\u308d\u3044\u308d\u306a\u7a2e\u985e\u306e\u4e57\u308a\u7269",
+                "english": "vehicle varieties",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90871.mp3",
+                "kana": "\u3044\u308d\u3044\u308d\u306a\u3057\u3085\u308b\u3044\u306e\u306e\u308a\u3082\u306e",
+                "romaji": "iroiro na shurui no norimono"
+            }
+        ]
+    },
+    {
+        "img": "22303",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375111.mp3",
+        "class": "noun",
+        "english": "boat",
+        "flashcardId": "2166656",
+        "meaning": "boat (noun) - a vehicle that travels across water",
+        "id": "5832",
+        "word": "\u8239",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89011.mp3",
+        "kana": "\u3075\u306d",
+        "romaji": "fune",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375114.mp3",
+                "text": "\u767d\u9ed2\u306e\u8239",
+                "english": "black and white boat",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197898.mp3",
+                "kana": "\u3057\u308d\u304f\u308d\u306e\u3075\u306d",
+                "romaji": "shiro kuro no fune"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201388.mp3",
+                "text": "\u91e3\u308a\u8239",
+                "english": "fishing boat",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102545.mp3",
+                "kana": "\u3064\u308a\u3076\u306d",
+                "romaji": "tsuribune"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375113.mp3",
+                "text": "\u8239\u304c\u6c34\u9762\u3092\u9032\u3093\u3067\u3044\u308b\u3002",
+                "english": "The boat is moving through the water.",
+                "en_audio": "",
+                "kana": "\u3075\u306d\u304c\u3059\u3044\u3081\u3093\u3092\u3059\u3059\u3093\u3067\u3044\u308b\u3002",
+                "romaji": "Fune ga suimen o susunde iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375112.mp3",
+                "text": "\u8239\u3092\u6240\u6709\u3059\u308b\u306e\u306f\u5927\u5909\u3060\u304c\u3001\u305d\u308c\u3060\u3051\u306e\u4fa1\u5024\u304c\u3042\u308b\u3002",
+                "english": "Owning a boat is a lot of work, but it's worth it.",
+                "en_audio": "",
+                "kana": "\u3075\u306d\u3092\u3057\u3087\u3086\u3046\u3059\u308b\u306e\u306f\u305f\u3044\u3078\u3093\u3060\u304c\u3001\u305d\u308c\u3060\u3051\u306e\u304b\u3061\u304c\u3042\u308b\u3002",
+                "romaji": "Fune o shoy\u016b suru no wa taihen da ga, sore dake no kachi ga aru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375114.mp3",
+                "text": "\u767d\u9ed2\u306e\u8239",
+                "english": "black and white boat",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197898.mp3",
+                "kana": "\u3057\u308d\u304f\u308d\u306e\u3075\u306d",
+                "romaji": "shiro kuro no fune"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375113.mp3",
+                "text": "\u8239\u304c\u6c34\u9762\u3092\u9032\u3093\u3067\u3044\u308b\u3002",
+                "english": "The boat is moving through the water.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197897.mp3",
+                "kana": "\u3075\u306d\u304c\u3059\u3044\u3081\u3093\u3092\u3059\u3059\u3093\u3067\u3044\u308b\u3002",
+                "romaji": "Fune ga suimen o susunde iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375112.mp3",
+                "text": "\u8239\u3092\u6240\u6709\u3059\u308b\u306e\u306f\u5927\u5909\u3060\u304c\u3001\u305d\u308c\u3060\u3051\u306e\u4fa1\u5024\u304c\u3042\u308b\u3002",
+                "english": "Owning a boat is a lot of work, but it's worth it.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102544.mp3",
+                "kana": "\u3075\u306d\u3092\u3057\u3087\u3086\u3046\u3059\u308b\u306e\u306f\u305f\u3044\u3078\u3093\u3060\u304c\u3001\u305d\u308c\u3060\u3051\u306e\u304b\u3061\u304c\u3042\u308b\u3002",
+                "romaji": "Fune o shoy\u016b suru no wa taihen da ga, sore dake no kachi ga aru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201388.mp3",
+                "text": "\u91e3\u308a\u8239",
+                "english": "fishing boat",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102545.mp3",
+                "kana": "\u3064\u308a\u3076\u306d",
+                "romaji": "tsuribune"
+            }
+        ]
+    },
+    {
+        "img": "9396",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/549527.mp3",
+        "class": "noun",
+        "english": "helicopter",
+        "flashcardId": "224469",
+        "meaning": "helicopter (noun) - a type of aircraft with large metal blades on top which turn around very quickly to make it fly",
+        "id": "5191",
+        "word": "\u30d8\u30ea\u30b3\u30d7\u30bf\u30fc",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263284.mp3",
+        "kana": "\u30d8\u30ea\u30b3\u30d7\u30bf\u30fc",
+        "romaji": "herikoput\u0101",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201453.mp3",
+                "text": "\u9752\u3068\u767d\u306e\u30d8\u30ea\u30b3\u30d7\u30bf\u30fc",
+                "english": "blue and white helicopter",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102556.mp3",
+                "kana": "\u3042\u304a\u3068\u3057\u308d\u306e\u30d8\u30ea\u30b3\u30d7\u30bf\u30fc",
+                "romaji": "ao to shiro no herikoput\u0101"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201451.mp3",
+                "text": "\u30d8\u30ea\u30b3\u30d7\u30bf\u30fc\u306e\u30d1\u30a4\u30ed\u30c3\u30c8",
+                "english": "helicopter pilot",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102554.mp3",
+                "kana": "\u30d8\u30ea\u30b3\u30d7\u30bf\u30fc\u306e\u30d1\u30a4\u30ed\u30c3\u30c8",
+                "romaji": "herikoput\u0101 no pairotto"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201452.mp3",
+                "text": "\u6700\u9ad8\u7d4c\u55b6\u8cac\u4efb\u8005\u306f\u30d8\u30ea\u30b3\u30d7\u30bf\u30fc\u3067\u4ed5\u4e8b\u306b\u884c\u304f\u3002",
+                "english": "The CEO travels to work by helicopter.",
+                "en_audio": "",
+                "kana": "\u3055\u3044\u3053\u3046\u3051\u3044\u3048\u3044\u305b\u304d\u306b\u3093\u3057\u3083\u306f\u30d8\u30ea\u30b3\u30d7\u30bf\u30fc\u3067\u3057\u3054\u3068\u306b\u3044\u304f\u3002",
+                "romaji": "Saik\u014d keiei sekininsha wa herikoput\u0101 de shigoto ni iku."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201453.mp3",
+                "text": "\u9752\u3068\u767d\u306e\u30d8\u30ea\u30b3\u30d7\u30bf\u30fc",
+                "english": "blue and white helicopter",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102556.mp3",
+                "kana": "\u3042\u304a\u3068\u3057\u308d\u306e\u30d8\u30ea\u30b3\u30d7\u30bf\u30fc",
+                "romaji": "ao to shiro no herikoput\u0101"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201452.mp3",
+                "text": "\u6700\u9ad8\u7d4c\u55b6\u8cac\u4efb\u8005\u306f\u30d8\u30ea\u30b3\u30d7\u30bf\u30fc\u3067\u4ed5\u4e8b\u306b\u884c\u304f\u3002",
+                "english": "The CEO travels to work by helicopter.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102555.mp3",
+                "kana": "\u3055\u3044\u3053\u3046\u3051\u3044\u3048\u3044\u305b\u304d\u306b\u3093\u3057\u3083\u306f\u30d8\u30ea\u30b3\u30d7\u30bf\u30fc\u3067\u3057\u3054\u3068\u306b\u3044\u304f\u3002",
+                "romaji": "Saik\u014d keiei sekininsha wa herikoput\u0101 de shigoto ni iku."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201451.mp3",
+                "text": "\u30d8\u30ea\u30b3\u30d7\u30bf\u30fc\u306e\u30d1\u30a4\u30ed\u30c3\u30c8",
+                "english": "helicopter pilot",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102554.mp3",
+                "kana": "\u30d8\u30ea\u30b3\u30d7\u30bf\u30fc\u306e\u30d1\u30a4\u30ed\u30c3\u30c8",
+                "romaji": "herikoput\u0101 no pairotto"
+            }
+        ]
+    },
+    {
+        "img": "9149",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2075.mp3",
+        "class": "noun",
+        "english": "truck",
+        "flashcardId": "2320342",
+        "meaning": "truck (noun) - a large road vehicle used to carry goods",
+        "id": "5651",
+        "word": "\u30c8\u30e9\u30c3\u30af",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5565.mp3",
+        "kana": "\u30c8\u30e9\u30c3\u30af",
+        "romaji": "torakku",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253244.mp3",
+                "text": "\u9ad8\u901f\u3092\u8d70\u308b\u30c8\u30e9\u30c3\u30af",
+                "english": "truck driving on a highway",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254192.mp3",
+                "kana": "\u3053\u3046\u305d\u304f\u3092\u306f\u3057\u308b\u30c8\u30e9\u30c3\u30af",
+                "romaji": "k\u014dsoku o hashiru torakku"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201808.mp3",
+                "text": "\u767d\u3044\u30c8\u30e9\u30c3\u30af",
+                "english": "white truck",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102557.mp3",
+                "kana": "\u3057\u308d\u3044\u30c8\u30e9\u30c3\u30af",
+                "romaji": "shiroi torakku"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2077.mp3",
+                "text": "\u8d64\u3044\u7dda\u306e\u5165\u3063\u305f\u767d\u3044\u30c8\u30e9\u30c3\u30af",
+                "english": "white truck with a red stripe",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5570.mp3",
+                "kana": "\u3042\u304b\u3044\u305b\u3093\u306e\u306f\u3044\u3063\u305f\u3057\u308d\u3044\u30c8\u30e9\u30c3\u30af",
+                "romaji": "akai sen no haitta shiroi torakku"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/258869.mp3",
+                "text": "\u30c8\u30e9\u30c3\u30af\u306e\u904b\u8ee2\u624b",
+                "english": "truck driver",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5569.mp3",
+                "kana": "\u30c8\u30e9\u30c3\u30af\u306e\u3046\u3093\u3066\u3093\u3057\u3085",
+                "romaji": "torakku no untenshu"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2078.mp3",
+                "text": "\u30c8\u30e9\u30c3\u30af\u306f\u5168\u56fd\u306b\u8377\u7269\u3092\u904b\u3073\u307e\u3059\u3002",
+                "english": "Trucks carry goods all over the country.",
+                "en_audio": "",
+                "kana": "\u30c8\u30e9\u30c3\u30af\u306f\u305c\u3093\u3053\u304f\u306b\u306b\u3082\u3064\u3092\u306f\u3053\u3073\u307e\u3059\u3002",
+                "romaji": "Torakku wa zenkoku ni nimotsu o hakobimasu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253244.mp3",
+                "text": "\u9ad8\u901f\u3092\u8d70\u308b\u30c8\u30e9\u30c3\u30af",
+                "english": "truck driving on a highway",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254192.mp3",
+                "kana": "\u3053\u3046\u305d\u304f\u3092\u306f\u3057\u308b\u30c8\u30e9\u30c3\u30af",
+                "romaji": "k\u014dsoku o hashiru torakku"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201808.mp3",
+                "text": "\u767d\u3044\u30c8\u30e9\u30c3\u30af",
+                "english": "white truck",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102557.mp3",
+                "kana": "\u3057\u308d\u3044\u30c8\u30e9\u30c3\u30af",
+                "romaji": "shiroi torakku"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2078.mp3",
+                "text": "\u30c8\u30e9\u30c3\u30af\u306f\u5168\u56fd\u306b\u8377\u7269\u3092\u904b\u3073\u307e\u3059\u3002",
+                "english": "Trucks carry goods all over the country.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5568.mp3",
+                "kana": "\u30c8\u30e9\u30c3\u30af\u306f\u305c\u3093\u3053\u304f\u306b\u306b\u3082\u3064\u3092\u306f\u3053\u3073\u307e\u3059\u3002",
+                "romaji": "Torakku wa zenkoku ni nimotsu o hakobimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2077.mp3",
+                "text": "\u8d64\u3044\u7dda\u306e\u5165\u3063\u305f\u767d\u3044\u30c8\u30e9\u30c3\u30af",
+                "english": "white truck with a red stripe",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5570.mp3",
+                "kana": "\u3042\u304b\u3044\u305b\u3093\u306e\u306f\u3044\u3063\u305f\u3057\u308d\u3044\u30c8\u30e9\u30c3\u30af",
+                "romaji": "akai sen no haitta shiroi torakku"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/258869.mp3",
+                "text": "\u30c8\u30e9\u30c3\u30af\u306e\u904b\u8ee2\u624b",
+                "english": "truck driver",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5569.mp3",
+                "kana": "\u30c8\u30e9\u30c3\u30af\u306e\u3046\u3093\u3066\u3093\u3057\u3085",
+                "romaji": "torakku no untenshu"
+            }
+        ]
+    },
+    {
+        "img": "17242",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253245.mp3",
+        "class": "noun",
+        "english": "moped",
+        "flashcardId": "2320435",
+        "meaning": "moped (noun) - a small two-wheeled vehicle with an engine",
+        "id": "34619",
+        "word": "\u539f\u52d5\u6a5f\u4ed8\u304d\u81ea\u8ee2\u8eca",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102558.mp3",
+        "kana": "\u3052\u3093\u3069\u3046\u304d\u3064\u304d\u3058\u3066\u3093\u3057\u3083",
+        "romaji": "gend\u014dki tsuki jitensha",
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/891805.mp3",
+                "text": "\u79c1\u306f\u3001\u3044\u3064\u3082\u99c5\u307e\u3067\u539f\u52d5\u6a5f\u4ed8\u304d\u81ea\u8ee2\u8eca\u3067\u884c\u304d\u307e\u3059\u3002",
+                "english": "I always go to the station by moped.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306f\u3001\u3044\u3064\u3082\u3048\u304d\u307e\u3067\u3052\u3093\u3069\u3046\u304d\u3064\u304d\u3058\u3066\u3093\u3057\u3083\u3067\u3044\u304d\u307e\u3059\u3002",
+                "romaji": "Watashi wa, itsumo eki made gend\u014dki tsuki jitensha de ikimasu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/891805.mp3",
+                "text": "\u79c1\u306f\u3001\u3044\u3064\u3082\u99c5\u307e\u3067\u539f\u52d5\u6a5f\u4ed8\u304d\u81ea\u8ee2\u8eca\u3067\u884c\u304d\u307e\u3059\u3002",
+                "english": "I always go to the station by moped.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/69402.mp3",
+                "kana": "\u308f\u305f\u3057\u306f\u3001\u3044\u3064\u3082\u3048\u304d\u307e\u3067\u3052\u3093\u3069\u3046\u304d\u3064\u304d\u3058\u3066\u3093\u3057\u3083\u3067\u3044\u304d\u307e\u3059\u3002",
+                "romaji": "Watashi wa, itsumo eki made gend\u014dki tsuki jitensha de ikimasu."
+            }
+        ]
+    },
+    {
+        "img": "10337",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253246.mp3",
+        "class": "phrase",
+        "english": "get in a car",
+        "flashcardId": "1401600",
+        "meaning": "get in a car (phrase)",
+        "id": "34617",
+        "word": "\u8eca\u306b\u4e57\u308b",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254195.mp3",
+        "kana": "\u304f\u308b\u307e\u306b\u306e\u308b",
+        "romaji": "kuruma ni noru"
+    }
+]

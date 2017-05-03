@@ -1,0 +1,1580 @@
+[
+    {
+        "img": "17374",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206725.mp3",
+        "class": "noun",
+        "english": "tour guide",
+        "flashcardId": "2320336",
+        "meaning": "tour guide (noun) - if someone takes you on a guided tour, they show you around a place of interest and tell you all about it; guide (noun) - a person who shows the way to others, especially one employed to show tourists around places of interest",
+        "id": "1760",
+        "word": "\u30c4\u30a2\u30fc\u30ac\u30a4\u30c9",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89179.mp3",
+        "kana": "\u30c4\u30a2\u30fc\u30ac\u30a4\u30c9",
+        "romaji": "tsu\u0101 gaido",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206729.mp3",
+                "text": "\u30c4\u30a2\u30fc\u30ac\u30a4\u30c9\u3092\u96c7\u3046",
+                "english": "hire a tour guide",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86582.mp3",
+                "kana": "\u30c4\u30a2\u30fc\u30ac\u30a4\u30c9\u3092\u3084\u3068\u3046",
+                "romaji": "tsu\u0101 gaido o yatou"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206726.mp3",
+                "text": "\u77e5\u8b58\u306e\u8c4a\u5bcc\u306a\u30c4\u30a2\u30fc\u30ac\u30a4\u30c9",
+                "english": "knowledgeable tour guide",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86580.mp3",
+                "kana": "\u3061\u3057\u304d\u306e\u307b\u3046\u3075\u306a\u30c4\u30a2\u30fc\u30ac\u30a4\u30c9",
+                "romaji": "chishiki no h\u014dfu na tsu\u0101 gaido"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206728.mp3",
+                "text": "\u30c4\u30a2\u30fc\u30ac\u30a4\u30c9\u306f\u3001\u3042\u306a\u305f\u306e\u65c5\u884c\u3092\u697d\u3057\u304f\u3059\u308b\u8208\u5473\u6df1\u3044\u60c5\u5831\u3092\u77e5\u3063\u3066\u3044\u308b\u3060\u308d\u3046\u3002",
+                "english": "A tour guide will know interesting information that will help you enjoy the trip.",
+                "en_audio": "",
+                "kana": "\u30c4\u30a2\u30fc\u30ac\u30a4\u30c9\u306f\u3001\u3042\u306a\u305f\u306e\u308a\u3087\u3053\u3046\u3092\u305f\u306e\u3057\u304f\u3059\u308b\u304d\u3087\u3046\u307f\u3076\u304b\u3044\u3058\u3087\u3046\u307b\u3046\u3092\u3057\u3063\u3066\u3044\u308b\u3060\u308d\u3046\u3002",
+                "romaji": "Tsu\u0101 gaido wa, anata no ryok\u014d o tanoshiku suru ky\u014dmibukai j\u014dh\u014d o shitte iru dar\u014d."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206727.mp3",
+                "text": "\u30c4\u30a2\u30fc\u30ac\u30a4\u30c9\u304c\u56e3\u4f53\u5ba2\u3092\u6848\u5185\u3057\u3066\u3044\u308b\u3002",
+                "english": "The tour guide is conducting a tour.",
+                "en_audio": "",
+                "kana": "\u30c4\u30a2\u30fc\u30ac\u30a4\u30c9\u304c\u3060\u3093\u305f\u3044\u304d\u3083\u304f\u3092\u3042\u3093\u306a\u3044\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Tsu\u0101 gaido ga dantai kyaku o annai shite iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206729.mp3",
+                "text": "\u30c4\u30a2\u30fc\u30ac\u30a4\u30c9\u3092\u96c7\u3046",
+                "english": "hire a tour guide",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86582.mp3",
+                "kana": "\u30c4\u30a2\u30fc\u30ac\u30a4\u30c9\u3092\u3084\u3068\u3046",
+                "romaji": "tsu\u0101 gaido o yatou"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206728.mp3",
+                "text": "\u30c4\u30a2\u30fc\u30ac\u30a4\u30c9\u306f\u3001\u3042\u306a\u305f\u306e\u65c5\u884c\u3092\u697d\u3057\u304f\u3059\u308b\u8208\u5473\u6df1\u3044\u60c5\u5831\u3092\u77e5\u3063\u3066\u3044\u308b\u3060\u308d\u3046\u3002",
+                "english": "A tour guide will know interesting information that will help you enjoy the trip.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86579.mp3",
+                "kana": "\u30c4\u30a2\u30fc\u30ac\u30a4\u30c9\u306f\u3001\u3042\u306a\u305f\u306e\u308a\u3087\u3053\u3046\u3092\u305f\u306e\u3057\u304f\u3059\u308b\u304d\u3087\u3046\u307f\u3076\u304b\u3044\u3058\u3087\u3046\u307b\u3046\u3092\u3057\u3063\u3066\u3044\u308b\u3060\u308d\u3046\u3002",
+                "romaji": "Tsu\u0101 gaido wa, anata no ryok\u014d o tanoshiku suru ky\u014dmibukai j\u014dh\u014d o shitte iru dar\u014d."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206727.mp3",
+                "text": "\u30c4\u30a2\u30fc\u30ac\u30a4\u30c9\u304c\u56e3\u4f53\u5ba2\u3092\u6848\u5185\u3057\u3066\u3044\u308b\u3002",
+                "english": "The tour guide is conducting a tour.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86581.mp3",
+                "kana": "\u30c4\u30a2\u30fc\u30ac\u30a4\u30c9\u304c\u3060\u3093\u305f\u3044\u304d\u3083\u304f\u3092\u3042\u3093\u306a\u3044\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Tsu\u0101 gaido ga dantai kyaku o annai shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206726.mp3",
+                "text": "\u77e5\u8b58\u306e\u8c4a\u5bcc\u306a\u30c4\u30a2\u30fc\u30ac\u30a4\u30c9",
+                "english": "knowledgeable tour guide",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86580.mp3",
+                "kana": "\u3061\u3057\u304d\u306e\u307b\u3046\u3075\u306a\u30c4\u30a2\u30fc\u30ac\u30a4\u30c9",
+                "romaji": "chishiki no h\u014dfu na tsu\u0101 gaido"
+            }
+        ]
+    },
+    {
+        "img": "9220",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251272.mp3",
+        "class": "noun",
+        "english": "reservation",
+        "flashcardId": "2151530",
+        "meaning": "reservation (noun) - an arrangement which you make so that a place in a hotel, restaurant, plane etc is kept for you at a particular time in the future",
+        "id": "32805",
+        "word": "\u4e88\u7d04",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85563.mp3",
+        "kana": "\u3088\u3084\u304f",
+        "romaji": "yoyaku",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251275.mp3",
+                "text": "\u516b\u6642\u306e\u4e88\u7d04",
+                "english": "reservation for 8 PM",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253500.mp3",
+                "kana": "\u306f\u3061\u3058\u306e\u3088\u3084\u304f",
+                "romaji": "hachi-ji no yoyaku"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251273.mp3",
+                "text": "\u4e09\u4eba\u5206\u306e\u4e88\u7d04",
+                "english": "reservation for three",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85564.mp3",
+                "kana": "\u3055\u3093\u306b\u3093\u3076\u3093\u306e\u3088\u3084\u304f",
+                "romaji": "san-nin-bun no yoyaku"
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251275.mp3",
+                "text": "\u516b\u6642\u306e\u4e88\u7d04",
+                "english": "reservation for 8 PM",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253500.mp3",
+                "kana": "\u306f\u3061\u3058\u306e\u3088\u3084\u304f",
+                "romaji": "hachi-ji no yoyaku"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251273.mp3",
+                "text": "\u4e09\u4eba\u5206\u306e\u4e88\u7d04",
+                "english": "reservation for three",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85564.mp3",
+                "kana": "\u3055\u3093\u306b\u3093\u3076\u3093\u306e\u3088\u3084\u304f",
+                "romaji": "san-nin-bun no yoyaku"
+            }
+        ]
+    },
+    {
+        "img": "20554",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206744.mp3",
+        "class": "noun",
+        "english": "passport",
+        "flashcardId": "223927",
+        "meaning": "passport (noun) - a small official document that you get from your government, that proves who you are, and which you need in order to leave your country and enter other countries",
+        "id": "453",
+        "word": "\u30d1\u30b9\u30dd\u30fc\u30c8",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86666.mp3",
+        "kana": "\u30d1\u30b9\u30dd\u30fc\u30c8",
+        "romaji": "pasup\u014dto",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206746.mp3",
+                "text": "\u30a2\u30e1\u30ea\u30ab\u4eba\u306e\u30d1\u30b9\u30dd\u30fc\u30c8",
+                "english": "American passport",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86884.mp3",
+                "kana": "\u30a2\u30e1\u30ea\u30ab\u3058\u3093\u306e\u30d1\u30b9\u30dd\u30fc\u30c8",
+                "romaji": "Amerika-jin no pasup\u014dto"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206745.mp3",
+                "text": "\u30d1\u30b9\u30dd\u30fc\u30c8\u306e\u30b9\u30bf\u30f3\u30d7",
+                "english": "passport stamp",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86883.mp3",
+                "kana": "\u30d1\u30b9\u30dd\u30fc\u30c8\u306e\u30b9\u30bf\u30f3\u30d7",
+                "romaji": "pasup\u014dto no sutanpu"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206748.mp3",
+                "text": "\u30d1\u30b9\u30dd\u30fc\u30c8\u3068\u642d\u4e57\u5238\u3092\u304a\u9858\u3044\u3057\u307e\u3059\u3002",
+                "english": "Passport and ticket, please.",
+                "en_audio": "",
+                "kana": "\u30d1\u30b9\u30dd\u30fc\u30c8\u3068\u3068\u3046\u3058\u3087\u3046\u3051\u3093\u3092\u304a\u306d\u304c\u3044\u3057\u307e\u3059\u3002",
+                "romaji": "Pasup\u014dto to t\u014dj\u014dken o o-negai shimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206747.mp3",
+                "text": "\u30d1\u30b9\u30dd\u30fc\u30c8\u3092\u6301\u3063\u3066\u3044\u307e\u3059\u304b\uff1f",
+                "english": "Do you have a passport?",
+                "en_audio": "",
+                "kana": "\u30d1\u30b9\u30dd\u30fc\u30c8\u3092\u3082\u3063\u3066\u3044\u307e\u3059\u304b\uff1f",
+                "romaji": "Pasup\u014dto o motte imasu ka?"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251734.mp3",
+                "text": "\u30d1\u30b9\u30dd\u30fc\u30c8\u3092\u6301\u3063\u3066\u3044\u307e\u3059\u3002",
+                "english": "I have a passport.",
+                "en_audio": "",
+                "kana": "\u30d1\u30b9\u30dd\u30fc\u30c8\u3092\u3082\u3063\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Pasup\u014dto o motte imasu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206748.mp3",
+                "text": "\u30d1\u30b9\u30dd\u30fc\u30c8\u3068\u642d\u4e57\u5238\u3092\u304a\u9858\u3044\u3057\u307e\u3059\u3002",
+                "english": "Passport and ticket, please.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253609.mp3",
+                "kana": "\u30d1\u30b9\u30dd\u30fc\u30c8\u3068\u3068\u3046\u3058\u3087\u3046\u3051\u3093\u3092\u304a\u306d\u304c\u3044\u3057\u307e\u3059\u3002",
+                "romaji": "Pasup\u014dto to t\u014dj\u014dken o o-negai shimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206747.mp3",
+                "text": "\u30d1\u30b9\u30dd\u30fc\u30c8\u3092\u6301\u3063\u3066\u3044\u307e\u3059\u304b\uff1f",
+                "english": "Do you have a passport?",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/67936.mp3",
+                "kana": "\u30d1\u30b9\u30dd\u30fc\u30c8\u3092\u3082\u3063\u3066\u3044\u307e\u3059\u304b\uff1f",
+                "romaji": "Pasup\u014dto o motte imasu ka?"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206746.mp3",
+                "text": "\u30a2\u30e1\u30ea\u30ab\u4eba\u306e\u30d1\u30b9\u30dd\u30fc\u30c8",
+                "english": "American passport",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86884.mp3",
+                "kana": "\u30a2\u30e1\u30ea\u30ab\u3058\u3093\u306e\u30d1\u30b9\u30dd\u30fc\u30c8",
+                "romaji": "Amerika-jin no pasup\u014dto"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206745.mp3",
+                "text": "\u30d1\u30b9\u30dd\u30fc\u30c8\u306e\u30b9\u30bf\u30f3\u30d7",
+                "english": "passport stamp",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86883.mp3",
+                "kana": "\u30d1\u30b9\u30dd\u30fc\u30c8\u306e\u30b9\u30bf\u30f3\u30d7",
+                "romaji": "pasup\u014dto no sutanpu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251734.mp3",
+                "text": "\u30d1\u30b9\u30dd\u30fc\u30c8\u3092\u6301\u3063\u3066\u3044\u307e\u3059\u3002",
+                "english": "I have a passport.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263118.mp3",
+                "kana": "\u30d1\u30b9\u30dd\u30fc\u30c8\u3092\u3082\u3063\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Pasup\u014dto o motte imasu."
+            }
+        ]
+    },
+    {
+        "img": "21852",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1006362.mp3",
+        "class": "noun",
+        "english": "information",
+        "flashcardId": "2407902",
+        "meaning": "information (noun) - an office, station, service, or employee whose function is to provide information",
+        "id": "196457",
+        "word": "\u6848\u5185\u6240",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90751.mp3",
+        "kana": "\u3042\u3093\u306a\u3044\u3058\u3087",
+        "romaji": "annaijo"
+    },
+    {
+        "img": "21860",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1999.mp3",
+        "class": "noun",
+        "english": "farmer",
+        "flashcardId": "2320626",
+        "meaning": "farmer (noun) - a person who owns or manages a farm",
+        "id": "1208",
+        "word": "\u8fb2\u5bb6",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/306135.mp3",
+        "kana": "\u306e\u3046\u304b",
+        "romaji": "n\u014dka",
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206692.mp3",
+                "text": "\u8fb2\u5bb6\u306e\u4eba\u306f\u3001\u65e5\u306e\u51fa\u304b\u3089\u65e5\u6ca1\u307e\u3067\u4f11\u307f\u306a\u304f\u50cd\u304f\u3002",
+                "english": "A farmer works from sunrise to sunset without a break.",
+                "en_audio": "",
+                "kana": "\u306e\u3046\u304b\u306e\u3072\u3068\u306f\u3001\u3072\u306e\u3067\u304b\u3089\u306b\u3061\u307c\u3064\u307e\u3067\u3084\u3059\u307f\u306a\u304f\u306f\u305f\u3089\u304f\u3002",
+                "romaji": "N\u014dka no hito wa, hinode kara nichibotsu made yasumi naku hataraku."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206692.mp3",
+                "text": "\u8fb2\u5bb6\u306e\u4eba\u306f\u3001\u65e5\u306e\u51fa\u304b\u3089\u65e5\u6ca1\u307e\u3067\u4f11\u307f\u306a\u304f\u50cd\u304f\u3002",
+                "english": "A farmer works from sunrise to sunset without a break.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2195.mp3",
+                "kana": "\u306e\u3046\u304b\u306e\u3072\u3068\u306f\u3001\u3072\u306e\u3067\u304b\u3089\u306b\u3061\u307c\u3064\u307e\u3067\u3084\u3059\u307f\u306a\u304f\u306f\u305f\u3089\u304f\u3002",
+                "romaji": "N\u014dka no hito wa, hinode kara nichibotsu made yasumi naku hataraku."
+            }
+        ]
+    },
+    {
+        "img": "17424",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1179728.mp3",
+        "class": "noun",
+        "english": "secretary",
+        "flashcardId": "1786029",
+        "meaning": "secretary",
+        "id": "1216",
+        "word": "\u79d8\u66f8",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/88512.mp3",
+        "kana": "\u3072\u3057\u3087",
+        "romaji": "hisho",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227334.mp3",
+                "text": "\u5fd9\u3057\u305d\u3046\u306a\u79d8\u66f8",
+                "english": "busy secretary",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254010.mp3",
+                "kana": "\u3044\u305d\u304c\u3057\u305d\u3046\u306a\u3072\u3057\u3087",
+                "romaji": "isogashi s\u014d na hisho"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1342520.mp3",
+                "text": "\u79d8\u66f8\u306e\u65e5",
+                "english": "Secretary's Day",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2220.mp3",
+                "kana": "\u3072\u3057\u3087\u306e\u306b\u3061",
+                "romaji": "hisho no hi"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227333.mp3",
+                "text": "\u79d8\u66f8\u306f\u96fb\u8a71\u4e2d\u3067\u3059\u3002",
+                "english": "The secretary is on the phone.",
+                "en_audio": "",
+                "kana": "\u3072\u3057\u3087\u306f\u3067\u3093\u308f\u3061\u3085\u3046\u3067\u3059\u3002",
+                "romaji": "Hisho wa denwa ch\u016b desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1342521.mp3",
+                "text": "\u79c1\u306e\u79d8\u66f8\u306f\u3001\u307e\u3081\u3067\u3053\u307e\u304b\u3044\u3002",
+                "english": "My secretary is organized and detailed.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306e\u3072\u3057\u3087\u306f\u3001\u307e\u3081\u3067\u3053\u307e\u304b\u3044\u3002",
+                "romaji": "Watashi no hisho wa, mame de komakai."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227334.mp3",
+                "text": "\u5fd9\u3057\u305d\u3046\u306a\u79d8\u66f8",
+                "english": "busy secretary",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254010.mp3",
+                "kana": "\u3044\u305d\u304c\u3057\u305d\u3046\u306a\u3072\u3057\u3087",
+                "romaji": "isogashi s\u014d na hisho"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227333.mp3",
+                "text": "\u79d8\u66f8\u306f\u96fb\u8a71\u4e2d\u3067\u3059\u3002",
+                "english": "The secretary is on the phone.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254009.mp3",
+                "kana": "\u3072\u3057\u3087\u306f\u3067\u3093\u308f\u3061\u3085\u3046\u3067\u3059\u3002",
+                "romaji": "Hisho wa denwa ch\u016b desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1342521.mp3",
+                "text": "\u79c1\u306e\u79d8\u66f8\u306f\u3001\u307e\u3081\u3067\u3053\u307e\u304b\u3044\u3002",
+                "english": "My secretary is organized and detailed.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2219.mp3",
+                "kana": "\u308f\u305f\u3057\u306e\u3072\u3057\u3087\u306f\u3001\u307e\u3081\u3067\u3053\u307e\u304b\u3044\u3002",
+                "romaji": "Watashi no hisho wa, mame de komakai."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1342520.mp3",
+                "text": "\u79d8\u66f8\u306e\u65e5",
+                "english": "Secretary's Day",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2220.mp3",
+                "kana": "\u3072\u3057\u3087\u306e\u306b\u3061",
+                "romaji": "hisho no hi"
+            }
+        ]
+    },
+    {
+        "img": "8691",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206763.mp3",
+        "class": "noun",
+        "english": "banker",
+        "flashcardId": "2320643",
+        "meaning": "banker",
+        "id": "28998",
+        "word": "\u9280\u884c\u54e1",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2250.mp3",
+        "kana": "\u304e\u3093\u3053\u3046\u3044\u3093",
+        "romaji": "gink\u014din",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206764.mp3",
+                "text": "\u304c\u3081\u3064\u3044\u9280\u884c\u54e1",
+                "english": "greedy banker",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2253.mp3",
+                "kana": "\u304c\u3081\u3064\u3044\u304e\u3093\u3053\u3046\u3044\u3093",
+                "romaji": "gametsui gink\u014din"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206765.mp3",
+                "text": "\u79c1\u306f\u3001\u4f4f\u5b85\u30ed\u30fc\u30f3\u3092\u53d7\u3051\u308b\u524d\u306b\u3001\u5341\u4eba\u306e\u9280\u884c\u54e1\u3068\u4f1a\u3044\u307e\u3057\u305f\u3002",
+                "english": "I met with 10 bankers before I received a loan to buy a house.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306f\u3001\u3058\u3085\u3046\u305f\u304f\u30ed\u30fc\u30f3\u3092\u3046\u3051\u308b\u307e\u3048\u306b\u3001\u3058\u3085\u3046\u306b\u3093\u306e\u304e\u3093\u3053\u3046\u3044\u3093\u3068\u3042\u3044\u307e\u3057\u305f\u3002",
+                "romaji": "Watasi wa, j\u016btaku r\u014dn o ukeru mae ni, j\u016b-nin no gink\u014din to aimashita."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206765.mp3",
+                "text": "\u79c1\u306f\u3001\u4f4f\u5b85\u30ed\u30fc\u30f3\u3092\u53d7\u3051\u308b\u524d\u306b\u3001\u5341\u4eba\u306e\u9280\u884c\u54e1\u3068\u4f1a\u3044\u307e\u3057\u305f\u3002",
+                "english": "I met with 10 bankers before I received a loan to buy a house.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2254.mp3",
+                "kana": "\u308f\u305f\u3057\u306f\u3001\u3058\u3085\u3046\u305f\u304f\u30ed\u30fc\u30f3\u3092\u3046\u3051\u308b\u307e\u3048\u306b\u3001\u3058\u3085\u3046\u306b\u3093\u306e\u304e\u3093\u3053\u3046\u3044\u3093\u3068\u3042\u3044\u307e\u3057\u305f\u3002",
+                "romaji": "Watasi wa, j\u016btaku r\u014dn o ukeru mae ni, j\u016b-nin no gink\u014din to aimashita."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206764.mp3",
+                "text": "\u304c\u3081\u3064\u3044\u9280\u884c\u54e1",
+                "english": "greedy banker",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2253.mp3",
+                "kana": "\u304c\u3081\u3064\u3044\u304e\u3093\u3053\u3046\u3044\u3093",
+                "romaji": "gametsui gink\u014din"
+            }
+        ]
+    },
+    {
+        "img": "21862",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206766.mp3",
+        "class": "noun",
+        "english": "writer",
+        "flashcardId": "223931",
+        "meaning": "author (noun) - someone who has written a book; writer (noun) - someone who writes books, stories etc, especially as a job",
+        "id": "28999",
+        "word": "\u4f5c\u5bb6",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2255.mp3",
+        "kana": "\u3055\u3063\u304b",
+        "romaji": "sakka",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206771.mp3",
+                "text": "\u673a\u306b\u5411\u304b\u3063\u3066\u3044\u308b\u4f5c\u5bb6",
+                "english": "writer at her desk",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263204.mp3",
+                "kana": "\u3064\u304f\u3048\u306b\u3080\u304b\u3063\u3066\u3044\u308b\u3055\u3063\u304b",
+                "romaji": "tsukue ni mukatte iru sakka"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206767.mp3",
+                "text": "\u6709\u540d\u306a\u4f5c\u5bb6",
+                "english": "famous writer",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2258.mp3",
+                "kana": "\u3086\u3046\u3081\u3044\u306a\u3055\u3063\u304b",
+                "romaji": "y\u016bmei na sakka"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206770.mp3",
+                "text": "\u4f5c\u5bb6\u304c\u7d19\u306b\u8a71\u306e\u6982\u8981\u3092\u66f8\u3044\u3066\u3044\u308b\u3002",
+                "english": "The writer is outlining a story on paper.",
+                "en_audio": "",
+                "kana": "\u3055\u3063\u304b\u304c\u304b\u307f\u306b\u306f\u306a\u3057\u306e\u304c\u3044\u3088\u3046\u3092\u304b\u3044\u3066\u3044\u308b\u3002",
+                "romaji": "Sakka wa kami ni hanashi no gaiy\u014d o kaite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206769.mp3",
+                "text": "\u5f7c\u5973\u306f\u79c1\u306e\u597d\u304d\u306a\u4f5c\u5bb6\u3067\u3059\u3002\u5f7c\u5973\u306e\u672c\u306f\u3068\u3066\u3082\u611f\u52d5\u7684\u3060\u304b\u3089\u3067\u3059\u3002",
+                "english": "She is my favorite writer, because her books are so moving.",
+                "en_audio": "",
+                "kana": "\u304b\u306e\u3058\u3087\u306f\u308f\u305f\u3057\u306e\u3059\u304d\u306a\u3055\u3063\u304b\u3067\u3059\u3002\u304b\u306e\u3058\u3087\u306e\u307b\u3093\u306f\u3068\u3066\u3082\u304b\u3093\u3069\u3046\u3066\u304d\u3060\u304b\u3089\u3067\u3059\u3002",
+                "romaji": "Kanojo wa watashi no suki na sakka desu. Kanojo no hon wa totemo kand\u014d-teki da kara desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206768.mp3",
+                "text": "\u79c1\u306f\u6b6f\u79d1\u533b\u3068\u3057\u3066\u50cd\u3044\u3066\u3044\u308b\u304c\u3001\u672c\u5f53\u306f\u4f5c\u5bb6\u306b\u306a\u308a\u305f\u3044\u3002",
+                "english": "I work as a dentist, but I really want to be a writer.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306f\u3057\u304b\u3044\u3068\u3057\u3066\u306f\u305f\u3089\u3044\u3066\u3044\u308b\u304c\u3001\u307b\u3093\u3068\u3046\u306f\u3055\u3063\u304b\u306b\u306a\u308a\u305f\u3044\u3002",
+                "romaji": "Watashi wa shikai to shite hataraite iru ga, hont\u014d wa sakka ni naritai."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206771.mp3",
+                "text": "\u673a\u306b\u5411\u304b\u3063\u3066\u3044\u308b\u4f5c\u5bb6",
+                "english": "writer at her desk",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263204.mp3",
+                "kana": "\u3064\u304f\u3048\u306b\u3080\u304b\u3063\u3066\u3044\u308b\u3055\u3063\u304b",
+                "romaji": "tsukue ni mukatte iru sakka"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206770.mp3",
+                "text": "\u4f5c\u5bb6\u304c\u7d19\u306b\u8a71\u306e\u6982\u8981\u3092\u66f8\u3044\u3066\u3044\u308b\u3002",
+                "english": "The writer is outlining a story on paper.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263203.mp3",
+                "kana": "\u3055\u3063\u304b\u304c\u304b\u307f\u306b\u306f\u306a\u3057\u306e\u304c\u3044\u3088\u3046\u3092\u304b\u3044\u3066\u3044\u308b\u3002",
+                "romaji": "Sakka wa kami ni hanashi no gaiy\u014d o kaite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206769.mp3",
+                "text": "\u5f7c\u5973\u306f\u79c1\u306e\u597d\u304d\u306a\u4f5c\u5bb6\u3067\u3059\u3002\u5f7c\u5973\u306e\u672c\u306f\u3068\u3066\u3082\u611f\u52d5\u7684\u3060\u304b\u3089\u3067\u3059\u3002",
+                "english": "She is my favorite writer, because her books are so moving.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2260.mp3",
+                "kana": "\u304b\u306e\u3058\u3087\u306f\u308f\u305f\u3057\u306e\u3059\u304d\u306a\u3055\u3063\u304b\u3067\u3059\u3002\u304b\u306e\u3058\u3087\u306e\u307b\u3093\u306f\u3068\u3066\u3082\u304b\u3093\u3069\u3046\u3066\u304d\u3060\u304b\u3089\u3067\u3059\u3002",
+                "romaji": "Kanojo wa watashi no suki na sakka desu. Kanojo no hon wa totemo kand\u014d-teki da kara desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206768.mp3",
+                "text": "\u79c1\u306f\u6b6f\u79d1\u533b\u3068\u3057\u3066\u50cd\u3044\u3066\u3044\u308b\u304c\u3001\u672c\u5f53\u306f\u4f5c\u5bb6\u306b\u306a\u308a\u305f\u3044\u3002",
+                "english": "I work as a dentist, but I really want to be a writer.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2259.mp3",
+                "kana": "\u308f\u305f\u3057\u306f\u3057\u304b\u3044\u3068\u3057\u3066\u306f\u305f\u3089\u3044\u3066\u3044\u308b\u304c\u3001\u307b\u3093\u3068\u3046\u306f\u3055\u3063\u304b\u306b\u306a\u308a\u305f\u3044\u3002",
+                "romaji": "Watashi wa shikai to shite hataraite iru ga, hont\u014d wa sakka ni naritai."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206767.mp3",
+                "text": "\u6709\u540d\u306a\u4f5c\u5bb6",
+                "english": "famous writer",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2258.mp3",
+                "kana": "\u3086\u3046\u3081\u3044\u306a\u3055\u3063\u304b",
+                "romaji": "y\u016bmei na sakka"
+            }
+        ]
+    },
+    {
+        "img": "8324",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1179729.mp3",
+        "class": "noun",
+        "english": "designer",
+        "flashcardId": "2320341",
+        "meaning": "a person who devises or executes designs: graphic, interior, fashion, etc.",
+        "id": "8009",
+        "word": "\u30c7\u30b6\u30a4\u30ca\u30fc",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2261.mp3",
+        "kana": "\u30c7\u30b6\u30a4\u30ca\u30fc",
+        "romaji": "dezain\u0101",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206772.mp3",
+                "text": "\u30a4\u30f3\u30c6\u30ea\u30a2\u30c7\u30b6\u30a4\u30ca\u30fc",
+                "english": "interior designer",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2264.mp3",
+                "kana": "\u30a4\u30f3\u30c6\u30ea\u30a2\u30c7\u30b6\u30a4\u30ca\u30fc",
+                "romaji": "interia dezain\u0101"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206773.mp3",
+                "text": "\u30c7\u30b6\u30a4\u30ca\u30fc\u306b\u306f\u3001\u3044\u308d\u3044\u308d\u306a\u7a2e\u985e\u304c\u3042\u308b\u304c\u3001\u79c1\u306f\u30d5\u30a1\u30c3\u30b7\u30e7\u30f3\u30c7\u30b6\u30a4\u30ca\u30fc\u3060\u3002",
+                "english": "There are many kinds of designers, but I'm a fashion designer.",
+                "en_audio": "",
+                "kana": "\u30c7\u30b6\u30a4\u30ca\u30fc\u306b\u306f\u3001\u3044\u308d\u3044\u308d\u306a\u3057\u3085\u308b\u3044\u304c\u3042\u308b\u304c\u3001\u308f\u305f\u3057\u306f\u30d5\u30a1\u30c3\u30b7\u30e7\u30f3\u30c7\u30b6\u30a4\u30ca\u30fc\u3060\u3002",
+                "romaji": "Dezain\u0101 ni wa, iroiro na shurui ga aru ga, watashi wa fasshon dezain\u0101 da."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206773.mp3",
+                "text": "\u30c7\u30b6\u30a4\u30ca\u30fc\u306b\u306f\u3001\u3044\u308d\u3044\u308d\u306a\u7a2e\u985e\u304c\u3042\u308b\u304c\u3001\u79c1\u306f\u30d5\u30a1\u30c3\u30b7\u30e7\u30f3\u30c7\u30b6\u30a4\u30ca\u30fc\u3060\u3002",
+                "english": "There are many kinds of designers, but I'm a fashion designer.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2265.mp3",
+                "kana": "\u30c7\u30b6\u30a4\u30ca\u30fc\u306b\u306f\u3001\u3044\u308d\u3044\u308d\u306a\u3057\u3085\u308b\u3044\u304c\u3042\u308b\u304c\u3001\u308f\u305f\u3057\u306f\u30d5\u30a1\u30c3\u30b7\u30e7\u30f3\u30c7\u30b6\u30a4\u30ca\u30fc\u3060\u3002",
+                "romaji": "Dezain\u0101 ni wa, iroiro na shurui ga aru ga, watashi wa fasshon dezain\u0101 da."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206772.mp3",
+                "text": "\u30a4\u30f3\u30c6\u30ea\u30a2\u30c7\u30b6\u30a4\u30ca\u30fc",
+                "english": "interior designer",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2264.mp3",
+                "kana": "\u30a4\u30f3\u30c6\u30ea\u30a2\u30c7\u30b6\u30a4\u30ca\u30fc",
+                "romaji": "interia dezain\u0101"
+            }
+        ]
+    },
+    {
+        "img": "21858",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271770.mp3",
+        "class": "noun",
+        "english": "artist",
+        "flashcardId": "2320600",
+        "meaning": "artist",
+        "id": "15334",
+        "word": "\u82b8\u8853\u5bb6",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263205.mp3",
+        "kana": "\u3052\u3044\u3058\u3085\u3064\u304b",
+        "romaji": "geijutsuka",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201892.mp3",
+                "text": "\u6709\u80fd\u306a\u82b8\u8853\u5bb6",
+                "english": "talented artist",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263207.mp3",
+                "kana": "\u3086\u3046\u306e\u3046\u306a\u3052\u3044\u3058\u3085\u3064\u304b",
+                "romaji": "y\u016bn\u014d na geijutsuka"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201888.mp3",
+                "text": "\u82b8\u8853\u5bb6\u5fd7\u671b",
+                "english": "aspiring artist",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2269.mp3",
+                "kana": "\u3052\u3044\u3058\u3085\u3064\u304b\u3057\u307c\u3046",
+                "romaji": "geijutsuka shib\u014d"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201891.mp3",
+                "text": "\u305d\u306e\u82b8\u8853\u5bb6\u306f\u7d75\u3092\u63cf\u3044\u3066\u3044\u308b\u3002",
+                "english": "The artist is painting.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u3052\u3044\u3058\u3085\u3064\u304b\u306f\u3048\u3092\u3048\u304c\u3044\u3066\u3044\u308b\u3002",
+                "romaji": "Sono geijutsuka wa e o kaite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201890.mp3",
+                "text": "\u305d\u306e\u82b8\u8853\u5bb6\u306f\u3001\u7b46\u3067\u4e2d\u56fd\u306e\u6587\u5b57\u3092\u304b\u3044\u3066\u3044\u308b\u3002",
+                "english": "The artist is drawing Chinese characters with a writing brush.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u3052\u3044\u3058\u3085\u3064\u304b\u306f\u3001\u3075\u3067\u3067\u3061\u3085\u3046\u3054\u304f\u306e\u3082\u3058\u3092\u304b\u3044\u3066\u3044\u308b\u3002",
+                "romaji": "Sono geijutsuka wa, fude de Ch\u016bgoku no moji o kaite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201889.mp3",
+                "text": "\u82b8\u8853\u5bb6\u306f\u3001\u6210\u529f\u3092\u53ce\u3081\u308b\u307e\u3067\u306b\u9577\u3044\u671f\u9593\u82e6\u52b4\u3059\u308b\u4eba\u304c\u591a\u3044\u3002",
+                "english": "Many artists struggle for a long time before achieving success.",
+                "en_audio": "",
+                "kana": "\u3052\u3044\u3058\u3085\u3064\u304b\u306f\u3001\u305b\u3044\u3053\u3046\u3092\u304a\u3055\u3081\u308b\u307e\u3067\u306b\u306a\u304c\u3044\u304d\u304b\u3093\u304f\u308d\u3046\u3059\u308b\u3072\u3068\u304c\u304a\u304a\u3044\u3002",
+                "romaji": "Geijutsuka wa, seik\u014d o osameru made ni nagai kikan kur\u014d suru hito ga \u014di."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201892.mp3",
+                "text": "\u6709\u80fd\u306a\u82b8\u8853\u5bb6",
+                "english": "talented artist",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263207.mp3",
+                "kana": "\u3086\u3046\u306e\u3046\u306a\u3052\u3044\u3058\u3085\u3064\u304b",
+                "romaji": "y\u016bn\u014d na geijutsuka"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201891.mp3",
+                "text": "\u305d\u306e\u82b8\u8853\u5bb6\u306f\u7d75\u3092\u63cf\u3044\u3066\u3044\u308b\u3002",
+                "english": "The artist is painting.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263206.mp3",
+                "kana": "\u305d\u306e\u3052\u3044\u3058\u3085\u3064\u304b\u306f\u3048\u3092\u3048\u304c\u3044\u3066\u3044\u308b\u3002",
+                "romaji": "Sono geijutsuka wa e o kaite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201890.mp3",
+                "text": "\u305d\u306e\u82b8\u8853\u5bb6\u306f\u3001\u7b46\u3067\u4e2d\u56fd\u306e\u6587\u5b57\u3092\u304b\u3044\u3066\u3044\u308b\u3002",
+                "english": "The artist is drawing Chinese characters with a writing brush.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253765.mp3",
+                "kana": "\u305d\u306e\u3052\u3044\u3058\u3085\u3064\u304b\u306f\u3001\u3075\u3067\u3067\u3061\u3085\u3046\u3054\u304f\u306e\u3082\u3058\u3092\u304b\u3044\u3066\u3044\u308b\u3002",
+                "romaji": "Sono geijutsuka wa, fude de Ch\u016bgoku no moji o kaite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201889.mp3",
+                "text": "\u82b8\u8853\u5bb6\u306f\u3001\u6210\u529f\u3092\u53ce\u3081\u308b\u307e\u3067\u306b\u9577\u3044\u671f\u9593\u82e6\u52b4\u3059\u308b\u4eba\u304c\u591a\u3044\u3002",
+                "english": "Many artists struggle for a long time before achieving success.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1591274.mp3",
+                "kana": "\u3052\u3044\u3058\u3085\u3064\u304b\u306f\u3001\u305b\u3044\u3053\u3046\u3092\u304a\u3055\u3081\u308b\u307e\u3067\u306b\u306a\u304c\u3044\u304d\u304b\u3093\u304f\u308d\u3046\u3059\u308b\u3072\u3068\u304c\u304a\u304a\u3044\u3002",
+                "romaji": "Geijutsuka wa, seik\u014d o osameru made ni nagai kikan kur\u014d suru hito ga \u014di."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201888.mp3",
+                "text": "\u82b8\u8853\u5bb6\u5fd7\u671b",
+                "english": "aspiring artist",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2269.mp3",
+                "kana": "\u3052\u3044\u3058\u3085\u3064\u304b\u3057\u307c\u3046",
+                "romaji": "geijutsuka shib\u014d"
+            }
+        ]
+    },
+    {
+        "img": "19894",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206774.mp3",
+        "class": "noun",
+        "english": "soldier",
+        "flashcardId": "2320417",
+        "meaning": "soldier (noun) - a member of the army of a country, especially someone who is not an officer",
+        "id": "29000",
+        "word": "\u5175\u58eb",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2271.mp3",
+        "kana": "\u3078\u3044\u3057",
+        "romaji": "heishi",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206778.mp3",
+                "text": "\u6226\u95d8\u6e96\u5099\u614b\u52e2\u306b\u5165\u3063\u305f\u5175\u58eb",
+                "english": "combat ready soldiers",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263209.mp3",
+                "kana": "\u305b\u3093\u3068\u3046\u3058\u3085\u3093\u3073\u305f\u3044\u305b\u3044\u306b\u306f\u3044\u3063\u305f\u3078\u3044\u3057",
+                "romaji": "sent\u014d junbi taisei ni haitta heishi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206775.mp3",
+                "text": "\u9678\u8ecd\u5175\u58eb",
+                "english": "army soldier",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2274.mp3",
+                "kana": "\u308a\u304f\u3050\u3093\u3078\u3044\u3057",
+                "romaji": "rikugun heishi"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206777.mp3",
+                "text": "\u5175\u58eb\u9054\u304c\u6301\u3061\u5834\u306b\u79fb\u52d5\u3057\u3066\u3044\u308b\u3002",
+                "english": "The soldiers are moving into position.",
+                "en_audio": "",
+                "kana": "\u3078\u3044\u3057\u305f\u3061\u304c\u3082\u3061\u3070\u306b\u3044\u3069\u3046\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Heishi-tachi ga mochiba ni id\u014d shite iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206778.mp3",
+                "text": "\u6226\u95d8\u6e96\u5099\u614b\u52e2\u306b\u5165\u3063\u305f\u5175\u58eb",
+                "english": "combat ready soldiers",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263209.mp3",
+                "kana": "\u305b\u3093\u3068\u3046\u3058\u3085\u3093\u3073\u305f\u3044\u305b\u3044\u306b\u306f\u3044\u3063\u305f\u3078\u3044\u3057",
+                "romaji": "sent\u014d junbi taisei ni haitta heishi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206777.mp3",
+                "text": "\u5175\u58eb\u9054\u304c\u6301\u3061\u5834\u306b\u79fb\u52d5\u3057\u3066\u3044\u308b\u3002",
+                "english": "The soldiers are moving into position.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263208.mp3",
+                "kana": "\u3078\u3044\u3057\u305f\u3061\u304c\u3082\u3061\u3070\u306b\u3044\u3069\u3046\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Heishi-tachi ga mochiba ni id\u014d shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206775.mp3",
+                "text": "\u9678\u8ecd\u5175\u58eb",
+                "english": "army soldier",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2274.mp3",
+                "kana": "\u308a\u304f\u3050\u3093\u3078\u3044\u3057",
+                "romaji": "rikugun heishi"
+            }
+        ]
+    },
+    {
+        "img": "21863",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206779.mp3",
+        "class": "noun",
+        "english": "entrepreneur",
+        "flashcardId": "2320621",
+        "meaning": "entrepreneur",
+        "id": "29001",
+        "word": "\u8d77\u696d\u5bb6",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2276.mp3",
+        "kana": "\u304d\u304e\u3087\u3046\u304b",
+        "romaji": "kigy\u014dka",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206780.mp3",
+                "text": "\u8d77\u696d\u5bb6\u306e\u751f\u6d3b",
+                "english": "entrepreneur lifestyle",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2279.mp3",
+                "kana": "\u304d\u304e\u3087\u3046\u304b\u306e\u305b\u3044\u304b\u3064",
+                "romaji": "kigy\u014dka no seikatsu"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206781.mp3",
+                "text": "\u8d77\u696d\u5bb6\u306f\u3001\u81ea\u5206\u9054\u306e\u30a2\u30a4\u30c7\u30a2\u3067\u4e16\u754c\u3092\u5909\u3048\u308b\u3002",
+                "english": "Entrepreneurs change the world with their ideas.",
+                "en_audio": "",
+                "kana": "\u304d\u304e\u3087\u3046\u304b\u306f\u3001\u3058\u3076\u3093\u305f\u3061\u306e\u30a2\u30a4\u30c7\u30a2\u3067\u305b\u304b\u3044\u3092\u304b\u3048\u308b\u3002",
+                "romaji": "Kigy\u014dka wa, jibun-tachi no aidea de, sekai o kaeru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206781.mp3",
+                "text": "\u8d77\u696d\u5bb6\u306f\u3001\u81ea\u5206\u9054\u306e\u30a2\u30a4\u30c7\u30a2\u3067\u4e16\u754c\u3092\u5909\u3048\u308b\u3002",
+                "english": "Entrepreneurs change the world with their ideas.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2280.mp3",
+                "kana": "\u304d\u304e\u3087\u3046\u304b\u306f\u3001\u3058\u3076\u3093\u305f\u3061\u306e\u30a2\u30a4\u30c7\u30a2\u3067\u305b\u304b\u3044\u3092\u304b\u3048\u308b\u3002",
+                "romaji": "Kigy\u014dka wa, jibun-tachi no aidea de, sekai o kaeru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206780.mp3",
+                "text": "\u8d77\u696d\u5bb6\u306e\u751f\u6d3b",
+                "english": "entrepreneur lifestyle",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2279.mp3",
+                "kana": "\u304d\u304e\u3087\u3046\u304b\u306e\u305b\u3044\u304b\u3064",
+                "romaji": "kigy\u014dka no seikatsu"
+            }
+        ]
+    },
+    {
+        "img": "21859",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206783.mp3",
+        "class": "noun",
+        "english": "construction worker",
+        "flashcardId": "2320474",
+        "meaning": "construction worker",
+        "id": "29002",
+        "word": "\u5efa\u8a2d\u4f5c\u696d\u54e1",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2281.mp3",
+        "kana": "\u3051\u3093\u305b\u3064\u3055\u304e\u3087\u3046\u3044\u3093",
+        "romaji": "kensetsu sagy\u014din",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206787.mp3",
+                "text": "\u4f5c\u696d\u4e2d\u306e\u5efa\u8a2d\u4f5c\u696d\u54e1",
+                "english": "construction worker on the job",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263211.mp3",
+                "kana": "\u3055\u304e\u3087\u3046\u3061\u3085\u3046\u306e\u3051\u3093\u305b\u3064\u3055\u304e\u3087\u3046\u3044\u3093",
+                "romaji": "sagy\u014d ch\u016b no kensetsu sagy\u014din"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206784.mp3",
+                "text": "\u5931\u696d\u3057\u305f\u5efa\u8a2d\u4f5c\u696d\u54e1",
+                "english": "unemployed construction worker",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2284.mp3",
+                "kana": "\u3057\u3064\u304e\u3087\u3046\u3057\u305f\u3051\u3093\u305b\u3064\u3055\u304e\u3087\u3046\u3044\u3093",
+                "romaji": "shitsugy\u014d shita kensetsu sagy\u014din"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206786.mp3",
+                "text": "\u5efa\u8a2d\u4f5c\u696d\u54e1\u304c\u6728\u306e\u9577\u3055\u3092\u8a08\u3063\u3066\u3044\u308b\u3002",
+                "english": "The construction worker is measuring wood.",
+                "en_audio": "",
+                "kana": "\u3051\u3093\u305b\u3064\u3055\u304e\u3087\u3046\u3044\u3093\u304c\u304d\u306e\u306a\u304c\u3055\u3092\u306f\u304b\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Kensetsu sagy\u014din ga ki no naga-sa o hakatte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206785.mp3",
+                "text": "\u5efa\u8a2d\u4f5c\u696d\u54e1\u306f\u3001\u7d66\u6599\u306f\u9ad8\u3044\u304c\u3001\u3068\u3066\u3082\u5927\u5909\u306a\u4ed5\u4e8b\u3060\u3002",
+                "english": "You can earn a high salary as a construction worker, but it's really hard work.",
+                "en_audio": "",
+                "kana": "\u3051\u3093\u305b\u3064\u3055\u304e\u3087\u3046\u3044\u3093\u306f\u3001\u304d\u3085\u3046\u308a\u3087\u3046\u306f\u305f\u304b\u3044\u304c\u3001\u3068\u3066\u3082\u305f\u3044\u3078\u3093\u306a\u3057\u3054\u3068\u3060\u3002",
+                "romaji": "Kensetsu sagy\u014din wa, ky\u016bry\u014d wa takai ga, totemo taihen na shigoto da."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206787.mp3",
+                "text": "\u4f5c\u696d\u4e2d\u306e\u5efa\u8a2d\u4f5c\u696d\u54e1",
+                "english": "construction worker on the job",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263211.mp3",
+                "kana": "\u3055\u304e\u3087\u3046\u3061\u3085\u3046\u306e\u3051\u3093\u305b\u3064\u3055\u304e\u3087\u3046\u3044\u3093",
+                "romaji": "sagy\u014d ch\u016b no kensetsu sagy\u014din"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206786.mp3",
+                "text": "\u5efa\u8a2d\u4f5c\u696d\u54e1\u304c\u6728\u306e\u9577\u3055\u3092\u8a08\u3063\u3066\u3044\u308b\u3002",
+                "english": "The construction worker is measuring wood.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263210.mp3",
+                "kana": "\u3051\u3093\u305b\u3064\u3055\u304e\u3087\u3046\u3044\u3093\u304c\u304d\u306e\u306a\u304c\u3055\u3092\u306f\u304b\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Kensetsu sagy\u014din ga ki no naga-sa o hakatte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206785.mp3",
+                "text": "\u5efa\u8a2d\u4f5c\u696d\u54e1\u306f\u3001\u7d66\u6599\u306f\u9ad8\u3044\u304c\u3001\u3068\u3066\u3082\u5927\u5909\u306a\u4ed5\u4e8b\u3060\u3002",
+                "english": "You can earn a high salary as a construction worker, but it's really hard work.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2285.mp3",
+                "kana": "\u3051\u3093\u305b\u3064\u3055\u304e\u3087\u3046\u3044\u3093\u306f\u3001\u304d\u3085\u3046\u308a\u3087\u3046\u306f\u305f\u304b\u3044\u304c\u3001\u3068\u3066\u3082\u305f\u3044\u3078\u3093\u306a\u3057\u3054\u3068\u3060\u3002",
+                "romaji": "Kensetsu sagy\u014din wa, ky\u016bry\u014d wa takai ga, totemo taihen na shigoto da."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206784.mp3",
+                "text": "\u5931\u696d\u3057\u305f\u5efa\u8a2d\u4f5c\u696d\u54e1",
+                "english": "unemployed construction worker",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2284.mp3",
+                "kana": "\u3057\u3064\u304e\u3087\u3046\u3057\u305f\u3051\u3093\u305b\u3064\u3055\u304e\u3087\u3046\u3044\u3093",
+                "romaji": "shitsugy\u014d shita kensetsu sagy\u014din"
+            }
+        ]
+    },
+    {
+        "img": "21861",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206788.mp3",
+        "class": "noun",
+        "english": "homemaker",
+        "flashcardId": "2320391",
+        "meaning": "housewife (noun) - a married woman who works at home doing the cooking, cleaning etc, but does not have a job outside the house; homemaker",
+        "id": "29003",
+        "word": "\u4e3b\u5a66",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2286.mp3",
+        "kana": "\u3057\u3085\u3075",
+        "romaji": "shufu",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206789.mp3",
+                "text": "\u5c02\u696d\u4e3b\u5a66",
+                "english": "full-time homemaker",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2289.mp3",
+                "kana": "\u305b\u3093\u304e\u3087\u3046\u3057\u3085\u3075",
+                "romaji": "sengy\u014d shufu"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206790.mp3",
+                "text": "\u4e3b\u5a66\u306f\u3068\u3066\u3082\u91cd\u8981\u306a\u4ed5\u4e8b\u3092\u3057\u3066\u3044\u308b\u304c\u3001\u5927\u62b5\u3001\u7d66\u6599\u306f\u652f\u6255\u308f\u308c\u306a\u3044\u3002",
+                "english": "Homemakers do very valuable work, but usually don't get a paycheck.",
+                "en_audio": "",
+                "kana": "\u3057\u3085\u3075\u306f\u3068\u3066\u3082\u3058\u3085\u3046\u3088\u3046\u306a\u3057\u3054\u3068\u3092\u3057\u3066\u3044\u308b\u304c\u3001\u305f\u3044\u3066\u3044\u3001\u304d\u3085\u3046\u308a\u3087\u3046\u306f\u3057\u306f\u3089\u308f\u308c\u306a\u3044\u3002",
+                "romaji": "Shufu wa totemo j\u016by\u014d na shigoto o shite iru ga, taitei, ky\u016bry\u014d wa shiharawarenai."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206790.mp3",
+                "text": "\u4e3b\u5a66\u306f\u3068\u3066\u3082\u91cd\u8981\u306a\u4ed5\u4e8b\u3092\u3057\u3066\u3044\u308b\u304c\u3001\u5927\u62b5\u3001\u7d66\u6599\u306f\u652f\u6255\u308f\u308c\u306a\u3044\u3002",
+                "english": "Homemakers do very valuable work, but usually don't get a paycheck.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2290.mp3",
+                "kana": "\u3057\u3085\u3075\u306f\u3068\u3066\u3082\u3058\u3085\u3046\u3088\u3046\u306a\u3057\u3054\u3068\u3092\u3057\u3066\u3044\u308b\u304c\u3001\u305f\u3044\u3066\u3044\u3001\u304d\u3085\u3046\u308a\u3087\u3046\u306f\u3057\u306f\u3089\u308f\u308c\u306a\u3044\u3002",
+                "romaji": "Shufu wa totemo j\u016by\u014d na shigoto o shite iru ga, taitei, ky\u016bry\u014d wa shiharawarenai."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206789.mp3",
+                "text": "\u5c02\u696d\u4e3b\u5a66",
+                "english": "full-time homemaker",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2289.mp3",
+                "kana": "\u305b\u3093\u304e\u3087\u3046\u3057\u3085\u3075",
+                "romaji": "sengy\u014d shufu"
+            }
+        ]
+    },
+    {
+        "img": "8211",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271421.mp3",
+        "class": "noun",
+        "english": "art",
+        "flashcardId": "2164169",
+        "meaning": "art (noun) - the use of painting, drawing,\tsculpture\tetc to represent things or express ideas",
+        "id": "15360",
+        "word": "\u7f8e\u8853",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4528.mp3",
+        "kana": "\u3073\u3058\u3085\u3064",
+        "romaji": "bijutsu",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201835.mp3",
+                "text": "\u73fe\u4ee3\u30a2\u30fc\u30c8\u7f8e\u8853\u9928",
+                "english": "modern art museum",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262864.mp3",
+                "kana": "\u3052\u3093\u3060\u3044\u30a2\u30fc\u30c8\u3073\u3058\u3085\u3064\u304b\u3093",
+                "romaji": "gendai \u0101to bijutsukan"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201830.mp3",
+                "text": "\u7f8e\u8853\u306e\u6388\u696d",
+                "english": "art class",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4529.mp3",
+                "kana": "\u3073\u3058\u3085\u3064\u306e\u3058\u3085\u304e\u3087\u3046",
+                "romaji": "bijutsu no jugy\u014d"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201833.mp3",
+                "text": "\u79c1\u306f\u7f8e\u8853\u5c02\u653b\u3067\u3059\u3002",
+                "english": "I'm an art major.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306f\u3073\u3058\u3085\u3064\u305b\u3093\u3053\u3046\u3067\u3059\u3002",
+                "romaji": "Watashi wa bijutsu senk\u014d desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201831.mp3",
+                "text": "\u3053\u306e\u7f8e\u8853\u9928\u306e\u4f5c\u54c1\u306e\u4e2d\u3067\u3001\u3053\u308c\u304c\u4e00\u756a\u597d\u304d\u3060\u3002",
+                "english": "This is my favorite piece of art in this Art Museum.",
+                "en_audio": "",
+                "kana": "\u3053\u306e\u3073\u3058\u3085\u3064\u304b\u3093\u306e\u3055\u304f\u3072\u3093\u306e\u306a\u304b\u3067\u3001\u3053\u308c\u304c\u3044\u3061\u3070\u3093\u3059\u304d\u3060\u3002",
+                "romaji": "Kono bijutsukan no sakuhin no naka de, kore ga ichi-ban suki da."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201835.mp3",
+                "text": "\u73fe\u4ee3\u30a2\u30fc\u30c8\u7f8e\u8853\u9928",
+                "english": "modern art museum",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262864.mp3",
+                "kana": "\u3052\u3093\u3060\u3044\u30a2\u30fc\u30c8\u3073\u3058\u3085\u3064\u304b\u3093",
+                "romaji": "gendai \u0101to bijutsukan"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201833.mp3",
+                "text": "\u79c1\u306f\u7f8e\u8853\u5c02\u653b\u3067\u3059\u3002",
+                "english": "I'm an art major.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198080.mp3",
+                "kana": "\u308f\u305f\u3057\u306f\u3073\u3058\u3085\u3064\u305b\u3093\u3053\u3046\u3067\u3059\u3002",
+                "romaji": "Watashi wa bijutsu senk\u014d desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201831.mp3",
+                "text": "\u3053\u306e\u7f8e\u8853\u9928\u306e\u4f5c\u54c1\u306e\u4e2d\u3067\u3001\u3053\u308c\u304c\u4e00\u756a\u597d\u304d\u3060\u3002",
+                "english": "This is my favorite piece of art in this Art Museum.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4530.mp3",
+                "kana": "\u3053\u306e\u3073\u3058\u3085\u3064\u304b\u3093\u306e\u3055\u304f\u3072\u3093\u306e\u306a\u304b\u3067\u3001\u3053\u308c\u304c\u3044\u3061\u3070\u3093\u3059\u304d\u3060\u3002",
+                "romaji": "Kono bijutsukan no sakuhin no naka de, kore ga ichi-ban suki da."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201830.mp3",
+                "text": "\u7f8e\u8853\u306e\u6388\u696d",
+                "english": "art class",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4529.mp3",
+                "kana": "\u3073\u3058\u3085\u3064\u306e\u3058\u3085\u304e\u3087\u3046",
+                "romaji": "bijutsu no jugy\u014d"
+            }
+        ]
+    },
+    {
+        "img": "21736",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201826.mp3",
+        "class": "noun",
+        "english": "history",
+        "flashcardId": "2320531",
+        "meaning": "history (noun) - the study of past events as a subject in school or university",
+        "id": "4856",
+        "word": "\u6b74\u53f2",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263259.mp3",
+        "kana": "\u308c\u304d\u3057",
+        "romaji": "rekishi",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201827.mp3",
+                "text": "\u6b74\u53f2\u5b66\u5c02\u653b",
+                "english": "history major",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102616.mp3",
+                "kana": "\u308c\u304d\u3057\u304c\u304f\u305b\u3093\u3053\u3046",
+                "romaji": "rekishigaku senk\u014d"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201829.mp3",
+                "text": "\u79c1\u306f\u6b74\u53f2\u3092\u6559\u3048\u307e\u3059\u3002",
+                "english": "I teach history.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306f\u308c\u304d\u3057\u3092\u304a\u3057\u3048\u307e\u3059\u3002",
+                "romaji": "Watashi wa rekishi o oshiemasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201828.mp3",
+                "text": "\u7269\u4e8b\u306f\u7e70\u308a\u8fd4\u3059\u3082\u306e\u3067\u3042\u308b\u304b\u3089\u3001\u6211\u3005\u306f\u3001\u6b74\u53f2\u304b\u3089\u305f\u304f\u3055\u3093\u306e\u3053\u3068\u3092\u5b66\u3076\u4e8b\u304c\u3067\u304d\u308b\u3002",
+                "english": "You can learn a lot from History, as things tend to repeat themselves.",
+                "en_audio": "",
+                "kana": "\u3082\u306e\u3054\u3068\u306f\u304f\u308a\u304b\u3048\u3059\u3082\u306e\u3067\u3042\u308b\u304b\u3089\u3001\u308f\u308c\u308f\u308c\u306f\u3001\u308c\u304d\u3057\u304b\u3089\u305f\u304f\u3055\u3093\u306e\u3053\u3068\u3092\u307e\u306a\u3076\u3053\u3068\u304c\u3067\u304d\u308b\u3002",
+                "romaji": "Monogoto wa kurikaesu mono dakara, wareware wa, rekishi kara takusan no koto o manabu koto ga dekiru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201829.mp3",
+                "text": "\u79c1\u306f\u6b74\u53f2\u3092\u6559\u3048\u307e\u3059\u3002",
+                "english": "I teach history.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198079.mp3",
+                "kana": "\u308f\u305f\u3057\u306f\u308c\u304d\u3057\u3092\u304a\u3057\u3048\u307e\u3059\u3002",
+                "romaji": "Watashi wa rekishi o oshiemasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201828.mp3",
+                "text": "\u7269\u4e8b\u306f\u7e70\u308a\u8fd4\u3059\u3082\u306e\u3067\u3042\u308b\u304b\u3089\u3001\u6211\u3005\u306f\u3001\u6b74\u53f2\u304b\u3089\u305f\u304f\u3055\u3093\u306e\u3053\u3068\u3092\u5b66\u3076\u4e8b\u304c\u3067\u304d\u308b\u3002",
+                "english": "You can learn a lot from History, as things tend to repeat themselves.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102617.mp3",
+                "kana": "\u3082\u306e\u3054\u3068\u306f\u304f\u308a\u304b\u3048\u3059\u3082\u306e\u3067\u3042\u308b\u304b\u3089\u3001\u308f\u308c\u308f\u308c\u306f\u3001\u308c\u304d\u3057\u304b\u3089\u305f\u304f\u3055\u3093\u306e\u3053\u3068\u3092\u307e\u306a\u3076\u3053\u3068\u304c\u3067\u304d\u308b\u3002",
+                "romaji": "Monogoto wa kurikaesu mono dakara, wareware wa, rekishi kara takusan no koto o manabu koto ga dekiru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201827.mp3",
+                "text": "\u6b74\u53f2\u5b66\u5c02\u653b",
+                "english": "history major",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102616.mp3",
+                "kana": "\u308c\u304d\u3057\u304c\u304f\u305b\u3093\u3053\u3046",
+                "romaji": "rekishigaku senk\u014d"
+            }
+        ]
+    },
+    {
+        "img": "8426",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271816.mp3",
+        "class": "noun",
+        "english": "geography",
+        "flashcardId": "223939",
+        "meaning": "geography (noun) - the study of the physical features of the earth and its atmosphere, and of human activity",
+        "id": "15353",
+        "word": "\u5730\u7406",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/7972.mp3",
+        "kana": "\u3061\u308a",
+        "romaji": "chiri",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201849.mp3",
+                "text": "\u65e5\u672c\u306e\u5730\u7406",
+                "english": "geography of Japan",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102639.mp3",
+                "kana": "\u306b\u307b\u3093\u306e\u3061\u308a",
+                "romaji": "Nihon no chiri"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201850.mp3",
+                "text": "\u5f7c\u306e\u5c02\u653b\u306f\u5730\u7406\u3067\u3001\u526f\u5c02\u653b\u306f\u5fc3\u7406\u5b66\u3067\u3059\u3002",
+                "english": "He is a geography major, with a minor in psychology.",
+                "en_audio": "",
+                "kana": "\u304b\u308c\u306e\u305b\u3093\u3053\u3046\u306f\u3061\u308a\u3067\u3001\u3075\u304f\u305b\u3093\u3053\u3046\u306f\u3057\u3093\u308a\u304c\u304f\u3067\u3059\u3002",
+                "romaji": "Kare no senk\u014d wa chiri de, fukusenk\u014d wa shinrigaku desu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201850.mp3",
+                "text": "\u5f7c\u306e\u5c02\u653b\u306f\u5730\u7406\u3067\u3001\u526f\u5c02\u653b\u306f\u5fc3\u7406\u5b66\u3067\u3059\u3002",
+                "english": "He is a geography major, with a minor in psychology.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102640.mp3",
+                "kana": "\u304b\u308c\u306e\u305b\u3093\u3053\u3046\u306f\u3061\u308a\u3067\u3001\u3075\u304f\u305b\u3093\u3053\u3046\u306f\u3057\u3093\u308a\u304c\u304f\u3067\u3059\u3002",
+                "romaji": "Kare no senk\u014d wa chiri de, fukusenk\u014d wa shinrigaku desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201849.mp3",
+                "text": "\u65e5\u672c\u306e\u5730\u7406",
+                "english": "geography of Japan",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102639.mp3",
+                "kana": "\u306b\u307b\u3093\u306e\u3061\u308a",
+                "romaji": "Nihon no chiri"
+            }
+        ]
+    },
+    {
+        "img": "8997",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201851.mp3",
+        "class": "noun",
+        "english": "politics",
+        "flashcardId": "2164277",
+        "meaning": "politics (noun) - as \"study subject\"",
+        "id": "5337",
+        "word": "\u653f\u6cbb",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/7973.mp3",
+        "kana": "\u305b\u3044\u3058",
+        "romaji": "seiji",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201852.mp3",
+                "text": "\u653f\u6cbb\u76ee\u7684\u306e\u8a00\u52d5",
+                "english": "politics at play",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102641.mp3",
+                "kana": "\u305b\u3044\u3058\u3082\u304f\u3066\u304d\u306e\u3052\u3093\u3069\u3046",
+                "romaji": "seiji mokuteki no gend\u014d"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201857.mp3",
+                "text": "\u305d\u306e\u653f\u6cbb\u5bb6\u306f\u653f\u6cbb\u3092\u8a9e\u3063\u3066\u3044\u308b\u3002",
+                "english": "The politician is talking politics.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u305b\u3044\u3058\u304b\u306f\u305b\u3044\u3058\u3092\u304b\u305f\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Sono seijika wa seiji o katatte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201856.mp3",
+                "text": "\u79c1\u306f\u653f\u6cbb\u5b66\u3092\u5c02\u653b\u3057\u3066\u3044\u307e\u3059\u3002",
+                "english": "I major in politics.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306f\u305b\u3044\u3058\u304c\u304f\u3092\u305b\u3093\u3053\u3046\u3057\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Watashi wa seijigaku o senk\u014d shite imasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201853.mp3",
+                "text": "\u653f\u6cbb\u306e\u8a71\u306f\u6fc0\u8ad6\u306b\u306a\u3063\u3066\u3057\u307e\u3046\u306e\u3067\u3001\u79c1\u306f\u305d\u306e\u8a71\u306f\u3057\u306a\u3044\u3002",
+                "english": "I don't discuss politics, as the subject can get intense.",
+                "en_audio": "",
+                "kana": "\u305b\u3044\u3058\u306e\u306f\u306a\u3057\u306f\u3052\u304d\u308d\u3093\u306b\u306a\u3063\u3066\u3057\u307e\u3046\u306e\u3067\u3001\u308f\u305f\u3057\u306f\u305d\u306e\u306f\u306a\u3057\u306f\u3057\u306a\u3044\u3002",
+                "romaji": "Seiji no hanashi wa gekiron ni natte shimau node, watashi wa sono hanashi wa shinai."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201857.mp3",
+                "text": "\u305d\u306e\u653f\u6cbb\u5bb6\u306f\u653f\u6cbb\u3092\u8a9e\u3063\u3066\u3044\u308b\u3002",
+                "english": "The politician is talking politics.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263260.mp3",
+                "kana": "\u305d\u306e\u305b\u3044\u3058\u304b\u306f\u305b\u3044\u3058\u3092\u304b\u305f\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Sono seijika wa seiji o katatte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201856.mp3",
+                "text": "\u79c1\u306f\u653f\u6cbb\u5b66\u3092\u5c02\u653b\u3057\u3066\u3044\u307e\u3059\u3002",
+                "english": "I major in politics.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/64628.mp3",
+                "kana": "\u308f\u305f\u3057\u306f\u305b\u3044\u3058\u304c\u304f\u3092\u305b\u3093\u3053\u3046\u3057\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Watashi wa seijigaku o senk\u014d shite imasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201853.mp3",
+                "text": "\u653f\u6cbb\u306e\u8a71\u306f\u6fc0\u8ad6\u306b\u306a\u3063\u3066\u3057\u307e\u3046\u306e\u3067\u3001\u79c1\u306f\u305d\u306e\u8a71\u306f\u3057\u306a\u3044\u3002",
+                "english": "I don't discuss politics, as the subject can get intense.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102642.mp3",
+                "kana": "\u305b\u3044\u3058\u306e\u306f\u306a\u3057\u306f\u3052\u304d\u308d\u3093\u306b\u306a\u3063\u3066\u3057\u307e\u3046\u306e\u3067\u3001\u308f\u305f\u3057\u306f\u305d\u306e\u306f\u306a\u3057\u306f\u3057\u306a\u3044\u3002",
+                "romaji": "Seiji no hanashi wa gekiron ni natte shimau node, watashi wa sono hanashi wa shinai."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201852.mp3",
+                "text": "\u653f\u6cbb\u76ee\u7684\u306e\u8a00\u52d5",
+                "english": "politics at play",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102641.mp3",
+                "kana": "\u305b\u3044\u3058\u3082\u304f\u3066\u304d\u306e\u3052\u3093\u3069\u3046",
+                "romaji": "seiji mokuteki no gend\u014d"
+            }
+        ]
+    },
+    {
+        "img": "9191",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201858.mp3",
+        "class": "noun",
+        "english": "biology",
+        "flashcardId": "2320557",
+        "meaning": "biology (noun) - the study of living organisms, divided into many specialized fields that cover their morphology, physiology, anatomy, behaviour, origin, and distribution",
+        "id": "4854",
+        "word": "\u751f\u7269\u5b66",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/7974.mp3",
+        "kana": "\u305b\u3044\u3076\u3064\u304c\u304f",
+        "romaji": "seibutsugaku",
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201860.mp3",
+                "text": "\u751f\u7269\u5b66\u306f\u3001\u751f\u7269\u306e\u7814\u7a76\u3067\u3059\u3002",
+                "english": "Biology is the study of living organisms.",
+                "en_audio": "",
+                "kana": "\u305b\u3044\u3076\u3064\u304c\u304f\u306f\u3001\u305b\u3044\u3076\u3064\u306e\u3051\u3093\u304d\u3085\u3046\u3067\u3059\u3002",
+                "romaji": "Seibutsugaku wa, seibutsu no kenky\u016b desu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201860.mp3",
+                "text": "\u751f\u7269\u5b66\u306f\u3001\u751f\u7269\u306e\u7814\u7a76\u3067\u3059\u3002",
+                "english": "Biology is the study of living organisms.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263261.mp3",
+                "kana": "\u305b\u3044\u3076\u3064\u304c\u304f\u306f\u3001\u305b\u3044\u3076\u3064\u306e\u3051\u3093\u304d\u3085\u3046\u3067\u3059\u3002",
+                "romaji": "Seibutsugaku wa, seibutsu no kenky\u016b desu."
+            }
+        ]
+    },
+    {
+        "img": "8244",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271817.mp3",
+        "class": "noun",
+        "english": "chemistry",
+        "flashcardId": "2320432",
+        "meaning": "chemistry (noun) - the science that deals with the composition and properties of substances and various elementary forms of matter. Compare element",
+        "id": "15356",
+        "word": "\u5316\u5b66",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/7975.mp3",
+        "kana": "\u304b\u304c\u304f",
+        "romaji": "kagaku",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201865.mp3",
+                "text": "\u5316\u5b66\u306e\u5b9f\u9a13\u5ba4",
+                "english": "chemistry lab",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198082.mp3",
+                "kana": "\u304b\u304c\u304f\u306e\u3058\u3063\u3051\u3093\u3057\u3064",
+                "romaji": "kagaku no jikkenshitsu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201863.mp3",
+                "text": "\u5316\u5b66\u30ad\u30c3\u30c8",
+                "english": "chemistry kit",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102647.mp3",
+                "kana": "\u304b\u304c\u304f\u30ad\u30c3\u30c8",
+                "romaji": "kagaku kitto"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201864.mp3",
+                "text": "\u5b9f\u9a13\u5ba4\u306f\u5316\u5b66\u3092\u5b66\u7fd2\u3059\u308b\u5834\u3067\u3059\u3002",
+                "english": "The laboratory is a place to learn about chemistry.",
+                "en_audio": "",
+                "kana": "\u3058\u3063\u3051\u3093\u3057\u3064\u306f\u304b\u304c\u304f\u3092\u304c\u304f\u3057\u3085\u3046\u3059\u308b\u3070\u3067\u3059\u3002",
+                "romaji": "Jikkenshitsu wa kagaku o gakush\u016b suru ba desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271818.mp3",
+                "text": "\u79c1\u306f\u5316\u5b66\u306e\u5b66\u4f4d\u3092\u6301\u3063\u3066\u3044\u308b\u3002",
+                "english": "I have a graduate degree in chemistry.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306f\u304b\u304c\u304f\u306e\u304c\u304f\u3044\u3092\u3082\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Watashi wa kagaku no gakui o motte iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201865.mp3",
+                "text": "\u5316\u5b66\u306e\u5b9f\u9a13\u5ba4",
+                "english": "chemistry lab",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198082.mp3",
+                "kana": "\u304b\u304c\u304f\u306e\u3058\u3063\u3051\u3093\u3057\u3064",
+                "romaji": "kagaku no jikkenshitsu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201864.mp3",
+                "text": "\u5b9f\u9a13\u5ba4\u306f\u5316\u5b66\u3092\u5b66\u7fd2\u3059\u308b\u5834\u3067\u3059\u3002",
+                "english": "The laboratory is a place to learn about chemistry.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198081.mp3",
+                "kana": "\u3058\u3063\u3051\u3093\u3057\u3064\u306f\u304b\u304c\u304f\u3092\u304c\u304f\u3057\u3085\u3046\u3059\u308b\u3070\u3067\u3059\u3002",
+                "romaji": "Jikkenshitsu wa kagaku o gakush\u016b suru ba desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201863.mp3",
+                "text": "\u5316\u5b66\u30ad\u30c3\u30c8",
+                "english": "chemistry kit",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102647.mp3",
+                "kana": "\u304b\u304c\u304f\u30ad\u30c3\u30c8",
+                "romaji": "kagaku kitto"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271818.mp3",
+                "text": "\u79c1\u306f\u5316\u5b66\u306e\u5b66\u4f4d\u3092\u6301\u3063\u3066\u3044\u308b\u3002",
+                "english": "I have a graduate degree in chemistry.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102646.mp3",
+                "kana": "\u308f\u305f\u3057\u306f\u304b\u304c\u304f\u306e\u304c\u304f\u3044\u3092\u3082\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Watashi wa kagaku no gakui o motte iru."
+            }
+        ]
+    },
+    {
+        "img": "17428",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201866.mp3",
+        "class": "noun",
+        "english": "physics",
+        "flashcardId": "2320554",
+        "meaning": "physics (noun) - the branch of science concerned with the nature and properties of matter and energy.",
+        "id": "4852",
+        "word": "\u7269\u7406\u5b66",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263262.mp3",
+        "kana": "\u3076\u3064\u308a\u304c\u304f",
+        "romaji": "butsurigaku",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201869.mp3",
+                "text": "\u7269\u7406\u306e\u516c\u5f0f",
+                "english": "physics formula",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102650.mp3",
+                "kana": "\u3076\u3064\u308a\u306e\u3053\u3046\u3057\u304d",
+                "romaji": "butsuri no k\u014dshiki"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201867.mp3",
+                "text": "\u91cf\u5b50\u7269\u7406\u5b66",
+                "english": "quantum physics",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102648.mp3",
+                "kana": "\u308a\u3087\u3046\u3057\u3076\u3064\u308a\u304c\u304f",
+                "romaji": "ry\u014dshi butsurigaku"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201870.mp3",
+                "text": "\u79c1\u306f\u3001\u7269\u7406\u306e\u57fa\u790e\u306f\u77e5\u3063\u3066\u3044\u307e\u3059\u3002",
+                "english": "I know the basics of physics.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306f\u3001\u3076\u3064\u308a\u306e\u304d\u305d\u306f\u3057\u3063\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Watashi wa, butsuri no kiso wa shitte imasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201868.mp3",
+                "text": "\u30ce\u30fc\u30d9\u30eb\u7269\u7406\u5b66\u8cde\u306f\u30b9\u30a4\u30b9\u306e\u30a2\u30eb\u30d5\u30ec\u30c3\u30c9\u30ce\u30fc\u30d9\u30eb\u306b\u3088\u3063\u3066\u8a2d\u7acb\u3055\u308c\u305f\uff15\u3064\u306e\u8cde\u306e\u3046\u3061\u306e\u4e00\u3064\u3060\u3002",
+                "english": "The Nobel Prize in Physics is one of the 5 Nobel prizes established by Alfred Nobel of Sweden.",
+                "en_audio": "",
+                "kana": "\u30ce\u30fc\u30d9\u30eb\u3076\u3064\u308a\u304c\u304f\u3057\u3087\u3046\u306f\u30b9\u30a4\u30b9\u306e\u30a2\u30eb\u30d5\u30ec\u30c3\u30c9\u30ce\u30fc\u30d9\u30eb\u306b\u3088\u3063\u3066\u305b\u3064\u308a\u3064\u3055\u308c\u305f\u3044\u3064\u3064\u306e\u3057\u3087\u3046\u306e\u3046\u3061\u306e\u3072\u3068\u3064\u3060\u3002",
+                "romaji": "N\u014dberu butsurugakush\u014d wa Suisu no Arufureddo N\u014dberu ni yotte setsuritsu sareta itsutsu no sh\u014d no uchi no hitotsu da."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201870.mp3",
+                "text": "\u79c1\u306f\u3001\u7269\u7406\u306e\u57fa\u790e\u306f\u77e5\u3063\u3066\u3044\u307e\u3059\u3002",
+                "english": "I know the basics of physics.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/67764.mp3",
+                "kana": "\u308f\u305f\u3057\u306f\u3001\u3076\u3064\u308a\u306e\u304d\u305d\u306f\u3057\u3063\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Watashi wa, butsuri no kiso wa shitte imasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201869.mp3",
+                "text": "\u7269\u7406\u306e\u516c\u5f0f",
+                "english": "physics formula",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102650.mp3",
+                "kana": "\u3076\u3064\u308a\u306e\u3053\u3046\u3057\u304d",
+                "romaji": "butsuri no k\u014dshiki"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201868.mp3",
+                "text": "\u30ce\u30fc\u30d9\u30eb\u7269\u7406\u5b66\u8cde\u306f\u30b9\u30a4\u30b9\u306e\u30a2\u30eb\u30d5\u30ec\u30c3\u30c9\u30ce\u30fc\u30d9\u30eb\u306b\u3088\u3063\u3066\u8a2d\u7acb\u3055\u308c\u305f\uff15\u3064\u306e\u8cde\u306e\u3046\u3061\u306e\u4e00\u3064\u3060\u3002",
+                "english": "The Nobel Prize in Physics is one of the 5 Nobel prizes established by Alfred Nobel of Sweden.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102649.mp3",
+                "kana": "\u30ce\u30fc\u30d9\u30eb\u3076\u3064\u308a\u304c\u304f\u3057\u3087\u3046\u306f\u30b9\u30a4\u30b9\u306e\u30a2\u30eb\u30d5\u30ec\u30c3\u30c9\u30ce\u30fc\u30d9\u30eb\u306b\u3088\u3063\u3066\u305b\u3064\u308a\u3064\u3055\u308c\u305f\u3044\u3064\u3064\u306e\u3057\u3087\u3046\u306e\u3046\u3061\u306e\u3072\u3068\u3064\u3060\u3002",
+                "romaji": "N\u014dberu butsurugakush\u014d wa Suisu no Arufureddo N\u014dberu ni yotte setsuritsu sareta itsutsu no sh\u014d no uchi no hitotsu da."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201867.mp3",
+                "text": "\u91cf\u5b50\u7269\u7406\u5b66",
+                "english": "quantum physics",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102648.mp3",
+                "kana": "\u308a\u3087\u3046\u3057\u3076\u3064\u308a\u304c\u304f",
+                "romaji": "ry\u014dshi butsurigaku"
+            }
+        ]
+    },
+    {
+        "img": "8886",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/891772.mp3",
+        "class": "noun",
+        "english": "economics",
+        "flashcardId": "533317",
+        "meaning": "economics (noun) -  the science that deals with the production, distribution, and consumption of goods and services, or the material welfare of humankind",
+        "id": "1789",
+        "word": "\u7d4c\u6e08\u5b66",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2430.mp3",
+        "kana": "\u3051\u3044\u3056\u3044\u304c\u304f",
+        "romaji": "keizaigaku",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/891773.mp3",
+                "text": "\u7d4c\u6e08\u5b66\u3092\u52c9\u5f37\u3059\u308b",
+                "english": "study economics",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198083.mp3",
+                "kana": "\u3051\u3044\u3056\u3044\u304c\u304f\u3092\u3079\u3093\u304d\u3087\u3046\u3059\u308b",
+                "romaji": "keizaigaku o benky\u014d suru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271819.mp3",
+                "text": "\u751f\u7523\u7d4c\u6e08\u5b66",
+                "english": "economics of production",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2431.mp3",
+                "kana": "\u305b\u3044\u3055\u3093\u3051\u3044\u3056\u3044\u304c\u304f",
+                "romaji": "seisan keizaigaku"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/555097.mp3",
+                "text": "\u7d4c\u6e08\u5b66\u306f\u591a\u304f\u306e\u5206\u91ce\u3067\u5f79\u306b\u7acb\u3061\u307e\u3059\u3002",
+                "english": "Economics is a good background for many fields.",
+                "en_audio": "",
+                "kana": "\u3051\u3044\u3056\u3044\u304c\u304f\u306f\u304a\u304a\u304f\u306e\u3076\u3093\u3084\u3067\u3084\u304f\u306b\u305f\u3061\u307e\u3059\u3002",
+                "romaji": "Keizaigaku wa \u014dku no bunya de yaku ni tachimasu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/891773.mp3",
+                "text": "\u7d4c\u6e08\u5b66\u3092\u52c9\u5f37\u3059\u308b",
+                "english": "study economics",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198083.mp3",
+                "kana": "\u3051\u3044\u3056\u3044\u304c\u304f\u3092\u3079\u3093\u304d\u3087\u3046\u3059\u308b",
+                "romaji": "keizaigaku o benky\u014d suru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/555097.mp3",
+                "text": "\u7d4c\u6e08\u5b66\u306f\u591a\u304f\u306e\u5206\u91ce\u3067\u5f79\u306b\u7acb\u3061\u307e\u3059\u3002",
+                "english": "Economics is a good background for many fields.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2432.mp3",
+                "kana": "\u3051\u3044\u3056\u3044\u304c\u304f\u306f\u304a\u304a\u304f\u306e\u3076\u3093\u3084\u3067\u3084\u304f\u306b\u305f\u3061\u307e\u3059\u3002",
+                "romaji": "Keizaigaku wa \u014dku no bunya de yaku ni tachimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271819.mp3",
+                "text": "\u751f\u7523\u7d4c\u6e08\u5b66",
+                "english": "economics of production",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2431.mp3",
+                "kana": "\u305b\u3044\u3055\u3093\u3051\u3044\u3056\u3044\u304c\u304f",
+                "romaji": "seisan keizaigaku"
+            }
+        ]
+    },
+    {
+        "img": "9710",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271822.mp3",
+        "class": "noun",
+        "english": "computer science",
+        "flashcardId": "2320315",
+        "meaning": "computer science",
+        "id": "15361",
+        "word": "\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30b5\u30a4\u30a8\u30f3\u30b9",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263263.mp3",
+        "kana": "\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30b5\u30a4\u30a8\u30f3\u30b9",
+        "romaji": "konpy\u016bta saiensu",
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201873.mp3",
+                "text": "\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30b5\u30a4\u30a8\u30f3\u30b9\u306f\u6bd4\u8f03\u7684\u65b0\u3057\u3044\u5206\u91ce\u3067\u3059\u3002",
+                "english": "The field of computer science is relatively new.",
+                "en_audio": "",
+                "kana": "\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30b5\u30a4\u30a8\u30f3\u30b9\u306f\u3072\u304b\u304f\u3066\u304d\u3042\u305f\u3089\u3057\u3044\u3076\u3093\u3084\u3067\u3059\u3002",
+                "romaji": "Konpy\u016bta saiensu wa hikaku-teki atarashii bun'ya desu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201873.mp3",
+                "text": "\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30b5\u30a4\u30a8\u30f3\u30b9\u306f\u6bd4\u8f03\u7684\u65b0\u3057\u3044\u5206\u91ce\u3067\u3059\u3002",
+                "english": "The field of computer science is relatively new.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102655.mp3",
+                "kana": "\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30b5\u30a4\u30a8\u30f3\u30b9\u306f\u3072\u304b\u304f\u3066\u304d\u3042\u305f\u3089\u3057\u3044\u3076\u3093\u3084\u3067\u3059\u3002",
+                "romaji": "Konpy\u016bta saiensu wa hikaku-teki atarashii bun'ya desu."
+            }
+        ]
+    },
+    {
+        "img": "19350",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271836.mp3",
+        "class": "noun",
+        "english": "math",
+        "flashcardId": "2320504",
+        "meaning": "mathematics; math (noun) - the science of numbers and of shapes, including\talgebra, geometry, and\tarithmetic",
+        "id": "15358",
+        "word": "\u6570\u5b66",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263264.mp3",
+        "kana": "\u3059\u3046\u304c\u304f",
+        "romaji": "s\u016bgaku",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201964.mp3",
+                "text": "\u7c21\u5358\u306a\u6570\u5b66",
+                "english": "simple math",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263265.mp3",
+                "kana": "\u304b\u3093\u305f\u3093\u306a\u3059\u3046\u304c\u304f",
+                "romaji": "kantan na s\u016bgaku"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201961.mp3",
+                "text": "\u6570\u5b66\u306e\u554f\u984c",
+                "english": "mathematics problem",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198084.mp3",
+                "kana": "\u3059\u3046\u304c\u304f\u306e\u3082\u3093\u3060\u3044",
+                "romaji": "s\u016bgaku no mondai"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1429677.mp3",
+                "text": "\u5b66\u6821\u3067\u4e00\u756a\u597d\u304d\u306a\u200b\u200b\u79d1\u76ee\u306f\u6570\u5b66\u3067\u3059\u3002",
+                "english": "My favorite subject in school is math.",
+                "en_audio": "",
+                "kana": "\u304c\u3063\u3053\u3046\u3067\u3044\u3061\u3070\u3093\u3059\u304d\u306a\u304b\u3082\u304f\u306f\u3059\u3046\u304c\u304f\u3067\u3059\u3002",
+                "romaji": "Gakk\u014d de ichi-ban suki na \u200b\u200b kamoku wa s\u016bgaku desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201960.mp3",
+                "text": "\u79c1\u306f\u3001\u30c9\u30a4\u30c4\u8a9e\u3068\u6570\u5b66\u306e\u6388\u696d\u3092\u53d6\u3063\u3066\u3044\u307e\u3059\u3002",
+                "english": "I'm taking a class in German and one in mathematics.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306f\u3001\u30c9\u30a4\u30c4\u3054\u3068\u3059\u3046\u304c\u304f\u306e\u3058\u3085\u304e\u3087\u3046\u3092\u3068\u3063\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Watashi wa, Doitsugo to s\u016bgaku no jugy\u014d o totte imasu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1429677.mp3",
+                "text": "\u5b66\u6821\u3067\u4e00\u756a\u597d\u304d\u306a\u200b\u200b\u79d1\u76ee\u306f\u6570\u5b66\u3067\u3059\u3002",
+                "english": "My favorite subject in school is math.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1443877.mp3",
+                "kana": "\u304c\u3063\u3053\u3046\u3067\u3044\u3061\u3070\u3093\u3059\u304d\u306a\u304b\u3082\u304f\u306f\u3059\u3046\u304c\u304f\u3067\u3059\u3002",
+                "romaji": "Gakk\u014d de ichi-ban suki na \u200b\u200b kamoku wa s\u016bgaku desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201964.mp3",
+                "text": "\u7c21\u5358\u306a\u6570\u5b66",
+                "english": "simple math",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263265.mp3",
+                "kana": "\u304b\u3093\u305f\u3093\u306a\u3059\u3046\u304c\u304f",
+                "romaji": "kantan na s\u016bgaku"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201961.mp3",
+                "text": "\u6570\u5b66\u306e\u554f\u984c",
+                "english": "mathematics problem",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198084.mp3",
+                "kana": "\u3059\u3046\u304c\u304f\u306e\u3082\u3093\u3060\u3044",
+                "romaji": "s\u016bgaku no mondai"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201960.mp3",
+                "text": "\u79c1\u306f\u3001\u30c9\u30a4\u30c4\u8a9e\u3068\u6570\u5b66\u306e\u6388\u696d\u3092\u53d6\u3063\u3066\u3044\u307e\u3059\u3002",
+                "english": "I'm taking a class in German and one in mathematics.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102518.mp3",
+                "kana": "\u308f\u305f\u3057\u306f\u3001\u30c9\u30a4\u30c4\u3054\u3068\u3059\u3046\u304c\u304f\u306e\u3058\u3085\u304e\u3087\u3046\u3092\u3068\u3063\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Watashi wa, Doitsugo to s\u016bgaku no jugy\u014d o totte imasu."
+            }
+        ]
+    }
+]

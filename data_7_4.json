@@ -1,0 +1,832 @@
+[
+    {
+        "img": "8182",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227713.mp3",
+        "class": "noun",
+        "english": "language",
+        "flashcardId": "224377",
+        "meaning": "language (noun) - a system of communication by written or spoken words, which is used by the people of a particular country or area; language (noun) - linguistics",
+        "id": "1459",
+        "word": "\u8a00\u8a9e",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263151.mp3",
+        "kana": "\u3052\u3093\u3054",
+        "romaji": "gengo",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/555308.mp3",
+                "text": "\u305d\u306e\u8a00\u8a9e\u3092\u8a71\u3059",
+                "english": "speak the language",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90482.mp3",
+                "kana": "\u305d\u306e\u3052\u3093\u3054\u3092\u306f\u306a\u3059",
+                "romaji": "sono gengo o hanasu"
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/555308.mp3",
+                "text": "\u305d\u306e\u8a00\u8a9e\u3092\u8a71\u3059",
+                "english": "speak the language",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90482.mp3",
+                "kana": "\u305d\u306e\u3052\u3093\u3054\u3092\u306f\u306a\u3059",
+                "romaji": "sono gengo o hanasu"
+            }
+        ]
+    },
+    {
+        "img": "15442",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1306.mp3",
+        "class": "noun",
+        "english": "music",
+        "flashcardId": "2166786",
+        "meaning": "music (noun) - a series of sounds made by instruments or voices in a way that is pleasant or exciting",
+        "id": "4231",
+        "word": "\u97f3\u697d",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4462.mp3",
+        "kana": "\u304a\u3093\u304c\u304f",
+        "romaji": "ongaku",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305505.mp3",
+                "text": "\u97f3\u697d\u3092\u805e\u304f",
+                "english": "listen to music",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/304142.mp3",
+                "kana": "\u304a\u3093\u304c\u304f\u3092\u304d\u304f",
+                "romaji": "ongaku o kiku"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/529182.mp3",
+                "text": "\u3042\u308b\u4eba\u306f\u3001\u97f3\u697d\u306f\u4e16\u754c\u5171\u901a\u8a9e\u3060\u3068\u8a00\u3046\u3002",
+                "english": "Some say music is the universal language.",
+                "en_audio": "",
+                "kana": "\u3042\u308b\u3072\u3068\u306f\u3001\u304a\u3093\u304c\u304f\u306f\u305b\u304b\u3044\u304d\u3087\u3046\u3064\u3046\u3054\u3060\u3068\u3044\u3046\u3002",
+                "romaji": "Aru hito wa, ongaku wa sekai ky\u014dts\u016bgo da to iu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1308.mp3",
+                "text": "\u8272\u3005\u306a\u7a2e\u985e\u306e\u97f3\u697d\u304c\u3042\u308a\u3001\u3055\u3089\u306b\u305f\u304f\u3055\u3093\u306e\u30b5\u30d6\u30b8\u30e3\u30f3\u30eb\u304c\u3042\u308b\u3002",
+                "english": "There are many types of music, and many more subgenres.",
+                "en_audio": "",
+                "kana": "\u3044\u308d\u3044\u308d\u306a\u3057\u3085\u308b\u3044\u306e\u304a\u3093\u304c\u304f\u304c\u3042\u308a\u3001\u3055\u3089\u306b\u305f\u304f\u3055\u3093\u306e\u30b5\u30d6\u30b8\u30e3\u30f3\u30eb\u304c\u3042\u308b\u3002",
+                "romaji": "Iroiro na shurui no ongaku ga ari, sara ni takusan no sabujanru ga aru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305505.mp3",
+                "text": "\u97f3\u697d\u3092\u805e\u304f",
+                "english": "listen to music",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/304142.mp3",
+                "kana": "\u304a\u3093\u304c\u304f\u3092\u304d\u304f",
+                "romaji": "ongaku o kiku"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/529182.mp3",
+                "text": "\u3042\u308b\u4eba\u306f\u3001\u97f3\u697d\u306f\u4e16\u754c\u5171\u901a\u8a9e\u3060\u3068\u8a00\u3046\u3002",
+                "english": "Some say music is the universal language.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4465.mp3",
+                "kana": "\u3042\u308b\u3072\u3068\u306f\u3001\u304a\u3093\u304c\u304f\u306f\u305b\u304b\u3044\u304d\u3087\u3046\u3064\u3046\u3054\u3060\u3068\u3044\u3046\u3002",
+                "romaji": "Aru hito wa, ongaku wa sekai ky\u014dts\u016bgo da to iu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1308.mp3",
+                "text": "\u8272\u3005\u306a\u7a2e\u985e\u306e\u97f3\u697d\u304c\u3042\u308a\u3001\u3055\u3089\u306b\u305f\u304f\u3055\u3093\u306e\u30b5\u30d6\u30b8\u30e3\u30f3\u30eb\u304c\u3042\u308b\u3002",
+                "english": "There are many types of music, and many more subgenres.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4464.mp3",
+                "kana": "\u3044\u308d\u3044\u308d\u306a\u3057\u3085\u308b\u3044\u306e\u304a\u3093\u304c\u304f\u304c\u3042\u308a\u3001\u3055\u3089\u306b\u305f\u304f\u3055\u3093\u306e\u30b5\u30d6\u30b8\u30e3\u30f3\u30eb\u304c\u3042\u308b\u3002",
+                "romaji": "Iroiro na shurui no ongaku ga ari, sara ni takusan no sabujanru ga aru."
+            }
+        ]
+    },
+    {
+        "img": "9253",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228634.mp3",
+        "class": "noun",
+        "english": "martial arts",
+        "flashcardId": "2166787",
+        "meaning": "martial arts (noun) - a sport such as judo or karate, in which you fight with your hands and feet. Martial arts were developed in Eastern Asia",
+        "id": "4357",
+        "word": "\u6b66\u8853",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/24431.mp3",
+        "kana": "\u3076\u3058\u3085\u3064",
+        "romaji": "bujutsu",
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228636.mp3",
+                "text": "\u79c1\u306e\u6b66\u8853\u306e\u5e2b\u7bc4\u306f\u4e8c\u5341\u4e94\u5e74\u3082\u4fee\u884c\u3092\u7a4d\u3093\u3067\u304d\u305f\u3002",
+                "english": "Our martial arts instructor has practiced for twenty five years.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306e\u3076\u3058\u3085\u3064\u306e\u3057\u306f\u3093\u306f\u306b\u3058\u3085\u3046\u3054\u306d\u3093\u3082\u3057\u3085\u304e\u3087\u3046\u3092\u3064\u3093\u3067\u304d\u305f\u3002",
+                "romaji": "Watashi no bujutsu no shihan wa ni-j\u016b go-nen mo shugy\u014d o tsunde kita."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228636.mp3",
+                "text": "\u79c1\u306e\u6b66\u8853\u306e\u5e2b\u7bc4\u306f\u4e8c\u5341\u4e94\u5e74\u3082\u4fee\u884c\u3092\u7a4d\u3093\u3067\u304d\u305f\u3002",
+                "english": "Our martial arts instructor has practiced for twenty five years.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102967.mp3",
+                "kana": "\u308f\u305f\u3057\u306e\u3076\u3058\u3085\u3064\u306e\u3057\u306f\u3093\u306f\u306b\u3058\u3085\u3046\u3054\u306d\u3093\u3082\u3057\u3085\u304e\u3087\u3046\u3092\u3064\u3093\u3067\u304d\u305f\u3002",
+                "romaji": "Watashi no bujutsu no shihan wa ni-j\u016b go-nen mo shugy\u014d o tsunde kita."
+            }
+        ]
+    },
+    {
+        "img": "8562",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/549446.mp3",
+        "class": "noun",
+        "english": "traveling",
+        "flashcardId": "2166789",
+        "meaning": "traveling (noun) - the act or activity of going from one place to another, especially places that are far away",
+        "id": "31934",
+        "word": "\u65c5\u884c",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198090.mp3",
+        "kana": "\u308a\u3087\u3053\u3046",
+        "romaji": "ryok\u014d",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271741.mp3",
+                "text": "\u9577\u8ddd\u96e2\u65c5\u884c",
+                "english": "long-distance traveling",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263153.mp3",
+                "kana": "\u3061\u3087\u3046\u304d\u3087\u308a\u308a\u3087\u3053\u3046",
+                "romaji": "ch\u014dkyori ryok\u014d"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271740.mp3",
+                "text": "\u7537\u6027\u306e\u8da3\u5473\u306f\u65c5\u884c\u3067\u3059\u3002",
+                "english": "The man's hobby is traveling.",
+                "en_audio": "",
+                "kana": "\u3060\u3093\u305b\u3044\u306e\u3057\u3085\u307f\u306f\u308a\u3087\u3053\u3046\u3067\u3059\u3002",
+                "romaji": "Dansei no shumi wa ryok\u014d desu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271741.mp3",
+                "text": "\u9577\u8ddd\u96e2\u65c5\u884c",
+                "english": "long-distance traveling",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263153.mp3",
+                "kana": "\u3061\u3087\u3046\u304d\u3087\u308a\u308a\u3087\u3053\u3046",
+                "romaji": "ch\u014dkyori ryok\u014d"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271740.mp3",
+                "text": "\u7537\u6027\u306e\u8da3\u5473\u306f\u65c5\u884c\u3067\u3059\u3002",
+                "english": "The man's hobby is traveling.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263152.mp3",
+                "kana": "\u3060\u3093\u305b\u3044\u306e\u3057\u3085\u307f\u306f\u308a\u3087\u3053\u3046\u3067\u3059\u3002",
+                "romaji": "Dansei no shumi wa ryok\u014d desu."
+            }
+        ]
+    },
+    {
+        "img": "8860",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206946.mp3",
+        "class": "noun",
+        "english": "exercising",
+        "flashcardId": "224381",
+        "meaning": "exercising (noun) - physical activities that you do in order to stay healthy and become stronger:; exercise (noun)",
+        "id": "32034",
+        "word": "\u904b\u52d5",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263155.mp3",
+        "kana": "\u3046\u3093\u3069\u3046",
+        "romaji": "und\u014d"
+    },
+    {
+        "img": "22258",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271743.mp3",
+        "class": "noun",
+        "english": "work out",
+        "flashcardId": "1475480",
+        "meaning": "exercise (verb) - to do sports or physical activities in order to stay healthy and become stronger; working out (phrase) - the meaning same as weight training. (noun)",
+        "id": "32040",
+        "word": "\u30a6\u30a7\u30a4\u30c8\u30c8\u30ec\u30fc\u30cb\u30f3\u30b0",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102956.mp3",
+        "kana": "\u30a6\u30a7\u30a4\u30c8\u30c8\u30ec\u30fc\u30cb\u30f3\u30b0",
+        "romaji": "weito tor\u0113ningu"
+    },
+    {
+        "img": "17381",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271742.mp3",
+        "class": "noun",
+        "english": "reading",
+        "flashcardId": "2166790",
+        "meaning": "reading (noun) the activity of reading a book, magazine, etc.",
+        "id": "32051",
+        "word": "\u8aad\u66f8",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263154.mp3",
+        "kana": "\u3069\u304f\u3057\u3087",
+        "romaji": "dokusho",
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200517.mp3",
+                "text": "\u5f7c\u5973\u306f\u8aad\u66f8\u304c\u597d\u304d\u3067\u3059\u3002",
+                "english": "She likes reading books.",
+                "en_audio": "",
+                "kana": "\u304b\u306e\u3058\u3087\u306f\u3069\u304f\u3057\u3087\u304c\u3059\u304d\u3067\u3059\u3002",
+                "romaji": "Kanojo wa dokusho ga suki desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/549447.mp3",
+                "text": "\u8da3\u5473\u306f\u8aad\u66f8\u3067\u3059\u3002",
+                "english": "My hobby is reading.",
+                "en_audio": "",
+                "kana": "\u3057\u3085\u307f\u306f\u3069\u304f\u3057\u3087\u3067\u3059\u3002",
+                "romaji": "Shumi wa dokusho desu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200517.mp3",
+                "text": "\u5f7c\u5973\u306f\u8aad\u66f8\u304c\u597d\u304d\u3067\u3059\u3002",
+                "english": "She likes reading books.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3569.mp3",
+                "kana": "\u304b\u306e\u3058\u3087\u306f\u3069\u304f\u3057\u3087\u304c\u3059\u304d\u3067\u3059\u3002",
+                "romaji": "Kanojo wa dokusho ga suki desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/549447.mp3",
+                "text": "\u8da3\u5473\u306f\u8aad\u66f8\u3067\u3059\u3002",
+                "english": "My hobby is reading.",
+                "en_audio": "",
+                "kana": "\u3057\u3085\u307f\u306f\u3069\u304f\u3057\u3087\u3067\u3059\u3002",
+                "romaji": "Shumi wa dokusho desu."
+            }
+        ]
+    },
+    {
+        "img": "22263",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271744.mp3",
+        "class": "noun",
+        "english": "playing cards",
+        "flashcardId": "2032480",
+        "meaning": "playing card (noun) - one of a pack of cards that are used to play card games",
+        "id": "34770",
+        "word": "\u30c8\u30e9\u30f3\u30d7",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263157.mp3",
+        "kana": "\u30c8\u30e9\u30f3\u30d7",
+        "romaji": "toranpu",
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228617.mp3",
+                "text": "\u305d\u306e\u7537\u306f\u30c8\u30e9\u30f3\u30d7\u3092\u3057\u3066\u3044\u308b\u3002",
+                "english": "The man is playing cards.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u304a\u3068\u3053\u306f\u30c8\u30e9\u30f3\u30d7\u3092\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Sono otoko wa toranpu o shite iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228617.mp3",
+                "text": "\u305d\u306e\u7537\u306f\u30c8\u30e9\u30f3\u30d7\u3092\u3057\u3066\u3044\u308b\u3002",
+                "english": "The man is playing cards.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102960.mp3",
+                "kana": "\u305d\u306e\u304a\u3068\u3053\u306f\u30c8\u30e9\u30f3\u30d7\u3092\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Sono otoko wa toranpu o shite iru."
+            }
+        ]
+    },
+    {
+        "img": "8314",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228152.mp3",
+        "class": "proper noun",
+        "english": "Islam",
+        "flashcardId": "2141679",
+        "meaning": "Islam (noun) - the Muslim religion, which was started by Muhammad and whose holy book is the Koran",
+        "id": "1746",
+        "word": "\u30a4\u30b9\u30e9\u30e0\u6559",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89162.mp3",
+        "kana": "\u30a4\u30b9\u30e9\u30e0\u304d\u3087\u3046",
+        "romaji": "Isuramuky\u014d",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228155.mp3",
+                "text": "\u30a4\u30b9\u30e9\u30e0\u6559\u306e\u6559\u5178",
+                "english": "Holy Book of Isalm",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254071.mp3",
+                "kana": "\u30a4\u30b9\u30e9\u30e0\u304d\u3087\u3046\u306e\u304d\u3087\u3046\u3066\u3093",
+                "romaji": "Isuramuky\u014d no ky\u014dten"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228154.mp3",
+                "text": "\u30a4\u30b9\u30e9\u30e0\u6559\u306e\u4e94\u3064\u306e\u539f\u7406",
+                "english": "five pillars of Islam",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102905.mp3",
+                "kana": "\u30a4\u30b9\u30e9\u30e0\u304d\u3087\u3046\u306e\u3044\u3064\u3064\u306e\u3052\u3093\u308a",
+                "romaji": "Isuramuky\u014d no itsutsu no genri"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/891786.mp3",
+                "text": "\u30a4\u30b9\u30e9\u30e0\u6559\u306e\u4fe1\u4ef0\u306f\u3001\u9810\u8a00\u8005\u30de\u30db\u30e1\u30c3\u30c8\u306b\u3088\u3063\u3066\u5275\u59cb\u3055\u308c\u307e\u3057\u305f\u3002",
+                "english": "The Islam faith was founded the prophet Muhammad.",
+                "en_audio": "",
+                "kana": "\u30a4\u30b9\u30e9\u30e0\u304d\u3087\u3046\u306e\u3057\u3093\u3053\u3046\u306f\u3001\u3088\u3052\u3093\u3057\u3083\u30de\u30db\u30e1\u30c3\u30c8\u306b\u3088\u3063\u3066\u305d\u3046\u3057\u3055\u308c\u307e\u3057\u305f\u3002",
+                "romaji": "Isuramuky\u014d no shink\u014d wa, yogensha Mahometto ni yotte s\u014dshi saremashita."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/891786.mp3",
+                "text": "\u30a4\u30b9\u30e9\u30e0\u6559\u306e\u4fe1\u4ef0\u306f\u3001\u9810\u8a00\u8005\u30de\u30db\u30e1\u30c3\u30c8\u306b\u3088\u3063\u3066\u5275\u59cb\u3055\u308c\u307e\u3057\u305f\u3002",
+                "english": "The Islam faith was founded the prophet Muhammad.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102904.mp3",
+                "kana": "\u30a4\u30b9\u30e9\u30e0\u304d\u3087\u3046\u306e\u3057\u3093\u3053\u3046\u306f\u3001\u3088\u3052\u3093\u3057\u3083\u30de\u30db\u30e1\u30c3\u30c8\u306b\u3088\u3063\u3066\u305d\u3046\u3057\u3055\u308c\u307e\u3057\u305f\u3002",
+                "romaji": "Isuramuky\u014d no shink\u014d wa, yogensha Mahometto ni yotte s\u014dshi saremashita."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228155.mp3",
+                "text": "\u30a4\u30b9\u30e9\u30e0\u6559\u306e\u6559\u5178",
+                "english": "Holy Book of Isalm",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254071.mp3",
+                "kana": "\u30a4\u30b9\u30e9\u30e0\u304d\u3087\u3046\u306e\u304d\u3087\u3046\u3066\u3093",
+                "romaji": "Isuramuky\u014d no ky\u014dten"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228154.mp3",
+                "text": "\u30a4\u30b9\u30e9\u30e0\u6559\u306e\u4e94\u3064\u306e\u539f\u7406",
+                "english": "five pillars of Islam",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102905.mp3",
+                "kana": "\u30a4\u30b9\u30e9\u30e0\u304d\u3087\u3046\u306e\u3044\u3064\u3064\u306e\u3052\u3093\u308a",
+                "romaji": "Isuramuky\u014d no itsutsu no genri"
+            }
+        ]
+    },
+    {
+        "img": "8679",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228157.mp3",
+        "class": "noun",
+        "english": "Protestantism",
+        "flashcardId": "2141680",
+        "meaning": "Protestantism (noun) - the theological system of any of the churches of western Christendom that separated from the Roman Catholic Church during the Reformation",
+        "id": "1747",
+        "word": "\u30d7\u30ed\u30c6\u30b9\u30bf\u30f3\u30c8",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263258.mp3",
+        "kana": "\u30d7\u30ed\u30c6\u30b9\u30bf\u30f3\u30c8",
+        "romaji": "Purotesutanto",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/860612.mp3",
+                "text": "\u30d7\u30ed\u30c6\u30b9\u30bf\u30f3\u30c8\u306e\u5b97\u6559\u6539\u9769",
+                "english": "Protestant reformation",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254073.mp3",
+                "kana": "\u30d7\u30ed\u30c6\u30b9\u30bf\u30f3\u30c8\u306e\u3057\u3085\u3046\u304d\u3087\u3046\u304b\u3044\u304b\u304f",
+                "romaji": "Purotesutanto no sh\u016bky\u014d kaikaku"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/860611.mp3",
+                "text": "\u30d7\u30ed\u30c6\u30b9\u30bf\u30f3\u30c8\u306f\u3001\u30ed\u30fc\u30de\u30ab\u30c8\u30ea\u30c3\u30af\u6559\u4f1a\u304b\u3089\u5206\u304b\u308c\u3066\u3067\u304d\u307e\u3057\u305f\u3002",
+                "english": "Protestantism came as a break from the Roman Catholic Church.",
+                "en_audio": "",
+                "kana": "\u30d7\u30ed\u30c6\u30b9\u30bf\u30f3\u30c8\u306f\u3001\u30ed\u30fc\u30de\u30ab\u30c8\u30ea\u30c3\u30af\u304d\u3087\u3046\u304b\u3044\u304b\u3089\u308f\u304b\u308c\u3066\u3067\u304d\u307e\u3057\u305f\u3002",
+                "romaji": "Purotesutanto wa, R\u014dma katorikku ky\u014dkai kara wakarete dekimashita."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/860612.mp3",
+                "text": "\u30d7\u30ed\u30c6\u30b9\u30bf\u30f3\u30c8\u306e\u5b97\u6559\u6539\u9769",
+                "english": "Protestant reformation",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254073.mp3",
+                "kana": "\u30d7\u30ed\u30c6\u30b9\u30bf\u30f3\u30c8\u306e\u3057\u3085\u3046\u304d\u3087\u3046\u304b\u3044\u304b\u304f",
+                "romaji": "Purotesutanto no sh\u016bky\u014d kaikaku"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/860611.mp3",
+                "text": "\u30d7\u30ed\u30c6\u30b9\u30bf\u30f3\u30c8\u306f\u3001\u30ed\u30fc\u30de\u30ab\u30c8\u30ea\u30c3\u30af\u6559\u4f1a\u304b\u3089\u5206\u304b\u308c\u3066\u3067\u304d\u307e\u3057\u305f\u3002",
+                "english": "Protestantism came as a break from the Roman Catholic Church.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254072.mp3",
+                "kana": "\u30d7\u30ed\u30c6\u30b9\u30bf\u30f3\u30c8\u306f\u3001\u30ed\u30fc\u30de\u30ab\u30c8\u30ea\u30c3\u30af\u304d\u3087\u3046\u304b\u3044\u304b\u3089\u308f\u304b\u308c\u3066\u3067\u304d\u307e\u3057\u305f\u3002",
+                "romaji": "Purotesutanto wa, R\u014dma katorikku ky\u014dkai kara wakarete dekimashita."
+            }
+        ]
+    },
+    {
+        "img": "8968",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228159.mp3",
+        "class": "noun",
+        "english": "Catholicism",
+        "flashcardId": "2009389",
+        "meaning": "Catholicism (proper noun) - the beliefs and practices of a Catholic Church (noun)",
+        "id": "1748",
+        "word": "\u30ab\u30c8\u30ea\u30c3\u30af",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89164.mp3",
+        "kana": "\u30ab\u30c8\u30ea\u30c3\u30af",
+        "romaji": "Katorikku",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253020.mp3",
+                "text": "\u30ed\u30fc\u30de\u30ab\u30c8\u30ea\u30c3\u30af\u6559\u4f1a",
+                "english": "Roman Catholic Church",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254075.mp3",
+                "kana": "\u30ed\u30fc\u30de\u30ab\u30c8\u30ea\u30c3\u30af\u304d\u3087\u3046\u304b\u3044",
+                "romaji": "R\u014dma katorikku ky\u014dkai"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228160.mp3",
+                "text": "\u30ab\u30c8\u30ea\u30c3\u30af\u306f\u3001\u30ed\u30fc\u30de\u6cd5\u738b\u3092\u30ea\u30fc\u30c0\u30fc\u3068\u3059\u308b\u5b97\u6559\u3067\u3059\u3002",
+                "english": "Catholicism is the religion of those who accept the leadership of the Pope.",
+                "en_audio": "",
+                "kana": "\u30ab\u30c8\u30ea\u30c3\u30af\u306f\u3001\u30ed\u30fc\u30de\u307b\u3046\u304a\u3046\u3092\u30ea\u30fc\u30c0\u30fc\u3068\u3059\u308b\u3057\u3085\u3046\u304d\u3087\u3046\u3067\u3059\u3002",
+                "romaji": "Katorikku wa, R\u014dma h\u014d\u014d o r\u012bd\u0101 to suru sh\u016bky\u014d desu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253020.mp3",
+                "text": "\u30ed\u30fc\u30de\u30ab\u30c8\u30ea\u30c3\u30af\u6559\u4f1a",
+                "english": "Roman Catholic Church",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254075.mp3",
+                "kana": "\u30ed\u30fc\u30de\u30ab\u30c8\u30ea\u30c3\u30af\u304d\u3087\u3046\u304b\u3044",
+                "romaji": "R\u014dma katorikku ky\u014dkai"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228160.mp3",
+                "text": "\u30ab\u30c8\u30ea\u30c3\u30af\u306f\u3001\u30ed\u30fc\u30de\u6cd5\u738b\u3092\u30ea\u30fc\u30c0\u30fc\u3068\u3059\u308b\u5b97\u6559\u3067\u3059\u3002",
+                "english": "Catholicism is the religion of those who accept the leadership of the Pope.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254074.mp3",
+                "kana": "\u30ab\u30c8\u30ea\u30c3\u30af\u306f\u3001\u30ed\u30fc\u30de\u307b\u3046\u304a\u3046\u3092\u30ea\u30fc\u30c0\u30fc\u3068\u3059\u308b\u3057\u3085\u3046\u304d\u3087\u3046\u3067\u3059\u3002",
+                "romaji": "Katorikku wa, R\u014dma h\u014d\u014d o r\u012bd\u0101 to suru sh\u016bky\u014d desu."
+            }
+        ]
+    },
+    {
+        "img": "8812",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228161.mp3",
+        "class": "noun",
+        "english": "Hinduism",
+        "flashcardId": "2141681",
+        "meaning": "Hinduism (noun) - the main religion of India which includes the worship of many gods and the belief that after you die you return to life in a different form",
+        "id": "1749",
+        "word": "\u30d2\u30f3\u30ba\u30fc\u6559",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89165.mp3",
+        "kana": "\u30d2\u30f3\u30ba\u30fc\u304d\u3087\u3046",
+        "romaji": "Hinz\u016bky\u014d",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228163.mp3",
+                "text": "\u30a4\u30f3\u30c9\u306e\u30d2\u30f3\u30ba\u30fc\u6559",
+                "english": "India's Hinduism",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254077.mp3",
+                "kana": "\u30a4\u30f3\u30c9\u306e\u30d2\u30f3\u30ba\u30fc\u304d\u3087\u3046",
+                "romaji": "Indo no Hinz\u016bky\u014d"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/976720.mp3",
+                "text": "\u30a4\u30f3\u30c9\u306e\u30d2\u30f3\u30ba\u30fc\u6559\u306f\u3001\u970a\u9b42\u306e\u518d\u751f\u3068\u3001\u6570\u3005\u306e\u795e\u3092\u4fe1\u3058\u3066\u3044\u308b\u3002",
+                "english": "Hinduism, from India, involves the belief in reincarnation and many gods.",
+                "en_audio": "",
+                "kana": "\u30a4\u30f3\u30c9\u306e\u30d2\u30f3\u30ba\u30fc\u304d\u3087\u3046\u306f\u3001\u308c\u3044\u3053\u3093\u306e\u3055\u3044\u305b\u3044\u3068\u3001\u304b\u305a\u304b\u305a\u306e\u304b\u307f\u3092\u3057\u3093\u3058\u3066\u3044\u308b\u3002",
+                "romaji": "Indo no Hinz\u016bky\u014d wa, reikon no saisei to, kazukazu no kami o shinjite iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228163.mp3",
+                "text": "\u30a4\u30f3\u30c9\u306e\u30d2\u30f3\u30ba\u30fc\u6559",
+                "english": "India's Hinduism",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254077.mp3",
+                "kana": "\u30a4\u30f3\u30c9\u306e\u30d2\u30f3\u30ba\u30fc\u304d\u3087\u3046",
+                "romaji": "Indo no Hinz\u016bky\u014d"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/976720.mp3",
+                "text": "\u30a4\u30f3\u30c9\u306e\u30d2\u30f3\u30ba\u30fc\u6559\u306f\u3001\u970a\u9b42\u306e\u518d\u751f\u3068\u3001\u6570\u3005\u306e\u795e\u3092\u4fe1\u3058\u3066\u3044\u308b\u3002",
+                "english": "Hinduism, from India, involves the belief in reincarnation and many gods.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254076.mp3",
+                "kana": "\u30a4\u30f3\u30c9\u306e\u30d2\u30f3\u30ba\u30fc\u304d\u3087\u3046\u306f\u3001\u308c\u3044\u3053\u3093\u306e\u3055\u3044\u305b\u3044\u3068\u3001\u304b\u305a\u304b\u305a\u306e\u304b\u307f\u3092\u3057\u3093\u3058\u3066\u3044\u308b\u3002",
+                "romaji": "Indo no Hinz\u016bky\u014d wa, reikon no saisei to, kazukazu no kami o shinjite iru."
+            }
+        ]
+    },
+    {
+        "img": "9234",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/208469.mp3",
+        "class": "noun",
+        "english": "Buddhism",
+        "flashcardId": "224388",
+        "meaning": "Buddhism (noun) - a religion of east and central Asia, based on the teaching of Gautama Buddha",
+        "id": "1750",
+        "word": "\u4ecf\u6559",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89166.mp3",
+        "kana": "\u3076\u3063\u304d\u3087\u3046",
+        "romaji": "Bukky\u014d",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/208474.mp3",
+                "text": "\u4e2d\u56fd\u4ecf\u6559",
+                "english": "Chinese Buddhism",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102909.mp3",
+                "kana": "\u3061\u3085\u3046\u3054\u304f\u3076\u3063\u304d\u3087\u3046",
+                "romaji": "Ch\u016bgoku Bukky\u014d"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/208471.mp3",
+                "text": "\u4ecf\u6559\u306e\u6559\u3048",
+                "english": "Buddhist teachings",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102908.mp3",
+                "kana": "\u3076\u3063\u304d\u3087\u3046\u306e\u304a\u3057\u3048",
+                "romaji": "Bukky\u014d no oshie"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/208470.mp3",
+                "text": "\u4ecf\u6559\u306f\u609f\u308a\u3092\u958b\u3044\u305f\u8005\u3068\u3055\u308c\u308b\u91c8\u8fe6\u306e\u6559\u3048\u3092\u5143\u306b\u3057\u3066\u3044\u308b\u3002",
+                "english": "Buddhism is based on the teachings of the Buddha, the enlightened one.",
+                "en_audio": "",
+                "kana": "\u3076\u3063\u304d\u3087\u3046\u306f\u3055\u3068\u308a\u3092\u3072\u3089\u3044\u305f\u3082\u306e\u3068\u3055\u308c\u308b\u3057\u3083\u304b\u306e\u304a\u3057\u3048\u3092\u3082\u3068\u306b\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Bukky\u014d wa satori o hiraita mono to sareru Shaka no oshie o moto ni shite iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/208474.mp3",
+                "text": "\u4e2d\u56fd\u4ecf\u6559",
+                "english": "Chinese Buddhism",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102909.mp3",
+                "kana": "\u3061\u3085\u3046\u3054\u304f\u3076\u3063\u304d\u3087\u3046",
+                "romaji": "Ch\u016bgoku Bukky\u014d"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/208471.mp3",
+                "text": "\u4ecf\u6559\u306e\u6559\u3048",
+                "english": "Buddhist teachings",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102908.mp3",
+                "kana": "\u3076\u3063\u304d\u3087\u3046\u306e\u304a\u3057\u3048",
+                "romaji": "Bukky\u014d no oshie"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/208470.mp3",
+                "text": "\u4ecf\u6559\u306f\u609f\u308a\u3092\u958b\u3044\u305f\u8005\u3068\u3055\u308c\u308b\u91c8\u8fe6\u306e\u6559\u3048\u3092\u5143\u306b\u3057\u3066\u3044\u308b\u3002",
+                "english": "Buddhism is based on the teachings of the Buddha, the enlightened one.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102907.mp3",
+                "kana": "\u3076\u3063\u304d\u3087\u3046\u306f\u3055\u3068\u308a\u3092\u3072\u3089\u3044\u305f\u3082\u306e\u3068\u3055\u308c\u308b\u3057\u3083\u304b\u306e\u304a\u3057\u3048\u3092\u3082\u3068\u306b\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Bukky\u014d wa satori o hiraita mono to sareru Shaka no oshie o moto ni shite iru."
+            }
+        ]
+    },
+    {
+        "img": "9160",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228645.mp3",
+        "class": "noun",
+        "english": "Taoism",
+        "flashcardId": "2141651",
+        "meaning": "Taoism (noun) - a way of thought developed in ancient China, based on the writings of Lao Tzu, emphasizing a natural and simple way of life",
+        "id": "4492",
+        "word": "\u9053\u6559",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102972.mp3",
+        "kana": "\u3069\u3046\u304d\u3087\u3046",
+        "romaji": "d\u014dky\u014d",
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228647.mp3",
+                "text": "\u4e2d\u56fd\u306e\u6f22\u5b57\u3067\u201cDao\u201d\u306f\u3001\u201c\u9053\u201d\u3068\u3044\u3046\u610f\u5473\u3082\u3042\u308b\u3002",
+                "english": "The Chinese character for the word dao means road or way.",
+                "en_audio": "",
+                "kana": "\u3061\u3085\u3046\u3054\u304f\u306e\u304b\u3093\u3058\u3067\u201cDao\u201d\u306f\u3001\u201c\u307f\u3061\u201d\u3068\u3044\u3046\u3044\u307f\u3082\u3042\u308b\u3002",
+                "romaji": "Ch\u016bgoku no kanji de \"dao\" wa, \"michi\" to iu imi mo aru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228646.mp3",
+                "text": "\u9053\u6559\u306f\u3001\u201cDaoism\u201d\u3068\u3057\u3066\u3082\u77e5\u3089\u308c\u3066\u3044\u308b\u3002",
+                "english": "Taoism is also known as Daoism.",
+                "en_audio": "",
+                "kana": "\u3069\u3046\u304d\u3087\u3046\u306f\u3001\u201cDaoism\u201d\u3068\u3057\u3066\u3082\u3057\u3089\u308c\u3066\u3044\u308b\u3002",
+                "romaji": "D\u014dky\u014d wa, \"Daoism\" to shite mo shirarete iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228647.mp3",
+                "text": "\u4e2d\u56fd\u306e\u6f22\u5b57\u3067\u201cDao\u201d\u306f\u3001\u201c\u9053\u201d\u3068\u3044\u3046\u610f\u5473\u3082\u3042\u308b\u3002",
+                "english": "The Chinese character for the word dao means road or way.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102974.mp3",
+                "kana": "\u3061\u3085\u3046\u3054\u304f\u306e\u304b\u3093\u3058\u3067\u201cDao\u201d\u306f\u3001\u201c\u307f\u3061\u201d\u3068\u3044\u3046\u3044\u307f\u3082\u3042\u308b\u3002",
+                "romaji": "Ch\u016bgoku no kanji de \"dao\" wa, \"michi\" to iu imi mo aru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228646.mp3",
+                "text": "\u9053\u6559\u306f\u3001\u201cDaoism\u201d\u3068\u3057\u3066\u3082\u77e5\u3089\u308c\u3066\u3044\u308b\u3002",
+                "english": "Taoism is also known as Daoism.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102973.mp3",
+                "kana": "\u3069\u3046\u304d\u3087\u3046\u306f\u3001\u201cDaoism\u201d\u3068\u3057\u3066\u3082\u3057\u3089\u308c\u3066\u3044\u308b\u3002",
+                "romaji": "D\u014dky\u014d wa, \"Daoism\" to shite mo shirarete iru."
+            }
+        ]
+    },
+    {
+        "img": "8525",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228659.mp3",
+        "class": "noun",
+        "english": "Bible",
+        "flashcardId": "2141652",
+        "meaning": "Bible",
+        "id": "4504",
+        "word": "\u8056\u66f8",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102981.mp3",
+        "kana": "\u305b\u3044\u3057\u3087",
+        "romaji": "seisho",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228660.mp3",
+                "text": "\u8056\u66f8",
+                "english": "Holy Bible",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102982.mp3",
+                "kana": "\u305b\u3044\u3057\u3087",
+                "romaji": "seisho"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/976735.mp3",
+                "text": "\u8056\u66f8\u306f\u3001\u6587\u660e\u306e\u6b74\u53f2\u4e0a\u3001\u6700\u3082\u58f2\u308c\u3066\u3044\u308b\u672c\u3060\u3002",
+                "english": "The Bible is the best-selling book in the history of civilization.",
+                "en_audio": "",
+                "kana": "\u305b\u3044\u3057\u3087\u306f\u3001\u3076\u3093\u3081\u3044\u306e\u308c\u304d\u3057\u3058\u3087\u3046\u3001\u3082\u3063\u3068\u3082\u3046\u308c\u3066\u3044\u308b\u307b\u3093\u3060\u3002",
+                "romaji": "Seisho wa, bunmei no rekishi j\u014d, mottomo urete iru hon da."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/976735.mp3",
+                "text": "\u8056\u66f8\u306f\u3001\u6587\u660e\u306e\u6b74\u53f2\u4e0a\u3001\u6700\u3082\u58f2\u308c\u3066\u3044\u308b\u672c\u3060\u3002",
+                "english": "The Bible is the best-selling book in the history of civilization.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102983.mp3",
+                "kana": "\u305b\u3044\u3057\u3087\u306f\u3001\u3076\u3093\u3081\u3044\u306e\u308c\u304d\u3057\u3058\u3087\u3046\u3001\u3082\u3063\u3068\u3082\u3046\u308c\u3066\u3044\u308b\u307b\u3093\u3060\u3002",
+                "romaji": "Seisho wa, bunmei no rekishi j\u014d, mottomo urete iru hon da."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228660.mp3",
+                "text": "\u8056\u66f8",
+                "english": "Holy Bible",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102982.mp3",
+                "kana": "\u305b\u3044\u3057\u3087",
+                "romaji": "seisho"
+            }
+        ]
+    },
+    {
+        "img": "8166",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228666.mp3",
+        "class": "noun",
+        "english": "Quran",
+        "flashcardId": "2141653",
+        "meaning": "Quran (noun) - the Islamic sacred book",
+        "id": "4508",
+        "word": "\u30b3\u30fc\u30e9\u30f3",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102984.mp3",
+        "kana": "\u30b3\u30fc\u30e9\u30f3",
+        "romaji": "K\u014dran",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228667.mp3",
+                "text": "\u30b3\u30fc\u30e9\u30f3",
+                "english": "Holy Quran",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102985.mp3",
+                "kana": "\u30b3\u30fc\u30e9\u30f3",
+                "romaji": "K\u014dran"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228668.mp3",
+                "text": "\u30b3\u30fc\u30e9\u30f3\u306f\u3001\u30a4\u30b9\u30e9\u30e0\u6559\u306e\u7d4c\u5178\u3060\u3002",
+                "english": "The Quran is the holy book of the Muslim religion.",
+                "en_audio": "",
+                "kana": "\u30b3\u30fc\u30e9\u30f3\u306f\u3001\u30a4\u30b9\u30e9\u30e0\u304d\u3087\u3046\u306e\u304d\u3087\u3046\u3066\u3093\u3060\u3002",
+                "romaji": "K\u014dran wa, isuramuky\u014d no ky\u014dten da."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228668.mp3",
+                "text": "\u30b3\u30fc\u30e9\u30f3\u306f\u3001\u30a4\u30b9\u30e9\u30e0\u6559\u306e\u7d4c\u5178\u3060\u3002",
+                "english": "The Quran is the holy book of the Muslim religion.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102986.mp3",
+                "kana": "\u30b3\u30fc\u30e9\u30f3\u306f\u3001\u30a4\u30b9\u30e9\u30e0\u304d\u3087\u3046\u306e\u304d\u3087\u3046\u3066\u3093\u3060\u3002",
+                "romaji": "K\u014dran wa, isuramuky\u014d no ky\u014dten da."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228667.mp3",
+                "text": "\u30b3\u30fc\u30e9\u30f3",
+                "english": "Holy Quran",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102985.mp3",
+                "kana": "\u30b3\u30fc\u30e9\u30f3",
+                "romaji": "K\u014dran"
+            }
+        ]
+    },
+    {
+        "img": "21877",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/229293.mp3",
+        "class": "noun",
+        "english": "priest",
+        "flashcardId": "2141654",
+        "meaning": "priest (noun) - an ordained minister of the Catholic",
+        "id": "13595",
+        "word": "\u53f8\u796d\u3000",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102987.mp3",
+        "kana": "\u3057\u3055\u3044\u3000",
+        "romaji": "shisai",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/229296.mp3",
+                "text": "\u30ed\u30fc\u30de\u30ab\u30c8\u30ea\u30c3\u30af\u306e\u53f8\u796d",
+                "english": "Roman Catholic Priest",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102988.mp3",
+                "kana": "\u30ed\u30fc\u30de\u30ab\u30c8\u30ea\u30c3\u30af\u306e\u3057\u3055\u3044",
+                "romaji": "R\u014dma katorikku no shisai"
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/229296.mp3",
+                "text": "\u30ed\u30fc\u30de\u30ab\u30c8\u30ea\u30c3\u30af\u306e\u53f8\u796d",
+                "english": "Roman Catholic Priest",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102988.mp3",
+                "kana": "\u30ed\u30fc\u30de\u30ab\u30c8\u30ea\u30c3\u30af\u306e\u3057\u3055\u3044",
+                "romaji": "R\u014dma katorikku no shisai"
+            }
+        ]
+    },
+    {
+        "img": "10350",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228693.mp3",
+        "class": "noun",
+        "english": "Judaism",
+        "flashcardId": "2141655",
+        "meaning": "Judaism (noun)",
+        "id": "29669",
+        "word": "\u30e6\u30c0\u30e4\u6559",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/24540.mp3",
+        "kana": "\u30e6\u30c0\u30e4\u304d\u3087\u3046",
+        "romaji": "Yudayaky\u014d",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228695.mp3",
+                "text": "\u30e6\u30c0\u30e4\u6559\u306e\u6b74\u53f2",
+                "english": "History of Judaism",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102990.mp3",
+                "kana": "\u30e6\u30c0\u30e4\u304d\u3087\u3046\u306e\u308c\u304d\u3057",
+                "romaji": "Yudayaky\u014d no rekishi"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/976722.mp3",
+                "text": "\u30e6\u30c0\u30e4\u6559\u4e09\u767e\u5e74\u4ee5\u4e0a\u3082\u306e\u3042\u3044\u3060\u5b9f\u8df5\u3055\u308c\u3066\u3044\u308b\u3002",
+                "english": "Judaism has been practiced for over three thousand years.",
+                "en_audio": "",
+                "kana": "\u30e6\u30c0\u30e4\u304d\u3087\u3046\u3055\u3093\u3073\u3083\u304f\u306d\u3093\u3044\u3058\u3087\u3046\u3082\u306e\u3042\u3044\u3060\u3058\u3063\u305b\u3093\u3055\u308c\u3066\u3044\u308b\u3002",
+                "romaji": "Yudaya-ky\u014d wa san-byaku-nen ij\u014d mono aida jissen sarete iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/229295.mp3",
+                "text": "\u30e6\u30c0\u30e4\u6559\u3001\u30ad\u30ea\u30b9\u30c8\u6559\u3001\u4ecf\u6559\u3001\u305d\u306e\u4ed6\u591a\u304f\u306e\u5b97\u6559\u306b\u306f\u53f8\u796d\u304c\u3044\u308b\u3002",
+                "english": "Judaism, Christianity, Buddihuism and many other religions have priests.",
+                "en_audio": "",
+                "kana": "\u30e6\u30c0\u30e4\u304d\u3087\u3046\u3001\u30ad\u30ea\u30b9\u30c8\u304d\u3087\u3046\u3001\u3076\u3063\u304d\u3087\u3046\u3001\u305d\u306e\u305f\u304a\u304a\u304f\u306e\u3057\u3085\u3046\u304d\u3087\u3046\u306b\u306f\u3057\u3055\u3044\u304c\u3044\u308b\u3002",
+                "romaji": "Yudayaky\u014d, Kirisutoky\u014d, Bukky\u014d, sonota \u014dku no sh\u016bky\u014d ni wa shisai ga iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/976722.mp3",
+                "text": "\u30e6\u30c0\u30e4\u6559\u4e09\u767e\u5e74\u4ee5\u4e0a\u3082\u306e\u3042\u3044\u3060\u5b9f\u8df5\u3055\u308c\u3066\u3044\u308b\u3002",
+                "english": "Judaism has been practiced for over three thousand years.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102991.mp3",
+                "kana": "\u30e6\u30c0\u30e4\u304d\u3087\u3046\u3055\u3093\u3073\u3083\u304f\u306d\u3093\u3044\u3058\u3087\u3046\u3082\u306e\u3042\u3044\u3060\u3058\u3063\u305b\u3093\u3055\u308c\u3066\u3044\u308b\u3002",
+                "romaji": "Yudaya-ky\u014d wa san-byaku-nen ij\u014d mono aida jissen sarete iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228695.mp3",
+                "text": "\u30e6\u30c0\u30e4\u6559\u306e\u6b74\u53f2",
+                "english": "History of Judaism",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102990.mp3",
+                "kana": "\u30e6\u30c0\u30e4\u304d\u3087\u3046\u306e\u308c\u304d\u3057",
+                "romaji": "Yudayaky\u014d no rekishi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/229295.mp3",
+                "text": "\u30e6\u30c0\u30e4\u6559\u3001\u30ad\u30ea\u30b9\u30c8\u6559\u3001\u4ecf\u6559\u3001\u305d\u306e\u4ed6\u591a\u304f\u306e\u5b97\u6559\u306b\u306f\u53f8\u796d\u304c\u3044\u308b\u3002",
+                "english": "Judaism, Christianity, Buddihuism and many other religions have priests.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102989.mp3",
+                "kana": "\u30e6\u30c0\u30e4\u304d\u3087\u3046\u3001\u30ad\u30ea\u30b9\u30c8\u304d\u3087\u3046\u3001\u3076\u3063\u304d\u3087\u3046\u3001\u305d\u306e\u305f\u304a\u304a\u304f\u306e\u3057\u3085\u3046\u304d\u3087\u3046\u306b\u306f\u3057\u3055\u3044\u304c\u3044\u308b\u3002",
+                "romaji": "Yudayaky\u014d, Kirisutoky\u014d, Bukky\u014d, sonota \u014dku no sh\u016bky\u014d ni wa shisai ga iru."
+            }
+        ]
+    }
+]

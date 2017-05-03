@@ -1,0 +1,1753 @@
+[
+    {
+        "img": "21034",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225974.mp3",
+        "class": "noun",
+        "english": "face",
+        "flashcardId": "2152284",
+        "meaning": "face (noun) - the front part of your head, where your eyes, nose, and mouth are",
+        "id": "95",
+        "word": "\u9854",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5175.mp3",
+        "kana": "\u304b\u304a",
+        "romaji": "kao",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1849.mp3",
+                "text": "\u53ef\u611b\u3044\u9854",
+                "english": "pretty face",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5180.mp3",
+                "kana": "\u304b\u308f\u3044\u3044\u304b\u304a",
+                "romaji": "kawaii kao"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206125.mp3",
+                "text": "\u5c11\u5e74\u304c\u6d17\u9762\u30bf\u30aa\u30eb\u3067\u3001\u9854\u3092\u6d17\u3063\u3066\u3044\u308b\u3002",
+                "english": "The boy is washing his face with a washcloth.",
+                "en_audio": "",
+                "kana": "\u3057\u3087\u3046\u306d\u3093\u304c\u305b\u3093\u3081\u3093\u30bf\u30aa\u30eb\u3067\u3001\u304b\u304a\u3092\u3042\u3089\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Sh\u014dnen ga senmen taoru de kao o aratte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1850.mp3",
+                "text": "\u79c1\u306e\u59bb\u306f\u7f8e\u3057\u3044\u9854\u3092\u3057\u3066\u3044\u308b\u3002",
+                "english": "My wife has a beautiful face.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306e\u3064\u307e\u306f\u3046\u3064\u304f\u3057\u3044\u304b\u304a\u3092\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Watashi no tsuma wa utsukushii kao o shite iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206125.mp3",
+                "text": "\u5c11\u5e74\u304c\u6d17\u9762\u30bf\u30aa\u30eb\u3067\u3001\u9854\u3092\u6d17\u3063\u3066\u3044\u308b\u3002",
+                "english": "The boy is washing his face with a washcloth.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/106446.mp3",
+                "kana": "\u3057\u3087\u3046\u306d\u3093\u304c\u305b\u3093\u3081\u3093\u30bf\u30aa\u30eb\u3067\u3001\u304b\u304a\u3092\u3042\u3089\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Sh\u014dnen ga senmen taoru de kao o aratte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1850.mp3",
+                "text": "\u79c1\u306e\u59bb\u306f\u7f8e\u3057\u3044\u9854\u3092\u3057\u3066\u3044\u308b\u3002",
+                "english": "My wife has a beautiful face.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5178.mp3",
+                "kana": "\u308f\u305f\u3057\u306e\u3064\u307e\u306f\u3046\u3064\u304f\u3057\u3044\u304b\u304a\u3092\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Watashi no tsuma wa utsukushii kao o shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1849.mp3",
+                "text": "\u53ef\u611b\u3044\u9854",
+                "english": "pretty face",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5180.mp3",
+                "kana": "\u304b\u308f\u3044\u3044\u304b\u304a",
+                "romaji": "kawaii kao"
+            }
+        ]
+    },
+    {
+        "img": "9306",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1851.mp3",
+        "class": "noun",
+        "english": "ear",
+        "flashcardId": "2152285",
+        "meaning": "ear (noun) - one of the organs on either side of your head that you hear with",
+        "id": "105",
+        "word": "\u8033",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5181.mp3",
+        "kana": "\u307f\u307f",
+        "romaji": "mimi",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1856.mp3",
+                "text": "\u53f3\u8033",
+                "english": "right ear",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5188.mp3",
+                "kana": "\u307f\u304e\u307f\u307f",
+                "romaji": "migi mimi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1855.mp3",
+                "text": "\u5185\u8033",
+                "english": "inner ear",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5187.mp3",
+                "kana": "\u306a\u3044\u3058",
+                "romaji": "naiji"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1853.mp3",
+                "text": "\u7a74\u3092\u3042\u3051\u305f\u8033",
+                "english": "pierced ear",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5185.mp3",
+                "kana": "\u3042\u306a\u3092\u3042\u3051\u305f\u307f\u307f",
+                "romaji": "ana o aketa mimi"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/258452.mp3",
+                "text": "\u5973\u306e\u5b50\u306f\u3001\u305d\u306e\u30a4\u30e4\u30ea\u30f3\u30b0\u3092\u8cb7\u3063\u305f\u3068\u304d\u306b\u8033\u306b\u7a74\u3092\u958b\u3051\u305f\u3002",
+                "english": "The girl pierced her ears when she bought the earrings.",
+                "en_audio": "",
+                "kana": "\u304a\u3093\u306a\u306e\u3053\u306f\u3001\u305d\u306e\u30a4\u30e4\u30ea\u30f3\u30b0\u3092\u304b\u3063\u305f\u3068\u304d\u306b\u307f\u307f\u306b\u3042\u306a\u3092\u3042\u3051\u305f\u3002",
+                "romaji": "Sono onna no ko wa, sono iyaringu o katta toki ni mimi ni ana o aketa."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1856.mp3",
+                "text": "\u53f3\u8033",
+                "english": "right ear",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5188.mp3",
+                "kana": "\u307f\u304e\u307f\u307f",
+                "romaji": "migi mimi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1855.mp3",
+                "text": "\u5185\u8033",
+                "english": "inner ear",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5187.mp3",
+                "kana": "\u306a\u3044\u3058",
+                "romaji": "naiji"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/258452.mp3",
+                "text": "\u5973\u306e\u5b50\u306f\u3001\u305d\u306e\u30a4\u30e4\u30ea\u30f3\u30b0\u3092\u8cb7\u3063\u305f\u3068\u304d\u306b\u8033\u306b\u7a74\u3092\u958b\u3051\u305f\u3002",
+                "english": "The girl pierced her ears when she bought the earrings.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5186.mp3",
+                "kana": "\u304a\u3093\u306a\u306e\u3053\u306f\u3001\u305d\u306e\u30a4\u30e4\u30ea\u30f3\u30b0\u3092\u304b\u3063\u305f\u3068\u304d\u306b\u307f\u307f\u306b\u3042\u306a\u3092\u3042\u3051\u305f\u3002",
+                "romaji": "Sono onna no ko wa, sono iyaringu o katta toki ni mimi ni ana o aketa."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1853.mp3",
+                "text": "\u7a74\u3092\u3042\u3051\u305f\u8033",
+                "english": "pierced ear",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5185.mp3",
+                "kana": "\u3042\u306a\u3092\u3042\u3051\u305f\u307f\u307f",
+                "romaji": "ana o aketa mimi"
+            }
+        ]
+    },
+    {
+        "img": "9194",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1857.mp3",
+        "class": "noun",
+        "english": "hair",
+        "flashcardId": "224172",
+        "meaning": "hair (noun) - the mass of things like fine threads that grows on your head",
+        "id": "107",
+        "word": "\u9aea",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5189.mp3",
+        "kana": "\u304b\u307f",
+        "romaji": "kami",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1859.mp3",
+                "text": "\u77ed\u3044\u9aea",
+                "english": "short hair",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5194.mp3",
+                "kana": "\u307f\u3058\u304b\u3044\u304b\u307f",
+                "romaji": "mijikai kami"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/258453.mp3",
+                "text": "\u7e2e\u308c\u305f\u9aea",
+                "english": "curly hair",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5193.mp3",
+                "kana": "\u3061\u3062\u308c\u305f\u304b\u307f",
+                "romaji": "chijireta kami"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206130.mp3",
+                "text": "\u305d\u306e\u5973\u6027\u306e\u9aea\u306f\u30d6\u30ed\u30f3\u30c9\u3067\u3059\u3002",
+                "english": "The woman has blonde hair.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u3058\u3087\u305b\u3044\u306e\u304b\u307f\u306f\u30d6\u30ed\u30f3\u30c9\u3067\u3059\u3002",
+                "romaji": "Sono josei no kami wa burondo desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206128.mp3",
+                "text": "\u305d\u306e\u5973\u6027\u306e\u9aea\u306f\u9ed2\u3044\u3002",
+                "english": "The woman has black hair.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u3058\u3087\u305b\u3044\u306e\u304b\u307f\u306f\u304f\u308d\u3044\u3002",
+                "romaji": "Sono josei no kami wa kuroi."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206127.mp3",
+                "text": "\u5f7c\u5973\u306e\u9aea\u306f\u8d64\u3044\u3002",
+                "english": "The hair on her head is red.",
+                "en_audio": "",
+                "kana": "\u304b\u306e\u3058\u3087\u306e\u304b\u307f\u306f\u3042\u304b\u3044\u3002",
+                "romaji": "Kanojo no kami wa akai."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206130.mp3",
+                "text": "\u305d\u306e\u5973\u6027\u306e\u9aea\u306f\u30d6\u30ed\u30f3\u30c9\u3067\u3059\u3002",
+                "english": "The woman has blonde hair.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86249.mp3",
+                "kana": "\u305d\u306e\u3058\u3087\u305b\u3044\u306e\u304b\u307f\u306f\u30d6\u30ed\u30f3\u30c9\u3067\u3059\u3002",
+                "romaji": "Sono josei no kami wa burondo desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206128.mp3",
+                "text": "\u305d\u306e\u5973\u6027\u306e\u9aea\u306f\u9ed2\u3044\u3002",
+                "english": "The woman has black hair.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86253.mp3",
+                "kana": "\u305d\u306e\u3058\u3087\u305b\u3044\u306e\u304b\u307f\u306f\u304f\u308d\u3044\u3002",
+                "romaji": "Sono josei no kami wa kuroi."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206127.mp3",
+                "text": "\u5f7c\u5973\u306e\u9aea\u306f\u8d64\u3044\u3002",
+                "english": "The hair on her head is red.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5192.mp3",
+                "kana": "\u304b\u306e\u3058\u3087\u306e\u304b\u307f\u306f\u3042\u304b\u3044\u3002",
+                "romaji": "Kanojo no kami wa akai."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1859.mp3",
+                "text": "\u77ed\u3044\u9aea",
+                "english": "short hair",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5194.mp3",
+                "kana": "\u307f\u3058\u304b\u3044\u304b\u307f",
+                "romaji": "mijikai kami"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/258453.mp3",
+                "text": "\u7e2e\u308c\u305f\u9aea",
+                "english": "curly hair",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5193.mp3",
+                "kana": "\u3061\u3062\u308c\u305f\u304b\u307f",
+                "romaji": "chijireta kami"
+            }
+        ]
+    },
+    {
+        "img": "9279",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1861.mp3",
+        "class": "noun",
+        "english": "mouth",
+        "flashcardId": "2152287",
+        "meaning": "mouth (noun) - \tthe part of your face which you put food into, or which you use for speaking",
+        "id": "112",
+        "word": "\u53e3",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5195.mp3",
+        "kana": "\u304f\u3061",
+        "romaji": "kuchi",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1862.mp3",
+                "text": "\u5927\u304d\u3044\u53e3",
+                "english": "big mouth",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5199.mp3",
+                "kana": "\u304a\u304a\u304d\u3044\u304f\u3061",
+                "romaji": "\u014dkii kuchi"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201703.mp3",
+                "text": "\u305d\u306e\u5973\u6027\u306f\u5927\u304d\u306a\u53e3\u3092\u3057\u3066\u3044\u308b\u3002",
+                "english": "The woman has a big mouth.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u3058\u3087\u305b\u3044\u306f\u304a\u304a\u304d\u306a\u304f\u3061\u3092\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Sono josei wa \u014dki na kuchi o shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1863.mp3",
+                "text": "\u53e3\u306b\u98df\u3079\u7269\u3092\u5165\u308c\u3066\u8a71\u3059\u306a\u3002",
+                "english": "Don't talk with food in your mouth.",
+                "en_audio": "",
+                "kana": "\u304f\u3061\u306b\u305f\u3079\u3082\u306e\u3092\u3044\u308c\u3066\u306f\u306a\u3059\u306a\u3002",
+                "romaji": "Kuchi ni tabemono o irete hanasu na."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201703.mp3",
+                "text": "\u305d\u306e\u5973\u6027\u306f\u5927\u304d\u306a\u53e3\u3092\u3057\u3066\u3044\u308b\u3002",
+                "english": "The woman has a big mouth.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197916.mp3",
+                "kana": "\u305d\u306e\u3058\u3087\u305b\u3044\u306f\u304a\u304a\u304d\u306a\u304f\u3061\u3092\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Sono josei wa \u014dki na kuchi o shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1863.mp3",
+                "text": "\u53e3\u306b\u98df\u3079\u7269\u3092\u5165\u308c\u3066\u8a71\u3059\u306a\u3002",
+                "english": "Don't talk with food in your mouth.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5198.mp3",
+                "kana": "\u304f\u3061\u306b\u305f\u3079\u3082\u306e\u3092\u3044\u308c\u3066\u306f\u306a\u3059\u306a\u3002",
+                "romaji": "Kuchi ni tabemono o irete hanasu na."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1862.mp3",
+                "text": "\u5927\u304d\u3044\u53e3",
+                "english": "big mouth",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5199.mp3",
+                "kana": "\u304a\u304a\u304d\u3044\u304f\u3061",
+                "romaji": "\u014dkii kuchi"
+            }
+        ]
+    },
+    {
+        "img": "8578",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271512.mp3",
+        "class": "noun",
+        "english": "cheek",
+        "flashcardId": "2164217",
+        "meaning": "cheek (noun) - the soft round part of your face below each of your eyes",
+        "id": "116",
+        "word": "\u982c",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262929.mp3",
+        "kana": "\u307b\u304a\u3001\u307b\u307b",
+        "romaji": "h\u014d, hoho",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206132.mp3",
+                "text": "\u982c\u306e\u305d\u3070\u304b\u3059",
+                "english": "freckles on a cheek",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197917.mp3",
+                "kana": "\u307b\u307b\u306e\u305d\u3070\u304b\u3059",
+                "romaji": "hoho no sobakasu"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/527379.mp3",
+                "text": "\u305d\u306e\u5b50\u3069\u3082\u306e\u982c\u306f\u8d64\u3044\u3067\u3059\u3002",
+                "english": "The child's cheeks are red.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u3053\u3069\u3082\u306e\u307b\u304a\u306f\u3042\u304b\u3044\u3067\u3059\u3002",
+                "romaji": "Sono kodomo no h\u014d wa akai desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206133.mp3",
+                "text": "\u305d\u306e\u5973\u6027\u306f\u304d\u308c\u3044\u306a\u982c\u3092\u3057\u3066\u3044\u308b\u3002",
+                "english": "The woman has beautiful cheeks.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u3058\u3087\u305b\u3044\u306f\u304d\u308c\u3044\u306a\u307b\u304a\u3092\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Sono josei wa kirei na h\u014d o shite iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/527379.mp3",
+                "text": "\u305d\u306e\u5b50\u3069\u3082\u306e\u982c\u306f\u8d64\u3044\u3067\u3059\u3002",
+                "english": "The child's cheeks are red.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/68518.mp3",
+                "kana": "\u305d\u306e\u3053\u3069\u3082\u306e\u307b\u304a\u306f\u3042\u304b\u3044\u3067\u3059\u3002",
+                "romaji": "Sono kodomo no h\u014d wa akai desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206133.mp3",
+                "text": "\u305d\u306e\u5973\u6027\u306f\u304d\u308c\u3044\u306a\u982c\u3092\u3057\u3066\u3044\u308b\u3002",
+                "english": "The woman has beautiful cheeks.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86610.mp3",
+                "kana": "\u305d\u306e\u3058\u3087\u305b\u3044\u306f\u304d\u308c\u3044\u306a\u307b\u304a\u3092\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Sono josei wa kirei na h\u014d o shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206132.mp3",
+                "text": "\u982c\u306e\u305d\u3070\u304b\u3059",
+                "english": "freckles on a cheek",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197917.mp3",
+                "kana": "\u307b\u307b\u306e\u305d\u3070\u304b\u3059",
+                "romaji": "hoho no sobakasu"
+            }
+        ]
+    },
+    {
+        "img": "8733",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1867.mp3",
+        "class": "noun",
+        "english": "nose",
+        "flashcardId": "224175",
+        "meaning": "nose (noun) - the part of a person's or animal's face used for smelling or breathing",
+        "id": "118",
+        "word": "\u9f3b",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5205.mp3",
+        "kana": "\u306f\u306a",
+        "romaji": "hana",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201705.mp3",
+                "text": "\u9f3b\u306e\u4e0a\u306e\u30cb\u30ad\u30d3",
+                "english": "pimple on the nose",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92559.mp3",
+                "kana": "\u306f\u306a\u306e\u3046\u3048\u306e\u30cb\u30ad\u30d3",
+                "romaji": "hana no ue no nikibi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1868.mp3",
+                "text": "\u4f4e\u3044\u9f3b",
+                "english": "narrow nose",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5209.mp3",
+                "kana": "\u3072\u304f\u3044\u306f\u306a",
+                "romaji": "hikui hana"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "",
+                "text": "\u9f3b\u304c\u8a70\u307e\u3063\u3066\u3044\u307e\u3059\u3002",
+                "english": "My nose is stuffy.",
+                "en_audio": "",
+                "kana": "\u306f\u306a\u304c\u3064\u307e\u3063\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Hana ga tsumatte imasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201704.mp3",
+                "text": "\u305d\u306e\u7537\u6027\u306f\u9f3b\u306e\u982d\u306b\u30cb\u30ad\u30d3\u304c\u3042\u308b\u3002",
+                "english": "The man has a pimple on his nose.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u3060\u3093\u305b\u3044\u306f\u306f\u306a\u306e\u3042\u305f\u307e\u306b\u30cb\u30ad\u30d3\u304c\u3042\u308b\u3002",
+                "romaji": "Sono dansei wa hana no atama ni nikibi ga aru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206136.mp3",
+                "text": "\u5f7c\u306f\u81ea\u5206\u306e\u9f3b\u304c\u6c17\u306b\u5165\u3089\u306a\u3044\u3088\u3046\u3067\u3059\u304c\u3001\u79c1\u306f\u597d\u304d\u3067\u3059\u3002",
+                "english": "He doesn't like his nose, but I like it.",
+                "en_audio": "",
+                "kana": "\u304b\u308c\u306f\u3058\u3076\u3093\u306e\u306f\u306a\u304c\u304d\u306b\u3044\u3089\u306a\u3044\u3088\u3046\u3067\u3059\u304c\u3001\u308f\u305f\u3057\u306f\u3059\u304d\u3067\u3059\u3002",
+                "romaji": "Kare wa jibun no hana ga ki ni iranai y\u014d desu ga, watashi wa suki desu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "",
+                "text": "\u9f3b\u304c\u8a70\u307e\u3063\u3066\u3044\u307e\u3059\u3002",
+                "english": "My nose is stuffy.",
+                "en_audio": "",
+                "kana": "\u306f\u306a\u304c\u3064\u307e\u3063\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Hana ga tsumatte imasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201705.mp3",
+                "text": "\u9f3b\u306e\u4e0a\u306e\u30cb\u30ad\u30d3",
+                "english": "pimple on the nose",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92559.mp3",
+                "kana": "\u306f\u306a\u306e\u3046\u3048\u306e\u30cb\u30ad\u30d3",
+                "romaji": "hana no ue no nikibi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201704.mp3",
+                "text": "\u305d\u306e\u7537\u6027\u306f\u9f3b\u306e\u982d\u306b\u30cb\u30ad\u30d3\u304c\u3042\u308b\u3002",
+                "english": "The man has a pimple on his nose.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92558.mp3",
+                "kana": "\u305d\u306e\u3060\u3093\u305b\u3044\u306f\u306f\u306a\u306e\u3042\u305f\u307e\u306b\u30cb\u30ad\u30d3\u304c\u3042\u308b\u3002",
+                "romaji": "Sono dansei wa hana no atama ni nikibi ga aru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206136.mp3",
+                "text": "\u5f7c\u306f\u81ea\u5206\u306e\u9f3b\u304c\u6c17\u306b\u5165\u3089\u306a\u3044\u3088\u3046\u3067\u3059\u304c\u3001\u79c1\u306f\u597d\u304d\u3067\u3059\u3002",
+                "english": "He doesn't like his nose, but I like it.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5208.mp3",
+                "kana": "\u304b\u308c\u306f\u3058\u3076\u3093\u306e\u306f\u306a\u304c\u304d\u306b\u3044\u3089\u306a\u3044\u3088\u3046\u3067\u3059\u304c\u3001\u308f\u305f\u3057\u306f\u3059\u304d\u3067\u3059\u3002",
+                "romaji": "Kare wa jibun no hana ga ki ni iranai y\u014d desu ga, watashi wa suki desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1868.mp3",
+                "text": "\u4f4e\u3044\u9f3b",
+                "english": "narrow nose",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5209.mp3",
+                "kana": "\u3072\u304f\u3044\u306f\u306a",
+                "romaji": "hikui hana"
+            }
+        ]
+    },
+    {
+        "img": "8770",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1878.mp3",
+        "class": "noun",
+        "english": "eye",
+        "flashcardId": "2152290",
+        "meaning": "eye (noun) - one of the two parts of the body that you use to see with",
+        "id": "125",
+        "word": "\u76ee",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262935.mp3",
+        "kana": "\u3081",
+        "romaji": "me",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1879.mp3",
+                "text": "\u76ee\u3092\u958b\u3051\u308b",
+                "english": "open eyes",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5225.mp3",
+                "kana": "\u3081\u3092\u3042\u3051\u308b",
+                "romaji": "me o akeru"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "",
+                "text": "\u76ee\u304c\u5145\u8840\u3057\u3066\u3044\u307e\u3059\u3002",
+                "english": "My eyes are bloodshot.",
+                "en_audio": "",
+                "kana": "\u3081\u304c\u3058\u3085\u3046\u3051\u3064\u3057\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Me ga j\u016bketsu shite imasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1882.mp3",
+                "text": "\u79c1\u306e\u59bb\u306f\u9752\u3044\u76ee\u3092\u3057\u3066\u3044\u308b\u3002",
+                "english": "My wife has blue eyes.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306e\u3064\u307e\u306f\u3042\u304a\u3044\u3081\u3092\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Watashi no tsuma wa aoi me o shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1881.mp3",
+                "text": "\u624b\u8853\u306e\u3042\u3068\u3001\u4e00\u9031\u9593\u5f7c\u306f\u76ee\u306b\u773c\u5e2f\u3092\u3057\u305f\u3002",
+                "english": "After surgery, he wore a patch on his eye for a week.",
+                "en_audio": "",
+                "kana": "\u3057\u3085\u3058\u3085\u3064\u306e\u3042\u3068\u3001\u3044\u3063\u3057\u3085\u3046\u304b\u3093\u304b\u308c\u306f\u3081\u306b\u304c\u3093\u305f\u3044\u3092\u3057\u305f\u3002",
+                "romaji": "Shujutsu no ato, i-ssh\u016bkan kare wa me ni gantai o shita."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "",
+                "text": "\u76ee\u304c\u5145\u8840\u3057\u3066\u3044\u307e\u3059\u3002",
+                "english": "My eyes are bloodshot.",
+                "en_audio": "",
+                "kana": "\u3081\u304c\u3058\u3085\u3046\u3051\u3064\u3057\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Me ga j\u016bketsu shite imasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1882.mp3",
+                "text": "\u79c1\u306e\u59bb\u306f\u9752\u3044\u76ee\u3092\u3057\u3066\u3044\u308b\u3002",
+                "english": "My wife has blue eyes.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5226.mp3",
+                "kana": "\u308f\u305f\u3057\u306e\u3064\u307e\u306f\u3042\u304a\u3044\u3081\u3092\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Watashi no tsuma wa aoi me o shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1881.mp3",
+                "text": "\u624b\u8853\u306e\u3042\u3068\u3001\u4e00\u9031\u9593\u5f7c\u306f\u76ee\u306b\u773c\u5e2f\u3092\u3057\u305f\u3002",
+                "english": "After surgery, he wore a patch on his eye for a week.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5224.mp3",
+                "kana": "\u3057\u3085\u3058\u3085\u3064\u306e\u3042\u3068\u3001\u3044\u3063\u3057\u3085\u3046\u304b\u3093\u304b\u308c\u306f\u3081\u306b\u304c\u3093\u305f\u3044\u3092\u3057\u305f\u3002",
+                "romaji": "Shujutsu no ato, i-ssh\u016bkan kare wa me ni gantai o shita."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1879.mp3",
+                "text": "\u76ee\u3092\u958b\u3051\u308b",
+                "english": "open eyes",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5225.mp3",
+                "kana": "\u3081\u3092\u3042\u3051\u308b",
+                "romaji": "me o akeru"
+            }
+        ]
+    },
+    {
+        "img": "9176",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/309536.mp3",
+        "class": "noun",
+        "english": "teeth",
+        "flashcardId": "224176",
+        "meaning": "teeth (noun) - plural form of \"tooth\". the hard white objects in your mouth that you use to bite and eat food",
+        "id": "28876",
+        "word": "\u6b6f",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305971.mp3",
+        "kana": "\u306f",
+        "romaji": "ha",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206137.mp3",
+                "text": "\u767d\u3044\u6b6f",
+                "english": "white teeth",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5214.mp3",
+                "kana": "\u3057\u308d\u3044\u306f",
+                "romaji": "shiroi ha"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206138.mp3",
+                "text": "\u7537\u6027\u304c\u6b6f\u304e\u3057\u308a\u3057\u3066\u3044\u308b\u3002",
+                "english": "The man is grinding his teeth.",
+                "en_audio": "",
+                "kana": "\u3060\u3093\u305b\u3044\u304c\u306f\u304e\u3057\u308a\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Dansei ga hagishiri shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/976733.mp3",
+                "text": "\u77ef\u6b63\u5668\u5177\u3092\u3064\u3051\u3066\u3001\u6b6f\u4e26\u3073\u3092\u77ef\u6b63\u3057\u307e\u3059\u3002",
+                "english": "To fix crooked teeth you can get braces.",
+                "en_audio": "",
+                "kana": "\u304d\u3087\u3046\u305b\u3044\u304d\u3050\u3092\u3064\u3051\u3066\u3001\u306f\u306a\u3089\u3073\u3092\u304d\u3087\u3046\u305b\u3044\u3057\u307e\u3059\u3002",
+                "romaji": "Ky\u014dsei kigu o tsukete, hanarabi o ky\u014dsei shimasu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206138.mp3",
+                "text": "\u7537\u6027\u304c\u6b6f\u304e\u3057\u308a\u3057\u3066\u3044\u308b\u3002",
+                "english": "The man is grinding his teeth.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197918.mp3",
+                "kana": "\u3060\u3093\u305b\u3044\u304c\u306f\u304e\u3057\u308a\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Dansei ga hagishiri shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206137.mp3",
+                "text": "\u767d\u3044\u6b6f",
+                "english": "white teeth",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5214.mp3",
+                "kana": "\u3057\u308d\u3044\u306f",
+                "romaji": "shiroi ha"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/976733.mp3",
+                "text": "\u77ef\u6b63\u5668\u5177\u3092\u3064\u3051\u3066\u3001\u6b6f\u4e26\u3073\u3092\u77ef\u6b63\u3057\u307e\u3059\u3002",
+                "english": "To fix crooked teeth you can get braces.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5210.mp3",
+                "kana": "\u304d\u3087\u3046\u305b\u3044\u304d\u3050\u3092\u3064\u3051\u3066\u3001\u306f\u306a\u3089\u3073\u3092\u304d\u3087\u3046\u305b\u3044\u3057\u307e\u3059\u3002",
+                "romaji": "Ky\u014dsei kigu o tsukete, hanarabi o ky\u014dsei shimasu."
+            }
+        ]
+    },
+    {
+        "img": "17316",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206224.mp3",
+        "class": "noun",
+        "english": "lip",
+        "flashcardId": "224178",
+        "meaning": "lip (noun) - one of the two soft parts around your mouth where your skin is redder or darker",
+        "id": "31939",
+        "word": "\u5507",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/447740.mp3",
+        "kana": "\u304f\u3061\u3073\u308b",
+        "romaji": "kuchibiru",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251335.mp3",
+                "text": "\u304d\u308c\u3044\u306a\u5507",
+                "english": "beautiful lips",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197919.mp3",
+                "kana": "\u304d\u308c\u3044\u306a\u304f\u3061\u3073\u308b",
+                "romaji": "kirei na kuchibiru"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251336.mp3",
+                "text": "\u4e0b\u5507\u304c\u4e0a\u5507\u3088\u308a\u5927\u304d\u3044\u3067\u3059\u3002",
+                "english": "The lower lip is bigger than the upper lip.",
+                "en_audio": "",
+                "kana": "\u3057\u305f\u304f\u3061\u3073\u308b\u304c\u3046\u308f\u304f\u3061\u3073\u308b\u3088\u308a\u304a\u304a\u304d\u3044\u3067\u3059\u3002",
+                "romaji": "Shitakuchibiru ga uwakuchibiru yori \u014dkii desu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251336.mp3",
+                "text": "\u4e0b\u5507\u304c\u4e0a\u5507\u3088\u308a\u5927\u304d\u3044\u3067\u3059\u3002",
+                "english": "The lower lip is bigger than the upper lip.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253518.mp3",
+                "kana": "\u3057\u305f\u304f\u3061\u3073\u308b\u304c\u3046\u308f\u304f\u3061\u3073\u308b\u3088\u308a\u304a\u304a\u304d\u3044\u3067\u3059\u3002",
+                "romaji": "Shitakuchibiru ga uwakuchibiru yori \u014dkii desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251335.mp3",
+                "text": "\u304d\u308c\u3044\u306a\u5507",
+                "english": "beautiful lips",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197919.mp3",
+                "kana": "\u304d\u308c\u3044\u306a\u304f\u3061\u3073\u308b",
+                "romaji": "kirei na kuchibiru"
+            }
+        ]
+    },
+    {
+        "img": "8250",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/205985.mp3",
+        "class": "noun",
+        "english": "mountain",
+        "flashcardId": "2152243",
+        "meaning": "mountain (noun) - an area of land that rises very high above the land around it and that is higher than a hill",
+        "id": "690",
+        "word": "\u5c71",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263087.mp3",
+        "kana": "\u3084\u307e",
+        "romaji": "yama",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206025.mp3",
+                "text": "\u5c71\u306e\u6e56",
+                "english": "mountain lake",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102688.mp3",
+                "kana": "\u3084\u307e\u306e\u307f\u305a\u3046\u307f",
+                "romaji": "yama no mizuumi"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/205991.mp3",
+                "text": "\u305d\u306e\u7537\u6027\u306f\u3001\u5c71\u3092\u81ea\u8ee2\u8eca\u3067\u99c6\u3051\u4e0b\u308a\u3066\u3044\u308b\u3002",
+                "english": "The man is riding his bike down the mountain.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u3060\u3093\u305b\u3044\u306f\u3001\u3084\u307e\u3092\u3058\u3066\u3093\u3057\u3083\u3067\u304b\u3051\u304a\u308a\u3066\u3044\u308b\u3002",
+                "romaji": "Sono dansei wa, yama o jitensha de kakeorite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/65489.mp3",
+                "text": "\u5bcc\u58eb\u5c71\u306f\u3068\u3066\u3082\u9ad8\u3044\u5c71\u3067\u3059\u3002",
+                "english": "Mt. Fuji is a very tall mountain.",
+                "en_audio": "",
+                "kana": "\u3075\u3058\u3055\u3093\u306f\u3068\u3066\u3082\u305f\u304b\u3044\u3084\u307e\u3067\u3059\u3002",
+                "romaji": "Fujisan wa totemo takai yama desu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/205991.mp3",
+                "text": "\u305d\u306e\u7537\u6027\u306f\u3001\u5c71\u3092\u81ea\u8ee2\u8eca\u3067\u99c6\u3051\u4e0b\u308a\u3066\u3044\u308b\u3002",
+                "english": "The man is riding his bike down the mountain.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3355.mp3",
+                "kana": "\u305d\u306e\u3060\u3093\u305b\u3044\u306f\u3001\u3084\u307e\u3092\u3058\u3066\u3093\u3057\u3083\u3067\u304b\u3051\u304a\u308a\u3066\u3044\u308b\u3002",
+                "romaji": "Sono dansei wa, yama o jitensha de kakeorite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/65489.mp3",
+                "text": "\u5bcc\u58eb\u5c71\u306f\u3068\u3066\u3082\u9ad8\u3044\u5c71\u3067\u3059\u3002",
+                "english": "Mt. Fuji is a very tall mountain.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/65490.mp3",
+                "kana": "\u3075\u3058\u3055\u3093\u306f\u3068\u3066\u3082\u305f\u304b\u3044\u3084\u307e\u3067\u3059\u3002",
+                "romaji": "Fujisan wa totemo takai yama desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206025.mp3",
+                "text": "\u5c71\u306e\u6e56",
+                "english": "mountain lake",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102688.mp3",
+                "kana": "\u3084\u307e\u306e\u307f\u305a\u3046\u307f",
+                "romaji": "yama no mizuumi"
+            }
+        ]
+    },
+    {
+        "img": "8946",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226715.mp3",
+        "class": "noun",
+        "english": "beach",
+        "flashcardId": "2164197",
+        "meaning": "beach (noun) - an area covered with sand or small rocks that is next to an ocean or lake",
+        "id": "691",
+        "word": "\u6d5c",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87929.mp3",
+        "kana": "\u306f\u307e",
+        "romaji": "hama",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201562.mp3",
+                "text": "\u7802\u6d5c",
+                "english": "sandy beach",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89332.mp3",
+                "kana": "\u3059\u306a\u306f\u307e",
+                "romaji": "sunahama"
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201562.mp3",
+                "text": "\u7802\u6d5c",
+                "english": "sandy beach",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89332.mp3",
+                "kana": "\u3059\u306a\u306f\u307e",
+                "romaji": "sunahama"
+            }
+        ]
+    },
+    {
+        "img": "9729",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/205993.mp3",
+        "class": "noun",
+        "english": "rain forest",
+        "flashcardId": "2166708",
+        "meaning": "rain forest (noun) - a tropical forest that receives a lot of rain and that has very tall trees",
+        "id": "693",
+        "word": "\u71b1\u5e2f\u96e8\u6797",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87931.mp3",
+        "kana": "\u306d\u3063\u305f\u3044\u3046\u308a\u3093",
+        "romaji": "nettai urin",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252081.mp3",
+                "text": "\u71b1\u5e2f\u96e8\u6797\u306e\u690d\u7269",
+                "english": "rainforest plants",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89337.mp3",
+                "kana": "\u306d\u3063\u305f\u3044\u3046\u308a\u3093\u306e\u3057\u3087\u304f\u3076\u3064",
+                "romaji": "nettai urin no shokubutsu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/205995.mp3",
+                "text": "\u71b1\u5e2f\u96e8\u6797",
+                "english": "tropical rain forest",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89338.mp3",
+                "kana": "\u306d\u3063\u305f\u3044\u3046\u308a\u3093",
+                "romaji": "nettai urin"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/205994.mp3",
+                "text": "\u73fe\u4ee3\u306e\u591a\u304f\u306e\u85ac\u306f\u3001\u71b1\u5e2f\u96e8\u6797\u3067\u767a\u898b\u3055\u308c\u305f\u690d\u7269\u304b\u3089\u3067\u304d\u3066\u3044\u308b\u3002",
+                "english": "Many modern medicines come from plants found in the rain forest.",
+                "en_audio": "",
+                "kana": "\u3052\u3093\u3060\u3044\u306e\u304a\u304a\u304f\u306e\u304f\u3059\u308a\u306f\u3001\u306d\u3063\u305f\u3044\u3046\u308a\u3093\u3067\u306f\u3063\u3051\u3093\u3055\u308c\u305f\u3057\u3087\u304f\u3076\u3064\u304b\u3089\u3067\u304d\u3066\u3044\u308b\u3002",
+                "romaji": "Gendai no \u014dku no kusuri wa, nettai urin de hakken sareta shokubutsu kara dekite iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252081.mp3",
+                "text": "\u71b1\u5e2f\u96e8\u6797\u306e\u690d\u7269",
+                "english": "rainforest plants",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89337.mp3",
+                "kana": "\u306d\u3063\u305f\u3044\u3046\u308a\u3093\u306e\u3057\u3087\u304f\u3076\u3064",
+                "romaji": "nettai urin no shokubutsu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/205995.mp3",
+                "text": "\u71b1\u5e2f\u96e8\u6797",
+                "english": "tropical rain forest",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89338.mp3",
+                "kana": "\u306d\u3063\u305f\u3044\u3046\u308a\u3093",
+                "romaji": "nettai urin"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/205994.mp3",
+                "text": "\u73fe\u4ee3\u306e\u591a\u304f\u306e\u85ac\u306f\u3001\u71b1\u5e2f\u96e8\u6797\u3067\u767a\u898b\u3055\u308c\u305f\u690d\u7269\u304b\u3089\u3067\u304d\u3066\u3044\u308b\u3002",
+                "english": "Many modern medicines come from plants found in the rain forest.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89336.mp3",
+                "kana": "\u3052\u3093\u3060\u3044\u306e\u304a\u304a\u304f\u306e\u304f\u3059\u308a\u306f\u3001\u306d\u3063\u305f\u3044\u3046\u308a\u3093\u3067\u306f\u3063\u3051\u3093\u3055\u308c\u305f\u3057\u3087\u304f\u3076\u3064\u304b\u3089\u3067\u304d\u3066\u3044\u308b\u3002",
+                "romaji": "Gendai no \u014dku no kusuri wa, nettai urin de hakken sareta shokubutsu kara dekite iru."
+            }
+        ]
+    },
+    {
+        "img": "8252",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/205996.mp3",
+        "class": "noun",
+        "english": "island",
+        "flashcardId": "224188",
+        "meaning": "island (noun) - a piece of land completely surrounded by water",
+        "id": "694",
+        "word": "\u5cf6",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89339.mp3",
+        "kana": "\u3057\u307e",
+        "romaji": "shima",
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252082.mp3",
+                "text": "\u5cf6\u306f\u6c34\u306b\u56f2\u307e\u308c\u3066\u3044\u308b\u3002",
+                "english": "An island is surrounded by water.",
+                "en_audio": "",
+                "kana": "\u3057\u307e\u306f\u307f\u305a\u306b\u304b\u3053\u307e\u308c\u3066\u3044\u308b\u3002",
+                "romaji": "Shima wa mizu ni kakomarete iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/205998.mp3",
+                "text": "\u30ae\u30ea\u30b7\u30e3\u306e\u56fd\u306f\u3001\u30e1\u30a4\u30f3\u3068\u306a\u308b\u534a\u5cf6\u3068\u3001\u6570\u5343\u306e\u5cf6\u3005\u304b\u3089\u306a\u3063\u3066\u3044\u308b\u3002",
+                "english": "The country of Greece consists of a mainland peninsula and thousands of islands.",
+                "en_audio": "",
+                "kana": "\u30ae\u30ea\u30b7\u30e3\u306e\u304f\u306b\u306f\u3001\u30e1\u30a4\u30f3\u3068\u306a\u308b\u306f\u3093\u3068\u3046\u3068\u3001\u3059\u3046\u305b\u3093\u306e\u3057\u307e\u3058\u307e\u304b\u3089\u306a\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Girisha no kuni wa, mein to naru hant\u014d to, s\u016b-sen no shimajima kara natte iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252082.mp3",
+                "text": "\u5cf6\u306f\u6c34\u306b\u56f2\u307e\u308c\u3066\u3044\u308b\u3002",
+                "english": "An island is surrounded by water.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263088.mp3",
+                "kana": "\u3057\u307e\u306f\u307f\u305a\u306b\u304b\u3053\u307e\u308c\u3066\u3044\u308b\u3002",
+                "romaji": "Shima wa mizu ni kakomarete iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/205998.mp3",
+                "text": "\u30ae\u30ea\u30b7\u30e3\u306e\u56fd\u306f\u3001\u30e1\u30a4\u30f3\u3068\u306a\u308b\u534a\u5cf6\u3068\u3001\u6570\u5343\u306e\u5cf6\u3005\u304b\u3089\u306a\u3063\u3066\u3044\u308b\u3002",
+                "english": "The country of Greece consists of a mainland peninsula and thousands of islands.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103147.mp3",
+                "kana": "\u30ae\u30ea\u30b7\u30e3\u306e\u304f\u306b\u306f\u3001\u30e1\u30a4\u30f3\u3068\u306a\u308b\u306f\u3093\u3068\u3046\u3068\u3001\u3059\u3046\u305b\u3093\u306e\u3057\u307e\u3058\u307e\u304b\u3089\u306a\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Girisha no kuni wa, mein to naru hant\u014d to, s\u016b-sen no shimajima kara natte iru."
+            }
+        ]
+    },
+    {
+        "img": "8830",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226718.mp3",
+        "class": "noun",
+        "english": "forest",
+        "flashcardId": "2166710",
+        "meaning": "forest (noun) - a large area of land that is covered with trees",
+        "id": "695",
+        "word": "\u68ee",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87933.mp3",
+        "kana": "\u3082\u308a",
+        "romaji": "mori",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206002.mp3",
+                "text": "\u68ee\u306e\u6728",
+                "english": "forest trees",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102674.mp3",
+                "kana": "\u3082\u308a\u306e\u304d",
+                "romaji": "mori no ki"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206004.mp3",
+                "text": "\u305d\u306e\u9e7f\u306f\u3001\u68ee\u306e\u4e2d\u306b\u9003\u3052\u3066\u884c\u3063\u305f\u3002",
+                "english": "That deer ran away into the forest.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u3057\u304b\u306f\u3001\u3082\u308a\u306e\u306a\u304b\u306b\u306b\u3052\u3066\u3044\u3063\u305f\u3002",
+                "romaji": "Sono shika wa mori no naka ni nigete itta."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206003.mp3",
+                "text": "\u4e16\u754c\u4e2d\u3067\u68ee\u306e\u898f\u6a21\u306f\u5c0f\u3055\u304f\u306a\u3063\u3066\u304d\u3066\u3044\u308b\u3002",
+                "english": "Forests across the world are shrinking in size.",
+                "en_audio": "",
+                "kana": "\u305b\u304b\u3044\u3058\u3085\u3046\u3067\u3082\u308a\u306e\u304d\u307c\u306f\u3061\u3044\u3055\u304f\u306a\u3063\u3066\u304d\u3066\u3044\u308b\u3002",
+                "romaji": "Sekai j\u016b de mori no kibo wa chiisaku natte kite iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206004.mp3",
+                "text": "\u305d\u306e\u9e7f\u306f\u3001\u68ee\u306e\u4e2d\u306b\u9003\u3052\u3066\u884c\u3063\u305f\u3002",
+                "english": "That deer ran away into the forest.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198062.mp3",
+                "kana": "\u305d\u306e\u3057\u304b\u306f\u3001\u3082\u308a\u306e\u306a\u304b\u306b\u306b\u3052\u3066\u3044\u3063\u305f\u3002",
+                "romaji": "Sono shika wa mori no naka ni nigete itta."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206003.mp3",
+                "text": "\u4e16\u754c\u4e2d\u3067\u68ee\u306e\u898f\u6a21\u306f\u5c0f\u3055\u304f\u306a\u3063\u3066\u304d\u3066\u3044\u308b\u3002",
+                "english": "Forests across the world are shrinking in size.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102672.mp3",
+                "kana": "\u305b\u304b\u3044\u3058\u3085\u3046\u3067\u3082\u308a\u306e\u304d\u307c\u306f\u3061\u3044\u3055\u304f\u306a\u3063\u3066\u304d\u3066\u3044\u308b\u3002",
+                "romaji": "Sekai j\u016b de mori no kibo wa chiisaku natte kite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206002.mp3",
+                "text": "\u68ee\u306e\u6728",
+                "english": "forest trees",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102674.mp3",
+                "kana": "\u3082\u308a\u306e\u304d",
+                "romaji": "mori no ki"
+            }
+        ]
+    },
+    {
+        "img": "10276",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206005.mp3",
+        "class": "noun",
+        "english": "river",
+        "flashcardId": "2166711",
+        "meaning": "river (noun) - a natural and continuous flow of water in a long line across a country into the sea",
+        "id": "696",
+        "word": "\u5ddd",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263089.mp3",
+        "kana": "\u304b\u308f",
+        "romaji": "kawa",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206012.mp3",
+                "text": "\u66f2\u304c\u308a\u304f\u306d\u3063\u305f\u5ddd",
+                "english": "winding river",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198065.mp3",
+                "kana": "\u307e\u304c\u308a\u304f\u306d\u3063\u305f\u304b\u308f",
+                "romaji": "magarikunetta kawa"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206008.mp3",
+                "text": "\u6d41\u308c\u308b\u5ddd",
+                "english": "running river",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102678.mp3",
+                "kana": "\u306a\u304c\u308c\u308b\u304b\u308f",
+                "romaji": "nagareru kawa"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375215.mp3",
+                "text": "\u5ddd\u4e0b\u308a",
+                "english": "river raft",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102676.mp3",
+                "kana": "\u304b\u308f\u304f\u3060\u308a",
+                "romaji": "kawakudari"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206013.mp3",
+                "text": "\u8336\u8272\u3044\u718a\u304c\u5ddd\u306e\u4e2d\u3092\u8d70\u3063\u3066\u3044\u308b\u3002",
+                "english": "The brown bear is running in the river.",
+                "en_audio": "",
+                "kana": "\u3061\u3083\u3044\u308d\u3044\u304f\u307e\u304c\u304b\u308f\u306e\u306a\u304b\u3092\u306f\u3057\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Chairoi kuma ga kawa no naka o hashitte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252083.mp3",
+                "text": "\u6d41\u308c\u308b\u5ddd\u304c\u6e13\u8c37\u3092\u4f5c\u308a\u307e\u3057\u305f\u3002",
+                "english": "The flowing river created the canyon.",
+                "en_audio": "",
+                "kana": "\u306a\u304c\u308c\u308b\u304b\u308f\u304c\u3051\u3044\u3053\u304f\u3092\u3064\u304f\u308a\u307e\u3057\u305f\u3002",
+                "romaji": "Nagareru kawa ga keikoku o tsukurimashita."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206010.mp3",
+                "text": "\u5ddd\u304c\u6c3e\u6feb\u3057\u3001\u753a\u3068\u8fd1\u96a3\u306e\u8fb2\u5834\u306b\u6d2a\u6c34\u3092\u3082\u305f\u3089\u3057\u305f\u3002",
+                "english": "The river overflowed and flooded the town and neighboring farms.",
+                "en_audio": "",
+                "kana": "\u304b\u308f\u304c\u306f\u3093\u3089\u3093\u3057\u3001\u307e\u3061\u3068\u304d\u3093\u308a\u3093\u306e\u306e\u3046\u3058\u3087\u3046\u306b\u3053\u3046\u305a\u3044\u3092\u3082\u305f\u3089\u3057\u305f\u3002",
+                "romaji": "Kawa ga hanran shi, machi to kinrin no n\u014dj\u014d ni k\u014dzui o motarashita."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206012.mp3",
+                "text": "\u66f2\u304c\u308a\u304f\u306d\u3063\u305f\u5ddd",
+                "english": "winding river",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198065.mp3",
+                "kana": "\u307e\u304c\u308a\u304f\u306d\u3063\u305f\u304b\u308f",
+                "romaji": "magarikunetta kawa"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206013.mp3",
+                "text": "\u8336\u8272\u3044\u718a\u304c\u5ddd\u306e\u4e2d\u3092\u8d70\u3063\u3066\u3044\u308b\u3002",
+                "english": "The brown bear is running in the river.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198063.mp3",
+                "kana": "\u3061\u3083\u3044\u308d\u3044\u304f\u307e\u304c\u304b\u308f\u306e\u306a\u304b\u3092\u306f\u3057\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Chairoi kuma ga kawa no naka o hashitte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252083.mp3",
+                "text": "\u6d41\u308c\u308b\u5ddd\u304c\u6e13\u8c37\u3092\u4f5c\u308a\u307e\u3057\u305f\u3002",
+                "english": "The flowing river created the canyon.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198064.mp3",
+                "kana": "\u306a\u304c\u308c\u308b\u304b\u308f\u304c\u3051\u3044\u3053\u304f\u3092\u3064\u304f\u308a\u307e\u3057\u305f\u3002",
+                "romaji": "Nagareru kawa ga keikoku o tsukurimashita."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206010.mp3",
+                "text": "\u5ddd\u304c\u6c3e\u6feb\u3057\u3001\u753a\u3068\u8fd1\u96a3\u306e\u8fb2\u5834\u306b\u6d2a\u6c34\u3092\u3082\u305f\u3089\u3057\u305f\u3002",
+                "english": "The river overflowed and flooded the town and neighboring farms.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102677.mp3",
+                "kana": "\u304b\u308f\u304c\u306f\u3093\u3089\u3093\u3057\u3001\u307e\u3061\u3068\u304d\u3093\u308a\u3093\u306e\u306e\u3046\u3058\u3087\u3046\u306b\u3053\u3046\u305a\u3044\u3092\u3082\u305f\u3089\u3057\u305f\u3002",
+                "romaji": "Kawa ga hanran shi, machi to kinrin no n\u014dj\u014d ni k\u014dzui o motarashita."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206008.mp3",
+                "text": "\u6d41\u308c\u308b\u5ddd",
+                "english": "running river",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102678.mp3",
+                "kana": "\u306a\u304c\u308c\u308b\u304b\u308f",
+                "romaji": "nagareru kawa"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375215.mp3",
+                "text": "\u5ddd\u4e0b\u308a",
+                "english": "river raft",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102676.mp3",
+                "kana": "\u304b\u308f\u304f\u3060\u308a",
+                "romaji": "kawakudari"
+            }
+        ]
+    },
+    {
+        "img": "20676",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206014.mp3",
+        "class": "noun",
+        "english": "ocean",
+        "flashcardId": "2152249",
+        "meaning": "ocean (noun) - the great mass of salt water that covers most of the Earth's surface",
+        "id": "699",
+        "word": "\u6d77",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/306141.mp3",
+        "kana": "\u3046\u307f",
+        "romaji": "umi",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206017.mp3",
+                "text": "\u9752\u3044\u6d77",
+                "english": "blue ocean",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102684.mp3",
+                "kana": "\u3042\u304a\u3044\u3046\u307f",
+                "romaji": "aoi umi"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200617.mp3",
+                "text": "\u30b5\u30e1\u304c\u3001\u6d77\u3092\u6cf3\u3044\u3067\u3044\u308b\u3002",
+                "english": "The shark is swimming in the ocean.",
+                "en_audio": "",
+                "kana": "\u30b5\u30e1\u304c\u3001\u3046\u307f\u3092\u304a\u3088\u3044\u3067\u3044\u308b\u3002",
+                "romaji": "Same ga, umi o oyoide iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201391.mp3",
+                "text": "\u30b9\u30d4\u30fc\u30c9\u30dc\u30fc\u30c8\u306e\u30ec\u30fc\u30b9\u304c\u6d77\u3067\u884c\u308f\u308c\u3066\u3044\u308b\u3002",
+                "english": "The speed boat is racing in the ocean.",
+                "en_audio": "",
+                "kana": "\u30b9\u30d4\u30fc\u30c9\u30dc\u30fc\u30c8\u306e\u30ec\u30fc\u30b9\u304c\u3046\u307f\u3067\u304a\u3053\u306a\u308f\u308c\u3066\u3044\u308b\u3002",
+                "romaji": "Sup\u012bdo b\u014dto no r\u0113su ga umi de okonawarete iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200617.mp3",
+                "text": "\u30b5\u30e1\u304c\u3001\u6d77\u3092\u6cf3\u3044\u3067\u3044\u308b\u3002",
+                "english": "The shark is swimming in the ocean.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90815.mp3",
+                "kana": "\u30b5\u30e1\u304c\u3001\u3046\u307f\u3092\u304a\u3088\u3044\u3067\u3044\u308b\u3002",
+                "romaji": "Same ga, umi o oyoide iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206017.mp3",
+                "text": "\u9752\u3044\u6d77",
+                "english": "blue ocean",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102684.mp3",
+                "kana": "\u3042\u304a\u3044\u3046\u307f",
+                "romaji": "aoi umi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201391.mp3",
+                "text": "\u30b9\u30d4\u30fc\u30c9\u30dc\u30fc\u30c8\u306e\u30ec\u30fc\u30b9\u304c\u6d77\u3067\u884c\u308f\u308c\u3066\u3044\u308b\u3002",
+                "english": "The speed boat is racing in the ocean.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102546.mp3",
+                "kana": "\u30b9\u30d4\u30fc\u30c9\u30dc\u30fc\u30c8\u306e\u30ec\u30fc\u30b9\u304c\u3046\u307f\u3067\u304a\u3053\u306a\u308f\u308c\u3066\u3044\u308b\u3002",
+                "romaji": "Sup\u012bdo b\u014dto no r\u0113su ga umi de okonawarete iru."
+            }
+        ]
+    },
+    {
+        "img": "8990",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206023.mp3",
+        "class": "noun",
+        "english": "lake",
+        "flashcardId": "224185",
+        "meaning": "lake (noun) - a large area of water surrounded by land",
+        "id": "702",
+        "word": "\u6e56",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87941.mp3",
+        "kana": "\u307f\u305a\u3046\u307f",
+        "romaji": "mizuumi",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206025.mp3",
+                "text": "\u5c71\u306e\u6e56",
+                "english": "mountain lake",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102688.mp3",
+                "kana": "\u3084\u307e\u306e\u307f\u305a\u3046\u307f",
+                "romaji": "yama no mizuumi"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206028.mp3",
+                "text": "\u767d\u9ce5\u304c\u6e56\u3067\u6cf3\u3044\u3067\u3044\u308b\u3002",
+                "english": "The swan is swimming in the lake.",
+                "en_audio": "",
+                "kana": "\u306f\u304f\u3061\u3087\u3046\u304c\u307f\u305a\u3046\u307f\u3067\u304a\u3088\u3044\u3067\u3044\u308b\u3002",
+                "romaji": "Hakuch\u014d ga mizuumi de oyoide iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206026.mp3",
+                "text": "\u590f\u306b\u306a\u308b\u3068\u3001\u79c1\u9054\u306f\u3001\u4f11\u6687\u3067\u6e56\u306e\u307b\u3068\u308a\u306e\u5c71\u5c0f\u5c4b\u306b\u884c\u304d\u307e\u3059\u3002",
+                "english": "In the summer, we go on vacation to a cabin by the lake.",
+                "en_audio": "",
+                "kana": "\u306a\u3064\u306b\u306a\u308b\u3068\u3001\u308f\u305f\u3057\u305f\u3061\u306f\u3001\u304d\u3085\u3046\u304b\u3067\u307f\u305a\u3046\u307f\u306e\u307b\u3068\u308a\u306e\u3084\u307e\u3054\u3084\u306b\u3044\u304d\u307e\u3059\u3002",
+                "romaji": "Natsu ni naru to, watashi-tachi wa ky\u016bka de mizuumi no hotori no yamagoya ni ikimasu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206028.mp3",
+                "text": "\u767d\u9ce5\u304c\u6e56\u3067\u6cf3\u3044\u3067\u3044\u308b\u3002",
+                "english": "The swan is swimming in the lake.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198066.mp3",
+                "kana": "\u306f\u304f\u3061\u3087\u3046\u304c\u307f\u305a\u3046\u307f\u3067\u304a\u3088\u3044\u3067\u3044\u308b\u3002",
+                "romaji": "Hakuch\u014d ga mizuumi de oyoide iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206026.mp3",
+                "text": "\u590f\u306b\u306a\u308b\u3068\u3001\u79c1\u9054\u306f\u3001\u4f11\u6687\u3067\u6e56\u306e\u307b\u3068\u308a\u306e\u5c71\u5c0f\u5c4b\u306b\u884c\u304d\u307e\u3059\u3002",
+                "english": "In the summer, we go on vacation to a cabin by the lake.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102686.mp3",
+                "kana": "\u306a\u3064\u306b\u306a\u308b\u3068\u3001\u308f\u305f\u3057\u305f\u3061\u306f\u3001\u304d\u3085\u3046\u304b\u3067\u307f\u305a\u3046\u307f\u306e\u307b\u3068\u308a\u306e\u3084\u307e\u3054\u3084\u306b\u3044\u304d\u307e\u3059\u3002",
+                "romaji": "Natsu ni naru to, watashi-tachi wa ky\u016bka de mizuumi no hotori no yamagoya ni ikimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206025.mp3",
+                "text": "\u5c71\u306e\u6e56",
+                "english": "mountain lake",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102688.mp3",
+                "kana": "\u3084\u307e\u306e\u307f\u305a\u3046\u307f",
+                "romaji": "yama no mizuumi"
+            }
+        ]
+    },
+    {
+        "img": "9575",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/830256.mp3",
+        "class": "noun",
+        "english": "field",
+        "flashcardId": "2164200",
+        "meaning": "field (noun) - an open area of land without trees or buildings",
+        "id": "703",
+        "word": "\u91ce\u539f",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87942.mp3",
+        "kana": "\u306e\u306f\u3089",
+        "romaji": "nohara",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206032.mp3",
+                "text": "\u91ce\u539f\u306b\u3044\u308b\u99ac",
+                "english": "horse in a field",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90797.mp3",
+                "kana": "\u306e\u306f\u3089\u306b\u3044\u308b\u3046\u307e",
+                "romaji": "nohara ni iru uma"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206033.mp3",
+                "text": "\u30c0\u30c1\u30e7\u30a6\u304c\u91ce\u539f\u3092\u8d70\u3063\u3066\u3044\u308b\u3002",
+                "english": "The ostrich is running in the field.",
+                "en_audio": "",
+                "kana": "\u30c0\u30c1\u30e7\u30a6\u304c\u306e\u306f\u3089\u3092\u306f\u3057\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Dach\u014d ga nohara o hashitte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206031.mp3",
+                "text": "\u91ce\u539f\u306b\u725b\u304c\u3044\u308b\u3002",
+                "english": "The cow is in the field.",
+                "en_audio": "",
+                "kana": "\u306e\u306f\u3089\u306b\u3046\u3057\u304c\u3044\u308b\u3002",
+                "romaji": "Nohara ni ushi ga iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206033.mp3",
+                "text": "\u30c0\u30c1\u30e7\u30a6\u304c\u91ce\u539f\u3092\u8d70\u3063\u3066\u3044\u308b\u3002",
+                "english": "The ostrich is running in the field.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253747.mp3",
+                "kana": "\u30c0\u30c1\u30e7\u30a6\u304c\u306e\u306f\u3089\u3092\u306f\u3057\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Dach\u014d ga nohara o hashitte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206032.mp3",
+                "text": "\u91ce\u539f\u306b\u3044\u308b\u99ac",
+                "english": "horse in a field",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90797.mp3",
+                "kana": "\u306e\u306f\u3089\u306b\u3044\u308b\u3046\u307e",
+                "romaji": "nohara ni iru uma"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206031.mp3",
+                "text": "\u91ce\u539f\u306b\u725b\u304c\u3044\u308b\u3002",
+                "english": "The cow is in the field.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198039.mp3",
+                "kana": "\u306e\u306f\u3089\u306b\u3046\u3057\u304c\u3044\u308b\u3002",
+                "romaji": "Nohara ni ushi ga iru."
+            }
+        ]
+    },
+    {
+        "img": "8259",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375218.mp3",
+        "class": "noun",
+        "english": "desert",
+        "flashcardId": "224187",
+        "meaning": "desert (noun) - a large area of land where it is always very hot and dry, and there is a lot of sand",
+        "id": "5496",
+        "word": "\u7802\u6f20",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4055.mp3",
+        "kana": "\u3055\u3070\u304f",
+        "romaji": "sabaku",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206147.mp3",
+                "text": "\u7802\u6f20\u306e\u7802",
+                "english": "desert sand",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4060.mp3",
+                "kana": "\u3055\u3070\u304f\u306e\u3059\u306a",
+                "romaji": "sabaku no suna"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206146.mp3",
+                "text": "\u7802\u6f20\u306e\u52d5\u7269",
+                "english": "desert animal",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4059.mp3",
+                "kana": "\u3055\u3070\u304f\u306e\u3069\u3046\u3076\u3064",
+                "romaji": "sabaku no d\u014dbutsu"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206149.mp3",
+                "text": "\u30e9\u30af\u30c0\u305f\u3061\u304c\u3001\u7802\u6f20\u306e\u4e2d\u3092\u6b69\u3044\u3066\u3044\u308b\u3002",
+                "english": "The camels are walking in the desert.",
+                "en_audio": "",
+                "kana": "\u30e9\u30af\u30c0\u305f\u3061\u304c\u3001\u3055\u3070\u304f\u306e\u306a\u304b\u3092\u3042\u308b\u3044\u3066\u3044\u308b\u3002",
+                "romaji": "Rakuda-tachi ga, sabaku no naka o aruite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206148.mp3",
+                "text": "\u7802\u6f20\u306f\u3001\u65e5\u4e2d\u3068\u3066\u3082\u6691\u304f\u3001\u591c\u306f\u5bd2\u3044\u3002",
+                "english": "The desert is extremely hot during the day, and cold at night.",
+                "en_audio": "",
+                "kana": "\u3055\u3070\u304f\u306f\u3001\u306b\u3063\u3061\u3085\u3046\u3068\u3066\u3082\u3042\u3064\u304f\u3001\u3088\u308b\u306f\u3055\u3080\u3044\u3002",
+                "romaji": "Sabaku wa, nitch\u016b totemo atsuku, yoru wa samui."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206149.mp3",
+                "text": "\u30e9\u30af\u30c0\u305f\u3061\u304c\u3001\u7802\u6f20\u306e\u4e2d\u3092\u6b69\u3044\u3066\u3044\u308b\u3002",
+                "english": "The camels are walking in the desert.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198067.mp3",
+                "kana": "\u30e9\u30af\u30c0\u305f\u3061\u304c\u3001\u3055\u3070\u304f\u306e\u306a\u304b\u3092\u3042\u308b\u3044\u3066\u3044\u308b\u3002",
+                "romaji": "Rakuda-tachi ga, sabaku no naka o aruite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206148.mp3",
+                "text": "\u7802\u6f20\u306f\u3001\u65e5\u4e2d\u3068\u3066\u3082\u6691\u304f\u3001\u591c\u306f\u5bd2\u3044\u3002",
+                "english": "The desert is extremely hot during the day, and cold at night.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4058.mp3",
+                "kana": "\u3055\u3070\u304f\u306f\u3001\u306b\u3063\u3061\u3085\u3046\u3068\u3066\u3082\u3042\u3064\u304f\u3001\u3088\u308b\u306f\u3055\u3080\u3044\u3002",
+                "romaji": "Sabaku wa, nitch\u016b totemo atsuku, yoru wa samui."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206147.mp3",
+                "text": "\u7802\u6f20\u306e\u7802",
+                "english": "desert sand",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4060.mp3",
+                "kana": "\u3055\u3070\u304f\u306e\u3059\u306a",
+                "romaji": "sabaku no suna"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206146.mp3",
+                "text": "\u7802\u6f20\u306e\u52d5\u7269",
+                "english": "desert animal",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4059.mp3",
+                "kana": "\u3055\u3070\u304f\u306e\u3069\u3046\u3076\u3064",
+                "romaji": "sabaku no d\u014dbutsu"
+            }
+        ]
+    },
+    {
+        "img": "10141",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1179733.mp3",
+        "class": "noun",
+        "english": "boss",
+        "flashcardId": "2164210",
+        "meaning": "boss (noun) - masculine. the person who employs you or who is in charge of you at work; boss (noun) - female. the person who employs you or who is in charge of you at work",
+        "id": "1092",
+        "word": "\u4e0a\u53f8",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/88358.mp3",
+        "kana": "\u3058\u3087\u3046\u3057",
+        "romaji": "j\u014dshi",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1342511.mp3",
+                "text": "\u4e0a\u53f8\u306b\u96fb\u8a71\u3059\u308b",
+                "english": "call the boss",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2130.mp3",
+                "kana": "\u3058\u3087\u3046\u3057\u306b\u3067\u3093\u308f\u3059\u308b",
+                "romaji": "j\u014dshi ni denwa suru"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201616.mp3",
+                "text": "\u4e0a\u53f8\u304c\u90e8\u4e0b\u3092\u53f1\u3063\u3066\u3044\u308b\u3002",
+                "english": "The boss is blaming the worker.",
+                "en_audio": "",
+                "kana": "\u3058\u3087\u3046\u3057\u304c\u3076\u304b\u3092\u3057\u304b\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "J\u014dshi ga buka o shikatte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227185.mp3",
+                "text": "\u4ed5\u4e8b\u3092\u4f11\u3080\u3068\u304d\u306f\u3001\u4e0a\u53f8\u306b\u96fb\u8a71\u3057\u306a\u3051\u308c\u3070\u306a\u3089\u306a\u3044\u3002",
+                "english": "I have to call my boss when I'm going to miss work.",
+                "en_audio": "",
+                "kana": "\u3057\u3054\u3068\u3092\u3084\u3059\u3080\u3068\u304d\u306f\u3001\u3058\u3087\u3046\u3057\u306b\u3067\u3093\u308f\u3057\u306a\u3051\u308c\u3070\u306a\u3089\u306a\u3044\u3002",
+                "romaji": "Shigoto o yasumu toki wa, j\u014dshi ni denwa shinakereba naranai."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201616.mp3",
+                "text": "\u4e0a\u53f8\u304c\u90e8\u4e0b\u3092\u53f1\u3063\u3066\u3044\u308b\u3002",
+                "english": "The boss is blaming the worker.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197971.mp3",
+                "kana": "\u3058\u3087\u3046\u3057\u304c\u3076\u304b\u3092\u3057\u304b\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "J\u014dshi ga buka o shikatte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227185.mp3",
+                "text": "\u4ed5\u4e8b\u3092\u4f11\u3080\u3068\u304d\u306f\u3001\u4e0a\u53f8\u306b\u96fb\u8a71\u3057\u306a\u3051\u308c\u3070\u306a\u3089\u306a\u3044\u3002",
+                "english": "I have to call my boss when I'm going to miss work.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1340290.mp3",
+                "kana": "\u3057\u3054\u3068\u3092\u3084\u3059\u3080\u3068\u304d\u306f\u3001\u3058\u3087\u3046\u3057\u306b\u3067\u3093\u308f\u3057\u306a\u3051\u308c\u3070\u306a\u3089\u306a\u3044\u3002",
+                "romaji": "Shigoto o yasumu toki wa, j\u014dshi ni denwa shinakereba naranai."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1342511.mp3",
+                "text": "\u4e0a\u53f8\u306b\u96fb\u8a71\u3059\u308b",
+                "english": "call the boss",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2130.mp3",
+                "kana": "\u3058\u3087\u3046\u3057\u306b\u3067\u3093\u308f\u3059\u308b",
+                "romaji": "j\u014dshi ni denwa suru"
+            }
+        ]
+    },
+    {
+        "img": "10141",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1179733.mp3",
+        "class": "noun",
+        "english": "boss",
+        "flashcardId": "2164210",
+        "meaning": "boss (noun) - masculine. the person who employs you or who is in charge of you at work; boss (noun) - female. the person who employs you or who is in charge of you at work",
+        "id": "1092",
+        "word": "\u4e0a\u53f8",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253965.mp3",
+        "kana": "\u3058\u3087\u3046\u3057",
+        "romaji": "j\u014dshi",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1342511.mp3",
+                "text": "\u4e0a\u53f8\u306b\u96fb\u8a71\u3059\u308b",
+                "english": "call the boss",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2130.mp3",
+                "kana": "\u3058\u3087\u3046\u3057\u306b\u3067\u3093\u308f\u3059\u308b",
+                "romaji": "j\u014dshi ni denwa suru"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201616.mp3",
+                "text": "\u4e0a\u53f8\u304c\u90e8\u4e0b\u3092\u53f1\u3063\u3066\u3044\u308b\u3002",
+                "english": "The boss is blaming the worker.",
+                "en_audio": "",
+                "kana": "\u3058\u3087\u3046\u3057\u304c\u3076\u304b\u3092\u3057\u304b\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "J\u014dshi ga buka o shikatte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227185.mp3",
+                "text": "\u4ed5\u4e8b\u3092\u4f11\u3080\u3068\u304d\u306f\u3001\u4e0a\u53f8\u306b\u96fb\u8a71\u3057\u306a\u3051\u308c\u3070\u306a\u3089\u306a\u3044\u3002",
+                "english": "I have to call my boss when I'm going to miss work.",
+                "en_audio": "",
+                "kana": "\u3057\u3054\u3068\u3092\u3084\u3059\u3080\u3068\u304d\u306f\u3001\u3058\u3087\u3046\u3057\u306b\u3067\u3093\u308f\u3057\u306a\u3051\u308c\u3070\u306a\u3089\u306a\u3044\u3002",
+                "romaji": "Shigoto o yasumu toki wa, j\u014dshi ni denwa shinakereba naranai."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201616.mp3",
+                "text": "\u4e0a\u53f8\u304c\u90e8\u4e0b\u3092\u53f1\u3063\u3066\u3044\u308b\u3002",
+                "english": "The boss is blaming the worker.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197971.mp3",
+                "kana": "\u3058\u3087\u3046\u3057\u304c\u3076\u304b\u3092\u3057\u304b\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "J\u014dshi ga buka o shikatte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227185.mp3",
+                "text": "\u4ed5\u4e8b\u3092\u4f11\u3080\u3068\u304d\u306f\u3001\u4e0a\u53f8\u306b\u96fb\u8a71\u3057\u306a\u3051\u308c\u3070\u306a\u3089\u306a\u3044\u3002",
+                "english": "I have to call my boss when I'm going to miss work.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1340290.mp3",
+                "kana": "\u3057\u3054\u3068\u3092\u3084\u3059\u3080\u3068\u304d\u306f\u3001\u3058\u3087\u3046\u3057\u306b\u3067\u3093\u308f\u3057\u306a\u3051\u308c\u3070\u306a\u3089\u306a\u3044\u3002",
+                "romaji": "Shigoto o yasumu toki wa, j\u014dshi ni denwa shinakereba naranai."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1342511.mp3",
+                "text": "\u4e0a\u53f8\u306b\u96fb\u8a71\u3059\u308b",
+                "english": "call the boss",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2130.mp3",
+                "kana": "\u3058\u3087\u3046\u3057\u306b\u3067\u3093\u308f\u3059\u308b",
+                "romaji": "j\u014dshi ni denwa suru"
+            }
+        ]
+    },
+    {
+        "img": "10092",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252694.mp3",
+        "class": "noun",
+        "english": "boss",
+        "flashcardId": "224194",
+        "meaning": "boss (noun) - masculine. the person who employs you or who is in charge of you at work; boss (noun) - female. the person who employs you or who is in charge of you at work",
+        "id": "34176",
+        "word": "\u4e0a\u53f8",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/88358.mp3",
+        "kana": "\u3058\u3087\u3046\u3057",
+        "romaji": "j\u014dshi",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252697.mp3",
+                "text": "\u53b3\u3057\u3044\u4e0a\u53f8",
+                "english": "strict boss",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197972.mp3",
+                "kana": "\u304d\u3073\u3057\u3044\u3058\u3087\u3046\u3057",
+                "romaji": "kibishii j\u014dshi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1342546.mp3",
+                "text": "\u4f1a\u793e\u306e\u4e0a\u53f8",
+                "english": "company boss",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2132.mp3",
+                "kana": "\u304b\u3044\u3057\u3083\u306e\u3058\u3087\u3046\u3057",
+                "romaji": "kaisha no j\u014dshi"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1342545.mp3",
+                "text": "\u4e0a\u53f8\u304c\u4f1a\u8b70\u3092\u958b\u3044\u3066\u3044\u308b\u3002",
+                "english": "The boss is holding a meeting.",
+                "en_audio": "",
+                "kana": "\u3058\u3087\u3046\u3057\u304c\u304b\u3044\u304e\u3092\u3072\u3089\u3044\u3066\u3044\u308b\u3002",
+                "romaji": "J\u014dshi ga kaigi o hiraite iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252697.mp3",
+                "text": "\u53b3\u3057\u3044\u4e0a\u53f8",
+                "english": "strict boss",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197972.mp3",
+                "kana": "\u304d\u3073\u3057\u3044\u3058\u3087\u3046\u3057",
+                "romaji": "kibishii j\u014dshi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1342546.mp3",
+                "text": "\u4f1a\u793e\u306e\u4e0a\u53f8",
+                "english": "company boss",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2132.mp3",
+                "kana": "\u304b\u3044\u3057\u3083\u306e\u3058\u3087\u3046\u3057",
+                "romaji": "kaisha no j\u014dshi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1342545.mp3",
+                "text": "\u4e0a\u53f8\u304c\u4f1a\u8b70\u3092\u958b\u3044\u3066\u3044\u308b\u3002",
+                "english": "The boss is holding a meeting.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2131.mp3",
+                "kana": "\u3058\u3087\u3046\u3057\u304c\u304b\u3044\u304e\u3092\u3072\u3089\u3044\u3066\u3044\u308b\u3002",
+                "romaji": "J\u014dshi ga kaigi o hiraite iru."
+            }
+        ]
+    },
+    {
+        "img": "10092",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252694.mp3",
+        "class": "noun",
+        "english": "boss",
+        "flashcardId": "224194",
+        "meaning": "boss (noun) - masculine. the person who employs you or who is in charge of you at work; boss (noun) - female. the person who employs you or who is in charge of you at work",
+        "id": "34176",
+        "word": "\u4e0a\u53f8",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253965.mp3",
+        "kana": "\u3058\u3087\u3046\u3057",
+        "romaji": "j\u014dshi",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252697.mp3",
+                "text": "\u53b3\u3057\u3044\u4e0a\u53f8",
+                "english": "strict boss",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197972.mp3",
+                "kana": "\u304d\u3073\u3057\u3044\u3058\u3087\u3046\u3057",
+                "romaji": "kibishii j\u014dshi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1342546.mp3",
+                "text": "\u4f1a\u793e\u306e\u4e0a\u53f8",
+                "english": "company boss",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2132.mp3",
+                "kana": "\u304b\u3044\u3057\u3083\u306e\u3058\u3087\u3046\u3057",
+                "romaji": "kaisha no j\u014dshi"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1342545.mp3",
+                "text": "\u4e0a\u53f8\u304c\u4f1a\u8b70\u3092\u958b\u3044\u3066\u3044\u308b\u3002",
+                "english": "The boss is holding a meeting.",
+                "en_audio": "",
+                "kana": "\u3058\u3087\u3046\u3057\u304c\u304b\u3044\u304e\u3092\u3072\u3089\u3044\u3066\u3044\u308b\u3002",
+                "romaji": "J\u014dshi ga kaigi o hiraite iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252697.mp3",
+                "text": "\u53b3\u3057\u3044\u4e0a\u53f8",
+                "english": "strict boss",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197972.mp3",
+                "kana": "\u304d\u3073\u3057\u3044\u3058\u3087\u3046\u3057",
+                "romaji": "kibishii j\u014dshi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1342546.mp3",
+                "text": "\u4f1a\u793e\u306e\u4e0a\u53f8",
+                "english": "company boss",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2132.mp3",
+                "kana": "\u304b\u3044\u3057\u3083\u306e\u3058\u3087\u3046\u3057",
+                "romaji": "kaisha no j\u014dshi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1342545.mp3",
+                "text": "\u4e0a\u53f8\u304c\u4f1a\u8b70\u3092\u958b\u3044\u3066\u3044\u308b\u3002",
+                "english": "The boss is holding a meeting.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2131.mp3",
+                "kana": "\u3058\u3087\u3046\u3057\u304c\u304b\u3044\u304e\u3092\u3072\u3089\u3044\u3066\u3044\u308b\u3002",
+                "romaji": "J\u014dshi ga kaigi o hiraite iru."
+            }
+        ]
+    },
+    {
+        "img": "9650",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/309592.mp3",
+        "class": "noun",
+        "english": "office",
+        "flashcardId": "224190",
+        "meaning": "office (noun) - a building that belongs to a company or organization, with rooms where people can work at desks",
+        "id": "1675",
+        "word": "\u30aa\u30d5\u30a3\u30b9",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/306114.mp3",
+        "kana": "\u30aa\u30d5\u30a3\u30b9",
+        "romaji": "ofisu",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1342526.mp3",
+                "text": "\u4f1a\u793e\u306e\u30aa\u30d5\u30a3\u30b9",
+                "english": "company office",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2154.mp3",
+                "kana": "\u304b\u3044\u3057\u3083\u306e\u30aa\u30d5\u30a3\u30b9",
+                "romaji": "kaisha no ofisu"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206110.mp3",
+                "text": "\u4eba\u3005\u306f\u30aa\u30d5\u30a3\u30b9\u3067\u50cd\u3044\u3066\u3044\u308b\u3002",
+                "english": "The people are working at the office.",
+                "en_audio": "",
+                "kana": "\u3072\u3068\u3073\u3068\u306f\u30aa\u30d5\u30a3\u30b9\u3067\u306f\u305f\u3089\u3044\u3066\u3044\u308b\u3002",
+                "romaji": "Hitobito wa ofisu de hataraite iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1342526.mp3",
+                "text": "\u4f1a\u793e\u306e\u30aa\u30d5\u30a3\u30b9",
+                "english": "company office",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2154.mp3",
+                "kana": "\u304b\u3044\u3057\u3083\u306e\u30aa\u30d5\u30a3\u30b9",
+                "romaji": "kaisha no ofisu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206110.mp3",
+                "text": "\u4eba\u3005\u306f\u30aa\u30d5\u30a3\u30b9\u3067\u50cd\u3044\u3066\u3044\u308b\u3002",
+                "english": "The people are working at the office.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197973.mp3",
+                "kana": "\u3072\u3068\u3073\u3068\u306f\u30aa\u30d5\u30a3\u30b9\u3067\u306f\u305f\u3089\u3044\u3066\u3044\u308b\u3002",
+                "romaji": "Hitobito wa ofisu de hataraite iru."
+            }
+        ]
+    },
+    {
+        "img": "9003",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2053.mp3",
+        "class": "noun",
+        "english": "coworker",
+        "flashcardId": "2164211",
+        "meaning": "coworker (noun) - omeone who works with you and has a similar position; colleague (noun) - a person who works with you",
+        "id": "5596",
+        "word": "\u540c\u50da",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5504.mp3",
+        "kana": "\u3069\u3046\u308a\u3087\u3046",
+        "romaji": "d\u014dry\u014d",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2054.mp3",
+                "text": "\u53cb\u4eba\u3067\u3042\u308a\u540c\u50da",
+                "english": "friend and coworker",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5508.mp3",
+                "kana": "\u3086\u3046\u3058\u3093\u3067\u3042\u308a\u3069\u3046\u308a\u3087\u3046",
+                "romaji": "y\u016bjin de ari d\u014dry\u014d"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/549487.mp3",
+                "text": "\u540c\u50da\u304c\u4f1a\u8b70\u3092\u3057\u3066\u3044\u308b\u3002",
+                "english": "The coworkers are having a meeting.",
+                "en_audio": "",
+                "kana": "\u3069\u3046\u308a\u3087\u3046\u304c\u304b\u3044\u304e\u3092\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "D\u014dry\u014d ga kaigi o shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/979520.mp3",
+                "text": "\u79c1\u306f\u3001\u6bce\u9031\u6728\u66dc\u65e5\u306f\u540c\u50da\u3068\u98df\u4e8b\u306b\u51fa\u304b\u3051\u308b\u3002",
+                "english": "I go out to eat with my coworker every Thursday.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306f\u3001\u307e\u3044\u3057\u3085\u3046\u3082\u304f\u3088\u3046\u3073\u306f\u3001\u3069\u3046\u308a\u3087\u3046\u3068\u3057\u3087\u304f\u3058\u306b\u3067\u304b\u3051\u308b\u3002",
+                "romaji": "Watashi wa, maish\u016b moku-y\u014dbi wa, d\u014dry\u014d to shokuji ni dekakeru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/549487.mp3",
+                "text": "\u540c\u50da\u304c\u4f1a\u8b70\u3092\u3057\u3066\u3044\u308b\u3002",
+                "english": "The coworkers are having a meeting.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197976.mp3",
+                "kana": "\u3069\u3046\u308a\u3087\u3046\u304c\u304b\u3044\u304e\u3092\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "D\u014dry\u014d ga kaigi o shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/979520.mp3",
+                "text": "\u79c1\u306f\u3001\u6bce\u9031\u6728\u66dc\u65e5\u306f\u540c\u50da\u3068\u98df\u4e8b\u306b\u51fa\u304b\u3051\u308b\u3002",
+                "english": "I go out to eat with my coworker every Thursday.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5507.mp3",
+                "kana": "\u308f\u305f\u3057\u306f\u3001\u307e\u3044\u3057\u3085\u3046\u3082\u304f\u3088\u3046\u3073\u306f\u3001\u3069\u3046\u308a\u3087\u3046\u3068\u3057\u3087\u304f\u3058\u306b\u3067\u304b\u3051\u308b\u3002",
+                "romaji": "Watashi wa, maish\u016b moku-y\u014dbi wa, d\u014dry\u014d to shokuji ni dekakeru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2054.mp3",
+                "text": "\u53cb\u4eba\u3067\u3042\u308a\u540c\u50da",
+                "english": "friend and coworker",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5508.mp3",
+                "kana": "\u3086\u3046\u3058\u3093\u3067\u3042\u308a\u3069\u3046\u308a\u3087\u3046",
+                "romaji": "y\u016bjin de ari d\u014dry\u014d"
+            }
+        ]
+    }
+]

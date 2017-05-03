@@ -1,0 +1,1749 @@
+[
+    {
+        "img": "17324",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/993.mp3",
+        "class": "noun",
+        "english": "television",
+        "flashcardId": "2165215",
+        "meaning": "TV; television (noun) - \ta piece of electronic equipment shaped like a box with a screen, on which you can watch programs",
+        "id": "781",
+        "word": "\u30c6\u30ec\u30d3",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305989.mp3",
+        "kana": "\u30c6\u30ec\u30d3",
+        "romaji": "terebi",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201570.mp3",
+                "text": "\u8584\u578b\u30c6\u30ec\u30d3",
+                "english": "flat screen television",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253779.mp3",
+                "kana": "\u3046\u3059\u304c\u305f\u30c6\u30ec\u30d3",
+                "romaji": "usugata terebi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/994.mp3",
+                "text": "\u30b1\u30fc\u30d6\u30eb\u30c6\u30ec\u30d3",
+                "english": "cable television",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3815.mp3",
+                "kana": "\u30b1\u30fc\u30d6\u30eb\u30c6\u30ec\u30d3",
+                "romaji": "k\u0113buru terebi"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252252.mp3",
+                "text": "\u30c6\u30ec\u30d3\u306f\u5c45\u9593\u306b\u3042\u308a\u307e\u3059\u3002",
+                "english": "The television is in the living room.",
+                "en_audio": "",
+                "kana": "\u30c6\u30ec\u30d3\u306f\u3044\u307e\u306b\u3042\u308a\u307e\u3059\u3002",
+                "romaji": "Terebi wa ima ni arimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/553798.mp3",
+                "text": "\u79c1\u306f\uff14\uff10\u30a4\u30f3\u30c1\u306e\u8584\u578b\u30c6\u30ec\u30d3\u3092\u8cb7\u3063\u305f\u3070\u304b\u308a\u3067\u3059\u3002",
+                "english": "I just bought a 40 inch flat screen television.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306f\u3088\u3093\u3058\u3085\u3046\u30a4\u30f3\u30c1\u306e\u3046\u3059\u304c\u305f\u30c6\u30ec\u30d3\u3092\u304b\u3063\u305f\u3070\u304b\u308a\u3067\u3059\u3002",
+                "romaji": "Watashi wa yon-j\u016b-inchi no usugata terebi o katta bakari desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/996.mp3",
+                "text": "\u30c6\u30ec\u30d3\u306f\u30a8\u30f3\u30bf\u30fc\u30c6\u30a4\u30e1\u30f3\u30c8\u3068\u30cb\u30e5\u30fc\u30b9\u306e\u512a\u308c\u305f\u60c5\u5831\u6e90\u3060\u3002",
+                "english": "Television is a great source of entertainment and news.",
+                "en_audio": "",
+                "kana": "\u30c6\u30ec\u30d3\u306f\u30a8\u30f3\u30bf\u30fc\u30c6\u30a4\u30e1\u30f3\u30c8\u3068\u30cb\u30e5\u30fc\u30b9\u306e\u3059\u3050\u308c\u305f\u3058\u3087\u3046\u307b\u3046\u3052\u3093\u3060\u3002",
+                "romaji": "Terebi wa ent\u0101teimento to ny\u016bsu no sugureta j\u014dh\u014dgen da."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201570.mp3",
+                "text": "\u8584\u578b\u30c6\u30ec\u30d3",
+                "english": "flat screen television",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253779.mp3",
+                "kana": "\u3046\u3059\u304c\u305f\u30c6\u30ec\u30d3",
+                "romaji": "usugata terebi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252252.mp3",
+                "text": "\u30c6\u30ec\u30d3\u306f\u5c45\u9593\u306b\u3042\u308a\u307e\u3059\u3002",
+                "english": "The television is in the living room.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198099.mp3",
+                "kana": "\u30c6\u30ec\u30d3\u306f\u3044\u307e\u306b\u3042\u308a\u307e\u3059\u3002",
+                "romaji": "Terebi wa ima ni arimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/553798.mp3",
+                "text": "\u79c1\u306f\uff14\uff10\u30a4\u30f3\u30c1\u306e\u8584\u578b\u30c6\u30ec\u30d3\u3092\u8cb7\u3063\u305f\u3070\u304b\u308a\u3067\u3059\u3002",
+                "english": "I just bought a 40 inch flat screen television.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3816.mp3",
+                "kana": "\u308f\u305f\u3057\u306f\u3088\u3093\u3058\u3085\u3046\u30a4\u30f3\u30c1\u306e\u3046\u3059\u304c\u305f\u30c6\u30ec\u30d3\u3092\u304b\u3063\u305f\u3070\u304b\u308a\u3067\u3059\u3002",
+                "romaji": "Watashi wa yon-j\u016b-inchi no usugata terebi o katta bakari desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/996.mp3",
+                "text": "\u30c6\u30ec\u30d3\u306f\u30a8\u30f3\u30bf\u30fc\u30c6\u30a4\u30e1\u30f3\u30c8\u3068\u30cb\u30e5\u30fc\u30b9\u306e\u512a\u308c\u305f\u60c5\u5831\u6e90\u3060\u3002",
+                "english": "Television is a great source of entertainment and news.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3814.mp3",
+                "kana": "\u30c6\u30ec\u30d3\u306f\u30a8\u30f3\u30bf\u30fc\u30c6\u30a4\u30e1\u30f3\u30c8\u3068\u30cb\u30e5\u30fc\u30b9\u306e\u3059\u3050\u308c\u305f\u3058\u3087\u3046\u307b\u3046\u3052\u3093\u3060\u3002",
+                "romaji": "Terebi wa ent\u0101teimento to ny\u016bsu no sugureta j\u014dh\u014dgen da."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/994.mp3",
+                "text": "\u30b1\u30fc\u30d6\u30eb\u30c6\u30ec\u30d3",
+                "english": "cable television",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3815.mp3",
+                "kana": "\u30b1\u30fc\u30d6\u30eb\u30c6\u30ec\u30d3",
+                "romaji": "k\u0113buru terebi"
+            }
+        ]
+    },
+    {
+        "img": "17323",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226820.mp3",
+        "class": "noun",
+        "english": "bookshelf",
+        "flashcardId": "2165209",
+        "meaning": "bookshelf (noun) - a shelf that you keep books on, or a piece of furniture used for holding books",
+        "id": "784",
+        "word": "\u672c\u68da",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/88031.mp3",
+        "kana": "\u307b\u3093\u3060\u306a",
+        "romaji": "hondana",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201576.mp3",
+                "text": "\u672c\u68da\u306e\u672c",
+                "english": "books on a bookshelf",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89234.mp3",
+                "kana": "\u307b\u3093\u3060\u306a\u306e\u307b\u3093",
+                "romaji": "hondana no hon"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226821.mp3",
+                "text": "\u672c\u68da\u306f\u672c\u3067\u4e00\u676f\u3060\u3002",
+                "english": "The bookshelf is full of books.",
+                "en_audio": "",
+                "kana": "\u307b\u3093\u3060\u306a\u306f\u307b\u3093\u3067\u3044\u3063\u3071\u3044\u3060\u3002",
+                "romaji": "Hondana wa hon de ippai da."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201577.mp3",
+                "text": "\u5f7c\u306f\u672c\u3092\u7247\u4ed8\u3051\u308b\u305f\u3081\u306b\u672c\u68da\u3092\u8cb7\u3063\u305f\u3002",
+                "english": "He bought a bookshelf to put his books on.",
+                "en_audio": "",
+                "kana": "\u304b\u308c\u306f\u307b\u3093\u3092\u304b\u305f\u3065\u3051\u308b\u305f\u3081\u306b\u307b\u3093\u3060\u306a\u3092\u304b\u3063\u305f\u3002",
+                "romaji": "Kare wa hon o katazukeru tame ni, hondana o katta."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226821.mp3",
+                "text": "\u672c\u68da\u306f\u672c\u3067\u4e00\u676f\u3060\u3002",
+                "english": "The bookshelf is full of books.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253787.mp3",
+                "kana": "\u307b\u3093\u3060\u306a\u306f\u307b\u3093\u3067\u3044\u3063\u3071\u3044\u3060\u3002",
+                "romaji": "Hondana wa hon de ippai da."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201577.mp3",
+                "text": "\u5f7c\u306f\u672c\u3092\u7247\u4ed8\u3051\u308b\u305f\u3081\u306b\u672c\u68da\u3092\u8cb7\u3063\u305f\u3002",
+                "english": "He bought a bookshelf to put his books on.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253786.mp3",
+                "kana": "\u304b\u308c\u306f\u307b\u3093\u3092\u304b\u305f\u3065\u3051\u308b\u305f\u3081\u306b\u307b\u3093\u3060\u306a\u3092\u304b\u3063\u305f\u3002",
+                "romaji": "Kare wa hon o katazukeru tame ni, hondana o katta."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201576.mp3",
+                "text": "\u672c\u68da\u306e\u672c",
+                "english": "books on a bookshelf",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89234.mp3",
+                "kana": "\u307b\u3093\u3060\u306a\u306e\u307b\u3093",
+                "romaji": "hondana no hon"
+            }
+        ]
+    },
+    {
+        "img": "20753",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/6921.mp3",
+        "class": "noun",
+        "english": "bed",
+        "flashcardId": "2165211",
+        "meaning": "bed (noun) - a piece of furniture that you sleep on",
+        "id": "791",
+        "word": "\u30d9\u30c3\u30c9",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/306108.mp3",
+        "kana": "\u30d9\u30c3\u30c9",
+        "romaji": "beddo",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201581.mp3",
+                "text": "\u30d9\u30c3\u30c9\u3067\u4f11\u3080",
+                "english": "rest in a bed",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253698.mp3",
+                "kana": "\u30d9\u30c3\u30c9\u3067\u3084\u3059\u3080",
+                "romaji": "beddo de yasumu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201579.mp3",
+                "text": "\u30ad\u30f3\u30b0\u30b5\u30a4\u30ba\u306e\u30d9\u30c3\u30c9",
+                "english": "king-sized bed",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86167.mp3",
+                "kana": "\u30ad\u30f3\u30b0\u30b5\u30a4\u30ba\u306e\u30d9\u30c3\u30c9",
+                "romaji": "kingusaizu no beddo"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201580.mp3",
+                "text": "\u305d\u306e\u5973\u6027\u306f\u30d9\u30c3\u30c9\u3067\u4f11\u3093\u3067\u3044\u308b\u3002",
+                "english": "The woman is resting in the bed.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u3058\u3087\u305b\u3044\u306f\u30d9\u30c3\u30c9\u3067\u3084\u3059\u3093\u3067\u3044\u308b\u3002",
+                "romaji": "Sono josei wa beddo de yasunde iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201581.mp3",
+                "text": "\u30d9\u30c3\u30c9\u3067\u4f11\u3080",
+                "english": "rest in a bed",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253698.mp3",
+                "kana": "\u30d9\u30c3\u30c9\u3067\u3084\u3059\u3080",
+                "romaji": "beddo de yasumu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201580.mp3",
+                "text": "\u305d\u306e\u5973\u6027\u306f\u30d9\u30c3\u30c9\u3067\u4f11\u3093\u3067\u3044\u308b\u3002",
+                "english": "The woman is resting in the bed.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197964.mp3",
+                "kana": "\u305d\u306e\u3058\u3087\u305b\u3044\u306f\u30d9\u30c3\u30c9\u3067\u3084\u3059\u3093\u3067\u3044\u308b\u3002",
+                "romaji": "Sono josei wa beddo de yasunde iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201579.mp3",
+                "text": "\u30ad\u30f3\u30b0\u30b5\u30a4\u30ba\u306e\u30d9\u30c3\u30c9",
+                "english": "king-sized bed",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86167.mp3",
+                "kana": "\u30ad\u30f3\u30b0\u30b5\u30a4\u30ba\u306e\u30d9\u30c3\u30c9",
+                "romaji": "kingusaizu no beddo"
+            }
+        ]
+    },
+    {
+        "img": "8686",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226834.mp3",
+        "class": "noun",
+        "english": "mirror",
+        "flashcardId": "224741",
+        "meaning": "mirror (noun) - a piece of special glass that you can look at and see yourself in\nin a mirror",
+        "id": "793",
+        "word": "\u93e1",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2552.mp3",
+        "kana": "\u304b\u304c\u307f",
+        "romaji": "kagami",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201589.mp3",
+                "text": "\u93e1\u306e\u4e2d\u306e\u81ea\u5206\u3092\u898b\u308b",
+                "english": "look at oneself in the mirror",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103751.mp3",
+                "kana": "\u304b\u304c\u307f\u306e\u306a\u304b\u306e\u3058\u3076\u3093\u3092\u307f\u308b",
+                "romaji": "kagami no naka no jibun o miru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/976724.mp3",
+                "text": "\u4e38\u3044\u93e1",
+                "english": "round mirror",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2557.mp3",
+                "kana": "\u307e\u308b\u3044\u304b\u304c\u307f",
+                "romaji": "marui kagami"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/298.mp3",
+                "text": "\u66c7\u3063\u305f\u93e1",
+                "english": "fogged over mirror",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2556.mp3",
+                "kana": "\u304f\u3082\u3063\u305f\u304b\u304c\u307f",
+                "romaji": "kumotta kagami"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252278.mp3",
+                "text": "\u93e1\u304c\u58c1\u306b\u639b\u304b\u3063\u3066\u3044\u308b\u3002",
+                "english": "The mirror is hanging on the wall.",
+                "en_audio": "",
+                "kana": "\u304b\u304c\u307f\u304c\u304b\u3079\u306b\u304b\u304b\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Kagami ga kabe ni kakatte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201585.mp3",
+                "text": "\u79c1\u306f\u3001\u6bce\u671d\u93e1\u3092\u898b\u308b\u306e\u304c\u5acc\u3067\u3059\u3002",
+                "english": "I hate to look into the mirror every morning.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306f\u3001\u307e\u3044\u3042\u3055\u304b\u304c\u307f\u3092\u307f\u308b\u306e\u304c\u3044\u3084\u3067\u3059\u3002",
+                "romaji": "Watashi wa, maiasa kagami o miru no ga iya desu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252278.mp3",
+                "text": "\u93e1\u304c\u58c1\u306b\u639b\u304b\u3063\u3066\u3044\u308b\u3002",
+                "english": "The mirror is hanging on the wall.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253789.mp3",
+                "kana": "\u304b\u304c\u307f\u304c\u304b\u3079\u306b\u304b\u304b\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Kagami ga kabe ni kakatte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201589.mp3",
+                "text": "\u93e1\u306e\u4e2d\u306e\u81ea\u5206\u3092\u898b\u308b",
+                "english": "look at oneself in the mirror",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103751.mp3",
+                "kana": "\u304b\u304c\u307f\u306e\u306a\u304b\u306e\u3058\u3076\u3093\u3092\u307f\u308b",
+                "romaji": "kagami no naka no jibun o miru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/976724.mp3",
+                "text": "\u4e38\u3044\u93e1",
+                "english": "round mirror",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2557.mp3",
+                "kana": "\u307e\u308b\u3044\u304b\u304c\u307f",
+                "romaji": "marui kagami"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/298.mp3",
+                "text": "\u66c7\u3063\u305f\u93e1",
+                "english": "fogged over mirror",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2556.mp3",
+                "kana": "\u304f\u3082\u3063\u305f\u304b\u304c\u307f",
+                "romaji": "kumotta kagami"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201585.mp3",
+                "text": "\u79c1\u306f\u3001\u6bce\u671d\u93e1\u3092\u898b\u308b\u306e\u304c\u5acc\u3067\u3059\u3002",
+                "english": "I hate to look into the mirror every morning.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2555.mp3",
+                "kana": "\u308f\u305f\u3057\u306f\u3001\u307e\u3044\u3042\u3055\u304b\u304c\u307f\u3092\u307f\u308b\u306e\u304c\u3044\u3084\u3067\u3059\u3002",
+                "romaji": "Watashi wa, maiasa kagami o miru no ga iya desu."
+            }
+        ]
+    },
+    {
+        "img": "17330",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/830254.mp3",
+        "class": "noun",
+        "english": "dresser",
+        "flashcardId": "224742",
+        "meaning": "dresser (noun) - \ta piece of furniture with drawers for storing clothes, sometimes with a mirror on top",
+        "id": "796",
+        "word": "\u305f\u3093\u3059",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/88043.mp3",
+        "kana": "\u305f\u3093\u3059",
+        "romaji": "tansu",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252287.mp3",
+                "text": "\u5316\u7ca7\u30c0\u30f3\u30b9\u306e\u68da",
+                "english": "dresser drawers",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86172.mp3",
+                "kana": "\u3051\u3057\u3087\u3046\u30c0\u30f3\u30b9\u306e\u305f\u306a",
+                "romaji": "kesh\u014d dansu no tana"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/553776.mp3",
+                "text": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306e\u5316\u7ca7\u30c0\u30f3\u30b9",
+                "english": "antique dresser",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86173.mp3",
+                "kana": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306e\u3051\u3057\u3087\u3046\u30c0\u30f3\u30b9",
+                "romaji": "ant\u012bku no kesh\u014d dansu"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252288.mp3",
+                "text": "\u6728\u88fd\u306e\u5316\u7ca7\u30c0\u30f3\u30b9",
+                "english": "The wooden dresser is an antique.",
+                "en_audio": "",
+                "kana": "\u3082\u304f\u305b\u3044\u306e\u3051\u3057\u3087\u3046\u30c0\u30f3\u30b9",
+                "romaji": "mokusei no kesh\u014d dansu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/553775.mp3",
+                "text": "\u79c1\u306e\u9774\u4e0b\u3068\u4e0b\u7740\u306f\u3001\u5316\u7ca7\u30c0\u30f3\u30b9\u306e\u4e00\u756a\u4e0a\u306e\u5f15\u304d\u51fa\u3057\u306b\u5165\u3063\u3066\u3044\u308b\u3002",
+                "english": "My socks and underwear are in the top drawer of my dresser.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306e\u304f\u3064\u3057\u305f\u3068\u3057\u305f\u304e\u306f\u3001\u3051\u3057\u3087\u3046\u30c0\u30f3\u30b9\u306e\u3044\u3061\u3070\u3093\u3046\u3048\u306e\u3072\u304d\u3060\u3057\u306b\u306f\u3044\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Watashi no kutsushita to shitagi wa, kesh\u014d dansu no ichi-ban ue no hikidashi ni haitte iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252288.mp3",
+                "text": "\u6728\u88fd\u306e\u5316\u7ca7\u30c0\u30f3\u30b9",
+                "english": "The wooden dresser is an antique.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253790.mp3",
+                "kana": "\u3082\u304f\u305b\u3044\u306e\u3051\u3057\u3087\u3046\u30c0\u30f3\u30b9",
+                "romaji": "mokusei no kesh\u014d dansu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252287.mp3",
+                "text": "\u5316\u7ca7\u30c0\u30f3\u30b9\u306e\u68da",
+                "english": "dresser drawers",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86172.mp3",
+                "kana": "\u3051\u3057\u3087\u3046\u30c0\u30f3\u30b9\u306e\u305f\u306a",
+                "romaji": "kesh\u014d dansu no tana"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/553776.mp3",
+                "text": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306e\u5316\u7ca7\u30c0\u30f3\u30b9",
+                "english": "antique dresser",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86173.mp3",
+                "kana": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30af\u306e\u3051\u3057\u3087\u3046\u30c0\u30f3\u30b9",
+                "romaji": "ant\u012bku no kesh\u014d dansu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/553775.mp3",
+                "text": "\u79c1\u306e\u9774\u4e0b\u3068\u4e0b\u7740\u306f\u3001\u5316\u7ca7\u30c0\u30f3\u30b9\u306e\u4e00\u756a\u4e0a\u306e\u5f15\u304d\u51fa\u3057\u306b\u5165\u3063\u3066\u3044\u308b\u3002",
+                "english": "My socks and underwear are in the top drawer of my dresser.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86171.mp3",
+                "kana": "\u308f\u305f\u3057\u306e\u304f\u3064\u3057\u305f\u3068\u3057\u305f\u304e\u306f\u3001\u3051\u3057\u3087\u3046\u30c0\u30f3\u30b9\u306e\u3044\u3061\u3070\u3093\u3046\u3048\u306e\u3072\u304d\u3060\u3057\u306b\u306f\u3044\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Watashi no kutsushita to shitagi wa, kesh\u014d dansu no ichi-ban ue no hikidashi ni haitte iru."
+            }
+        ]
+    },
+    {
+        "img": "9033",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206865.mp3",
+        "class": "noun",
+        "english": "alarm clock",
+        "flashcardId": "2164297",
+        "meaning": "alarm clock (noun) - a clock that makes a noise at a particular time to wake you up",
+        "id": "803",
+        "word": "\u76ee\u899a\u307e\u3057\u6642\u8a08",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263006.mp3",
+        "kana": "\u3081\u3056\u307e\u3057\u3069\u3051\u3044",
+        "romaji": "mezamashidokei",
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206867.mp3",
+                "text": "\u76ee\u899a\u307e\u3057\u6642\u8a08\u3092\u671d\u4e94\u6642\u306b\u30bb\u30c3\u30c8\u3057\u305f\u3002",
+                "english": "The alarm clock is set for 5 a.m.",
+                "en_audio": "",
+                "kana": "\u3081\u3056\u307e\u3057\u3069\u3051\u3044\u3092\u3042\u3055\u3054\u3058\u306b\u30bb\u30c3\u30c8\u3057\u305f\u3002",
+                "romaji": "Mezamashidokei o asa go-ji ni setto shita."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206867.mp3",
+                "text": "\u76ee\u899a\u307e\u3057\u6642\u8a08\u3092\u671d\u4e94\u6642\u306b\u30bb\u30c3\u30c8\u3057\u305f\u3002",
+                "english": "The alarm clock is set for 5 a.m.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86183.mp3",
+                "kana": "\u3081\u3056\u307e\u3057\u3069\u3051\u3044\u3092\u3042\u3055\u3054\u3058\u306b\u30bb\u30c3\u30c8\u3057\u305f\u3002",
+                "romaji": "Mezamashidokei o asa go-ji ni setto shita."
+            }
+        ]
+    },
+    {
+        "img": "8759",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271585.mp3",
+        "class": "noun",
+        "english": "door",
+        "flashcardId": "2165207",
+        "meaning": "door (noun) - the large flat piece of wood, glass etc that you open and close when you go into or out of a building, room, vehicle etc, or when you open a cupboard",
+        "id": "5621",
+        "word": "\u30c9\u30a2",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/306056.mp3",
+        "kana": "\u30c9\u30a2",
+        "romaji": "doa",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201819.mp3",
+                "text": "\u6b63\u9762\u30c9\u30a2",
+                "english": "front door",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/106794.mp3",
+                "kana": "\u3057\u3087\u3046\u3081\u3093\u30c9\u30a2",
+                "romaji": "sh\u014dmen doa"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271586.mp3",
+                "text": "\u30c9\u30a2\u306f\u9589\u307e\u3063\u3066\u3044\u307e\u3059\u3002",
+                "english": "The door is closed.",
+                "en_audio": "",
+                "kana": "\u30c9\u30a2\u306f\u3057\u307e\u3063\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Doa wa shimatte imasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201822.mp3",
+                "text": "\u7537\u6027\u304c\u8eca\u306e\u30c9\u30a2\u306e\u30ab\u30ae\u3092\u958b\u3051\u3088\u3046\u3068\u3057\u3066\u3044\u308b\u3002",
+                "english": "The man is unlocking the car door with the key.",
+                "en_audio": "",
+                "kana": "\u3060\u3093\u305b\u3044\u304c\u304f\u308b\u307e\u306e\u30c9\u30a2\u306e\u30ab\u30ae\u3092\u3042\u3051\u3088\u3046\u3068\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Dansei ga, kuruma no doa no kagi o akey\u014d to shite iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271586.mp3",
+                "text": "\u30c9\u30a2\u306f\u9589\u307e\u3063\u3066\u3044\u307e\u3059\u3002",
+                "english": "The door is closed.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263007.mp3",
+                "kana": "\u30c9\u30a2\u306f\u3057\u307e\u3063\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Doa wa shimatte imasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201822.mp3",
+                "text": "\u7537\u6027\u304c\u8eca\u306e\u30c9\u30a2\u306e\u30ab\u30ae\u3092\u958b\u3051\u3088\u3046\u3068\u3057\u3066\u3044\u308b\u3002",
+                "english": "The man is unlocking the car door with the key.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197968.mp3",
+                "kana": "\u3060\u3093\u305b\u3044\u304c\u304f\u308b\u307e\u306e\u30c9\u30a2\u306e\u30ab\u30ae\u3092\u3042\u3051\u3088\u3046\u3068\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Dansei ga, kuruma no doa no kagi o akey\u014d to shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201819.mp3",
+                "text": "\u6b63\u9762\u30c9\u30a2",
+                "english": "front door",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/106794.mp3",
+                "kana": "\u3057\u3087\u3046\u3081\u3093\u30c9\u30a2",
+                "romaji": "sh\u014dmen doa"
+            }
+        ]
+    },
+    {
+        "img": "23192",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271587.mp3",
+        "class": "noun",
+        "english": "remote control",
+        "flashcardId": "2164298",
+        "meaning": "remote control (noun) - a thing you use for controlling a piece of electrical or electronic equipment without having to touch it, for example for turning a television on or off",
+        "id": "3621",
+        "word": "\u30ea\u30e2\u30b3\u30f3",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197969.mp3",
+        "kana": "\u30ea\u30e2\u30b3\u30f3",
+        "romaji": "rimokon",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271588.mp3",
+                "text": "\u30c6\u30ec\u30d3\u306e\u30ea\u30e2\u30b3\u30f3",
+                "english": "television remote control",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197970.mp3",
+                "kana": "\u30c6\u30ec\u30d3\u306e\u30ea\u30e2\u30b3\u30f3",
+                "romaji": "terebi no rimokon"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/258654.mp3",
+                "text": "\u7537\u6027\u304c\u30ea\u30e2\u30b3\u30f3\u3067\u30c6\u30ec\u30d3\u3092\u6d88\u3057\u3066\u3044\u307e\u3059\u3002",
+                "english": "The man is turning off the TV with the remote control.",
+                "en_audio": "",
+                "kana": "\u3060\u3093\u305b\u3044\u304c\u30ea\u30e2\u30b3\u30f3\u3067\u30c6\u30ec\u30d3\u3092\u3051\u3057\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Dansei ga rimokon de terebi o keshite imasu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271588.mp3",
+                "text": "\u30c6\u30ec\u30d3\u306e\u30ea\u30e2\u30b3\u30f3",
+                "english": "television remote control",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197970.mp3",
+                "kana": "\u30c6\u30ec\u30d3\u306e\u30ea\u30e2\u30b3\u30f3",
+                "romaji": "terebi no rimokon"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/258654.mp3",
+                "text": "\u7537\u6027\u304c\u30ea\u30e2\u30b3\u30f3\u3067\u30c6\u30ec\u30d3\u3092\u6d88\u3057\u3066\u3044\u307e\u3059\u3002",
+                "english": "The man is turning off the TV with the remote control.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103582.mp3",
+                "kana": "\u3060\u3093\u305b\u3044\u304c\u30ea\u30e2\u30b3\u30f3\u3067\u30c6\u30ec\u30d3\u3092\u3051\u3057\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Dansei ga rimokon de terebi o keshite imasu."
+            }
+        ]
+    },
+    {
+        "img": "8615",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375071.mp3",
+        "class": "verb",
+        "english": "wipe",
+        "flashcardId": "2164299",
+        "meaning": "wipe (verb) - to rub a surface with something in order to remove dirt, liquid etc",
+        "id": "1452",
+        "word": "\u62ed\u304f",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90372.mp3",
+        "kana": "\u3075\u304f",
+        "romaji": "fuku",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375073.mp3",
+                "text": "\u30dc\u30ed\u30ad\u30ec\u3067\u62ed\u304f",
+                "english": "wipe with a rag",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253916.mp3",
+                "kana": "\u30dc\u30ed\u30ad\u30ec\u3067\u3075\u304f",
+                "romaji": "borokire de fuku"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252571.mp3",
+                "text": "\u5e03\u3067\u30c6\u30fc\u30d6\u30eb\u3092\u62ed\u304f",
+                "english": "wiping the table with a cloth",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/447762.mp3",
+                "kana": "\u306c\u306e\u3067\u30c6\u30fc\u30d6\u30eb\u3092\u3075\u304f",
+                "romaji": "nuno de t\u0113buru o fuku"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375072.mp3",
+                "text": "\u30bf\u30aa\u30eb\u3067\u62ed\u304f",
+                "english": "wipe with a towel",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90376.mp3",
+                "kana": "\u30bf\u30aa\u30eb\u3067\u3075\u304f",
+                "romaji": "taoru de fuku"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252570.mp3",
+                "text": "\u305d\u306e\u4eba\u306f\u3001\u9ec4\u8272\u306e\u5e03\u3067\u30c6\u30fc\u30d6\u30eb\u3092\u62ed\u3044\u3066\u3044\u308b\u3002",
+                "english": "The person is wiping the table with a yellow cloth.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u3072\u3068\u306f\u3001\u304d\u3044\u308d\u306e\u306c\u306e\u3067\u30c6\u30fc\u30d6\u30eb\u3092\u3075\u3044\u3066\u3044\u308b\u3002",
+                "romaji": "Sono hito wa, kiiro no nuno de t\u0113buru o fuite iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375073.mp3",
+                "text": "\u30dc\u30ed\u30ad\u30ec\u3067\u62ed\u304f",
+                "english": "wipe with a rag",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253916.mp3",
+                "kana": "\u30dc\u30ed\u30ad\u30ec\u3067\u3075\u304f",
+                "romaji": "borokire de fuku"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252571.mp3",
+                "text": "\u5e03\u3067\u30c6\u30fc\u30d6\u30eb\u3092\u62ed\u304f",
+                "english": "wiping the table with a cloth",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/447762.mp3",
+                "kana": "\u306c\u306e\u3067\u30c6\u30fc\u30d6\u30eb\u3092\u3075\u304f",
+                "romaji": "nuno de t\u0113buru o fuku"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252570.mp3",
+                "text": "\u305d\u306e\u4eba\u306f\u3001\u9ec4\u8272\u306e\u5e03\u3067\u30c6\u30fc\u30d6\u30eb\u3092\u62ed\u3044\u3066\u3044\u308b\u3002",
+                "english": "The person is wiping the table with a yellow cloth.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90377.mp3",
+                "kana": "\u305d\u306e\u3072\u3068\u306f\u3001\u304d\u3044\u308d\u306e\u306c\u306e\u3067\u30c6\u30fc\u30d6\u30eb\u3092\u3075\u3044\u3066\u3044\u308b\u3002",
+                "romaji": "Sono hito wa, kiiro no nuno de t\u0113buru o fuite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375072.mp3",
+                "text": "\u30bf\u30aa\u30eb\u3067\u62ed\u304f",
+                "english": "wipe with a towel",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90376.mp3",
+                "kana": "\u30bf\u30aa\u30eb\u3067\u3075\u304f",
+                "romaji": "taoru de fuku"
+            }
+        ]
+    },
+    {
+        "img": "10063",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/309586.mp3",
+        "class": "verb",
+        "english": "clean",
+        "flashcardId": "224766",
+        "meaning": "clean (verb) - window",
+        "id": "34789",
+        "word": "\u6383\u9664\u3059\u308b",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/686110.mp3",
+        "kana": "\u305d\u3046\u3058\u3059\u308b",
+        "romaji": "s\u014dji suru",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305514.mp3",
+                "text": "\u7a93\u3092\u6383\u9664\u3059\u308b",
+                "english": "clean a window",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/304144.mp3",
+                "kana": "\u307e\u3069\u3092\u305d\u3046\u3058\u3059\u308b",
+                "romaji": "mado o s\u014dji suru"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305513.mp3",
+                "text": "\u5bb6\u653f\u5a66\u304c\u7a93\u3092\u6383\u9664\u3057\u305f\u3002",
+                "english": "The housekeeper cleaned the window.",
+                "en_audio": "",
+                "kana": "\u304b\u305b\u3044\u3075\u304c\u307e\u3069\u3092\u305d\u3046\u3058\u3057\u305f\u3002",
+                "romaji": "Kaseifu ga mado o s\u014dji shita."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305512.mp3",
+                "text": "\u5bb6\u653f\u5a66\u304c\u7a93\u3092\u6383\u9664\u3059\u308b\u3002",
+                "english": "The housekeeper cleans the window.",
+                "en_audio": "",
+                "kana": "\u304b\u305b\u3044\u3075\u304c\u307e\u3069\u3092\u305d\u3046\u3058\u3059\u308b\u3002",
+                "romaji": "Kaseifu ga mado o s\u014dji suru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305511.mp3",
+                "text": "\u5bb6\u653f\u5a66\u304c\u7a93\u3092\u6383\u9664\u3057\u3066\u3044\u308b\u3002",
+                "english": "The housekeeper is cleaning the window.",
+                "en_audio": "",
+                "kana": "\u304b\u305b\u3044\u3075\u304c\u307e\u3069\u3092\u305d\u3046\u3058\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Kaseifu ga mado o s\u014dji shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305510.mp3",
+                "text": "\u7537\u306e\u4eba\u304c\u30aa\u30fc\u30d6\u30f3\u3092\u6383\u9664\u3057\u3066\u3044\u308b\u3002",
+                "english": "The man is cleaning the oven.",
+                "en_audio": "",
+                "kana": "\u304a\u3068\u3053\u306e\u3072\u3068\u304c\u30aa\u30fc\u30d6\u30f3\u3092\u305d\u3046\u3058\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Otoko no hito ga \u014dbun o s\u014dji shite iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305514.mp3",
+                "text": "\u7a93\u3092\u6383\u9664\u3059\u308b",
+                "english": "clean a window",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/304144.mp3",
+                "kana": "\u307e\u3069\u3092\u305d\u3046\u3058\u3059\u308b",
+                "romaji": "mado o s\u014dji suru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305513.mp3",
+                "text": "\u5bb6\u653f\u5a66\u304c\u7a93\u3092\u6383\u9664\u3057\u305f\u3002",
+                "english": "The housekeeper cleaned the window.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/303643.mp3",
+                "kana": "\u304b\u305b\u3044\u3075\u304c\u307e\u3069\u3092\u305d\u3046\u3058\u3057\u305f\u3002",
+                "romaji": "Kaseifu ga mado o s\u014dji shita."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305512.mp3",
+                "text": "\u5bb6\u653f\u5a66\u304c\u7a93\u3092\u6383\u9664\u3059\u308b\u3002",
+                "english": "The housekeeper cleans the window.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/303642.mp3",
+                "kana": "\u304b\u305b\u3044\u3075\u304c\u307e\u3069\u3092\u305d\u3046\u3058\u3059\u308b\u3002",
+                "romaji": "Kaseifu ga mado o s\u014dji suru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305511.mp3",
+                "text": "\u5bb6\u653f\u5a66\u304c\u7a93\u3092\u6383\u9664\u3057\u3066\u3044\u308b\u3002",
+                "english": "The housekeeper is cleaning the window.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/303239.mp3",
+                "kana": "\u304b\u305b\u3044\u3075\u304c\u307e\u3069\u3092\u305d\u3046\u3058\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Kaseifu ga mado o s\u014dji shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305510.mp3",
+                "text": "\u7537\u306e\u4eba\u304c\u30aa\u30fc\u30d6\u30f3\u3092\u6383\u9664\u3057\u3066\u3044\u308b\u3002",
+                "english": "The man is cleaning the oven.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5391.mp3",
+                "kana": "\u304a\u3068\u3053\u306e\u3072\u3068\u304c\u30aa\u30fc\u30d6\u30f3\u3092\u305d\u3046\u3058\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Otoko no hito ga \u014dbun o s\u014dji shite iru."
+            }
+        ]
+    },
+    {
+        "img": "9916",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271606.mp3",
+        "class": "verb",
+        "english": "dry",
+        "flashcardId": "224767",
+        "meaning": "dry (verb) - transitive",
+        "id": "34784",
+        "word": "\u4e7e\u304b\u3059",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263022.mp3",
+        "kana": "\u304b\u308f\u304b\u3059",
+        "romaji": "kawakasu",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271608.mp3",
+                "text": "\u76bf\u3092\u4e7e\u304b\u3059",
+                "english": "dry the dishes",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263024.mp3",
+                "kana": "\u3055\u3089\u3092\u304b\u308f\u304b\u3059",
+                "romaji": "sara o kawakasu"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271607.mp3",
+                "text": "\u6d17\u6fef\u7269\u306f\u307e\u3060\u4e7e\u3044\u3066\u3044\u307e\u305b\u3093\u3002",
+                "english": "The laundry isn't dry yet.",
+                "en_audio": "",
+                "kana": "\u305b\u3093\u305f\u304f\u3082\u306e\u306f\u307e\u3060\u304b\u308f\u3044\u3066\u3044\u307e\u305b\u3093\u3002",
+                "romaji": "Sentakumono wa mada kawaite imasen."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271608.mp3",
+                "text": "\u76bf\u3092\u4e7e\u304b\u3059",
+                "english": "dry the dishes",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263024.mp3",
+                "kana": "\u3055\u3089\u3092\u304b\u308f\u304b\u3059",
+                "romaji": "sara o kawakasu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271607.mp3",
+                "text": "\u6d17\u6fef\u7269\u306f\u307e\u3060\u4e7e\u3044\u3066\u3044\u307e\u305b\u3093\u3002",
+                "english": "The laundry isn't dry yet.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263023.mp3",
+                "kana": "\u305b\u3093\u305f\u304f\u3082\u306e\u306f\u307e\u3060\u304b\u308f\u3044\u3066\u3044\u307e\u305b\u3093\u3002",
+                "romaji": "Sentakumono wa mada kawaite imasen."
+            }
+        ]
+    },
+    {
+        "img": "9013",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1006360.mp3",
+        "class": "phrase",
+        "english": "dust",
+        "flashcardId": "2407901",
+        "meaning": "dust (verb)",
+        "id": "3624",
+        "word": "\u307b\u3053\u308a\u3092\u6255\u3046",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263033.mp3",
+        "kana": "\u307b\u3053\u308a\u3092\u306f\u3089\u3046",
+        "romaji": "hokorio o harau"
+    },
+    {
+        "img": "10396",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271612.mp3",
+        "class": "phrase",
+        "english": "vacuum",
+        "flashcardId": "2164301",
+        "meaning": "vacuum (verb)",
+        "id": "34759",
+        "word": "\u6383\u9664\u6a5f\u3092\u304b\u3051\u308b",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263028.mp3",
+        "kana": "\u305d\u3046\u3058\u304d\u3092\u304b\u3051\u308b",
+        "romaji": "s\u014djiki o kakeru",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305532.mp3",
+                "text": "\u30ab\u30fc\u30da\u30c3\u30c8\u306b\u6383\u9664\u6a5f\u3092\u304b\u3051\u308b",
+                "english": "vacuum a carpet",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/304147.mp3",
+                "kana": "\u30ab\u30fc\u30da\u30c3\u30c8\u306b\u305d\u3046\u3058\u304d\u3092\u304b\u3051\u308b",
+                "romaji": "k\u0101petto ni s\u014djiki o kakeru"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305531.mp3",
+                "text": "\u4e3b\u5a66\u304c\u30ab\u30fc\u30da\u30c3\u30c8\u306b\u6383\u9664\u6a5f\u3092\u304b\u3051\u305f\u3002",
+                "english": "The homemaker vacuumed the carpet.",
+                "en_audio": "",
+                "kana": "\u3057\u3085\u3075\u304c\u30ab\u30fc\u30da\u30c3\u30c8\u306b\u305d\u3046\u3058\u304d\u3092\u304b\u3051\u305f\u3002",
+                "romaji": "Shufu ga k\u0101petto ni s\u014djiki o kaketa."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305530.mp3",
+                "text": "\u4e3b\u5a66\u304c\u30ab\u30fc\u30da\u30c3\u30c8\u306b\u6383\u9664\u6a5f\u3092\u304b\u3051\u308b\u3002",
+                "english": "The homemaker vacuums the carpet.",
+                "en_audio": "",
+                "kana": "\u3057\u3085\u3075\u304c\u30ab\u30fc\u30da\u30c3\u30c8\u306b\u305d\u3046\u3058\u304d\u3092\u304b\u3051\u308b\u3002",
+                "romaji": "Shufu ga k\u0101petto ni s\u014djiki o kakeru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305529.mp3",
+                "text": "\u4e3b\u5a66\u304c\u30ab\u30fc\u30da\u30c3\u30c8\u306b\u6383\u9664\u6a5f\u3092\u304b\u3051\u3066\u3044\u308b\u3002",
+                "english": "The homemaker is vacuuming the carpet.",
+                "en_audio": "",
+                "kana": "\u3057\u3085\u3075\u304c\u30ab\u30fc\u30da\u30c3\u30c8\u306b\u305d\u3046\u3058\u304d\u3092\u304b\u3051\u3066\u3044\u308b\u3002",
+                "romaji": "Shufu ga k\u0101petto ni s\u014djiki o kakete iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271614.mp3",
+                "text": "\u30ab\u30fc\u30da\u30c3\u30c8\u306b\u6383\u9664\u6a5f\u3092\u304b\u3051\u3066\u3044\u307e\u3059\u3002",
+                "english": "A person is vacuuming the carpet.",
+                "en_audio": "",
+                "kana": "\u30ab\u30fc\u30da\u30c3\u30c8\u306b\u305d\u3046\u3058\u304d\u3092\u304b\u3051\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "K\u0101petto ni s\u014djiki o kakete imasu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305532.mp3",
+                "text": "\u30ab\u30fc\u30da\u30c3\u30c8\u306b\u6383\u9664\u6a5f\u3092\u304b\u3051\u308b",
+                "english": "vacuum a carpet",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/304147.mp3",
+                "kana": "\u30ab\u30fc\u30da\u30c3\u30c8\u306b\u305d\u3046\u3058\u304d\u3092\u304b\u3051\u308b",
+                "romaji": "k\u0101petto ni s\u014djiki o kakeru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305531.mp3",
+                "text": "\u4e3b\u5a66\u304c\u30ab\u30fc\u30da\u30c3\u30c8\u306b\u6383\u9664\u6a5f\u3092\u304b\u3051\u305f\u3002",
+                "english": "The homemaker vacuumed the carpet.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/303654.mp3",
+                "kana": "\u3057\u3085\u3075\u304c\u30ab\u30fc\u30da\u30c3\u30c8\u306b\u305d\u3046\u3058\u304d\u3092\u304b\u3051\u305f\u3002",
+                "romaji": "Shufu ga k\u0101petto ni s\u014djiki o kaketa."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305530.mp3",
+                "text": "\u4e3b\u5a66\u304c\u30ab\u30fc\u30da\u30c3\u30c8\u306b\u6383\u9664\u6a5f\u3092\u304b\u3051\u308b\u3002",
+                "english": "The homemaker vacuums the carpet.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/303653.mp3",
+                "kana": "\u3057\u3085\u3075\u304c\u30ab\u30fc\u30da\u30c3\u30c8\u306b\u305d\u3046\u3058\u304d\u3092\u304b\u3051\u308b\u3002",
+                "romaji": "Shufu ga k\u0101petto ni s\u014djiki o kakeru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305529.mp3",
+                "text": "\u4e3b\u5a66\u304c\u30ab\u30fc\u30da\u30c3\u30c8\u306b\u6383\u9664\u6a5f\u3092\u304b\u3051\u3066\u3044\u308b\u3002",
+                "english": "The homemaker is vacuuming the carpet.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/303253.mp3",
+                "kana": "\u3057\u3085\u3075\u304c\u30ab\u30fc\u30da\u30c3\u30c8\u306b\u305d\u3046\u3058\u304d\u3092\u304b\u3051\u3066\u3044\u308b\u3002",
+                "romaji": "Shufu ga k\u0101petto ni s\u014djiki o kakete iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271614.mp3",
+                "text": "\u30ab\u30fc\u30da\u30c3\u30c8\u306b\u6383\u9664\u6a5f\u3092\u304b\u3051\u3066\u3044\u307e\u3059\u3002",
+                "english": "A person is vacuuming the carpet.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86702.mp3",
+                "kana": "\u30ab\u30fc\u30da\u30c3\u30c8\u306b\u305d\u3046\u3058\u304d\u3092\u304b\u3051\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "K\u0101petto ni s\u014djiki o kakete imasu."
+            }
+        ]
+    },
+    {
+        "img": "10371",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271615.mp3",
+        "class": "verb",
+        "english": "sweep",
+        "flashcardId": "2164302",
+        "meaning": "sweep (verb)",
+        "id": "34764",
+        "word": "\u6383\u304f",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263029.mp3",
+        "kana": "\u306f\u304f",
+        "romaji": "haku",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305518.mp3",
+                "text": "\u5916\u3092\u6383\u304f",
+                "english": "sweep outside",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/304145.mp3",
+                "kana": "\u305d\u3068\u3092\u306f\u304f",
+                "romaji": "soto o haku"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252213.mp3",
+                "text": "\u5e8a\u3092\u6383\u304f",
+                "english": "sweep the floor",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253775.mp3",
+                "kana": "\u3086\u304b\u3092\u306f\u304f",
+                "romaji": "yuka o haku"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305517.mp3",
+                "text": "\u5973\u306e\u4eba\u304c\u5916\u3092\u6383\u304f\u3002",
+                "english": "The woman sweeps outside.",
+                "en_audio": "",
+                "kana": "\u304a\u3093\u306a\u306e\u3072\u3068\u304c\u305d\u3068\u3092\u306f\u304f\u3002",
+                "romaji": "Onna no hito ga soto o haku."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305516.mp3",
+                "text": "\u5973\u306e\u4eba\u304c\u5916\u3092\u6383\u3044\u305f\u3002",
+                "english": "The woman swept outside.",
+                "en_audio": "",
+                "kana": "\u304a\u3093\u306a\u306e\u3072\u3068\u304c\u305d\u3068\u3092\u306f\u3044\u305f\u3002",
+                "romaji": "Onna no hito ga soto o haita."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305515.mp3",
+                "text": "\u5973\u306e\u4eba\u304c\u5916\u3092\u6383\u3044\u3066\u3044\u308b\u3002",
+                "english": "The woman is sweeping outside.",
+                "en_audio": "",
+                "kana": "\u304a\u3093\u306a\u306e\u3072\u3068\u304c\u305d\u3068\u3092\u306f\u3089\u3044\u3066\u3044\u308b\u3002",
+                "romaji": "Onna no hito ga soto o haite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271616.mp3",
+                "text": "\u5c0f\u3055\u3044\u5973\u306e\u5b50\u304c\u5e8a\u3092\u6383\u3044\u3066\u3044\u307e\u3059\u3002",
+                "english": "The little girl is sweeping the floor.",
+                "en_audio": "",
+                "kana": "\u3061\u3044\u3055\u3044\u304a\u3093\u306a\u306e\u3053\u304c\u3086\u304b\u3092\u306f\u3044\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Chiisai onna no ko ga yuka o haite imasu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305517.mp3",
+                "text": "\u5973\u306e\u4eba\u304c\u5916\u3092\u6383\u304f\u3002",
+                "english": "The woman sweeps outside.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/303645.mp3",
+                "kana": "\u304a\u3093\u306a\u306e\u3072\u3068\u304c\u305d\u3068\u3092\u306f\u304f\u3002",
+                "romaji": "Onna no hito ga soto o haku."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305518.mp3",
+                "text": "\u5916\u3092\u6383\u304f",
+                "english": "sweep outside",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/304145.mp3",
+                "kana": "\u305d\u3068\u3092\u306f\u304f",
+                "romaji": "soto o haku"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305516.mp3",
+                "text": "\u5973\u306e\u4eba\u304c\u5916\u3092\u6383\u3044\u305f\u3002",
+                "english": "The woman swept outside.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/303644.mp3",
+                "kana": "\u304a\u3093\u306a\u306e\u3072\u3068\u304c\u305d\u3068\u3092\u306f\u3044\u305f\u3002",
+                "romaji": "Onna no hito ga soto o haita."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305515.mp3",
+                "text": "\u5973\u306e\u4eba\u304c\u5916\u3092\u6383\u3044\u3066\u3044\u308b\u3002",
+                "english": "The woman is sweeping outside.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/303242.mp3",
+                "kana": "\u304a\u3093\u306a\u306e\u3072\u3068\u304c\u305d\u3068\u3092\u306f\u3089\u3044\u3066\u3044\u308b\u3002",
+                "romaji": "Onna no hito ga soto o haite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271616.mp3",
+                "text": "\u5c0f\u3055\u3044\u5973\u306e\u5b50\u304c\u5e8a\u3092\u6383\u3044\u3066\u3044\u307e\u3059\u3002",
+                "english": "The little girl is sweeping the floor.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263030.mp3",
+                "kana": "\u3061\u3044\u3055\u3044\u304a\u3093\u306a\u306e\u3053\u304c\u3086\u304b\u3092\u306f\u3044\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Chiisai onna no ko ga yuka o haite imasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252213.mp3",
+                "text": "\u5e8a\u3092\u6383\u304f",
+                "english": "sweep the floor",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253775.mp3",
+                "kana": "\u3086\u304b\u3092\u306f\u304f",
+                "romaji": "yuka o haku"
+            }
+        ]
+    },
+    {
+        "img": "9479",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271617.mp3",
+        "class": "verb",
+        "english": "put away",
+        "flashcardId": "2164303",
+        "meaning": "put away (verb) - to put in the designated place for storage",
+        "id": "34769",
+        "word": "\u7247\u4ed8\u3051\u308b",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263031.mp3",
+        "kana": "\u304b\u305f\u3065\u3051\u308b",
+        "romaji": "katazukeru",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305559.mp3",
+                "text": "\u6d0b\u670d\u3092\u7247\u4ed8\u3051\u308b",
+                "english": "put away clothes",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/304154.mp3",
+                "kana": "\u3088\u3046\u3075\u304f\u3092\u304b\u305f\u3065\u3051\u308b",
+                "romaji": "y\u014dfuku o katazukeru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271619.mp3",
+                "text": "\u304a\u3082\u3061\u3083\u3092\u7247\u4ed8\u3051\u308b",
+                "english": "put away the toys",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263032.mp3",
+                "kana": "\u304a\u3082\u3061\u3083\u3092\u304b\u305f\u3065\u3051\u308b",
+                "romaji": "omocha o katazukeru"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305558.mp3",
+                "text": "\u5973\u306e\u4eba\u304c\u6d0b\u670d\u3092\u7247\u4ed8\u3051\u305f\u3002",
+                "english": "The woman put away the clothes.",
+                "en_audio": "",
+                "kana": "\u304a\u3093\u306a\u306e\u3072\u3068\u304c\u3088\u3046\u3075\u304f\u3092\u304b\u305f\u3065\u3051\u305f\u3002",
+                "romaji": "Onna no hito ga y\u014dfuku o katazuketa."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305557.mp3",
+                "text": "\u5973\u306e\u4eba\u304c\u6d0b\u670d\u3092\u7247\u4ed8\u3051\u308b\u3002",
+                "english": "The woman puts away the clothes.",
+                "en_audio": "",
+                "kana": "\u304a\u3093\u306a\u306e\u3072\u3068\u304c\u3088\u3046\u3075\u304f\u3092\u304b\u305f\u3065\u3051\u308b\u3002",
+                "romaji": "Onna no hito ga y\u014dfuku o katazukeru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305556.mp3",
+                "text": "\u5973\u306e\u4eba\u304c\u6d0b\u670d\u3092\u7247\u4ed8\u3051\u3066\u3044\u308b\u3002",
+                "english": "The woman is putting away the clothes.",
+                "en_audio": "",
+                "kana": "\u304a\u3093\u306a\u306e\u3072\u3068\u304c\u3088\u3046\u3075\u304f\u3092\u304b\u305f\u3065\u3051\u3066\u3044\u308b\u3002",
+                "romaji": "Onna no hito ga y\u014dfuku o katazukete iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305559.mp3",
+                "text": "\u6d0b\u670d\u3092\u7247\u4ed8\u3051\u308b",
+                "english": "put away clothes",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/304154.mp3",
+                "kana": "\u3088\u3046\u3075\u304f\u3092\u304b\u305f\u3065\u3051\u308b",
+                "romaji": "y\u014dfuku o katazukeru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305558.mp3",
+                "text": "\u5973\u306e\u4eba\u304c\u6d0b\u670d\u3092\u7247\u4ed8\u3051\u305f\u3002",
+                "english": "The woman put away the clothes.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/303669.mp3",
+                "kana": "\u304a\u3093\u306a\u306e\u3072\u3068\u304c\u3088\u3046\u3075\u304f\u3092\u304b\u305f\u3065\u3051\u305f\u3002",
+                "romaji": "Onna no hito ga y\u014dfuku o katazuketa."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305557.mp3",
+                "text": "\u5973\u306e\u4eba\u304c\u6d0b\u670d\u3092\u7247\u4ed8\u3051\u308b\u3002",
+                "english": "The woman puts away the clothes.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/303668.mp3",
+                "kana": "\u304a\u3093\u306a\u306e\u3072\u3068\u304c\u3088\u3046\u3075\u304f\u3092\u304b\u305f\u3065\u3051\u308b\u3002",
+                "romaji": "Onna no hito ga y\u014dfuku o katazukeru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305556.mp3",
+                "text": "\u5973\u306e\u4eba\u304c\u6d0b\u670d\u3092\u7247\u4ed8\u3051\u3066\u3044\u308b\u3002",
+                "english": "The woman is putting away the clothes.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/303272.mp3",
+                "kana": "\u304a\u3093\u306a\u306e\u3072\u3068\u304c\u3088\u3046\u3075\u304f\u3092\u304b\u305f\u3065\u3051\u3066\u3044\u308b\u3002",
+                "romaji": "Onna no hito ga y\u014dfuku o katazukete iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271619.mp3",
+                "text": "\u304a\u3082\u3061\u3083\u3092\u7247\u4ed8\u3051\u308b",
+                "english": "put away the toys",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263032.mp3",
+                "kana": "\u304a\u3082\u3061\u3083\u3092\u304b\u305f\u3065\u3051\u308b",
+                "romaji": "omocha o katazukeru"
+            }
+        ]
+    },
+    {
+        "img": "8183",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271609.mp3",
+        "class": "phrase",
+        "english": "mop",
+        "flashcardId": "224768",
+        "meaning": "mop (verb) - floor",
+        "id": "34773",
+        "word": "\u30e2\u30c3\u30d7\u3092\u304b\u3051\u308b",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263025.mp3",
+        "kana": "\u30e2\u30c3\u30d7\u3092\u304b\u3051\u308b",
+        "romaji": "moppu o kakeru",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/306205.mp3",
+                "text": "\u5e8a\u306b\u30e2\u30c3\u30d7\u3092\u304b\u3051\u308b",
+                "english": "mop a floor",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/304148.mp3",
+                "kana": "\u3086\u304b\u306b\u30e2\u30c3\u30d7\u3092\u304b\u3051\u308b",
+                "romaji": "yuka ni moppu o kakeru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271610.mp3",
+                "text": "\u53f0\u6240\u306e\u5e8a\u306b\u30e2\u30c3\u30d7\u3092\u304b\u3051\u308b",
+                "english": "mop the kitchen floor",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263026.mp3",
+                "kana": "\u3060\u3044\u3069\u3053\u308d\u306e\u3086\u304b\u306b\u30e2\u30c3\u30d7\u3092\u304b\u3051\u308b",
+                "romaji": "daidokoro no yuka ni moppu o kakeru"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305534.mp3",
+                "text": "\u5bb6\u653f\u5a66\u304c\u5e8a\u306b\u30e2\u30c3\u30d7\u3092\u304b\u3051\u305f\u3002",
+                "english": "The housekeeper mopped the floor.",
+                "en_audio": "",
+                "kana": "\u304b\u305b\u3044\u3075\u304c\u3086\u304b\u306b\u30e2\u30c3\u30d7\u3092\u304b\u3051\u305f\u3002",
+                "romaji": "Kaseifu ga yuka ni moppu o kaketa."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/979514.mp3",
+                "text": "\u5bb6\u653f\u5a66\u304c\u5e8a\u306b\u30e2\u30c3\u30d7\u3092\u304b\u3051\u308b\u3002",
+                "english": "The housekeeper mops the floor.",
+                "en_audio": "",
+                "kana": "\u304b\u305b\u3044\u3075\u304c\u3086\u304b\u306b\u30e2\u30c3\u30d7\u3092\u304b\u3051\u308b\u3002",
+                "romaji": "Kaseifu ga yuka ni moppu o kakeru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305533.mp3",
+                "text": "\u5bb6\u653f\u5a66\u304c\u5e8a\u306b\u30e2\u30c3\u30d7\u3092\u304b\u3051\u3066\u3044\u308b\u3002",
+                "english": "The housekeeper is mopping the floor.",
+                "en_audio": "",
+                "kana": "\u304b\u305b\u3044\u3075\u304c\u3086\u304b\u306b\u30e2\u30c3\u30d7\u3092\u304b\u3051\u3066\u3044\u308b\u3002",
+                "romaji": "Kaseifu ga yuka ni moppu o kakete iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271611.mp3",
+                "text": "\u30b8\u30e5\u30fc\u30b9\u3092\u3053\u307c\u3057\u305f\u306e\u3067\u3001\u5e8a\u306b\u30e2\u30c3\u30d7\u3092\u304b\u3051\u307e\u3059\u3002",
+                "english": "I spilled the juice, so I'll mop the floor.",
+                "en_audio": "",
+                "kana": "\u30b8\u30e5\u30fc\u30b9\u3092\u3053\u307c\u3057\u305f\u306e\u3067\u3001\u3086\u304b\u306b\u30e2\u30c3\u30d7\u3092\u304b\u3051\u307e\u3059\u3002",
+                "romaji": "J\u016bsu o koboshita node, yuka ni moppu o kakemasu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305534.mp3",
+                "text": "\u5bb6\u653f\u5a66\u304c\u5e8a\u306b\u30e2\u30c3\u30d7\u3092\u304b\u3051\u305f\u3002",
+                "english": "The housekeeper mopped the floor.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/303656.mp3",
+                "kana": "\u304b\u305b\u3044\u3075\u304c\u3086\u304b\u306b\u30e2\u30c3\u30d7\u3092\u304b\u3051\u305f\u3002",
+                "romaji": "Kaseifu ga yuka ni moppu o kaketa."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/306205.mp3",
+                "text": "\u5e8a\u306b\u30e2\u30c3\u30d7\u3092\u304b\u3051\u308b",
+                "english": "mop a floor",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/304148.mp3",
+                "kana": "\u3086\u304b\u306b\u30e2\u30c3\u30d7\u3092\u304b\u3051\u308b",
+                "romaji": "yuka ni moppu o kakeru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/979514.mp3",
+                "text": "\u5bb6\u653f\u5a66\u304c\u5e8a\u306b\u30e2\u30c3\u30d7\u3092\u304b\u3051\u308b\u3002",
+                "english": "The housekeeper mops the floor.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/303655.mp3",
+                "kana": "\u304b\u305b\u3044\u3075\u304c\u3086\u304b\u306b\u30e2\u30c3\u30d7\u3092\u304b\u3051\u308b\u3002",
+                "romaji": "Kaseifu ga yuka ni moppu o kakeru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305533.mp3",
+                "text": "\u5bb6\u653f\u5a66\u304c\u5e8a\u306b\u30e2\u30c3\u30d7\u3092\u304b\u3051\u3066\u3044\u308b\u3002",
+                "english": "The housekeeper is mopping the floor.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/303256.mp3",
+                "kana": "\u304b\u305b\u3044\u3075\u304c\u3086\u304b\u306b\u30e2\u30c3\u30d7\u3092\u304b\u3051\u3066\u3044\u308b\u3002",
+                "romaji": "Kaseifu ga yuka ni moppu o kakete iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271611.mp3",
+                "text": "\u30b8\u30e5\u30fc\u30b9\u3092\u3053\u307c\u3057\u305f\u306e\u3067\u3001\u5e8a\u306b\u30e2\u30c3\u30d7\u3092\u304b\u3051\u307e\u3059\u3002",
+                "english": "I spilled the juice, so I'll mop the floor.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263027.mp3",
+                "kana": "\u30b8\u30e5\u30fc\u30b9\u3092\u3053\u307c\u3057\u305f\u306e\u3067\u3001\u3086\u304b\u306b\u30e2\u30c3\u30d7\u3092\u304b\u3051\u307e\u3059\u3002",
+                "romaji": "J\u016bsu o koboshita node, yuka ni moppu o kakemasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271610.mp3",
+                "text": "\u53f0\u6240\u306e\u5e8a\u306b\u30e2\u30c3\u30d7\u3092\u304b\u3051\u308b",
+                "english": "mop the kitchen floor",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263026.mp3",
+                "kana": "\u3060\u3044\u3069\u3053\u308d\u306e\u3086\u304b\u306b\u30e2\u30c3\u30d7\u3092\u304b\u3051\u308b",
+                "romaji": "daidokoro no yuka ni moppu o kakeru"
+            }
+        ]
+    },
+    {
+        "img": "8795",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/529179.mp3",
+        "class": "verb",
+        "english": "wash",
+        "flashcardId": "224771",
+        "meaning": "wash (verb) - wash clothing in laundry",
+        "id": "12297",
+        "word": "\u6d17\u6fef\u3059\u308b",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/929696.mp3",
+        "kana": "\u305b\u3093\u305f\u304f\u3059\u308b",
+        "romaji": "sentaku suru",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226282.mp3",
+                "text": "\u6c5a\u308c\u305f\u6d0b\u670d\u3092\u6d17\u6fef\u3059\u308b",
+                "english": "washing dirty clothes",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2749.mp3",
+                "kana": "\u3088\u3054\u308c\u305f\u3088\u3046\u3075\u304f\u3092\u305b\u3093\u305f\u304f\u3059\u308b",
+                "romaji": "yogoreta y\u014dfuku o sentaku suru"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271111.mp3",
+                "text": "\u5973\u6027\u306f\u6d17\u6fef\u6a5f\u3067\u6d17\u6fef\u3092\u3057\u3066\u3044\u308b\u3002",
+                "english": "The woman is washing clothes in the washing machine.",
+                "en_audio": "",
+                "kana": "\u3058\u3087\u305b\u3044\u306f\u305b\u3093\u305f\u304f\u304d\u3067\u305b\u3093\u305f\u304f\u3092\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Josei wa sentakuki de sentaku o shite iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271111.mp3",
+                "text": "\u5973\u6027\u306f\u6d17\u6fef\u6a5f\u3067\u6d17\u6fef\u3092\u3057\u3066\u3044\u308b\u3002",
+                "english": "The woman is washing clothes in the washing machine.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2750.mp3",
+                "kana": "\u3058\u3087\u305b\u3044\u306f\u305b\u3093\u305f\u304f\u304d\u3067\u305b\u3093\u305f\u304f\u3092\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Josei wa sentakuki de sentaku o shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226282.mp3",
+                "text": "\u6c5a\u308c\u305f\u6d0b\u670d\u3092\u6d17\u6fef\u3059\u308b",
+                "english": "washing dirty clothes",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2749.mp3",
+                "kana": "\u3088\u3054\u308c\u305f\u3088\u3046\u3075\u304f\u3092\u305b\u3093\u305f\u304f\u3059\u308b",
+                "romaji": "yogoreta y\u014dfuku o sentaku suru"
+            }
+        ]
+    },
+    {
+        "img": "709",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271623.mp3",
+        "class": "verb",
+        "english": "take out",
+        "flashcardId": "2164305",
+        "meaning": "take out (verb) - trash",
+        "id": "34763",
+        "word": "\u51fa\u3059",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263036.mp3",
+        "kana": "\u3060\u3059",
+        "romaji": "dasu",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271624.mp3",
+                "text": "\u30b4\u30df\u3092\u51fa\u3059",
+                "english": "take out the garbage",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263037.mp3",
+                "kana": "\u30b4\u30df\u3092\u3060\u3059",
+                "romaji": "gomi o dasu"
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271624.mp3",
+                "text": "\u30b4\u30df\u3092\u51fa\u3059",
+                "english": "take out the garbage",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263037.mp3",
+                "kana": "\u30b4\u30df\u3092\u3060\u3059",
+                "romaji": "gomi o dasu"
+            }
+        ]
+    },
+    {
+        "img": "9994",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/898.mp3",
+        "class": "noun",
+        "english": "ice",
+        "flashcardId": "2166687",
+        "meaning": "ice (noun) - water that has frozen into a solid state",
+        "id": "532",
+        "word": "\u6c37",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87760.mp3",
+        "kana": "\u3053\u304a\u308a",
+        "romaji": "k\u014dri",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/906.mp3",
+                "text": "\u6c37\u306b\u8986\u308f\u308c\u308b",
+                "english": "ice over",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3702.mp3",
+                "kana": "\u3053\u304a\u308a\u306b\u304a\u304a\u308f\u308c\u308b",
+                "romaji": "k\u014dri ni \u014dwareru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251891.mp3",
+                "text": "\u6c37\u306e\u4e0a\u3067\u30a2\u30a4\u30b9\u30b9\u30b1\u30fc\u30c8\u3092\u3059\u308b",
+                "english": "ice skating on the ice",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3704.mp3",
+                "kana": "\u3053\u304a\u308a\u306e\u3046\u3048\u3067\u30a2\u30a4\u30b9\u30b9\u30b1\u30fc\u30c8\u3092\u3059\u308b",
+                "romaji": "k\u014dri no ue de aisu suk\u0113to o suru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201532.mp3",
+                "text": "\u6eb6\u3051\u304b\u304b\u3063\u305f\u6c37",
+                "english": "melting ice cubes",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3701.mp3",
+                "kana": "\u3068\u3051\u304b\u304b\u3063\u305f\u3053\u304a\u308a",
+                "romaji": "toke kakatta k\u014dri"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/900.mp3",
+                "text": "\u6c37",
+                "english": "ice cube",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3696.mp3",
+                "kana": "\u3053\u304a\u308a",
+                "romaji": "k\u014dri"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/902.mp3",
+                "text": "\u6ed1\u308a\u3084\u3059\u3044\u6c37",
+                "english": "slippery ice",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3698.mp3",
+                "kana": "\u3059\u3079\u308a\u3084\u3059\u3044\u3053\u304a\u308a",
+                "romaji": "suberi yasui k\u014dri"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/907.mp3",
+                "text": "\u5b50\u4f9b\u9054\u304c\u6c37\u306e\u4e0a\u3067\u30a2\u30a4\u30b9\u30b9\u30b1\u30fc\u30c8\u3092\u3057\u3066\u3044\u308b\u3002",
+                "english": "The children are ice skating on the ice.",
+                "en_audio": "",
+                "kana": "\u3053\u3069\u3082\u305f\u3061\u304c\u3053\u304a\u308a\u306e\u3046\u3048\u3067\u30a2\u30a4\u30b9\u30b9\u30b1\u30fc\u30c8\u3092\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Kodomo-tachi ga k\u014dri no ue de aisu suk\u0113to o shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/904.mp3",
+                "text": "\u6c37\u304c\u6eb6\u3051\u3066\u3044\u308b\u3002",
+                "english": "The ice cubes are melting.",
+                "en_audio": "",
+                "kana": "\u3053\u304a\u308a\u304c\u3068\u3051\u3066\u3044\u308b\u3002",
+                "romaji": "K\u014dri ga tokete iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/903.mp3",
+                "text": "\u6c37\u306f\u3044\u308a\u307e\u305b\u3093\u3002",
+                "english": "No ice, please.",
+                "en_audio": "",
+                "kana": "\u3053\u304a\u308a\u306f\u3044\u308a\u307e\u305b\u3093\u3002",
+                "romaji": "K\u014dri wa irimasen."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201531.mp3",
+                "text": "\u6c37\u3067\u98f2\u307f\u7269\u3092\u51b7\u305f\u304f\u3057\u3066\u304a\u3044\u3066\u304f\u3060\u3055\u3044\u3002",
+                "english": "Keep your drinks cold with ice cubes.",
+                "en_audio": "",
+                "kana": "\u3053\u304a\u308a\u3067\u306e\u307f\u3082\u306e\u3092\u3064\u3081\u305f\u304f\u3057\u3066\u304a\u3044\u3066\u304f\u3060\u3055\u3044\u3002",
+                "romaji": "K\u014dri de nomimono o tsumetaku shite oite kudasai."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/906.mp3",
+                "text": "\u6c37\u306b\u8986\u308f\u308c\u308b",
+                "english": "ice over",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3702.mp3",
+                "kana": "\u3053\u304a\u308a\u306b\u304a\u304a\u308f\u308c\u308b",
+                "romaji": "k\u014dri ni \u014dwareru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/907.mp3",
+                "text": "\u5b50\u4f9b\u9054\u304c\u6c37\u306e\u4e0a\u3067\u30a2\u30a4\u30b9\u30b9\u30b1\u30fc\u30c8\u3092\u3057\u3066\u3044\u308b\u3002",
+                "english": "The children are ice skating on the ice.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3703.mp3",
+                "kana": "\u3053\u3069\u3082\u305f\u3061\u304c\u3053\u304a\u308a\u306e\u3046\u3048\u3067\u30a2\u30a4\u30b9\u30b9\u30b1\u30fc\u30c8\u3092\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Kodomo-tachi ga k\u014dri no ue de aisu suk\u0113to o shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251891.mp3",
+                "text": "\u6c37\u306e\u4e0a\u3067\u30a2\u30a4\u30b9\u30b9\u30b1\u30fc\u30c8\u3092\u3059\u308b",
+                "english": "ice skating on the ice",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3704.mp3",
+                "kana": "\u3053\u304a\u308a\u306e\u3046\u3048\u3067\u30a2\u30a4\u30b9\u30b9\u30b1\u30fc\u30c8\u3092\u3059\u308b",
+                "romaji": "k\u014dri no ue de aisu suk\u0113to o suru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201532.mp3",
+                "text": "\u6eb6\u3051\u304b\u304b\u3063\u305f\u6c37",
+                "english": "melting ice cubes",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3701.mp3",
+                "kana": "\u3068\u3051\u304b\u304b\u3063\u305f\u3053\u304a\u308a",
+                "romaji": "toke kakatta k\u014dri"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/904.mp3",
+                "text": "\u6c37\u304c\u6eb6\u3051\u3066\u3044\u308b\u3002",
+                "english": "The ice cubes are melting.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3700.mp3",
+                "kana": "\u3053\u304a\u308a\u304c\u3068\u3051\u3066\u3044\u308b\u3002",
+                "romaji": "K\u014dri ga tokete iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/900.mp3",
+                "text": "\u6c37",
+                "english": "ice cube",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3696.mp3",
+                "kana": "\u3053\u304a\u308a",
+                "romaji": "k\u014dri"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/902.mp3",
+                "text": "\u6ed1\u308a\u3084\u3059\u3044\u6c37",
+                "english": "slippery ice",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3698.mp3",
+                "kana": "\u3059\u3079\u308a\u3084\u3059\u3044\u3053\u304a\u308a",
+                "romaji": "suberi yasui k\u014dri"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/903.mp3",
+                "text": "\u6c37\u306f\u3044\u308a\u307e\u305b\u3093\u3002",
+                "english": "No ice, please.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3699.mp3",
+                "kana": "\u3053\u304a\u308a\u306f\u3044\u308a\u307e\u305b\u3093\u3002",
+                "romaji": "K\u014dri wa irimasen."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201531.mp3",
+                "text": "\u6c37\u3067\u98f2\u307f\u7269\u3092\u51b7\u305f\u304f\u3057\u3066\u304a\u3044\u3066\u304f\u3060\u3055\u3044\u3002",
+                "english": "Keep your drinks cold with ice cubes.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3695.mp3",
+                "kana": "\u3053\u304a\u308a\u3067\u306e\u307f\u3082\u306e\u3092\u3064\u3081\u305f\u304f\u3057\u3066\u304a\u3044\u3066\u304f\u3060\u3055\u3044\u3002",
+                "romaji": "K\u014dri de nomimono o tsumetaku shite oite kudasai."
+            }
+        ]
+    },
+    {
+        "img": "9025",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206892.mp3",
+        "class": "noun",
+        "english": "weather report",
+        "flashcardId": "2151396",
+        "meaning": "weather report (phrase)",
+        "id": "1636",
+        "word": "\u5929\u6c17\u4e88\u5831",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254198.mp3",
+        "kana": "\u3066\u3093\u304d\u3088\u307b\u3046",
+        "romaji": "tenki yoh\u014d",
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227898.mp3",
+                "text": "\u8239\u51fa\u3059\u308b\u524d\u306b\u5929\u6c17\u4e88\u5831\u3092\u30c1\u30a7\u30c3\u30af\u3057\u306a\u3055\u3044\u3002",
+                "english": "Check the weather report before going sailing.",
+                "en_audio": "",
+                "kana": "\u3075\u306a\u3067\u3059\u308b\u307e\u3048\u306b\u3066\u3093\u304d\u3088\u307b\u3046\u3092\u30c1\u30a7\u30c3\u30af\u3057\u306a\u3055\u3044\u3002",
+                "romaji": "Funade suru mae ni tenki yoh\u014d o chekku shinasai."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227898.mp3",
+                "text": "\u8239\u51fa\u3059\u308b\u524d\u306b\u5929\u6c17\u4e88\u5831\u3092\u30c1\u30a7\u30c3\u30af\u3057\u306a\u3055\u3044\u3002",
+                "english": "Check the weather report before going sailing.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86550.mp3",
+                "kana": "\u3075\u306a\u3067\u3059\u308b\u307e\u3048\u306b\u3066\u3093\u304d\u3088\u307b\u3046\u3092\u30c1\u30a7\u30c3\u30af\u3057\u306a\u3055\u3044\u3002",
+                "romaji": "Funade suru mae ni tenki yoh\u014d o chekku shinasai."
+            }
+        ]
+    },
+    {
+        "img": "22817",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206893.mp3",
+        "class": "noun",
+        "english": "Celsius",
+        "flashcardId": "2166667",
+        "meaning": "Celsius (noun) - a scale of temperature in which water freezes at 0\u00ba and boils at 100\u00ba",
+        "id": "1642",
+        "word": "\u6442\u6c0f",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89032.mp3",
+        "kana": "\u305b\u3063\u3057",
+        "romaji": "sesshi",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227905.mp3",
+                "text": "\u6442\u6c0f\u4e8c\u5341\u4e94\u5ea6",
+                "english": "25 degrees Celsius",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86554.mp3",
+                "kana": "\u305b\u3063\u3057\u306b\u3058\u3085\u3046\u3054\u3069",
+                "romaji": "sesshi ni-j\u016b go-do"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227904.mp3",
+                "text": "\u6c34\u306f\u3001\u6442\u6c0f0\u5ea6\u3067\u3001\u51cd\u308a\u307e\u3059\u3002",
+                "english": "Water freezes at zero (0) degrees Celsius.",
+                "en_audio": "",
+                "kana": "\u307f\u305a\u306f\u3001\u305b\u3063\u3057\u308c\u3044\u3069\u3067\u3001\u3053\u304a\u308a\u307e\u3059\u3002",
+                "romaji": "Mizu wa, sesshi rei-do de, k\u014drimasu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/67911.mp3",
+                "text": "\u4eca\u65e5\u306e\u6c17\u6e29\u306f\u6442\u6c0f\u4e09\u5341\u5ea6\u3067\u3059\u3002",
+                "english": "Today's temperature is 30 degrees Celsius.",
+                "en_audio": "",
+                "kana": "\u304d\u3087\u3046\u306e\u304d\u304a\u3093\u306f\u305b\u3063\u3057\u3055\u3093\u3058\u3085\u3046\u3069\u3067\u3059\u3002",
+                "romaji": "Ky\u014d no kion wa sesshi san j\u016b-do desu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227905.mp3",
+                "text": "\u6442\u6c0f\u4e8c\u5341\u4e94\u5ea6",
+                "english": "25 degrees Celsius",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86554.mp3",
+                "kana": "\u305b\u3063\u3057\u306b\u3058\u3085\u3046\u3054\u3069",
+                "romaji": "sesshi ni-j\u016b go-do"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227904.mp3",
+                "text": "\u6c34\u306f\u3001\u6442\u6c0f0\u5ea6\u3067\u3001\u51cd\u308a\u307e\u3059\u3002",
+                "english": "Water freezes at zero (0) degrees Celsius.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86552.mp3",
+                "kana": "\u307f\u305a\u306f\u3001\u305b\u3063\u3057\u308c\u3044\u3069\u3067\u3001\u3053\u304a\u308a\u307e\u3059\u3002",
+                "romaji": "Mizu wa, sesshi rei-do de, k\u014drimasu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/67911.mp3",
+                "text": "\u4eca\u65e5\u306e\u6c17\u6e29\u306f\u6442\u6c0f\u4e09\u5341\u5ea6\u3067\u3059\u3002",
+                "english": "Today's temperature is 30 degrees Celsius.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/67912.mp3",
+                "kana": "\u304d\u3087\u3046\u306e\u304d\u304a\u3093\u306f\u305b\u3063\u3057\u3055\u3093\u3058\u3085\u3046\u3069\u3067\u3059\u3002",
+                "romaji": "Ky\u014d no kion wa sesshi san j\u016b-do desu."
+            }
+        ]
+    },
+    {
+        "img": "22818",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206894.mp3",
+        "class": "noun",
+        "english": "Fahrenheit",
+        "flashcardId": "224748",
+        "meaning": "Fahrenheit (noun) - a scale of temperature in which water freezes at 32\u00ba and boils at 212\u00ba",
+        "id": "1643",
+        "word": "\u83ef\u6c0f",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89033.mp3",
+        "kana": "\u304b\u3057",
+        "romaji": "kashi",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227907.mp3",
+                "text": "\u83ef\u6c0f\u6e2c\u5b9a",
+                "english": "fahrenheit temperature measurement",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86557.mp3",
+                "kana": "\u304b\u3057\u305d\u304f\u3066\u3044",
+                "romaji": "kashi sokutei"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/824468.mp3",
+                "text": "\u5f7c\u306e\u4f53\u6e29\u306f\u3001\u5e73\u71b1\u306e\u83ef\u6c0f\uff19\uff18\uff0e\uff16\u5ea6\u3088\u308a\u304b\u306a\u308a\u9ad8\u304b\u3063\u305f\u3002",
+                "english": "His body temperature was far above the normal 98.6 degrees Fahrenheit.",
+                "en_audio": "",
+                "kana": "\u304b\u308c\u306e\u305f\u3044\u304a\u3093\u306f\u3001\u3078\u3044\u306d\u3064\u306e\u304b\u3057\u304d\u3085\u3046\u3058\u3085\u3046\u306f\u3061\u3066\u3093\u308d\u304f\u3069\u3088\u308a\u304b\u306a\u308a\u305f\u304b\u304b\u3063\u305f\u3002",
+                "romaji": "Kare no taion wa, heinetsu no kashi ky\u016b-j\u016b hachi ten roku-do yori kanari takakatta."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227906.mp3",
+                "text": "\u6c34\u306f\u83ef\u6c0f\u4e09\u5341\u4e8c\u5ea6\u3067\u51cd\u308a\u307e\u3059\u3002",
+                "english": "Water freezes at thirty-two (32) degrees Fahrenheit.",
+                "en_audio": "",
+                "kana": "\u307f\u305a\u306f\u304b\u3057\u3055\u3093\u3058\u3085\u3046\u306b\u3069\u3067\u3053\u304a\u308a\u307e\u3059\u3002",
+                "romaji": "Mizu wa kashi san-j\u016b ni-do de k\u014drimasu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/824468.mp3",
+                "text": "\u5f7c\u306e\u4f53\u6e29\u306f\u3001\u5e73\u71b1\u306e\u83ef\u6c0f\uff19\uff18\uff0e\uff16\u5ea6\u3088\u308a\u304b\u306a\u308a\u9ad8\u304b\u3063\u305f\u3002",
+                "english": "His body temperature was far above the normal 98.6 degrees Fahrenheit.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90326.mp3",
+                "kana": "\u304b\u308c\u306e\u305f\u3044\u304a\u3093\u306f\u3001\u3078\u3044\u306d\u3064\u306e\u304b\u3057\u304d\u3085\u3046\u3058\u3085\u3046\u306f\u3061\u3066\u3093\u308d\u304f\u3069\u3088\u308a\u304b\u306a\u308a\u305f\u304b\u304b\u3063\u305f\u3002",
+                "romaji": "Kare no taion wa, heinetsu no kashi ky\u016b-j\u016b hachi ten roku-do yori kanari takakatta."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227907.mp3",
+                "text": "\u83ef\u6c0f\u6e2c\u5b9a",
+                "english": "fahrenheit temperature measurement",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86557.mp3",
+                "kana": "\u304b\u3057\u305d\u304f\u3066\u3044",
+                "romaji": "kashi sokutei"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227906.mp3",
+                "text": "\u6c34\u306f\u83ef\u6c0f\u4e09\u5341\u4e8c\u5ea6\u3067\u51cd\u308a\u307e\u3059\u3002",
+                "english": "Water freezes at thirty-two (32) degrees Fahrenheit.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1340315.mp3",
+                "kana": "\u307f\u305a\u306f\u304b\u3057\u3055\u3093\u3058\u3085\u3046\u306b\u3069\u3067\u3053\u304a\u308a\u307e\u3059\u3002",
+                "romaji": "Mizu wa kashi san-j\u016b ni-do de k\u014drimasu."
+            }
+        ]
+    },
+    {
+        "img": "9480",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227910.mp3",
+        "class": "noun",
+        "english": "temperature",
+        "flashcardId": "224749",
+        "meaning": "temperature (noun) - the degree of hotness or coldness of a body or environment (corresponding to its molecular activity)",
+        "id": "1646",
+        "word": "\u6e29\u5ea6",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89039.mp3",
+        "kana": "\u304a\u3093\u3069",
+        "romaji": "ondo",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/824598.mp3",
+                "text": "\u6e29\u5ea6\u8a08\u304c\u793a\u3057\u3066\u3044\u308b\u6e29\u5ea6",
+                "english": "temperature on a thermometer",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86564.mp3",
+                "kana": "\u304a\u3093\u3069\u3051\u3044\u304c\u3057\u3081\u3057\u3066\u3044\u308b\u304a\u3093\u3069",
+                "romaji": "ondokei ga shimeshite iru ondo"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/530707.mp3",
+                "text": "\u3053\u306e\u90e8\u5c4b\u306e\u6e29\u5ea6\u306f\u9ad8\u3044\u306e\u3067\u3001\u7720\u304f\u306a\u308a\u307e\u3059\u3002",
+                "english": "The temperature in this room is really warm, so I easily get sleepy.",
+                "en_audio": "",
+                "kana": "\u3053\u306e\u3078\u3084\u306e\u304a\u3093\u3069\u306f\u305f\u304b\u3044\u306e\u3067\u3001\u306d\u3080\u304f\u306a\u308a\u307e\u3059\u3002",
+                "romaji": "Kono heya no ondo wa takai node, nemuku narimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/555280.mp3",
+                "text": "\u4f53\u611f\u6e29\u5ea6\u306f\u3001\u4eba\u306b\u3088\u3063\u3066\u9055\u3046\u3002",
+                "english": "Perceived temperature depends on the individual.",
+                "en_audio": "",
+                "kana": "\u305f\u3044\u304b\u3093\u304a\u3093\u3069\u306f\u3001\u3072\u3068\u306b\u3088\u3063\u3066\u3061\u304c\u3046\u3002",
+                "romaji": "Taikan ondo wa, hito ni yotte chigau."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/824598.mp3",
+                "text": "\u6e29\u5ea6\u8a08\u304c\u793a\u3057\u3066\u3044\u308b\u6e29\u5ea6",
+                "english": "temperature on a thermometer",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86564.mp3",
+                "kana": "\u304a\u3093\u3069\u3051\u3044\u304c\u3057\u3081\u3057\u3066\u3044\u308b\u304a\u3093\u3069",
+                "romaji": "ondokei ga shimeshite iru ondo"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/530707.mp3",
+                "text": "\u3053\u306e\u90e8\u5c4b\u306e\u6e29\u5ea6\u306f\u9ad8\u3044\u306e\u3067\u3001\u7720\u304f\u306a\u308a\u307e\u3059\u3002",
+                "english": "The temperature in this room is really warm, so I easily get sleepy.",
+                "en_audio": "",
+                "kana": "\u3053\u306e\u3078\u3084\u306e\u304a\u3093\u3069\u306f\u305f\u304b\u3044\u306e\u3067\u3001\u306d\u3080\u304f\u306a\u308a\u307e\u3059\u3002",
+                "romaji": "Kono heya no ondo wa takai node, nemuku narimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/555280.mp3",
+                "text": "\u4f53\u611f\u6e29\u5ea6\u306f\u3001\u4eba\u306b\u3088\u3063\u3066\u9055\u3046\u3002",
+                "english": "Perceived temperature depends on the individual.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/63818.mp3",
+                "kana": "\u305f\u3044\u304b\u3093\u304a\u3093\u3069\u306f\u3001\u3072\u3068\u306b\u3088\u3063\u3066\u3061\u304c\u3046\u3002",
+                "romaji": "Taikan ondo wa, hito ni yotte chigau."
+            }
+        ]
+    },
+    {
+        "img": "8228",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227913.mp3",
+        "class": "phrase",
+        "english": "humid",
+        "flashcardId": "2164315",
+        "meaning": "humid (adjective) - if the weather is humid, you feel uncomfortable because the air is very wet and usually hot",
+        "id": "1647",
+        "word": "\u6e7f\u3063\u305f",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89040.mp3",
+        "kana": "\u3057\u3081\u3063\u305f",
+        "romaji": "shimetta"
+    },
+    {
+        "img": "9629",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/944.mp3",
+        "class": "phrase",
+        "english": "windy",
+        "flashcardId": "2151400",
+        "meaning": "windy (adjective) - \tif it is windy, there is a lot of wind",
+        "id": "1650",
+        "word": "\u98a8\u306e\u5f37\u3044",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89043.mp3",
+        "kana": "\u304b\u305c\u306e\u3064\u3088\u3044",
+        "romaji": "kaze no tsuyoi"
+    }
+]

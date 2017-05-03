@@ -1,0 +1,1781 @@
+[
+    {
+        "img": "8020",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271098.mp3",
+        "class": "noun",
+        "english": "meeting",
+        "flashcardId": "2161980",
+        "meaning": "meeting (noun) - an event at which people meet to discuss and decide things",
+        "id": "15326",
+        "word": "\u4f1a\u8b70",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263195.mp3",
+        "kana": "\u304b\u3044\u304e",
+        "romaji": "kaigi",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201842.mp3",
+                "text": "\u5f79\u54e1\u5ba4\u3067\u306e\u4f1a\u8b70",
+                "english": "meeting in the boardroom",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197978.mp3",
+                "kana": "\u3084\u304f\u3044\u3093\u3057\u3064\u3067\u306e\u304b\u3044\u304e",
+                "romaji": "yakuin shitsu de no kaigi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201837.mp3",
+                "text": "\u55b6\u696d\u4f1a\u8b70",
+                "english": "business meeting",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2117.mp3",
+                "kana": "\u3048\u3044\u304e\u3087\u3046\u304b\u3044\u304e",
+                "romaji": "eigy\u014d kaigi"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201840.mp3",
+                "text": "\u793e\u54e1\u304c\u8077\u5834\u4f1a\u8b70\u3092\u3057\u3066\u3044\u308b\u3002",
+                "english": "The coworkers are having a meeting.",
+                "en_audio": "",
+                "kana": "\u3057\u3083\u3044\u3093\u304c\u3057\u3087\u304f\u3070\u304b\u3044\u304e\u3092\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Shain ga shokuba kaigi o shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201838.mp3",
+                "text": "\u660e\u65e5\u306e\u671d\u5341\u6642\u534a\u306b\u30b7\u30c6\u30a3\u30d1\u30fc\u30af\u30db\u30c6\u30eb\u3067\u4f1a\u8b70\u3092\u958b\u304d\u307e\u3059\u3002",
+                "english": "We have a meeting tomorrow morning at 10:30 a.m. at the City Park Hotel.",
+                "en_audio": "",
+                "kana": "\u3042\u3057\u305f\u306e\u3042\u3055\u3058\u3085\u3046\u3058\u306f\u3093\u306b\u30b7\u30c6\u30a3\u30d1\u30fc\u30af\u30db\u30c6\u30eb\u3067\u304b\u3044\u304e\u3092\u3072\u3089\u304d\u307e\u3059\u3002",
+                "romaji": "Ashita no asa j\u016b-ji han ni Shitip\u0101ku hoteru de kaigi o hirakimasu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201842.mp3",
+                "text": "\u5f79\u54e1\u5ba4\u3067\u306e\u4f1a\u8b70",
+                "english": "meeting in the boardroom",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197978.mp3",
+                "kana": "\u3084\u304f\u3044\u3093\u3057\u3064\u3067\u306e\u304b\u3044\u304e",
+                "romaji": "yakuin shitsu de no kaigi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201840.mp3",
+                "text": "\u793e\u54e1\u304c\u8077\u5834\u4f1a\u8b70\u3092\u3057\u3066\u3044\u308b\u3002",
+                "english": "The coworkers are having a meeting.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197976.mp3",
+                "kana": "\u3057\u3083\u3044\u3093\u304c\u3057\u3087\u304f\u3070\u304b\u3044\u304e\u3092\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Shain ga shokuba kaigi o shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201838.mp3",
+                "text": "\u660e\u65e5\u306e\u671d\u5341\u6642\u534a\u306b\u30b7\u30c6\u30a3\u30d1\u30fc\u30af\u30db\u30c6\u30eb\u3067\u4f1a\u8b70\u3092\u958b\u304d\u307e\u3059\u3002",
+                "english": "We have a meeting tomorrow morning at 10:30 a.m. at the City Park Hotel.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263196.mp3",
+                "kana": "\u3042\u3057\u305f\u306e\u3042\u3055\u3058\u3085\u3046\u3058\u306f\u3093\u306b\u30b7\u30c6\u30a3\u30d1\u30fc\u30af\u30db\u30c6\u30eb\u3067\u304b\u3044\u304e\u3092\u3072\u3089\u304d\u307e\u3059\u3002",
+                "romaji": "Ashita no asa j\u016b-ji han ni Shitip\u0101ku hoteru de kaigi o hirakimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201837.mp3",
+                "text": "\u55b6\u696d\u4f1a\u8b70",
+                "english": "business meeting",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2117.mp3",
+                "kana": "\u3048\u3044\u304e\u3087\u3046\u304b\u3044\u304e",
+                "romaji": "eigy\u014d kaigi"
+            }
+        ]
+    },
+    {
+        "img": "9439",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201938.mp3",
+        "class": "noun",
+        "english": "document",
+        "flashcardId": "2164212",
+        "meaning": "document (noun) - a piece of paper that has official information on it",
+        "id": "8118",
+        "word": "\u66f8\u985e",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263197.mp3",
+        "kana": "\u3057\u3087\u308b\u3044",
+        "romaji": "shorui",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201943.mp3",
+                "text": "\u66f8\u985e\u306b\u30b5\u30a4\u30f3\u3059\u308b",
+                "english": "sign a document",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2344.mp3",
+                "kana": "\u3057\u3087\u308b\u3044\u306b\u30b5\u30a4\u30f3\u3059\u308b",
+                "romaji": "shorui ni sain suru"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201942.mp3",
+                "text": "\u5f7c\u3089\u306f\u4f1a\u8a08\u66f8\u985e\u3092\u898b\u3066\u3044\u308b\u3002",
+                "english": "They are looking at accounting documents.",
+                "en_audio": "",
+                "kana": "\u304b\u308c\u3089\u306f\u304b\u3044\u3051\u3044\u3057\u3087\u308b\u3044\u3092\u307f\u3066\u3044\u308b\u3002",
+                "romaji": "Kare-ra wa kaikei shorui o mite iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201943.mp3",
+                "text": "\u66f8\u985e\u306b\u30b5\u30a4\u30f3\u3059\u308b",
+                "english": "sign a document",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2344.mp3",
+                "kana": "\u3057\u3087\u308b\u3044\u306b\u30b5\u30a4\u30f3\u3059\u308b",
+                "romaji": "shorui ni sain suru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201942.mp3",
+                "text": "\u5f7c\u3089\u306f\u4f1a\u8a08\u66f8\u985e\u3092\u898b\u3066\u3044\u308b\u3002",
+                "english": "They are looking at accounting documents.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2300.mp3",
+                "kana": "\u304b\u308c\u3089\u306f\u304b\u3044\u3051\u3044\u3057\u3087\u308b\u3044\u3092\u307f\u3066\u3044\u308b\u3002",
+                "romaji": "Kare-ra wa kaikei shorui o mite iru."
+            }
+        ]
+    },
+    {
+        "img": "8299",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/824641.mp3",
+        "class": "noun",
+        "english": "computer",
+        "flashcardId": "224686",
+        "meaning": "computer (noun) - an electronic machine that stores information and uses programs to help you find, organize, or change the information",
+        "id": "767",
+        "word": "\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fc",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262841.mp3",
+        "kana": "\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fc",
+        "romaji": "kompy\u016bt\u0101",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1342491.mp3",
+                "text": "\u30d1\u30bd\u30b3\u30f3",
+                "english": "personal computer",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2448.mp3",
+                "kana": "\u30d1\u30bd\u30b3\u30f3",
+                "romaji": "pasokon"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271142.mp3",
+                "text": "\u30ce\u30fc\u30c8\u30d1\u30bd\u30b3\u30f3\u3068\u30c7\u30b9\u30af\u30c8\u30c3\u30d7\u30d1\u30bd\u30b3\u30f3\u3001\u4e8c\u3064\u306e\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u3092\u6301\u3063\u3066\u3044\u307e\u3059\u3002",
+                "english": "I have two computers: a laptop computer and a desktop computer.",
+                "en_audio": "",
+                "kana": "\u30ce\u30fc\u30c8\u30d1\u30bd\u30b3\u30f3\u3068\u30c7\u30b9\u30af\u30c8\u30c3\u30d7\u30d1\u30bd\u30b3\u30f3\u3001\u3075\u305f\u3064\u306e\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u3092\u3082\u3063\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "N\u014dto pasokon to desukutoppu pasokon, futatsu no konpy\u016bta o motte imasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/830242.mp3",
+                "text": "\u79c1\u306f\u30ce\u30fc\u30c8\u30d1\u30bd\u30b3\u30f3\u3068\u30c7\u30b9\u30af\u30c8\u30c3\u30d7\u30d1\u30bd\u30b3\u30f3\u306e\u4e8c\u53f0\u306e\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fc\u3092\u6301\u3063\u3066\u3044\u308b\u3002",
+                "english": "I have two computers: a laptop computer and a desktop computer.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306f\u30ce\u30fc\u30c8\u30d1\u30bd\u30b3\u30f3\u3068\u30c7\u30b9\u30af\u30c8\u30c3\u30d7\u30d1\u30bd\u30b3\u30f3\u306e\u306b\u3060\u3044\u306e\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fc\u3092\u3082\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Watashi wa n\u014dto pasokon to desuku toppu pasokon to ni-dai no conpy\u016bt\u0101 o motte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1342493.mp3",
+                "text": "\u79c1\u9054\u306f\u3001\u3046\u3061\u306b\u30d1\u30bd\u30b3\u30f3\u56db\u53f0\u3068\u30c6\u30ec\u30d3\u56db\u53f0\u3092\u6301\u3063\u3066\u3044\u308b\u3002",
+                "english": "We have 4 computers and 4 TVs in my house.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u305f\u3061\u306f\u3001\u3046\u3061\u306b\u30d1\u30bd\u30b3\u30f3\u3088\u3093\u3060\u3044\u3068\u30c6\u30ec\u30d3\u3088\u3093\u3060\u3044\u3092\u3082\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Watashi-tachi wa uchi ni pasokon yon-dai to terebi yon-dai o motte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1342492.mp3",
+                "text": "\u79c1\u306f\u4e00\u65e5\u3001\u6700\u4f4e\u4e94\u6642\u9593\u3001\u81ea\u5206\u306e\u30d1\u30bd\u30b3\u30f3\u3067\u4ed5\u4e8b\u3092\u3057\u3066\u3044\u308b\u3002",
+                "english": "I spend at least five hours a day working at my computer.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306f\u3044\u3061\u306b\u3061\u3001\u3055\u3044\u3066\u3044\u3054\u3058\u304b\u3093\u3001\u3058\u3076\u3093\u306e\u30d1\u30bd\u30b3\u30f3\u3067\u3057\u3054\u3068\u3092\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Watashi wa ichi-nichi, saitei go-jikan, jibun no pasokon de shigoto o shite iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271142.mp3",
+                "text": "\u30ce\u30fc\u30c8\u30d1\u30bd\u30b3\u30f3\u3068\u30c7\u30b9\u30af\u30c8\u30c3\u30d7\u30d1\u30bd\u30b3\u30f3\u3001\u4e8c\u3064\u306e\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u3092\u6301\u3063\u3066\u3044\u307e\u3059\u3002",
+                "english": "I have two computers: a laptop computer and a desktop computer.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2451.mp3",
+                "kana": "\u30ce\u30fc\u30c8\u30d1\u30bd\u30b3\u30f3\u3068\u30c7\u30b9\u30af\u30c8\u30c3\u30d7\u30d1\u30bd\u30b3\u30f3\u3001\u3075\u305f\u3064\u306e\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u3092\u3082\u3063\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "N\u014dto pasokon to desukutoppu pasokon, futatsu no konpy\u016bta o motte imasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/830242.mp3",
+                "text": "\u79c1\u306f\u30ce\u30fc\u30c8\u30d1\u30bd\u30b3\u30f3\u3068\u30c7\u30b9\u30af\u30c8\u30c3\u30d7\u30d1\u30bd\u30b3\u30f3\u306e\u4e8c\u53f0\u306e\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fc\u3092\u6301\u3063\u3066\u3044\u308b\u3002",
+                "english": "I have two computers: a laptop computer and a desktop computer.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2451.mp3",
+                "kana": "\u308f\u305f\u3057\u306f\u30ce\u30fc\u30c8\u30d1\u30bd\u30b3\u30f3\u3068\u30c7\u30b9\u30af\u30c8\u30c3\u30d7\u30d1\u30bd\u30b3\u30f3\u306e\u306b\u3060\u3044\u306e\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30fc\u3092\u3082\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Watashi wa n\u014dto pasokon to desuku toppu pasokon to ni-dai no conpy\u016bt\u0101 o motte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1342493.mp3",
+                "text": "\u79c1\u9054\u306f\u3001\u3046\u3061\u306b\u30d1\u30bd\u30b3\u30f3\u56db\u53f0\u3068\u30c6\u30ec\u30d3\u56db\u53f0\u3092\u6301\u3063\u3066\u3044\u308b\u3002",
+                "english": "We have 4 computers and 4 TVs in my house.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2449.mp3",
+                "kana": "\u308f\u305f\u3057\u305f\u3061\u306f\u3001\u3046\u3061\u306b\u30d1\u30bd\u30b3\u30f3\u3088\u3093\u3060\u3044\u3068\u30c6\u30ec\u30d3\u3088\u3093\u3060\u3044\u3092\u3082\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Watashi-tachi wa uchi ni pasokon yon-dai to terebi yon-dai o motte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1342492.mp3",
+                "text": "\u79c1\u306f\u4e00\u65e5\u3001\u6700\u4f4e\u4e94\u6642\u9593\u3001\u81ea\u5206\u306e\u30d1\u30bd\u30b3\u30f3\u3067\u4ed5\u4e8b\u3092\u3057\u3066\u3044\u308b\u3002",
+                "english": "I spend at least five hours a day working at my computer.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2447.mp3",
+                "kana": "\u308f\u305f\u3057\u306f\u3044\u3061\u306b\u3061\u3001\u3055\u3044\u3066\u3044\u3054\u3058\u304b\u3093\u3001\u3058\u3076\u3093\u306e\u30d1\u30bd\u30b3\u30f3\u3067\u3057\u3054\u3068\u3092\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Watashi wa ichi-nichi, saitei go-jikan, jibun no pasokon de shigoto o shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1342491.mp3",
+                "text": "\u30d1\u30bd\u30b3\u30f3",
+                "english": "personal computer",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2448.mp3",
+                "kana": "\u30d1\u30bd\u30b3\u30f3",
+                "romaji": "pasokon"
+            }
+        ]
+    },
+    {
+        "img": "8514",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206143.mp3",
+        "class": "noun",
+        "english": "fax machine",
+        "flashcardId": "2152254",
+        "meaning": "fax machine (noun) - a machine for transmitting and receiving faxes.; facsimile; fax (noun) - a letter or message that is sent in electronic form down a telephone line and then printed using a special machine",
+        "id": "5390",
+        "word": "\u30d5\u30a1\u30c3\u30af\u30b9",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/24129.mp3",
+        "kana": "\u30d5\u30a1\u30c3\u30af\u30b9",
+        "romaji": "fakkusu",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206145.mp3",
+                "text": "\u305d\u306e\u30d5\u30a1\u30c3\u30af\u30b9\u6a5f\u3067\u53d7\u3051\u53d6\u3063\u305f",
+                "english": "received on the fax machine",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/91864.mp3",
+                "kana": "\u305d\u306e\u30d5\u30a1\u30c3\u30af\u30b9\u304d\u3067\u3046\u3051\u3068\u3063\u305f",
+                "romaji": "sono fakkusu ki de uketotta"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206144.mp3",
+                "text": "\u305d\u306e\u66f8\u985e\u3092\u30d5\u30a1\u30c3\u30af\u30b9\u3067\u9001\u308a\u306a\u3055\u3044\u3002",
+                "english": "Send the documents on your fax machine.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u3057\u3087\u308b\u3044\u3092\u30d5\u30a1\u30c3\u30af\u30b9\u3067\u304a\u304f\u308a\u306a\u3055\u3044\u3002",
+                "romaji": "Sono shorui o fakkusu de okurinasai."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206145.mp3",
+                "text": "\u305d\u306e\u30d5\u30a1\u30c3\u30af\u30b9\u6a5f\u3067\u53d7\u3051\u53d6\u3063\u305f",
+                "english": "received on the fax machine",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/91864.mp3",
+                "kana": "\u305d\u306e\u30d5\u30a1\u30c3\u30af\u30b9\u304d\u3067\u3046\u3051\u3068\u3063\u305f",
+                "romaji": "sono fakkusu ki de uketotta"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206144.mp3",
+                "text": "\u305d\u306e\u66f8\u985e\u3092\u30d5\u30a1\u30c3\u30af\u30b9\u3067\u9001\u308a\u306a\u3055\u3044\u3002",
+                "english": "Send the documents on your fax machine.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/91863.mp3",
+                "kana": "\u305d\u306e\u3057\u3087\u308b\u3044\u3092\u30d5\u30a1\u30c3\u30af\u30b9\u3067\u304a\u304f\u308a\u306a\u3055\u3044\u3002",
+                "romaji": "Sono shorui o fakkusu de okurinasai."
+            }
+        ]
+    },
+    {
+        "img": "8119",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/7039.mp3",
+        "class": "noun",
+        "english": "printer",
+        "flashcardId": "224589",
+        "meaning": "printer (noun) - a machine which is connected to a computer and can make a printed record of computer information",
+        "id": "5061",
+        "word": "\u30d7\u30ea\u30f3\u30bf\u30fc",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262697.mp3",
+        "kana": "\u30d7\u30ea\u30f3\u30bf\u30fc",
+        "romaji": "purint\u0101",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201935.mp3",
+                "text": "\u30ec\u30fc\u30b6\u30fc\u30d7\u30ea\u30f3\u30bf\u30fc",
+                "english": "laser printer",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90727.mp3",
+                "kana": "\u30ec\u30fc\u30b6\u30fc\u30d7\u30ea\u30f3\u30bf\u30fc",
+                "romaji": "r\u0113z\u0101 purint\u0101"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201936.mp3",
+                "text": "\u30aa\u30d5\u30a3\u30b9\u306e\u30d7\u30ea\u30f3\u30bf\u30fc\u304c\u58ca\u308c\u3066\u3044\u308b\u3002",
+                "english": "The printer at the office is broken.",
+                "en_audio": "",
+                "kana": "\u30aa\u30d5\u30a3\u30b9\u306e\u30d7\u30ea\u30f3\u30bf\u30fc\u304c\u3053\u308f\u308c\u3066\u3044\u308b\u3002",
+                "romaji": "Ofisu no purint\u0101 ga kowarete iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201936.mp3",
+                "text": "\u30aa\u30d5\u30a3\u30b9\u306e\u30d7\u30ea\u30f3\u30bf\u30fc\u304c\u58ca\u308c\u3066\u3044\u308b\u3002",
+                "english": "The printer at the office is broken.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262698.mp3",
+                "kana": "\u30aa\u30d5\u30a3\u30b9\u306e\u30d7\u30ea\u30f3\u30bf\u30fc\u304c\u3053\u308f\u308c\u3066\u3044\u308b\u3002",
+                "romaji": "Ofisu no purint\u0101 ga kowarete iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201935.mp3",
+                "text": "\u30ec\u30fc\u30b6\u30fc\u30d7\u30ea\u30f3\u30bf\u30fc",
+                "english": "laser printer",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90727.mp3",
+                "kana": "\u30ec\u30fc\u30b6\u30fc\u30d7\u30ea\u30f3\u30bf\u30fc",
+                "romaji": "r\u0113z\u0101 purint\u0101"
+            }
+        ]
+    },
+    {
+        "img": "8941",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206219.mp3",
+        "class": "noun",
+        "english": "copy machine",
+        "flashcardId": "2164202",
+        "meaning": "copy machine",
+        "id": "7803",
+        "word": "\u30b3\u30d4\u30fc\u6a5f",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263226.mp3",
+        "kana": "\u30b3\u30d4\u30fc\u304d",
+        "romaji": "kop\u012bki",
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206220.mp3",
+                "text": "\u305d\u306e\u30b3\u30d4\u30fc\u6a5f\u306f\u3068\u3066\u3082\u9ad8\u304b\u3063\u305f\u3002",
+                "english": "The copy machine was very expensive.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u30b3\u30d4\u30fc\u304d\u306f\u3068\u3066\u3082\u305f\u304b\u304b\u3063\u305f\u3002",
+                "romaji": "Sono kop\u012bki wa totemo takakatta."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206220.mp3",
+                "text": "\u305d\u306e\u30b3\u30d4\u30fc\u6a5f\u306f\u3068\u3066\u3082\u9ad8\u304b\u3063\u305f\u3002",
+                "english": "The copy machine was very expensive.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254018.mp3",
+                "kana": "\u305d\u306e\u30b3\u30d4\u30fc\u304d\u306f\u3068\u3066\u3082\u305f\u304b\u304b\u3063\u305f\u3002",
+                "romaji": "Sono kop\u012bki wa totemo takakatta."
+            }
+        ]
+    },
+    {
+        "img": "9870",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206225.mp3",
+        "class": "noun",
+        "english": "desk",
+        "flashcardId": "2332053",
+        "meaning": "desk (noun) - at the office; desk (noun) - a piece of furniture like a table, usually with drawers in it, that you sit at to write and work",
+        "id": "31943",
+        "word": "\u673a",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263198.mp3",
+        "kana": "\u3064\u304f\u3048",
+        "romaji": "tsukue",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226824.mp3",
+                "text": "\u673a\u306e\u4e0a",
+                "english": "on the desk",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86463.mp3",
+                "kana": "\u3064\u304f\u3048\u306e\u3046\u3048",
+                "romaji": "tsukue no ue"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/830250.mp3",
+                "text": "\u9ed2\u3044\u96fb\u8a71\u304c\u673a\u306e\u4e0a\u306b\u3042\u308a\u307e\u3059\u3002",
+                "english": "The black telephone is on the desk.",
+                "en_audio": "",
+                "kana": "\u304f\u308d\u3044\u3067\u3093\u308f\u304c\u3064\u304f\u3048\u306e\u3046\u3048\u306b\u3042\u308a\u307e\u3059\u3002",
+                "romaji": "Kuroi denwa ga tsukue no ue ni arimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206270.mp3",
+                "text": "\u66f8\u658e\u306b\u306f\u3001\u6905\u5b50\u3068\u672c\u3001\u305d\u308c\u304b\u3089\u673a\u304c\u3042\u308a\u307e\u3059\u3002",
+                "english": "There are chairs, books, and a desk in the study.",
+                "en_audio": "",
+                "kana": "\u3057\u3087\u3055\u3044\u306b\u306f\u3001\u3044\u3059\u3068\u307b\u3093\u3001\u305d\u308c\u304b\u3089\u3064\u304f\u3048\u304c\u3042\u308a\u307e\u3059\u3002",
+                "romaji": "Shosai ni wa, isu to hon, sorekara tsukue ga arimasu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226824.mp3",
+                "text": "\u673a\u306e\u4e0a",
+                "english": "on the desk",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86463.mp3",
+                "kana": "\u3064\u304f\u3048\u306e\u3046\u3048",
+                "romaji": "tsukue no ue"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/830250.mp3",
+                "text": "\u9ed2\u3044\u96fb\u8a71\u304c\u673a\u306e\u4e0a\u306b\u3042\u308a\u307e\u3059\u3002",
+                "english": "The black telephone is on the desk.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/577658.mp3",
+                "kana": "\u304f\u308d\u3044\u3067\u3093\u308f\u304c\u3064\u304f\u3048\u306e\u3046\u3048\u306b\u3042\u308a\u307e\u3059\u3002",
+                "romaji": "Kuroi denwa ga tsukue no ue ni arimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206270.mp3",
+                "text": "\u66f8\u658e\u306b\u306f\u3001\u6905\u5b50\u3068\u672c\u3001\u305d\u308c\u304b\u3089\u673a\u304c\u3042\u308a\u307e\u3059\u3002",
+                "english": "There are chairs, books, and a desk in the study.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198092.mp3",
+                "kana": "\u3057\u3087\u3055\u3044\u306b\u306f\u3001\u3044\u3059\u3068\u307b\u3093\u3001\u305d\u308c\u304b\u3089\u3064\u304f\u3048\u304c\u3042\u308a\u307e\u3059\u3002",
+                "romaji": "Shosai ni wa, isu to hon, sorekara tsukue ga arimasu."
+            }
+        ]
+    },
+    {
+        "img": "9437",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/309554.mp3",
+        "class": "noun",
+        "english": "book",
+        "flashcardId": "2152258",
+        "meaning": "book (noun) - a set of printed pages that are held together in a cover so that you can read them",
+        "id": "902",
+        "word": "\u672c",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/306034.mp3",
+        "kana": "\u307b\u3093",
+        "romaji": "hon",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1593636.mp3",
+                "text": "\u672c\u3092\u958b\u304f",
+                "english": "open book",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2551.mp3",
+                "kana": "\u307b\u3093\u3092\u3072\u3089\u304f",
+                "romaji": "hon o hiraku"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1593635.mp3",
+                "text": "\u672c\u306e\u9673\u5217",
+                "english": "book display",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2550.mp3",
+                "kana": "\u307b\u3093\u306e\u3061\u3093\u308c\u3064",
+                "romaji": "hon no chinretsu"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206048.mp3",
+                "text": "\u305d\u306e\u7537\u306e\u5b50\u306f\u3001\u516c\u5712\u3067\u672c\u3092\u8aad\u3093\u3067\u3044\u308b\u3002",
+                "english": "The boy is reading a book in the park.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u304a\u3068\u3053\u306e\u3053\u306f\u3001\u3053\u3046\u3048\u3093\u3067\u307b\u3093\u3092\u3088\u3093\u3067\u3044\u308b\u3002",
+                "romaji": "Sono otoko no ko wa, k\u014den de hon o yonde iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252457.mp3",
+                "text": "\u305d\u306e\u56f3\u66f8\u9928\u306b\u306f\u3001\u6570\u5343\u306b\u304a\u3088\u3076\u30c6\u30fc\u30de\u306b\u3064\u3044\u3066\u3001\u767e\u4e07\u518a\u4ee5\u4e0a\u306e\u672c\u304c\u3042\u308b\u3002",
+                "english": "The library has over one million books on thousands of subjects.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u3068\u3057\u3087\u304b\u3093\u306b\u306f\u3001\u3059\u3046\u305b\u3093\u306b\u304a\u3088\u3076\u30c6\u30fc\u30de\u306b\u3064\u3044\u3066\u3001\u3072\u3083\u304f\u307e\u3093\u3055\u3064\u3044\u3058\u3087\u3046\u306e\u307b\u3093\u304c\u3042\u308b\u3002",
+                "romaji": "Sono toshokan ni wa s\u016b-sen ni oyobu t\u0113ma ni tsuite,  hyaku-man-satsu ij\u014d no hon ga aru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/824414.mp3",
+                "text": "\u6388\u696d\u307e\u3067\u306b\u3001\u672c\u306e\u6b21\u306e\u7ae0\u3092\u8aad\u3093\u3067\u304a\u304d\u306a\u3055\u3044\u3002",
+                "english": "Read the next chapter of your book before coming to class.",
+                "en_audio": "",
+                "kana": "\u3058\u3085\u304e\u3087\u3046\u307e\u3067\u306b\u3001\u307b\u3093\u306e\u3064\u304e\u306e\u3057\u3087\u3046\u3092\u3088\u3093\u3067\u304a\u304d\u306a\u3055\u3044\u3002",
+                "romaji": "Jugy\u014d made ni, hon no tsugi no sh\u014d o yonde okinasai."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206048.mp3",
+                "text": "\u305d\u306e\u7537\u306e\u5b50\u306f\u3001\u516c\u5712\u3067\u672c\u3092\u8aad\u3093\u3067\u3044\u308b\u3002",
+                "english": "The boy is reading a book in the park.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/91580.mp3",
+                "kana": "\u305d\u306e\u304a\u3068\u3053\u306e\u3053\u306f\u3001\u3053\u3046\u3048\u3093\u3067\u307b\u3093\u3092\u3088\u3093\u3067\u3044\u308b\u3002",
+                "romaji": "Sono otoko no ko wa, k\u014den de hon o yonde iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1593636.mp3",
+                "text": "\u672c\u3092\u958b\u304f",
+                "english": "open book",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2551.mp3",
+                "kana": "\u307b\u3093\u3092\u3072\u3089\u304f",
+                "romaji": "hon o hiraku"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252457.mp3",
+                "text": "\u305d\u306e\u56f3\u66f8\u9928\u306b\u306f\u3001\u6570\u5343\u306b\u304a\u3088\u3076\u30c6\u30fc\u30de\u306b\u3064\u3044\u3066\u3001\u767e\u4e07\u518a\u4ee5\u4e0a\u306e\u672c\u304c\u3042\u308b\u3002",
+                "english": "The library has over one million books on thousands of subjects.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2549.mp3",
+                "kana": "\u305d\u306e\u3068\u3057\u3087\u304b\u3093\u306b\u306f\u3001\u3059\u3046\u305b\u3093\u306b\u304a\u3088\u3076\u30c6\u30fc\u30de\u306b\u3064\u3044\u3066\u3001\u3072\u3083\u304f\u307e\u3093\u3055\u3064\u3044\u3058\u3087\u3046\u306e\u307b\u3093\u304c\u3042\u308b\u3002",
+                "romaji": "Sono toshokan ni wa s\u016b-sen ni oyobu t\u0113ma ni tsuite,  hyaku-man-satsu ij\u014d no hon ga aru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/824414.mp3",
+                "text": "\u6388\u696d\u307e\u3067\u306b\u3001\u672c\u306e\u6b21\u306e\u7ae0\u3092\u8aad\u3093\u3067\u304a\u304d\u306a\u3055\u3044\u3002",
+                "english": "Read the next chapter of your book before coming to class.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2547.mp3",
+                "kana": "\u3058\u3085\u304e\u3087\u3046\u307e\u3067\u306b\u3001\u307b\u3093\u306e\u3064\u304e\u306e\u3057\u3087\u3046\u3092\u3088\u3093\u3067\u304a\u304d\u306a\u3055\u3044\u3002",
+                "romaji": "Jugy\u014d made ni, hon no tsugi no sh\u014d o yonde okinasai."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1593635.mp3",
+                "text": "\u672c\u306e\u9673\u5217",
+                "english": "book display",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2550.mp3",
+                "kana": "\u307b\u3093\u306e\u3061\u3093\u308c\u3064",
+                "romaji": "hon no chinretsu"
+            }
+        ]
+    },
+    {
+        "img": "8349",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206052.mp3",
+        "class": "noun",
+        "english": "pen",
+        "flashcardId": "2152259",
+        "meaning": "pen (noun) - an instrument for writing or drawing with ink",
+        "id": "907",
+        "word": "\u30da\u30f3",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/88159.mp3",
+        "kana": "\u30da\u30f3",
+        "romaji": "pen",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206055.mp3",
+                "text": "\u30dc\u30fc\u30eb\u30da\u30f3",
+                "english": "ballpoint pen",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102503.mp3",
+                "kana": "\u30dc\u30fc\u30eb\u30da\u30f3",
+                "romaji": "b\u014drupen"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206056.mp3",
+                "text": "\u3053\u308c\u3089\u306e\u66f8\u985e\u306b\u3001\u9ed2\u306e\u30dc\u30fc\u30eb\u30da\u30f3\u3067\u30b5\u30a4\u30f3\u3092\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+                "english": "Use a ballpoint pen with black ink to sign these papers.",
+                "en_audio": "",
+                "kana": "\u3053\u308c\u3089\u306e\u3057\u3087\u308b\u3044\u306b\u3001\u304f\u308d\u306e\u30dc\u30fc\u30eb\u30da\u30f3\u3067\u30b5\u30a4\u30f3\u3092\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+                "romaji": "Korera no shorui ni, kuro no b\u014drupen de sain o shite kudasai."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206054.mp3",
+                "text": "\u79c1\u306f\u3001\u66f8\u304d\u3084\u3059\u3044\u306e\u3067\u30da\u30f3\u3067\u30ce\u30fc\u30c8\u3092\u53d6\u308b\u3002",
+                "english": "I take notes with a pen, because it's easy to write with.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306f\u3001\u304b\u304d\u3084\u3059\u3044\u306e\u3067\u30da\u30f3\u3067\u30ce\u30fc\u30c8\u3092\u3068\u308b\u3002",
+                "romaji": "Watashi wa, kaki yasui node, pen de n\u014dto o toru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206056.mp3",
+                "text": "\u3053\u308c\u3089\u306e\u66f8\u985e\u306b\u3001\u9ed2\u306e\u30dc\u30fc\u30eb\u30da\u30f3\u3067\u30b5\u30a4\u30f3\u3092\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+                "english": "Use a ballpoint pen with black ink to sign these papers.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90394.mp3",
+                "kana": "\u3053\u308c\u3089\u306e\u3057\u3087\u308b\u3044\u306b\u3001\u304f\u308d\u306e\u30dc\u30fc\u30eb\u30da\u30f3\u3067\u30b5\u30a4\u30f3\u3092\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+                "romaji": "Korera no shorui ni, kuro no b\u014drupen de sain o shite kudasai."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206055.mp3",
+                "text": "\u30dc\u30fc\u30eb\u30da\u30f3",
+                "english": "ballpoint pen",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102503.mp3",
+                "kana": "\u30dc\u30fc\u30eb\u30da\u30f3",
+                "romaji": "b\u014drupen"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206054.mp3",
+                "text": "\u79c1\u306f\u3001\u66f8\u304d\u3084\u3059\u3044\u306e\u3067\u30da\u30f3\u3067\u30ce\u30fc\u30c8\u3092\u53d6\u308b\u3002",
+                "english": "I take notes with a pen, because it's easy to write with.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102501.mp3",
+                "kana": "\u308f\u305f\u3057\u306f\u3001\u304b\u304d\u3084\u3059\u3044\u306e\u3067\u30da\u30f3\u3067\u30ce\u30fc\u30c8\u3092\u3068\u308b\u3002",
+                "romaji": "Watashi wa, kaki yasui node, pen de n\u014dto o toru."
+            }
+        ]
+    },
+    {
+        "img": "17414",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252458.mp3",
+        "class": "noun",
+        "english": "notebook",
+        "flashcardId": "2164203",
+        "meaning": "notebook (noun) - a book made of plain paper on which you can write notes",
+        "id": "908",
+        "word": "\u30ce\u30fc\u30c8",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263179.mp3",
+        "kana": "\u30ce\u30fc\u30c8",
+        "romaji": "n\u014dto",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201598.mp3",
+                "text": "\u767d\u3044\u7dda\u306e\u5165\u3063\u305f\u30ce\u30fc\u30c8",
+                "english": "white lined notebook",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102506.mp3",
+                "kana": "\u3057\u308d\u3044\u305b\u3093\u306e\u306f\u3044\u3063\u305f\u30ce\u30fc\u30c8",
+                "romaji": "shiroi sen no haitta n\u014dto"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201596.mp3",
+                "text": "\u4e00\u3064\u306e\u79d1\u76ee\u306e\u30ce\u30fc\u30c8",
+                "english": "one subject notebook",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102505.mp3",
+                "kana": "\u3072\u3068\u3064\u306e\u304b\u3082\u304f\u306e\u30ce\u30fc\u30c8",
+                "romaji": "hitotsu no kamoku no n\u014dto"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201599.mp3",
+                "text": "\u7537\u6027\u304c\u30ce\u30fc\u30c8\u3092\u3068\u3063\u3066\u3044\u308b\u3002",
+                "english": "The man is writing in the notebook.",
+                "en_audio": "",
+                "kana": "\u3060\u3093\u305b\u3044\u304c\u30ce\u30fc\u30c8\u3092\u3068\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Dansei ga n\u014dto o totte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201597.mp3",
+                "text": "\u79c1\u306f\u305d\u308c\u305e\u308c\u306e\u6388\u696d\u3067\u30ce\u30fc\u30c8\u3092\u5206\u3051\u3066\u3044\u308b\u3002",
+                "english": "I have a separate notebook for each class.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306f\u305d\u308c\u305e\u308c\u306e\u3058\u3085\u304e\u3087\u3046\u3067\u30ce\u30fc\u30c8\u3092\u308f\u3051\u3066\u3044\u308b\u3002",
+                "romaji": "Watashi wa sorezore no jugy\u014d de n\u014dto o wakete iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201599.mp3",
+                "text": "\u7537\u6027\u304c\u30ce\u30fc\u30c8\u3092\u3068\u3063\u3066\u3044\u308b\u3002",
+                "english": "The man is writing in the notebook.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4085.mp3",
+                "kana": "\u3060\u3093\u305b\u3044\u304c\u30ce\u30fc\u30c8\u3092\u3068\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Dansei ga n\u014dto o totte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201598.mp3",
+                "text": "\u767d\u3044\u7dda\u306e\u5165\u3063\u305f\u30ce\u30fc\u30c8",
+                "english": "white lined notebook",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102506.mp3",
+                "kana": "\u3057\u308d\u3044\u305b\u3093\u306e\u306f\u3044\u3063\u305f\u30ce\u30fc\u30c8",
+                "romaji": "shiroi sen no haitta n\u014dto"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201597.mp3",
+                "text": "\u79c1\u306f\u305d\u308c\u305e\u308c\u306e\u6388\u696d\u3067\u30ce\u30fc\u30c8\u3092\u5206\u3051\u3066\u3044\u308b\u3002",
+                "english": "I have a separate notebook for each class.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102504.mp3",
+                "kana": "\u308f\u305f\u3057\u306f\u305d\u308c\u305e\u308c\u306e\u3058\u3085\u304e\u3087\u3046\u3067\u30ce\u30fc\u30c8\u3092\u308f\u3051\u3066\u3044\u308b\u3002",
+                "romaji": "Watashi wa sorezore no jugy\u014d de n\u014dto o wakete iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201596.mp3",
+                "text": "\u4e00\u3064\u306e\u79d1\u76ee\u306e\u30ce\u30fc\u30c8",
+                "english": "one subject notebook",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102505.mp3",
+                "kana": "\u3072\u3068\u3064\u306e\u304b\u3082\u304f\u306e\u30ce\u30fc\u30c8",
+                "romaji": "hitotsu no kamoku no n\u014dto"
+            }
+        ]
+    },
+    {
+        "img": "8061",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206058.mp3",
+        "class": "noun",
+        "english": "pencil",
+        "flashcardId": "224201",
+        "meaning": "pencil (noun) - an instrument that you use for writing or drawing, consisting of a wooden stick with a thin piece of a black or coloured substance in the middle",
+        "id": "909",
+        "word": "\u925b\u7b46",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263180.mp3",
+        "kana": "\u3048\u3093\u3074\u3064",
+        "romaji": "enpitsu",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/555093.mp3",
+                "text": "\u925b\u7b46",
+                "english": "pencil lead",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102510.mp3",
+                "kana": "\u3048\u3093\u3074\u3064",
+                "romaji": "enpitsu"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206063.mp3",
+                "text": "\u925b\u7b46\u306f\u30b0\u30e9\u30d5\u30a1\u30a4\u30c8\u304b\u3089\u3067\u304d\u3066\u3044\u3066\u3001\u925b\u306f\u5165\u3063\u3066\u3044\u306a\u3044\u3002",
+                "english": "Pencils are made from graphite, and contain no lead.",
+                "en_audio": "",
+                "kana": "\u3048\u3093\u3074\u3064\u306f\u30b0\u30e9\u30d5\u30a1\u30a4\u30c8\u304b\u3089\u3067\u304d\u3066\u3044\u3066\u3001\u306a\u307e\u308a\u306f\u306f\u3044\u3063\u3066\u3044\u306a\u3044\u3002",
+                "romaji": "Enpitsu wa gurafaito kara dekite ite, namari wa haitte inai."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206062.mp3",
+                "text": "\u925b\u7b46\u306f\u3001\u7c21\u5358\u306b\u6d88\u305b\u308b\u306e\u3067\u3001\u3088\u304f\u4f7f\u308f\u308c\u308b\u7b46\u8a18\u7528\u5177\u3060\u3002",
+                "english": "Pencils are popular writing tools, as pencil marks erase easily.",
+                "en_audio": "",
+                "kana": "\u3048\u3093\u3074\u3064\u306f\u3001\u304b\u3093\u305f\u3093\u306b\u3051\u305b\u308b\u306e\u3067\u3001\u3088\u304f\u3064\u304b\u308f\u308c\u308b\u3072\u3063\u304d\u3088\u3046\u3050\u3060\u3002",
+                "romaji": "Enpitsu wa, kantan ni keseru node, yoku tsukawareru hikki y\u014dgu da."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206061.mp3",
+                "text": "\u925b\u7b46\u306e\u82af\u306b\u925b\u306f\u5165\u3063\u3066\u3044\u307e\u3059\u304b\u3002",
+                "english": "Is there lead in pencil lead?",
+                "en_audio": "",
+                "kana": "\u3048\u3093\u3074\u3064\u306e\u3057\u3093\u306b\u306a\u307e\u308a\u306f\u306f\u3044\u3063\u3066\u3044\u307e\u3059\u304b\u3002",
+                "romaji": "Enpitsu no shin ni namari wa haitte imasu ka."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206063.mp3",
+                "text": "\u925b\u7b46\u306f\u30b0\u30e9\u30d5\u30a1\u30a4\u30c8\u304b\u3089\u3067\u304d\u3066\u3044\u3066\u3001\u925b\u306f\u5165\u3063\u3066\u3044\u306a\u3044\u3002",
+                "english": "Pencils are made from graphite, and contain no lead.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102511.mp3",
+                "kana": "\u3048\u3093\u3074\u3064\u306f\u30b0\u30e9\u30d5\u30a1\u30a4\u30c8\u304b\u3089\u3067\u304d\u3066\u3044\u3066\u3001\u306a\u307e\u308a\u306f\u306f\u3044\u3063\u3066\u3044\u306a\u3044\u3002",
+                "romaji": "Enpitsu wa gurafaito kara dekite ite, namari wa haitte inai."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206062.mp3",
+                "text": "\u925b\u7b46\u306f\u3001\u7c21\u5358\u306b\u6d88\u305b\u308b\u306e\u3067\u3001\u3088\u304f\u4f7f\u308f\u308c\u308b\u7b46\u8a18\u7528\u5177\u3060\u3002",
+                "english": "Pencils are popular writing tools, as pencil marks erase easily.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102509.mp3",
+                "kana": "\u3048\u3093\u3074\u3064\u306f\u3001\u304b\u3093\u305f\u3093\u306b\u3051\u305b\u308b\u306e\u3067\u3001\u3088\u304f\u3064\u304b\u308f\u308c\u308b\u3072\u3063\u304d\u3088\u3046\u3050\u3060\u3002",
+                "romaji": "Enpitsu wa, kantan ni keseru node, yoku tsukawareru hikki y\u014dgu da."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206061.mp3",
+                "text": "\u925b\u7b46\u306e\u82af\u306b\u925b\u306f\u5165\u3063\u3066\u3044\u307e\u3059\u304b\u3002",
+                "english": "Is there lead in pencil lead?",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102507.mp3",
+                "kana": "\u3048\u3093\u3074\u3064\u306e\u3057\u3093\u306b\u306a\u307e\u308a\u306f\u306f\u3044\u3063\u3066\u3044\u307e\u3059\u304b\u3002",
+                "romaji": "Enpitsu no shin ni namari wa haitte imasu ka."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/555093.mp3",
+                "text": "\u925b\u7b46",
+                "english": "pencil lead",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102510.mp3",
+                "kana": "\u3048\u3093\u3074\u3064",
+                "romaji": "enpitsu"
+            }
+        ]
+    },
+    {
+        "img": "17403",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206069.mp3",
+        "class": "noun",
+        "english": "eraser",
+        "flashcardId": "2331807",
+        "meaning": "eraser (noun) - a small piece of rubber that you use to remove pencil or pen marks from paper",
+        "id": "910",
+        "word": "\u6d88\u3057\u30b4\u30e0",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/88162.mp3",
+        "kana": "\u3051\u3057\u3054\u3080",
+        "romaji": "keshigomu",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271761.mp3",
+                "text": "\u30d4\u30f3\u30af\u3068\u7070\u8272\u306e\u6d88\u3057\u30b4\u30e0",
+                "english": "pink and gray eraser",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197947.mp3",
+                "kana": "\u30d4\u30f3\u30af\u3068\u306f\u3044\u3044\u308d\u306e\u3051\u3057\u3054\u3080",
+                "romaji": "pinku to haiiro no keshigomu"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1179762.mp3",
+                "text": "\u925b\u7b46\u306e\u5148\u306b\u306f\u3001\u9593\u9055\u3048\u305f\u6642\u306e\u305f\u3081\u306b\u6d88\u3057\u30b4\u30e0\u304c\u4ed8\u3044\u3066\u3044\u307e\u3059\u3002",
+                "english": "There is an eraser on the end of my pencil in case I make a mistake.",
+                "en_audio": "",
+                "kana": "\u3048\u3093\u3074\u3064\u306e\u3055\u304d\u306b\u306f\u3001\u307e\u3061\u304c\u3048\u305f\u3068\u304d\u306e\u305f\u3081\u306b\u3051\u3057\u30b4\u30e0\u304c\u3064\u3044\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Enpitsu no saki ni wa, machigaeta toki no tame ni keshigomu ga tsuite imasu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271761.mp3",
+                "text": "\u30d4\u30f3\u30af\u3068\u7070\u8272\u306e\u6d88\u3057\u30b4\u30e0",
+                "english": "pink and gray eraser",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197947.mp3",
+                "kana": "\u30d4\u30f3\u30af\u3068\u306f\u3044\u3044\u308d\u306e\u3051\u3057\u3054\u3080",
+                "romaji": "pinku to haiiro no keshigomu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1179762.mp3",
+                "text": "\u925b\u7b46\u306e\u5148\u306b\u306f\u3001\u9593\u9055\u3048\u305f\u6642\u306e\u305f\u3081\u306b\u6d88\u3057\u30b4\u30e0\u304c\u4ed8\u3044\u3066\u3044\u307e\u3059\u3002",
+                "english": "There is an eraser on the end of my pencil in case I make a mistake.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102515.mp3",
+                "kana": "\u3048\u3093\u3074\u3064\u306e\u3055\u304d\u306b\u306f\u3001\u307e\u3061\u304c\u3048\u305f\u3068\u304d\u306e\u305f\u3081\u306b\u3051\u3057\u30b4\u30e0\u304c\u3064\u3044\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Enpitsu no saki ni wa, machigaeta toki no tame ni keshigomu ga tsuite imasu."
+            }
+        ]
+    },
+    {
+        "img": "8972",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206077.mp3",
+        "class": "noun",
+        "english": "scissors",
+        "flashcardId": "2164205",
+        "meaning": "scissors (noun) - a tool for cutting paper, cloth etc, made of two sharp blades fastened together in the middle, with holes for your finger and thumb",
+        "id": "1447",
+        "word": "\u306f\u3055\u307f",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/88785.mp3",
+        "kana": "\u306f\u3055\u307f",
+        "romaji": "hasami",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/824563.mp3",
+                "text": "\u4e00\u672c\u306e\u306f\u3055\u307f",
+                "english": "pair of scissors",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102790.mp3",
+                "kana": "\u3044\u3063\u307d\u3093\u306e\u306f\u3055\u307f",
+                "romaji": "i-ppon no hasami"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206079.mp3",
+                "text": "\u92ed\u5229\u306a\u306f\u3055\u307f",
+                "english": "sharp scissors",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102788.mp3",
+                "kana": "\u3048\u3044\u308a\u306a\u306f\u3055\u307f",
+                "romaji": "eiri na hasami"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252444.mp3",
+                "text": "\u7f8e\u5bb9\u5e2b\u306f\u3001\u306f\u3055\u307f\u3067\u9aea\u306e\u6bdb\u3092\u5207\u3063\u3066\u3044\u308b\u3002",
+                "english": "The hair dresser is cutting the hair with scissors.",
+                "en_audio": "",
+                "kana": "\u3073\u3088\u3046\u3057\u306f\u3001\u306f\u3055\u307f\u3067\u304b\u307f\u306e\u3051\u3092\u304d\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Biy\u014dshi wa, hasami de kami no ke o kitte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206078.mp3",
+                "text": "\u306f\u3055\u307f\u3092\u4f7f\u3063\u3066\u3001\u5199\u771f\u3092\u5207\u308a\u629c\u304d\u306a\u3055\u3044\u3002",
+                "english": "Use scissors to cut out the pictures.",
+                "en_audio": "",
+                "kana": "\u306f\u3055\u307f\u3092\u3064\u304b\u3063\u3066\u3001\u3057\u3083\u3057\u3093\u3092\u304d\u308a\u306c\u304d\u306a\u3055\u3044\u3002",
+                "romaji": "Hasami o tsukatte, shasin o kiri nukinasai."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252444.mp3",
+                "text": "\u7f8e\u5bb9\u5e2b\u306f\u3001\u306f\u3055\u307f\u3067\u9aea\u306e\u6bdb\u3092\u5207\u3063\u3066\u3044\u308b\u3002",
+                "english": "The hair dresser is cutting the hair with scissors.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253842.mp3",
+                "kana": "\u3073\u3088\u3046\u3057\u306f\u3001\u306f\u3055\u307f\u3067\u304b\u307f\u306e\u3051\u3092\u304d\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Biy\u014dshi wa, hasami de kami no ke o kitte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/824563.mp3",
+                "text": "\u4e00\u672c\u306e\u306f\u3055\u307f",
+                "english": "pair of scissors",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102790.mp3",
+                "kana": "\u3044\u3063\u307d\u3093\u306e\u306f\u3055\u307f",
+                "romaji": "i-ppon no hasami"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206079.mp3",
+                "text": "\u92ed\u5229\u306a\u306f\u3055\u307f",
+                "english": "sharp scissors",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102788.mp3",
+                "kana": "\u3048\u3044\u308a\u306a\u306f\u3055\u307f",
+                "romaji": "eiri na hasami"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206078.mp3",
+                "text": "\u306f\u3055\u307f\u3092\u4f7f\u3063\u3066\u3001\u5199\u771f\u3092\u5207\u308a\u629c\u304d\u306a\u3055\u3044\u3002",
+                "english": "Use scissors to cut out the pictures.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102787.mp3",
+                "kana": "\u306f\u3055\u307f\u3092\u3064\u304b\u3063\u3066\u3001\u3057\u3083\u3057\u3093\u3092\u304d\u308a\u306c\u304d\u306a\u3055\u3044\u3002",
+                "romaji": "Hasami o tsukatte, shasin o kiri nukinasai."
+            }
+        ]
+    },
+    {
+        "img": "8660",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375351.mp3",
+        "class": "noun",
+        "english": "mechanical pencil",
+        "flashcardId": "2166763",
+        "meaning": "mechanical pencil (noun) - a pencil made of metal or plastic, with a thin piece of lead",
+        "id": "1450",
+        "word": "\u30b7\u30e3\u30fc\u30da\u30f3",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263182.mp3",
+        "kana": "\u30b7\u30e3\u30fc\u30da\u30f3",
+        "romaji": "sh\u0101pen",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206089.mp3",
+                "text": "\u8d64\u3044\u30b7\u30e3\u30fc\u30da\u30f3",
+                "english": "red mechanical pencil",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197950.mp3",
+                "kana": "\u3042\u304b\u3044\u30b7\u30e3\u30fc\u30da\u30f3",
+                "romaji": "akai sh\u0101pen"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206087.mp3",
+                "text": "\u30b7\u30e3\u30fc\u30da\u30f3\u306e\u82af",
+                "english": "mechanical pencil lead",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90396.mp3",
+                "kana": "\u30b7\u30e3\u30fc\u30da\u30f3\u306e\u3057\u3093",
+                "romaji": "sh\u0101pen no shin"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206088.mp3",
+                "text": "\u305d\u306e\u8d64\u3044\u30b7\u30e3\u30fc\u30da\u30f3\u306b\u306f\u3001\u7dd1\u306e\u6d88\u3057\u30b4\u30e0\u304c\u3064\u3044\u3066\u3044\u308b\u3002",
+                "english": "The red mechanical pencil has a green eraser.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u3042\u304b\u3044\u30b7\u30e3\u30fc\u30da\u30f3\u306b\u306f\u3001\u307f\u3069\u308a\u306e\u3051\u3057\u3054\u3080\u304c\u3064\u3044\u3066\u3044\u308b\u3002",
+                "romaji": "Sono akai sh\u0101pen ni wa, midori no keshigomu ga tsuite iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206089.mp3",
+                "text": "\u8d64\u3044\u30b7\u30e3\u30fc\u30da\u30f3",
+                "english": "red mechanical pencil",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197950.mp3",
+                "kana": "\u3042\u304b\u3044\u30b7\u30e3\u30fc\u30da\u30f3",
+                "romaji": "akai sh\u0101pen"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206088.mp3",
+                "text": "\u305d\u306e\u8d64\u3044\u30b7\u30e3\u30fc\u30da\u30f3\u306b\u306f\u3001\u7dd1\u306e\u6d88\u3057\u30b4\u30e0\u304c\u3064\u3044\u3066\u3044\u308b\u3002",
+                "english": "The red mechanical pencil has a green eraser.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197949.mp3",
+                "kana": "\u305d\u306e\u3042\u304b\u3044\u30b7\u30e3\u30fc\u30da\u30f3\u306b\u306f\u3001\u307f\u3069\u308a\u306e\u3051\u3057\u3054\u3080\u304c\u3064\u3044\u3066\u3044\u308b\u3002",
+                "romaji": "Sono akai sh\u0101pen ni wa, midori no keshigomu ga tsuite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206087.mp3",
+                "text": "\u30b7\u30e3\u30fc\u30da\u30f3\u306e\u82af",
+                "english": "mechanical pencil lead",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90396.mp3",
+                "kana": "\u30b7\u30e3\u30fc\u30da\u30f3\u306e\u3057\u3093",
+                "romaji": "sh\u0101pen no shin"
+            }
+        ]
+    },
+    {
+        "img": "17421",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227696.mp3",
+        "class": "noun",
+        "english": "ruler",
+        "flashcardId": "2166764",
+        "meaning": "ruler (noun) - a strip of wood, metal, or other material, having straight edges graduated usually in millimetres or inches, used for measuring and drawing straight lines",
+        "id": "1451",
+        "word": "\u5b9a\u898f",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263183.mp3",
+        "kana": "\u3058\u3087\u3046\u304e",
+        "romaji": "j\u014dgi",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206092.mp3",
+                "text": "\u8a08\u6e2c\u7528\u5b9a\u898f",
+                "english": "measuring ruler",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102793.mp3",
+                "kana": "\u3051\u3044\u305d\u304f\u3088\u3046\u3058\u3087\u3046\u304e",
+                "romaji": "keisokuy\u014d j\u014dgi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206091.mp3",
+                "text": "\u5341\u4e8c\u30a4\u30f3\u30c1\u306e\u5b9a\u898f",
+                "english": "twelve inch ruler",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102792.mp3",
+                "kana": "\u3058\u3085\u3046\u306b\u30a4\u30f3\u30c1\u306e\u3058\u3087\u3046\u304e",
+                "romaji": "j\u016b ni-inchi no j\u014dgi"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206093.mp3",
+                "text": "\u5b9a\u898f\u3067\u30e9\u30a4\u30f3\u9593\u9694\u3092\u6e2c\u308a\u306a\u3055\u3044\u3002",
+                "english": "Measure the spaces between the lines with a ruler.",
+                "en_audio": "",
+                "kana": "\u3058\u3087\u3046\u304e\u3067\u30e9\u30a4\u30f3\u304b\u3093\u304b\u304f\u3092\u306f\u304b\u308a\u306a\u3055\u3044\u3002",
+                "romaji": "J\u014dgi de rain kankaku o hakarinasai."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206093.mp3",
+                "text": "\u5b9a\u898f\u3067\u30e9\u30a4\u30f3\u9593\u9694\u3092\u6e2c\u308a\u306a\u3055\u3044\u3002",
+                "english": "Measure the spaces between the lines with a ruler.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102791.mp3",
+                "kana": "\u3058\u3087\u3046\u304e\u3067\u30e9\u30a4\u30f3\u304b\u3093\u304b\u304f\u3092\u306f\u304b\u308a\u306a\u3055\u3044\u3002",
+                "romaji": "J\u014dgi de rain kankaku o hakarinasai."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206092.mp3",
+                "text": "\u8a08\u6e2c\u7528\u5b9a\u898f",
+                "english": "measuring ruler",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102793.mp3",
+                "kana": "\u3051\u3044\u305d\u304f\u3088\u3046\u3058\u3087\u3046\u304e",
+                "romaji": "keisokuy\u014d j\u014dgi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206091.mp3",
+                "text": "\u5341\u4e8c\u30a4\u30f3\u30c1\u306e\u5b9a\u898f",
+                "english": "twelve inch ruler",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102792.mp3",
+                "kana": "\u3058\u3085\u3046\u306b\u30a4\u30f3\u30c1\u306e\u3058\u3087\u3046\u304e",
+                "romaji": "j\u016b ni-inchi no j\u014dgi"
+            }
+        ]
+    },
+    {
+        "img": "9747",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/891803.mp3",
+        "class": "noun",
+        "english": "marker",
+        "flashcardId": "2164208",
+        "meaning": "marker (noun) - a large pen with a thick point made of felt, used for marking or drawing things",
+        "id": "1458",
+        "word": "\u30de\u30b8\u30c3\u30af",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/88801.mp3",
+        "kana": "\u30de\u30b8\u30c3\u30af",
+        "romaji": "majikku"
+    },
+    {
+        "img": "17402",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227719.mp3",
+        "class": "noun",
+        "english": "dictionary",
+        "flashcardId": "2164209",
+        "meaning": "dictionary (noun) - a book that gives a list of words in alphabetical order and explains their meanings in the same language, or another language",
+        "id": "1464",
+        "word": "\u8f9e\u66f8",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263185.mp3",
+        "kana": "\u3058\u3057\u3087",
+        "romaji": "jisho",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201678.mp3",
+                "text": "\u82f1\u8a9e\u306e\u8f9e\u66f8",
+                "english": "English dictionary",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90402.mp3",
+                "kana": "\u3048\u3044\u3054\u306e\u3058\u3057\u3087",
+                "romaji": "eigo no jisho"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271762.mp3",
+                "text": "\u72ec\u82f1\u306e\u96fb\u5b50\u8f9e\u66f8",
+                "english": "German-English electronic dictionary",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197952.mp3",
+                "kana": "\u3069\u304f\u3048\u3044\u306e\u3067\u3093\u3057\u3058\u3057\u3087",
+                "romaji": "dokuei no denshi jisho"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/810112.mp3",
+                "text": "\u82f1\u4ecf\u8f9e\u66f8\u3092\u6301\u3063\u3066\u3044\u307e\u3059\u3002",
+                "english": "I have an English-French dictionary.",
+                "en_audio": "",
+                "kana": "\u3048\u3044\u3075\u3064\u3058\u3057\u3087\u3092\u3082\u3063\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Eifutsu jisho o motte imasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201679.mp3",
+                "text": "\u672c\u3068\u8f9e\u66f8\u304c\u30c6\u30fc\u30d6\u30eb\u306e\u4e0a\u306b\u3042\u308b\u3002",
+                "english": "The book and the dictionary are on the table.",
+                "en_audio": "",
+                "kana": "\u307b\u3093\u3068\u3058\u3057\u3087\u304c\u30c6\u30fc\u30d6\u30eb\u306e\u3046\u3048\u306b\u3042\u308b\u3002",
+                "romaji": "Hon to jisho ga t\u0113buru no ue ni aru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/810112.mp3",
+                "text": "\u82f1\u4ecf\u8f9e\u66f8\u3092\u6301\u3063\u3066\u3044\u307e\u3059\u3002",
+                "english": "I have an English-French dictionary.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/34219.mp3",
+                "kana": "\u3048\u3044\u3075\u3064\u3058\u3057\u3087\u3092\u3082\u3063\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Eifutsu jisho o motte imasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201679.mp3",
+                "text": "\u672c\u3068\u8f9e\u66f8\u304c\u30c6\u30fc\u30d6\u30eb\u306e\u4e0a\u306b\u3042\u308b\u3002",
+                "english": "The book and the dictionary are on the table.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263186.mp3",
+                "kana": "\u307b\u3093\u3068\u3058\u3057\u3087\u304c\u30c6\u30fc\u30d6\u30eb\u306e\u3046\u3048\u306b\u3042\u308b\u3002",
+                "romaji": "Hon to jisho ga t\u0113buru no ue ni aru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201678.mp3",
+                "text": "\u82f1\u8a9e\u306e\u8f9e\u66f8",
+                "english": "English dictionary",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90402.mp3",
+                "kana": "\u3048\u3044\u3054\u306e\u3058\u3057\u3087",
+                "romaji": "eigo no jisho"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271762.mp3",
+                "text": "\u72ec\u82f1\u306e\u96fb\u5b50\u8f9e\u66f8",
+                "english": "German-English electronic dictionary",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197952.mp3",
+                "kana": "\u3069\u304f\u3048\u3044\u306e\u3067\u3093\u3057\u3058\u3057\u3087",
+                "romaji": "dokuei no denshi jisho"
+            }
+        ]
+    },
+    {
+        "img": "9574",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226991.mp3",
+        "class": "noun",
+        "english": "post office",
+        "flashcardId": "224209",
+        "meaning": "post office (noun) - a local branch where postal services are available",
+        "id": "944",
+        "word": "\u90f5\u4fbf\u5c40",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263321.mp3",
+        "kana": "\u3086\u3046\u3073\u3093\u304d\u3087\u304f",
+        "romaji": "y\u016bbinkyoku",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201609.mp3",
+                "text": "\u90f5\u4fbf\u5c40\u306e\u5efa\u7269",
+                "english": "post office building",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90408.mp3",
+                "kana": "\u3086\u3046\u3073\u3093\u304d\u3087\u304f\u306e\u305f\u3066\u3082\u306e",
+                "romaji": "y\u016bbinkyoku no tatemono"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201610.mp3",
+                "text": "\u90f5\u4fbf\u5c40\u306f\u5348\u5f8c\u4e94\u6642\u307e\u3067\u958b\u3044\u3066\u3044\u307e\u3059\u3002",
+                "english": "The post office is open until 5PM.",
+                "en_audio": "",
+                "kana": "\u3086\u3046\u3073\u3093\u304d\u3087\u304f\u306f\u3054\u3054\u3054\u3058\u307e\u3067\u3042\u3044\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Y\u016bbinkyoku wa gogo go-ji made aite imasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201608.mp3",
+                "text": "\u4e94\u756a\u8857\u3068\u30bb\u30f3\u30c8\u30e9\u30eb\u901a\u308a\u306b\u90f5\u4fbf\u5c40\u304c\u3042\u308a\u307e\u3059\u3002",
+                "english": "There is a post office on 5th Avenue and one on Central Street.",
+                "en_audio": "",
+                "kana": "\u3054\u3070\u3093\u304c\u3044\u3068\u30bb\u30f3\u30c8\u30e9\u30eb\u3069\u304a\u308a\u306b\u3086\u3046\u3073\u3093\u304d\u3087\u304f\u304c\u3042\u308a\u307e\u3059\u3002",
+                "romaji": "Go-ban gai to Sentoraru d\u014dri ni y\u016bbinkyoku ga arimasu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201610.mp3",
+                "text": "\u90f5\u4fbf\u5c40\u306f\u5348\u5f8c\u4e94\u6642\u307e\u3067\u958b\u3044\u3066\u3044\u307e\u3059\u3002",
+                "english": "The post office is open until 5PM.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253884.mp3",
+                "kana": "\u3086\u3046\u3073\u3093\u304d\u3087\u304f\u306f\u3054\u3054\u3054\u3058\u307e\u3067\u3042\u3044\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Y\u016bbinkyoku wa gogo go-ji made aite imasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201609.mp3",
+                "text": "\u90f5\u4fbf\u5c40\u306e\u5efa\u7269",
+                "english": "post office building",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90408.mp3",
+                "kana": "\u3086\u3046\u3073\u3093\u304d\u3087\u304f\u306e\u305f\u3066\u3082\u306e",
+                "romaji": "y\u016bbinkyoku no tatemono"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201608.mp3",
+                "text": "\u4e94\u756a\u8857\u3068\u30bb\u30f3\u30c8\u30e9\u30eb\u901a\u308a\u306b\u90f5\u4fbf\u5c40\u304c\u3042\u308a\u307e\u3059\u3002",
+                "english": "There is a post office on 5th Avenue and one on Central Street.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90406.mp3",
+                "kana": "\u3054\u3070\u3093\u304c\u3044\u3068\u30bb\u30f3\u30c8\u30e9\u30eb\u3069\u304a\u308a\u306b\u3086\u3046\u3073\u3093\u304d\u3087\u304f\u304c\u3042\u308a\u307e\u3059\u3002",
+                "romaji": "Go-ban gai to Sentoraru d\u014dri ni y\u016bbinkyoku ga arimasu."
+            }
+        ]
+    },
+    {
+        "img": "17410",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/309555.mp3",
+        "class": "noun",
+        "english": "library",
+        "flashcardId": "224210",
+        "meaning": "library (noun) - a room or building containing books that can be looked at or borrowed",
+        "id": "1332",
+        "word": "\u56f3\u66f8\u9928",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263189.mp3",
+        "kana": "\u3068\u3057\u3087\u304b\u3093",
+        "romaji": "toshokan",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227522.mp3",
+                "text": "\u56f3\u66f8\u9928\u306e\u8cc7\u6599",
+                "english": "library resources",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2487.mp3",
+                "kana": "\u3068\u3057\u3087\u304b\u3093\u306e\u3057\u308a\u3087\u3046",
+                "romaji": "toshokan no shiry\u014d"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/553814.mp3",
+                "text": "\u56f3\u66f8\u9928\u3067\u52c9\u5f37\u3057\u3066\u3044\u307e\u3059\u3002",
+                "english": "I am studying at the library.",
+                "en_audio": "",
+                "kana": "\u3068\u3057\u3087\u304b\u3093\u3067\u3079\u3093\u304d\u3087\u3046\u3057\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Toshokan de benky\u014d shite imasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/798.mp3",
+                "text": "\u305d\u306e\u8a3a\u7642\u6240\u306f\u56f3\u66f8\u9928\u304b\u3089\u8fd1\u3044\u3002",
+                "english": "The doctor's office is near the library.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u3057\u3093\u308a\u3087\u3046\u3058\u3087\u306f\u3068\u3057\u3087\u304b\u3093\u304b\u3089\u3061\u304b\u3044\u3002",
+                "romaji": "Sono shinry\u014djo wa toshokan kara chikai."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/553814.mp3",
+                "text": "\u56f3\u66f8\u9928\u3067\u52c9\u5f37\u3057\u3066\u3044\u307e\u3059\u3002",
+                "english": "I am studying at the library.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254050.mp3",
+                "kana": "\u3068\u3057\u3087\u304b\u3093\u3067\u3079\u3093\u304d\u3087\u3046\u3057\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Toshokan de benky\u014d shite imasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227522.mp3",
+                "text": "\u56f3\u66f8\u9928\u306e\u8cc7\u6599",
+                "english": "library resources",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2487.mp3",
+                "kana": "\u3068\u3057\u3087\u304b\u3093\u306e\u3057\u308a\u3087\u3046",
+                "romaji": "toshokan no shiry\u014d"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/798.mp3",
+                "text": "\u305d\u306e\u8a3a\u7642\u6240\u306f\u56f3\u66f8\u9928\u304b\u3089\u8fd1\u3044\u3002",
+                "english": "The doctor's office is near the library.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3421.mp3",
+                "kana": "\u305d\u306e\u3057\u3093\u308a\u3087\u3046\u3058\u3087\u306f\u3068\u3057\u3087\u304b\u3093\u304b\u3089\u3061\u304b\u3044\u3002",
+                "romaji": "Sono shinry\u014djo wa toshokan kara chikai."
+            }
+        ]
+    },
+    {
+        "img": "9643",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/309595.mp3",
+        "class": "noun",
+        "english": "supermarket",
+        "flashcardId": "224211",
+        "meaning": "supermarket (noun) - a store where customers can buy a variety of foods and usually household items",
+        "id": "1395",
+        "word": "\u30b9\u30fc\u30d1\u30fc\u30de\u30fc\u30b1\u30c3\u30c8",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/306120.mp3",
+        "kana": "\u30b9\u30fc\u30d1\u30fc\u30de\u30fc\u30b1\u30c3\u30c8",
+        "romaji": "s\u016bp\u0101m\u0101ketto",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/824592.mp3",
+                "text": "\u30b9\u30fc\u30d1\u30fc\u30de\u30fc\u30b1\u30c3\u30c8\u306e\u91ce\u83dc\u58f2\u308a\u5834",
+                "english": "vegetable section of the supermarket",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3537.mp3",
+                "kana": "\u30b9\u30fc\u30d1\u30fc\u30de\u30fc\u30b1\u30c3\u30c8\u306e\u3084\u3055\u3044\u3046\u308a\u3070",
+                "romaji": "s\u016bp\u0101m\u0101ketto no yasai uriba"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/824596.mp3",
+                "text": "\u30b9\u30fc\u30d1\u30fc\u30de\u30fc\u30b1\u30c3\u30c8\u3067\u4f55\u3092\u8cb7\u3063\u305f\u3093\u3067\u3059\u304b\uff1f",
+                "english": "What did you buy at the supermarket?",
+                "en_audio": "",
+                "kana": "\u30b9\u30fc\u30d1\u30fc\u30de\u30fc\u30b1\u30c3\u30c8\u3067\u306a\u306b\u3092\u304b\u3063\u305f\u3093\u3067\u3059\u304b\uff1f",
+                "romaji": "S\u016bp\u0101m\u0101ketto de nani o katta n desu ka?"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/824595.mp3",
+                "text": "\u5c02\u696d\u4e3b\u5a66\u304c\u30b9\u30fc\u30d1\u30fc\u30de\u30fc\u30b1\u30c3\u30c8\u3067\u8cb7\u3044\u7269\u3057\u3066\u3044\u308b\u3002",
+                "english": "The housewives are shopping at the supermarket.",
+                "en_audio": "",
+                "kana": "\u305b\u3093\u304e\u3087\u3046\u3057\u3085\u3075\u304c\u30b9\u30fc\u30d1\u30fc\u30de\u30fc\u30b1\u30c3\u30c8\u3067\u304b\u3044\u3082\u306e\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Sengy\u014d shufu ga s\u016bp\u0101m\u0101ketto de kaimono shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/824593.mp3",
+                "text": "\u305d\u306e\u7537\u6027\u3068\u5973\u6027\u306f\u30b9\u30fc\u30d1\u30fc\u30de\u30fc\u30b1\u30c3\u30c8\u3067\u8cb7\u3044\u7269\u3057\u3066\u3044\u308b\u3002",
+                "english": "The man and woman are shopping in a supermarket.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u3060\u3093\u305b\u3044\u3068\u3058\u3087\u305b\u3044\u306f\u30b9\u30fc\u30d1\u30fc\u30de\u30fc\u30b1\u30c3\u30c8\u3067\u304b\u3044\u3082\u306e\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Sono dansei to josei wa s\u016bp\u0101m\u0101ketto de kaimono shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/824591.mp3",
+                "text": "\u308f\u305f\u3057\u306f\u3001\u98df\u6599\u54c1\u306f\u3059\u3079\u3066\u30b9\u30fc\u30d1\u30fc\u30de\u30fc\u30b1\u30c3\u30c8\u3067\u8cb7\u3044\u307e\u3059\u3002",
+                "english": "I buy all my groceries at the supermarket.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306f\u3001\u3057\u3087\u304f\u308a\u3087\u3046\u3072\u3093\u306f\u3059\u3079\u3066\u30b9\u30fc\u30d1\u30fc\u30de\u30fc\u30b1\u30c3\u30c8\u3067\u304b\u3044\u307e\u3059\u3002",
+                "romaji": "Watashi wa, shokury\u014dhin wa subete s\u016bp\u0101m\u0101ketto de kaimasu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/824596.mp3",
+                "text": "\u30b9\u30fc\u30d1\u30fc\u30de\u30fc\u30b1\u30c3\u30c8\u3067\u4f55\u3092\u8cb7\u3063\u305f\u3093\u3067\u3059\u304b\uff1f",
+                "english": "What did you buy at the supermarket?",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254053.mp3",
+                "kana": "\u30b9\u30fc\u30d1\u30fc\u30de\u30fc\u30b1\u30c3\u30c8\u3067\u306a\u306b\u3092\u304b\u3063\u305f\u3093\u3067\u3059\u304b\uff1f",
+                "romaji": "S\u016bp\u0101m\u0101ketto de nani o katta n desu ka?"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/824595.mp3",
+                "text": "\u5c02\u696d\u4e3b\u5a66\u304c\u30b9\u30fc\u30d1\u30fc\u30de\u30fc\u30b1\u30c3\u30c8\u3067\u8cb7\u3044\u7269\u3057\u3066\u3044\u308b\u3002",
+                "english": "The housewives are shopping at the supermarket.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85721.mp3",
+                "kana": "\u305b\u3093\u304e\u3087\u3046\u3057\u3085\u3075\u304c\u30b9\u30fc\u30d1\u30fc\u30de\u30fc\u30b1\u30c3\u30c8\u3067\u304b\u3044\u3082\u306e\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Sengy\u014d shufu ga s\u016bp\u0101m\u0101ketto de kaimono shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/824593.mp3",
+                "text": "\u305d\u306e\u7537\u6027\u3068\u5973\u6027\u306f\u30b9\u30fc\u30d1\u30fc\u30de\u30fc\u30b1\u30c3\u30c8\u3067\u8cb7\u3044\u7269\u3057\u3066\u3044\u308b\u3002",
+                "english": "The man and woman are shopping in a supermarket.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/91787.mp3",
+                "kana": "\u305d\u306e\u3060\u3093\u305b\u3044\u3068\u3058\u3087\u305b\u3044\u306f\u30b9\u30fc\u30d1\u30fc\u30de\u30fc\u30b1\u30c3\u30c8\u3067\u304b\u3044\u3082\u306e\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Sono dansei to josei wa s\u016bp\u0101m\u0101ketto de kaimono shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/824592.mp3",
+                "text": "\u30b9\u30fc\u30d1\u30fc\u30de\u30fc\u30b1\u30c3\u30c8\u306e\u91ce\u83dc\u58f2\u308a\u5834",
+                "english": "vegetable section of the supermarket",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3537.mp3",
+                "kana": "\u30b9\u30fc\u30d1\u30fc\u30de\u30fc\u30b1\u30c3\u30c8\u306e\u3084\u3055\u3044\u3046\u308a\u3070",
+                "romaji": "s\u016bp\u0101m\u0101ketto no yasai uriba"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/824591.mp3",
+                "text": "\u308f\u305f\u3057\u306f\u3001\u98df\u6599\u54c1\u306f\u3059\u3079\u3066\u30b9\u30fc\u30d1\u30fc\u30de\u30fc\u30b1\u30c3\u30c8\u3067\u8cb7\u3044\u307e\u3059\u3002",
+                "english": "I buy all my groceries at the supermarket.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3535.mp3",
+                "kana": "\u308f\u305f\u3057\u306f\u3001\u3057\u3087\u304f\u308a\u3087\u3046\u3072\u3093\u306f\u3059\u3079\u3066\u30b9\u30fc\u30d1\u30fc\u30de\u30fc\u30b1\u30c3\u30c8\u3067\u304b\u3044\u307e\u3059\u3002",
+                "romaji": "Watashi wa, shokury\u014dhin wa subete s\u016bp\u0101m\u0101ketto de kaimasu."
+            }
+        ]
+    },
+    {
+        "img": "21254",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/258517.mp3",
+        "class": "noun",
+        "english": "bank",
+        "flashcardId": "224212",
+        "meaning": "bank (noun) - an institution for receiving, lending, exchanging, and safeguarding money and, in some cases, issuing notes and transacting other financial business",
+        "id": "203",
+        "word": "\u9280\u884c",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263178.mp3",
+        "kana": "\u304e\u3093\u3053\u3046",
+        "romaji": "gink\u014d",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251412.mp3",
+                "text": "\u53e4\u3044\u9280\u884c",
+                "english": "old bank",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3982.mp3",
+                "kana": "\u3075\u308b\u3044\u304e\u3093\u3053\u3046",
+                "romaji": "furui gink\u014d"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/810108.mp3",
+                "text": "\u5730\u65b9\u9280\u884c",
+                "english": "local bank",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3979.mp3",
+                "kana": "\u3061\u307b\u3046\u304e\u3093\u3053\u3046",
+                "romaji": "chih\u014d gink\u014d"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251411.mp3",
+                "text": "\u305d\u306e\u9280\u884c\u306f\u9589\u307e\u3063\u3066\u3044\u308b\u3002",
+                "english": "The bank is closed.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u304e\u3093\u3053\u3046\u306f\u3057\u307e\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Sono gink\u014d wa shimatte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/830227.mp3",
+                "text": "\u305d\u306e\u9280\u884c\u306f\u65e5\u66dc\u65e5\u306f\u55b6\u696d\u3057\u3066\u3044\u306a\u3044\u3002",
+                "english": "The bank is not open for business on Sundays.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u304e\u3093\u3053\u3046\u306f\u306b\u3061\u3088\u3046\u3073\u306f\u3048\u3044\u304e\u3087\u3046\u3057\u3066\u3044\u306a\u3044\u3002",
+                "romaji": "Sono gink\u014d wa nichi-y\u014dbi wa eigy\u014d shite inai."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251412.mp3",
+                "text": "\u53e4\u3044\u9280\u884c",
+                "english": "old bank",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3982.mp3",
+                "kana": "\u3075\u308b\u3044\u304e\u3093\u3053\u3046",
+                "romaji": "furui gink\u014d"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251411.mp3",
+                "text": "\u305d\u306e\u9280\u884c\u306f\u9589\u307e\u3063\u3066\u3044\u308b\u3002",
+                "english": "The bank is closed.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3980.mp3",
+                "kana": "\u305d\u306e\u304e\u3093\u3053\u3046\u306f\u3057\u307e\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Sono gink\u014d wa shimatte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/830227.mp3",
+                "text": "\u305d\u306e\u9280\u884c\u306f\u65e5\u66dc\u65e5\u306f\u55b6\u696d\u3057\u3066\u3044\u306a\u3044\u3002",
+                "english": "The bank is not open for business on Sundays.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3978.mp3",
+                "kana": "\u305d\u306e\u304e\u3093\u3053\u3046\u306f\u306b\u3061\u3088\u3046\u3073\u306f\u3048\u3044\u304e\u3087\u3046\u3057\u3066\u3044\u306a\u3044\u3002",
+                "romaji": "Sono gink\u014d wa nichi-y\u014dbi wa eigy\u014d shite inai."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/810108.mp3",
+                "text": "\u5730\u65b9\u9280\u884c",
+                "english": "local bank",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3979.mp3",
+                "kana": "\u3061\u307b\u3046\u304e\u3093\u3053\u3046",
+                "romaji": "chih\u014d gink\u014d"
+            }
+        ]
+    },
+    {
+        "img": "17504",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/606908.mp3",
+        "class": "noun",
+        "english": "convenience store",
+        "flashcardId": "2164213",
+        "meaning": "convenience store (noun) -  small store that is open for many hours of the day",
+        "id": "2707",
+        "word": "\u30b3\u30f3\u30d3\u30cb\u30a8\u30f3\u30b9\u30b9\u30c8\u30a2\u30fc",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102922.mp3",
+        "kana": "\u30b3\u30f3\u30d3\u30cb\u30a8\u30f3\u30b9\u30b9\u30c8\u30a2\u30fc",
+        "romaji": "konbiniensusuto\u0101",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206159.mp3",
+                "text": "\u30b3\u30f3\u30d3\u30cb\u3067\u8cb7\u3044\u7269\u3092\u3059\u308b",
+                "english": "shop at a convenience store",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102927.mp3",
+                "kana": "\u30b3\u30f3\u30d3\u30cb\u3067\u304b\u3044\u3082\u306e\u3092\u3059\u308b",
+                "romaji": "Konbini de kaimono o suru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/860547.mp3",
+                "text": "\u4e8c\u5341\u56db\u6642\u9593\u55b6\u696d\u306e\u30b3\u30f3\u30d3\u30cb\u30a8\u30f3\u30b9\u30b9\u30c8\u30a2\u30fc",
+                "english": "24-hour convenience store",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102926.mp3",
+                "kana": "\u306b\u3058\u3085\u3046\u3088\u3058\u304b\u3093\u3048\u3044\u304e\u3087\u3046\u306e\u30b3\u30f3\u30d3\u30cb\u30a8\u30f3\u30b9\u30b9\u30c8\u30a2\u30fc",
+                "romaji": "ni-j\u016b yo-jikan eigy\u014d no konbiniensusuto\u0101"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206160.mp3",
+                "text": "\u305d\u306e\u30b3\u30f3\u30d3\u30cb\u306f\u4e8c\u5341\u56db\u6642\u9593\u55b6\u696d\u3067\u3059\u3002",
+                "english": "The convenience store is open 24 hours.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u30b3\u30f3\u30d3\u30cb\u306f\u306b\u3058\u3085\u3046\u3088\u3058\u304b\u3093\u3048\u3044\u304e\u3087\u3046\u3067\u3059\u3002",
+                "romaji": "Sono konbini wa ni-j\u016b yo-jikan eigy\u014d desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271878.mp3",
+                "text": "\u30b3\u30f3\u30d3\u30cb\u306b\u884c\u3063\u3066\u3001\u725b\u4e73\u3092\u8cb7\u3063\u3066\u304d\u3066\u3002",
+                "english": "Go to the convenience store, and buy some milk.",
+                "en_audio": "",
+                "kana": "\u30b3\u30f3\u30d3\u30cb\u306b\u3044\u3063\u3066\u3001\u304e\u3085\u3046\u306b\u3085\u3046\u3092\u304b\u3063\u3066\u304d\u3066\u3002",
+                "romaji": "Konbini ni itte, gy\u016bny\u016b o katte kite."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/860546.mp3",
+                "text": "\u305d\u306e\u5973\u6027\u306f\u30b3\u30f3\u30d3\u30cb\u30a8\u30f3\u30b9\u30b9\u30c8\u30a2\u30fc\u3067\u8cb7\u3044\u7269\u3092\u3057\u3066\u3044\u308b\u3002",
+                "english": "The woman is shopping at a convenience store.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u3058\u3087\u305b\u3044\u306f\u30b3\u30f3\u30d3\u30cb\u30a8\u30f3\u30b9\u30b9\u30c8\u30a2\u30fc\u3067\u304b\u3044\u3082\u306e\u3092\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Sono josei wa konbiniensusuto\u0101 de kaimono o shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/860545.mp3",
+                "text": "\u305d\u306e\u30b3\u30f3\u30d3\u30cb\u30a8\u30f3\u30b9\u30b9\u30c8\u30a2\u30fc\u3067\u306f\u3001\u3061\u3087\u3063\u3068\u3057\u305f\u98df\u6599\u54c1\u3084\u30ac\u30bd\u30ea\u30f3\u3092\u624b\u306b\u5165\u308c\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002",
+                "english": "You can get quick supplies and gas at the convenience store.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u30b3\u30f3\u30d3\u30cb\u30a8\u30f3\u30b9\u30b9\u30c8\u30a2\u30fc\u3067\u306f\u3001\u3061\u3087\u3063\u3068\u3057\u305f\u3057\u3087\u304f\u308a\u3087\u3046\u3072\u3093\u3084\u30ac\u30bd\u30ea\u30f3\u3092\u3066\u306b\u3044\u308c\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002",
+                "romaji": "Sono konbiniensusuto\u0101 de wa, chotto shita shokury\u014dhin ya gasorin o te ni ireru koto ga dekiru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206159.mp3",
+                "text": "\u30b3\u30f3\u30d3\u30cb\u3067\u8cb7\u3044\u7269\u3092\u3059\u308b",
+                "english": "shop at a convenience store",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102927.mp3",
+                "kana": "\u30b3\u30f3\u30d3\u30cb\u3067\u304b\u3044\u3082\u306e\u3092\u3059\u308b",
+                "romaji": "Konbini de kaimono o suru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206160.mp3",
+                "text": "\u305d\u306e\u30b3\u30f3\u30d3\u30cb\u306f\u4e8c\u5341\u56db\u6642\u9593\u55b6\u696d\u3067\u3059\u3002",
+                "english": "The convenience store is open 24 hours.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197900.mp3",
+                "kana": "\u305d\u306e\u30b3\u30f3\u30d3\u30cb\u306f\u306b\u3058\u3085\u3046\u3088\u3058\u304b\u3093\u3048\u3044\u304e\u3087\u3046\u3067\u3059\u3002",
+                "romaji": "Sono konbini wa ni-j\u016b yo-jikan eigy\u014d desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271878.mp3",
+                "text": "\u30b3\u30f3\u30d3\u30cb\u306b\u884c\u3063\u3066\u3001\u725b\u4e73\u3092\u8cb7\u3063\u3066\u304d\u3066\u3002",
+                "english": "Go to the convenience store, and buy some milk.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102924.mp3",
+                "kana": "\u30b3\u30f3\u30d3\u30cb\u306b\u3044\u3063\u3066\u3001\u304e\u3085\u3046\u306b\u3085\u3046\u3092\u304b\u3063\u3066\u304d\u3066\u3002",
+                "romaji": "Konbini ni itte, gy\u016bny\u016b o katte kite."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/860547.mp3",
+                "text": "\u4e8c\u5341\u56db\u6642\u9593\u55b6\u696d\u306e\u30b3\u30f3\u30d3\u30cb\u30a8\u30f3\u30b9\u30b9\u30c8\u30a2\u30fc",
+                "english": "24-hour convenience store",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102926.mp3",
+                "kana": "\u306b\u3058\u3085\u3046\u3088\u3058\u304b\u3093\u3048\u3044\u304e\u3087\u3046\u306e\u30b3\u30f3\u30d3\u30cb\u30a8\u30f3\u30b9\u30b9\u30c8\u30a2\u30fc",
+                "romaji": "ni-j\u016b yo-jikan eigy\u014d no konbiniensusuto\u0101"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/860546.mp3",
+                "text": "\u305d\u306e\u5973\u6027\u306f\u30b3\u30f3\u30d3\u30cb\u30a8\u30f3\u30b9\u30b9\u30c8\u30a2\u30fc\u3067\u8cb7\u3044\u7269\u3092\u3057\u3066\u3044\u308b\u3002",
+                "english": "The woman is shopping at a convenience store.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102925.mp3",
+                "kana": "\u305d\u306e\u3058\u3087\u305b\u3044\u306f\u30b3\u30f3\u30d3\u30cb\u30a8\u30f3\u30b9\u30b9\u30c8\u30a2\u30fc\u3067\u304b\u3044\u3082\u306e\u3092\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Sono josei wa konbiniensusuto\u0101 de kaimono o shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/860545.mp3",
+                "text": "\u305d\u306e\u30b3\u30f3\u30d3\u30cb\u30a8\u30f3\u30b9\u30b9\u30c8\u30a2\u30fc\u3067\u306f\u3001\u3061\u3087\u3063\u3068\u3057\u305f\u98df\u6599\u54c1\u3084\u30ac\u30bd\u30ea\u30f3\u3092\u624b\u306b\u5165\u308c\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002",
+                "english": "You can get quick supplies and gas at the convenience store.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102923.mp3",
+                "kana": "\u305d\u306e\u30b3\u30f3\u30d3\u30cb\u30a8\u30f3\u30b9\u30b9\u30c8\u30a2\u30fc\u3067\u306f\u3001\u3061\u3087\u3063\u3068\u3057\u305f\u3057\u3087\u304f\u308a\u3087\u3046\u3072\u3093\u3084\u30ac\u30bd\u30ea\u30f3\u3092\u3066\u306b\u3044\u308c\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002",
+                "romaji": "Sono konbiniensusuto\u0101 de wa, chotto shita shokury\u014dhin ya gasorin o te ni ireru koto ga dekiru."
+            }
+        ]
+    },
+    {
+        "img": "21261",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1889.mp3",
+        "class": "noun",
+        "english": "hospital",
+        "flashcardId": "224214",
+        "meaning": "hospital (noun) - a place where sick or injured people are given care or treatment and where children are often born",
+        "id": "3027",
+        "word": "\u75c5\u9662",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5234.mp3",
+        "kana": "\u3073\u3087\u3046\u3044\u3093",
+        "romaji": "by\u014din",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271879.mp3",
+                "text": "\u75c5\u9662\u306e\u5efa\u7269",
+                "english": "hospital building",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263322.mp3",
+                "kana": "\u3073\u3087\u3046\u3044\u3093\u306e\u305f\u3066\u3082\u306e",
+                "romaji": "by\u014din no tatemono"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1890.mp3",
+                "text": "\u75c5\u9662\u306e\u30d9\u30c3\u30c9",
+                "english": "hospital bed",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5237.mp3",
+                "kana": "\u3073\u3087\u3046\u3044\u3093\u306e\u30d9\u30c3\u30c9",
+                "romaji": "by\u014din no beddo"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1891.mp3",
+                "text": "\u3082\u3057\u7dca\u6025\u306a\u3089\u3001\u4eca\u3059\u3050\u75c5\u9662\u306b\u884c\u304d\u306a\u3055\u3044\u3002",
+                "english": "If it's an emergency, go to the hospital right away.",
+                "en_audio": "",
+                "kana": "\u3082\u3057\u304d\u3093\u304d\u3085\u3046\u306a\u3089\u3001\u3044\u307e\u3059\u3050\u3073\u3087\u3046\u3044\u3093\u306b\u3044\u304d\u306a\u3055\u3044\u3002",
+                "romaji": "Moshi kinky\u016b nara, ima sugu by\u014din ni ikinasai."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271879.mp3",
+                "text": "\u75c5\u9662\u306e\u5efa\u7269",
+                "english": "hospital building",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263322.mp3",
+                "kana": "\u3073\u3087\u3046\u3044\u3093\u306e\u305f\u3066\u3082\u306e",
+                "romaji": "by\u014din no tatemono"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1891.mp3",
+                "text": "\u3082\u3057\u7dca\u6025\u306a\u3089\u3001\u4eca\u3059\u3050\u75c5\u9662\u306b\u884c\u304d\u306a\u3055\u3044\u3002",
+                "english": "If it's an emergency, go to the hospital right away.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5238.mp3",
+                "kana": "\u3082\u3057\u304d\u3093\u304d\u3085\u3046\u306a\u3089\u3001\u3044\u307e\u3059\u3050\u3073\u3087\u3046\u3044\u3093\u306b\u3044\u304d\u306a\u3055\u3044\u3002",
+                "romaji": "Moshi kinky\u016b nara, ima sugu by\u014din ni ikinasai."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1890.mp3",
+                "text": "\u75c5\u9662\u306e\u30d9\u30c3\u30c9",
+                "english": "hospital bed",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5237.mp3",
+                "kana": "\u3073\u3087\u3046\u3044\u3093\u306e\u30d9\u30c3\u30c9",
+                "romaji": "by\u014din no beddo"
+            }
+        ]
+    },
+    {
+        "img": "8977",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201875.mp3",
+        "class": "noun",
+        "english": "police station",
+        "flashcardId": "2164214",
+        "meaning": "police station (noun) - a station that serves as headquarters for police in a particular district",
+        "id": "3343",
+        "word": "\u8b66\u5bdf\u7f72",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/7852.mp3",
+        "kana": "\u3051\u3044\u3055\u3064\u3057\u3087",
+        "romaji": "keisatsusho",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201877.mp3",
+                "text": "\u8b66\u5bdf\u7f72\u306e\u99d0\u8eca\u5834",
+                "english": "police station parking lot",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102659.mp3",
+                "kana": "\u3051\u3044\u3055\u3064\u3057\u3087\u306e\u3061\u3085\u3046\u3057\u3083\u3058\u3087\u3046",
+                "romaji": "keisatsusho no ch\u016bshaj\u014d"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201876.mp3",
+                "text": "\u5e02\u306e\u8b66\u5bdf\u7f72",
+                "english": "city police station",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102657.mp3",
+                "kana": "\u3057\u306e\u3051\u3044\u3055\u3064\u3057\u3087",
+                "romaji": "shi no keisatsusho"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201878.mp3",
+                "text": "\u65b0\u3057\u304f\u8b66\u5bdf\u7f72\u304c\u8a2d\u7f6e\u3055\u308c\u308b\u3068\u72af\u7f6a\u306f\u6e1b\u5c11\u3057\u305f\u3002",
+                "english": "Crime went down when the new police station opened.",
+                "en_audio": "",
+                "kana": "\u3042\u305f\u3089\u3057\u304f\u3051\u3044\u3055\u3064\u3057\u3087\u304c\u305b\u3063\u3061\u3055\u308c\u308b\u3068\u306f\u3093\u3056\u3044\u306f\u3052\u3093\u3057\u3087\u3046\u3057\u305f\u3002",
+                "romaji": "Atarashiku keisatsusho ga setchi sareru to hanzai wa gensh\u014d shita."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201878.mp3",
+                "text": "\u65b0\u3057\u304f\u8b66\u5bdf\u7f72\u304c\u8a2d\u7f6e\u3055\u308c\u308b\u3068\u72af\u7f6a\u306f\u6e1b\u5c11\u3057\u305f\u3002",
+                "english": "Crime went down when the new police station opened.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102658.mp3",
+                "kana": "\u3042\u305f\u3089\u3057\u304f\u3051\u3044\u3055\u3064\u3057\u3087\u304c\u305b\u3063\u3061\u3055\u308c\u308b\u3068\u306f\u3093\u3056\u3044\u306f\u3052\u3093\u3057\u3087\u3046\u3057\u305f\u3002",
+                "romaji": "Atarashiku keisatsusho ga setchi sareru to hanzai wa gensh\u014d shita."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201877.mp3",
+                "text": "\u8b66\u5bdf\u7f72\u306e\u99d0\u8eca\u5834",
+                "english": "police station parking lot",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102659.mp3",
+                "kana": "\u3051\u3044\u3055\u3064\u3057\u3087\u306e\u3061\u3085\u3046\u3057\u3083\u3058\u3087\u3046",
+                "romaji": "keisatsusho no ch\u016bshaj\u014d"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201876.mp3",
+                "text": "\u5e02\u306e\u8b66\u5bdf\u7f72",
+                "english": "city police station",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102657.mp3",
+                "kana": "\u3057\u306e\u3051\u3044\u3055\u3064\u3057\u3087",
+                "romaji": "shi no keisatsusho"
+            }
+        ]
+    },
+    {
+        "img": "9202",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1892.mp3",
+        "class": "noun",
+        "english": "pharmacy",
+        "flashcardId": "2164215",
+        "meaning": "pharmacy (noun) - a drugstore",
+        "id": "3043",
+        "word": "\u85ac\u5c40",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5239.mp3",
+        "kana": "\u3084\u3063\u304d\u3087\u304f",
+        "romaji": "yakkyoku",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201880.mp3",
+                "text": "\u85ac\u5c40\u306e\u85ac\u5264\u5e2b",
+                "english": "pharmacist at a pharmacy",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197902.mp3",
+                "kana": "\u3084\u3063\u304d\u3087\u304f\u306e\u3084\u304f\u3056\u3044\u3057",
+                "romaji": "yakkyoku no yakuzaishi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1893.mp3",
+                "text": "\u4e8c\u5341\u56db\u6642\u9593\u55b6\u696d\u306e\u85ac\u5c40",
+                "english": "24-hour pharmacy",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5242.mp3",
+                "kana": "\u306b\u3058\u3085\u3046\u3088\u3058\u304b\u3093\u3048\u3044\u304e\u3087\u3046\u306e\u3084\u3063\u304d\u3087\u304f",
+                "romaji": "ni-j\u016b yo-jikan eigy\u014d no yakkyoku"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201881.mp3",
+                "text": "\u305d\u306e\u85ac\u5264\u5e2b\u306f\u85ac\u5c40\u3067\u50cd\u3044\u3066\u3044\u308b\u3002",
+                "english": "The pharmacist is working at the pharmacy.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u3084\u304f\u3056\u3044\u3057\u306f\u3084\u3063\u304d\u3087\u304f\u3067\u306f\u305f\u3089\u3044\u3066\u3044\u308b\u3002",
+                "romaji": "Sono yakuzaishi wa yakkyoku de hataraite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271880.mp3",
+                "text": "\u79c1\u306f\u85ac\u5c40\u306b\u884c\u3063\u3066\u3001\u85ac\u5264\u5e2b\u306b\u85ac\u3092\u51e6\u65b9\u3057\u3066\u3082\u3089\u3063\u305f\u3002",
+                "english": "I went to the pharmacy, and the pharmacist filled my prescription.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306f\u3084\u3063\u304d\u3087\u304f\u306b\u3044\u3063\u3066\u3001\u3084\u304f\u3056\u3044\u3057\u306b\u304f\u3059\u308a\u3092\u3057\u3087\u307b\u3046\u3057\u3066\u3082\u3089\u3063\u305f\u3002",
+                "romaji": "Watashi wa yakkyoku ni itte, yakuzaishi ni kusuri o shoh\u014d shite moratta."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201881.mp3",
+                "text": "\u305d\u306e\u85ac\u5264\u5e2b\u306f\u85ac\u5c40\u3067\u50cd\u3044\u3066\u3044\u308b\u3002",
+                "english": "The pharmacist is working at the pharmacy.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197903.mp3",
+                "kana": "\u305d\u306e\u3084\u304f\u3056\u3044\u3057\u306f\u3084\u3063\u304d\u3087\u304f\u3067\u306f\u305f\u3089\u3044\u3066\u3044\u308b\u3002",
+                "romaji": "Sono yakuzaishi wa yakkyoku de hataraite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201880.mp3",
+                "text": "\u85ac\u5c40\u306e\u85ac\u5264\u5e2b",
+                "english": "pharmacist at a pharmacy",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197902.mp3",
+                "kana": "\u3084\u3063\u304d\u3087\u304f\u306e\u3084\u304f\u3056\u3044\u3057",
+                "romaji": "yakkyoku no yakuzaishi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271880.mp3",
+                "text": "\u79c1\u306f\u85ac\u5c40\u306b\u884c\u3063\u3066\u3001\u85ac\u5264\u5e2b\u306b\u85ac\u3092\u51e6\u65b9\u3057\u3066\u3082\u3089\u3063\u305f\u3002",
+                "english": "I went to the pharmacy, and the pharmacist filled my prescription.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5243.mp3",
+                "kana": "\u308f\u305f\u3057\u306f\u3084\u3063\u304d\u3087\u304f\u306b\u3044\u3063\u3066\u3001\u3084\u304f\u3056\u3044\u3057\u306b\u304f\u3059\u308a\u3092\u3057\u3087\u307b\u3046\u3057\u3066\u3082\u3089\u3063\u305f\u3002",
+                "romaji": "Watashi wa yakkyoku ni itte, yakuzaishi ni kusuri o shoh\u014d shite moratta."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1893.mp3",
+                "text": "\u4e8c\u5341\u56db\u6642\u9593\u55b6\u696d\u306e\u85ac\u5c40",
+                "english": "24-hour pharmacy",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5242.mp3",
+                "kana": "\u306b\u3058\u3085\u3046\u3088\u3058\u304b\u3093\u3048\u3044\u304e\u3087\u3046\u306e\u3084\u3063\u304d\u3087\u304f",
+                "romaji": "ni-j\u016b yo-jikan eigy\u014d no yakkyoku"
+            }
+        ]
+    }
+]

@@ -1,0 +1,1349 @@
+[
+    {
+        "img": "17494",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375093.mp3",
+        "class": "i-adjective",
+        "english": "cheap",
+        "flashcardId": "2158432",
+        "meaning": "cheap (adjective) - not at all expensive, or lower in price than you expected",
+        "id": "1383",
+        "word": "\u5b89\u3044",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/88705.mp3",
+        "kana": "\u3084\u3059\u3044",
+        "romaji": "yasui",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1170942.mp3",
+                "text": "\u5b89\u304f\u3059\u308b",
+                "english": "make ~ cheap",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1174487.mp3",
+                "kana": "\u3084\u3059\u304f\u3059\u308b",
+                "romaji": "yasuku suru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226257.mp3",
+                "text": "\u5b89\u3044\u30b5\u30f3\u30b0\u30e9\u30b9",
+                "english": "cheap sunglasses",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89847.mp3",
+                "kana": "\u3084\u3059\u3044\u30b5\u30f3\u30b0\u30e9\u30b9",
+                "romaji": "yasui sangurasu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227593.mp3",
+                "text": "\u5b89\u3044\u9774",
+                "english": "cheap shoes",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3523.mp3",
+                "kana": "\u3084\u3059\u3044\u304f\u3064",
+                "romaji": "yasui kutsu"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1170954.mp3",
+                "text": "\u3082\u3046\u3061\u3087\u3063\u3068\u5b89\u304f\u3057\u3066\u3082\u3089\u3048\u307e\u3059\u304b\u3002",
+                "english": "Could you make this a little cheaper?",
+                "en_audio": "",
+                "kana": "\u3082\u3046\u3061\u3087\u3063\u3068\u3084\u3059\u304f\u3057\u3066\u3082\u3089\u3048\u307e\u3059\u304b\u3002",
+                "romaji": "M\u014d chotto yasuku shite moraemasu ka."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227594.mp3",
+                "text": "\u8155\u6642\u8a08\u306f\u5b89\u304f\u306a\u3044\u3067\u3059\u3002",
+                "english": "The wrist watch is not cheap.",
+                "en_audio": "",
+                "kana": "\u3046\u3067\u3069\u3051\u3044\u306f\u3084\u3059\u304f\u306a\u3044\u3067\u3059\u3002",
+                "romaji": "Udedokei wa yasukunai desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/258819.mp3",
+                "text": "\u79c1\u306f\u5b89\u3044\u9774\u3092\u63a2\u3057\u3066\u3044\u307e\u3059\u3002",
+                "english": "I'm looking for a cheap pair of shoes.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306f\u3084\u3059\u3044\u304f\u3064\u3092\u3055\u304c\u3057\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Watashi wa yasui kutsu o sagashite imasu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1170942.mp3",
+                "text": "\u5b89\u304f\u3059\u308b",
+                "english": "make ~ cheap",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1174487.mp3",
+                "kana": "\u3084\u3059\u304f\u3059\u308b",
+                "romaji": "yasuku suru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1170954.mp3",
+                "text": "\u3082\u3046\u3061\u3087\u3063\u3068\u5b89\u304f\u3057\u3066\u3082\u3089\u3048\u307e\u3059\u304b\u3002",
+                "english": "Could you make this a little cheaper?",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1174499.mp3",
+                "kana": "\u3082\u3046\u3061\u3087\u3063\u3068\u3084\u3059\u304f\u3057\u3066\u3082\u3089\u3048\u307e\u3059\u304b\u3002",
+                "romaji": "M\u014d chotto yasuku shite moraemasu ka."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227594.mp3",
+                "text": "\u8155\u6642\u8a08\u306f\u5b89\u304f\u306a\u3044\u3067\u3059\u3002",
+                "english": "The wrist watch is not cheap.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254051.mp3",
+                "kana": "\u3046\u3067\u3069\u3051\u3044\u306f\u3084\u3059\u304f\u306a\u3044\u3067\u3059\u3002",
+                "romaji": "Udedokei wa yasukunai desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226257.mp3",
+                "text": "\u5b89\u3044\u30b5\u30f3\u30b0\u30e9\u30b9",
+                "english": "cheap sunglasses",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89847.mp3",
+                "kana": "\u3084\u3059\u3044\u30b5\u30f3\u30b0\u30e9\u30b9",
+                "romaji": "yasui sangurasu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227593.mp3",
+                "text": "\u5b89\u3044\u9774",
+                "english": "cheap shoes",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3523.mp3",
+                "kana": "\u3084\u3059\u3044\u304f\u3064",
+                "romaji": "yasui kutsu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/258819.mp3",
+                "text": "\u79c1\u306f\u5b89\u3044\u9774\u3092\u63a2\u3057\u3066\u3044\u307e\u3059\u3002",
+                "english": "I'm looking for a cheap pair of shoes.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3522.mp3",
+                "kana": "\u308f\u305f\u3057\u306f\u3084\u3059\u3044\u304f\u3064\u3092\u3055\u304c\u3057\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Watashi wa yasui kutsu o sagashite imasu."
+            }
+        ]
+    },
+    {
+        "img": "22056",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227595.mp3",
+        "class": "na-adjective",
+        "english": "expensive",
+        "flashcardId": "1759608",
+        "meaning": "expensive (adjective) - costing a lot of money",
+        "id": "1384",
+        "word": "\u9ad8\u4fa1",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/88706.mp3",
+        "kana": "\u3053\u3046\u304b",
+        "romaji": "k\u014dka",
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/549247.mp3",
+                "text": "\u5bb6\u306f\u9ad8\u4fa1\u3067\u3059\u3002",
+                "english": "A house is expensive.",
+                "en_audio": "",
+                "kana": "\u3044\u3048\u306f\u3053\u3046\u304b\u3067\u3059\u3002",
+                "romaji": "Ie wa k\u014dka desu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/549247.mp3",
+                "text": "\u5bb6\u306f\u9ad8\u4fa1\u3067\u3059\u3002",
+                "english": "A house is expensive.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3527.mp3",
+                "kana": "\u3044\u3048\u306f\u3053\u3046\u304b\u3067\u3059\u3002",
+                "romaji": "Ie wa k\u014dka desu."
+            }
+        ]
+    },
+    {
+        "img": "9564",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271255.mp3",
+        "class": "na-adjective",
+        "english": "kind",
+        "flashcardId": "2158480",
+        "meaning": "kind (adjective) - saying or doing things that show that you care about other people and want to help them or make them happy",
+        "id": "9356",
+        "word": "\u89aa\u5207",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4045.mp3",
+        "kana": "\u3057\u3093\u305b\u3064",
+        "romaji": "shinsetsu",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271259.mp3",
+                "text": "\u89aa\u5207\u306a\u884c\u70ba",
+                "english": "kind act",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92292.mp3",
+                "kana": "\u3057\u3093\u305b\u3064\u306a\u3053\u3046\u3044",
+                "romaji": "shinsetsu na k\u014di"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271257.mp3",
+                "text": "\u89aa\u5207\u5fc3",
+                "english": "a kind heart",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4047.mp3",
+                "kana": "\u3057\u3093\u305b\u3064\u3057\u3093",
+                "romaji": "shinsetsushin"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271258.mp3",
+                "text": "\u5e74\u914d\u306e\u5973\u6027\u306b\u82b1\u3092\u8d08\u308b\u306e\u306f\u3001\u89aa\u5207\u306a\u3053\u3068\u3060\u3002",
+                "english": "Giving the elderly woman flowers is a kind act.",
+                "en_audio": "",
+                "kana": "\u306d\u3093\u3071\u3044\u306e\u3058\u3087\u305b\u3044\u306b\u306f\u306a\u3092\u304a\u304f\u308b\u306e\u306f\u3001\u3057\u3093\u305b\u3064\u306a\u3053\u3068\u3060\u3002",
+                "romaji": "Nenpai no josei ni hana o okuru no wa, shinsetsu na koto da."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271256.mp3",
+                "text": "\u5f7c\u5973\u306f\u3001\u7b11\u9854\u304c\u7d20\u6575\u3067\u3001\u89aa\u5207\u306a\u4eba\u3060\u3002",
+                "english": "She is a kind person with a big smile.",
+                "en_audio": "",
+                "kana": "\u304b\u306e\u3058\u3087\u306f\u3001\u3048\u304c\u304a\u304c\u3059\u3066\u304d\u3067\u3001\u3057\u3093\u305b\u3064\u306a\u3072\u3068\u3060\u3002",
+                "romaji": "Kanojo wa, egao ga suteki de, shinsetsu na hito da."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271259.mp3",
+                "text": "\u89aa\u5207\u306a\u884c\u70ba",
+                "english": "kind act",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92292.mp3",
+                "kana": "\u3057\u3093\u305b\u3064\u306a\u3053\u3046\u3044",
+                "romaji": "shinsetsu na k\u014di"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271258.mp3",
+                "text": "\u5e74\u914d\u306e\u5973\u6027\u306b\u82b1\u3092\u8d08\u308b\u306e\u306f\u3001\u89aa\u5207\u306a\u3053\u3068\u3060\u3002",
+                "english": "Giving the elderly woman flowers is a kind act.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92291.mp3",
+                "kana": "\u306d\u3093\u3071\u3044\u306e\u3058\u3087\u305b\u3044\u306b\u306f\u306a\u3092\u304a\u304f\u308b\u306e\u306f\u3001\u3057\u3093\u305b\u3064\u306a\u3053\u3068\u3060\u3002",
+                "romaji": "Nenpai no josei ni hana o okuru no wa, shinsetsu na koto da."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271257.mp3",
+                "text": "\u89aa\u5207\u5fc3",
+                "english": "a kind heart",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4047.mp3",
+                "kana": "\u3057\u3093\u305b\u3064\u3057\u3093",
+                "romaji": "shinsetsushin"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271256.mp3",
+                "text": "\u5f7c\u5973\u306f\u3001\u7b11\u9854\u304c\u7d20\u6575\u3067\u3001\u89aa\u5207\u306a\u4eba\u3060\u3002",
+                "english": "She is a kind person with a big smile.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4046.mp3",
+                "kana": "\u304b\u306e\u3058\u3087\u306f\u3001\u3048\u304c\u304a\u304c\u3059\u3066\u304d\u3067\u3001\u3057\u3093\u305b\u3064\u306a\u3072\u3068\u3060\u3002",
+                "romaji": "Kanojo wa, egao ga suteki de, shinsetsu na hito da."
+            }
+        ]
+    },
+    {
+        "img": "8311",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200975.mp3",
+        "class": "i-adjective",
+        "english": "scary",
+        "flashcardId": "2166699",
+        "meaning": "scary (adjective) - frightening",
+        "id": "3457",
+        "word": "\u6016\u3044",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92197.mp3",
+        "kana": "\u3053\u308f\u3044",
+        "romaji": "kowai",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271262.mp3",
+                "text": "\u6016\u3044\u63cf\u5199",
+                "english": "scary sight",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262757.mp3",
+                "kana": "\u3053\u308f\u3044\u3073\u3087\u3046\u3057\u3083",
+                "romaji": "kowai by\u014dsha"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271261.mp3",
+                "text": "\u5f7c\u306f\u304a\u9762\u3092\u7740\u3051\u308b\u3068\u3001\u6016\u305d\u3046\u306b\u898b\u3048\u308b\u3002",
+                "english": "He looks scary when he wears that mask.",
+                "en_audio": "",
+                "kana": "\u304b\u308c\u306f\u304a\u3081\u3093\u3092\u3064\u3051\u308b\u3068\u3001\u3053\u308f\u305d\u3046\u306b\u307f\u3048\u308b\u3002",
+                "romaji": "Kare wa o-men o tsukeru to, kowa s\u014d ni mieru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271260.mp3",
+                "text": "\u6016\u3044\u6620\u753b\u304c\u5acc\u3044\u3067\u3059\u3002",
+                "english": "I hate scary movies.",
+                "en_audio": "",
+                "kana": "\u3053\u308f\u3044\u3048\u3044\u304c\u304c\u304d\u3089\u3044\u3067\u3059\u3002",
+                "romaji": "Kowai eiga ga kirai desu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271262.mp3",
+                "text": "\u6016\u3044\u63cf\u5199",
+                "english": "scary sight",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262757.mp3",
+                "kana": "\u3053\u308f\u3044\u3073\u3087\u3046\u3057\u3083",
+                "romaji": "kowai by\u014dsha"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271261.mp3",
+                "text": "\u5f7c\u306f\u304a\u9762\u3092\u7740\u3051\u308b\u3068\u3001\u6016\u305d\u3046\u306b\u898b\u3048\u308b\u3002",
+                "english": "He looks scary when he wears that mask.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92198.mp3",
+                "kana": "\u304b\u308c\u306f\u304a\u3081\u3093\u3092\u3064\u3051\u308b\u3068\u3001\u3053\u308f\u305d\u3046\u306b\u307f\u3048\u308b\u3002",
+                "romaji": "Kare wa o-men o tsukeru to, kowa s\u014d ni mieru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271260.mp3",
+                "text": "\u6016\u3044\u6620\u753b\u304c\u5acc\u3044\u3067\u3059\u3002",
+                "english": "I hate scary movies.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262756.mp3",
+                "kana": "\u3053\u308f\u3044\u3048\u3044\u304c\u304c\u304d\u3089\u3044\u3067\u3059\u3002",
+                "romaji": "Kowai eiga ga kirai desu."
+            }
+        ]
+    },
+    {
+        "img": "21657",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271266.mp3",
+        "class": "i-adjective",
+        "english": "interesting",
+        "flashcardId": "2158483",
+        "meaning": "interesting (adjective) - if something is interesting, you give it your attention because it seems unusual or exciting or provides information that you did not know about",
+        "id": "2160",
+        "word": "\u8208\u5473\u6df1\u3044",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4206.mp3",
+        "kana": "\u304d\u3087\u3046\u307f\u3076\u304b\u3044",
+        "romaji": "ky\u014dmibukai",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1187.mp3",
+                "text": "\u8208\u5473\u6df1\u3044\u30a2\u30a4\u30c7\u30a2",
+                "english": "interesting idea",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4208.mp3",
+                "kana": "\u304d\u3087\u3046\u307f\u3076\u304b\u3044\u30a2\u30a4\u30c7\u30a2",
+                "romaji": "ky\u014dmibukai aidea"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271268.mp3",
+                "text": "\u5973\u6027\u306f\u3001\u8208\u5473\u6df1\u3044\u8a71\u3092\u805e\u3044\u3066\u3044\u308b\u3002",
+                "english": "The woman is listening to an interesting story.",
+                "en_audio": "",
+                "kana": "\u3058\u3087\u305b\u3044\u306f\u3001\u304d\u3087\u3046\u307f\u3076\u304b\u3044\u306f\u306a\u3057\u3092\u304d\u3044\u3066\u3044\u308b\u3002",
+                "romaji": "Josei wa, ky\u014dmibukai hanashi o kiite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1186.mp3",
+                "text": "\u3042\u306a\u305f\u304c\u4f1a\u8b70\u3067\u30d7\u30ec\u30bc\u30f3\u3057\u305f\u30a2\u30a4\u30c7\u30a2\u306f\u8208\u5473\u6df1\u3044\u3067\u3059\u3002",
+                "english": "That's an interesting idea you presented at the meeting.",
+                "en_audio": "",
+                "kana": "\u3042\u306a\u305f\u304c\u304b\u3044\u304e\u3067\u30d7\u30ec\u30bc\u30f3\u3057\u305f\u30a2\u30a4\u30c7\u30a2\u306f\u304d\u3087\u3046\u307f\u3076\u304b\u3044\u3067\u3059\u3002",
+                "romaji": "Anata ga kaigi de purezen shita aidea wa ky\u014dmibukai desu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271268.mp3",
+                "text": "\u5973\u6027\u306f\u3001\u8208\u5473\u6df1\u3044\u8a71\u3092\u805e\u3044\u3066\u3044\u308b\u3002",
+                "english": "The woman is listening to an interesting story.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262760.mp3",
+                "kana": "\u3058\u3087\u305b\u3044\u306f\u3001\u304d\u3087\u3046\u307f\u3076\u304b\u3044\u306f\u306a\u3057\u3092\u304d\u3044\u3066\u3044\u308b\u3002",
+                "romaji": "Josei wa, ky\u014dmibukai hanashi o kiite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1187.mp3",
+                "text": "\u8208\u5473\u6df1\u3044\u30a2\u30a4\u30c7\u30a2",
+                "english": "interesting idea",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4208.mp3",
+                "kana": "\u304d\u3087\u3046\u307f\u3076\u304b\u3044\u30a2\u30a4\u30c7\u30a2",
+                "romaji": "ky\u014dmibukai aidea"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1186.mp3",
+                "text": "\u3042\u306a\u305f\u304c\u4f1a\u8b70\u3067\u30d7\u30ec\u30bc\u30f3\u3057\u305f\u30a2\u30a4\u30c7\u30a2\u306f\u8208\u5473\u6df1\u3044\u3067\u3059\u3002",
+                "english": "That's an interesting idea you presented at the meeting.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4207.mp3",
+                "kana": "\u3042\u306a\u305f\u304c\u304b\u3044\u304e\u3067\u30d7\u30ec\u30bc\u30f3\u3057\u305f\u30a2\u30a4\u30c7\u30a2\u306f\u304d\u3087\u3046\u307f\u3076\u304b\u3044\u3067\u3059\u3002",
+                "romaji": "Anata ga kaigi de purezen shita aidea wa ky\u014dmibukai desu."
+            }
+        ]
+    },
+    {
+        "img": "8124",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271269.mp3",
+        "class": "na-adjective",
+        "english": "mean",
+        "flashcardId": "2158485",
+        "meaning": "mean (adjective) - cruel or not kind",
+        "id": "29985",
+        "word": "\u610f\u5730\u60aa",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4229.mp3",
+        "kana": "\u3044\u3058\u308f\u308b",
+        "romaji": "ijiwaru",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271270.mp3",
+                "text": "\u610f\u5730\u60aa\u306a\u72ac",
+                "english": "mean dog",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4230.mp3",
+                "kana": "\u3044\u3058\u308f\u308b\u306a\u3044\u306c",
+                "romaji": "ijiwaru na inu"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271271.mp3",
+                "text": "\u610f\u5730\u60aa\u306a\u5973\u6027\u304c\u3001\u5b50\u4f9b\u9054\u306b\u5927\u58f0\u3092\u51fa\u3057\u3066\u3044\u308b\u3002",
+                "english": "The mean woman yelled at the children.",
+                "en_audio": "",
+                "kana": "\u3044\u3058\u308f\u308b\u306a\u3058\u3087\u305b\u3044\u304c\u3001\u3053\u3069\u3082\u305f\u3061\u306b\u304a\u304a\u3054\u3048\u3092\u3060\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Ijiwaru na josei ga, kodomo-tachi ni \u014dgoe o dashite iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271271.mp3",
+                "text": "\u610f\u5730\u60aa\u306a\u5973\u6027\u304c\u3001\u5b50\u4f9b\u9054\u306b\u5927\u58f0\u3092\u51fa\u3057\u3066\u3044\u308b\u3002",
+                "english": "The mean woman yelled at the children.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262764.mp3",
+                "kana": "\u3044\u3058\u308f\u308b\u306a\u3058\u3087\u305b\u3044\u304c\u3001\u3053\u3069\u3082\u305f\u3061\u306b\u304a\u304a\u3054\u3048\u3092\u3060\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Ijiwaru na josei ga, kodomo-tachi ni \u014dgoe o dashite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271270.mp3",
+                "text": "\u610f\u5730\u60aa\u306a\u72ac",
+                "english": "mean dog",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4230.mp3",
+                "kana": "\u3044\u3058\u308f\u308b\u306a\u3044\u306c",
+                "romaji": "ijiwaru na inu"
+            }
+        ]
+    },
+    {
+        "img": "17343",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200992.mp3",
+        "class": "phrase",
+        "english": "bored",
+        "flashcardId": "2158049",
+        "meaning": "bored (adjective) - tired and impatient because you do not think something is interesting, or because you have nothing to do",
+        "id": "31382",
+        "word": "\u9000\u5c48\u3057\u305f",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262766.mp3",
+        "kana": "\u305f\u3044\u304f\u3064\u3057\u305f",
+        "romaji": "taikutsu shita",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200994.mp3",
+                "text": "\u3072\u3069\u304f\u9000\u5c48\u3057\u305f",
+                "english": "extremely bored",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198364.mp3",
+                "kana": "\u3072\u3069\u304f\u305f\u3044\u304f\u3064\u3057\u305f",
+                "romaji": "hidoku taikutsu shita"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200993.mp3",
+                "text": "\u305d\u306e\u96c6\u56e3\u306e\u4eba\u305f\u3061\u306f\u3001\u3072\u3069\u304f\u9000\u5c48\u3057\u3066\u3044\u308b\u3002",
+                "english": "The group of people are extremely bored.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u3057\u3085\u3046\u3060\u3093\u306e\u3072\u3068\u305f\u3061\u306f\u3001\u3072\u3069\u304f\u305f\u3044\u304f\u3064\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Sono sh\u016bdan no hito-tachi wa, hidoku taikutsu shite iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200994.mp3",
+                "text": "\u3072\u3069\u304f\u9000\u5c48\u3057\u305f",
+                "english": "extremely bored",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198364.mp3",
+                "kana": "\u3072\u3069\u304f\u305f\u3044\u304f\u3064\u3057\u305f",
+                "romaji": "hidoku taikutsu shita"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200993.mp3",
+                "text": "\u305d\u306e\u96c6\u56e3\u306e\u4eba\u305f\u3061\u306f\u3001\u3072\u3069\u304f\u9000\u5c48\u3057\u3066\u3044\u308b\u3002",
+                "english": "The group of people are extremely bored.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198363.mp3",
+                "kana": "\u305d\u306e\u3057\u3085\u3046\u3060\u3093\u306e\u3072\u3068\u305f\u3061\u306f\u3001\u3072\u3069\u304f\u305f\u3044\u304f\u3064\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Sono sh\u016bdan no hito-tachi wa, hidoku taikutsu shite iru."
+            }
+        ]
+    },
+    {
+        "img": "17285",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271276.mp3",
+        "class": "i-adjective",
+        "english": "disgusting",
+        "flashcardId": "224315",
+        "meaning": "disgusting (adjective) - For \"food\". so unpleasant to smell, taste, etc., that you feel slightly sick",
+        "id": "31378",
+        "word": "\u307e\u305a\u3044",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198375.mp3",
+        "kana": "\u307e\u305a\u3044",
+        "romaji": "mazui",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271278.mp3",
+                "text": "\u307e\u305a\u3044\u98df\u3079\u7269",
+                "english": "disgusting food",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198377.mp3",
+                "kana": "\u307e\u305a\u3044\u305f\u3079\u3082\u306e",
+                "romaji": "mazui tabemono"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271279.mp3",
+                "text": "\u305d\u306e\u7537\u6027\u306f\u3001\u4e0d\u5473\u305d\u3046\u306a\u30b9\u30ca\u30c3\u30af\u3092\u98df\u3079\u3066\u3044\u308b\u3002",
+                "english": "The man is eating a disgusting snack.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u3060\u3093\u305b\u3044\u306f\u3001\u307e\u305a\u305d\u3046\u306a\u30b9\u30ca\u30c3\u30af\u3092\u305f\u3079\u3066\u3044\u308b\u3002",
+                "romaji": "Sono dansei wa, mazu s\u014d na sunakku o tabete iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271277.mp3",
+                "text": "\u305d\u306e\u8d64\u3061\u3083\u3093\u306f\u3001\u307e\u305a\u3044\u98df\u3079\u7269\u3092\u4e0e\u3048\u3089\u308c\u3066\u3001\u5b09\u3057\u305d\u3046\u3067\u306f\u306a\u3044\u3002",
+                "english": "The baby is being fed disgusting food, and he is not happy.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u3042\u304b\u3061\u3083\u3093\u306f\u3001\u307e\u305a\u3044\u305f\u3079\u3082\u306e\u3092\u3042\u305f\u3048\u3089\u308c\u3066\u3001\u3046\u308c\u3057\u305d\u3046\u3067\u306f\u306a\u3044\u3002",
+                "romaji": "Sono aka-chan wa, mazui tabemono o ataerarete, ureshi s\u014d de wa nai."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271279.mp3",
+                "text": "\u305d\u306e\u7537\u6027\u306f\u3001\u4e0d\u5473\u305d\u3046\u306a\u30b9\u30ca\u30c3\u30af\u3092\u98df\u3079\u3066\u3044\u308b\u3002",
+                "english": "The man is eating a disgusting snack.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198378.mp3",
+                "kana": "\u305d\u306e\u3060\u3093\u305b\u3044\u306f\u3001\u307e\u305a\u305d\u3046\u306a\u30b9\u30ca\u30c3\u30af\u3092\u305f\u3079\u3066\u3044\u308b\u3002",
+                "romaji": "Sono dansei wa, mazu s\u014d na sunakku o tabete iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271278.mp3",
+                "text": "\u307e\u305a\u3044\u98df\u3079\u7269",
+                "english": "disgusting food",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198377.mp3",
+                "kana": "\u307e\u305a\u3044\u305f\u3079\u3082\u306e",
+                "romaji": "mazui tabemono"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271277.mp3",
+                "text": "\u305d\u306e\u8d64\u3061\u3083\u3093\u306f\u3001\u307e\u305a\u3044\u98df\u3079\u7269\u3092\u4e0e\u3048\u3089\u308c\u3066\u3001\u5b09\u3057\u305d\u3046\u3067\u306f\u306a\u3044\u3002",
+                "english": "The baby is being fed disgusting food, and he is not happy.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198376.mp3",
+                "kana": "\u305d\u306e\u3042\u304b\u3061\u3083\u3093\u306f\u3001\u307e\u305a\u3044\u305f\u3079\u3082\u306e\u3092\u3042\u305f\u3048\u3089\u308c\u3066\u3001\u3046\u308c\u3057\u305d\u3046\u3067\u306f\u306a\u3044\u3002",
+                "romaji": "Sono aka-chan wa, mazui tabemono o ataerarete, ureshi s\u014d de wa nai."
+            }
+        ]
+    },
+    {
+        "img": "9952",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201013.mp3",
+        "class": "i-adjective",
+        "english": "delicious",
+        "flashcardId": "224314",
+        "meaning": "delicious (adjective) - very pleasant to taste or smell",
+        "id": "7978",
+        "word": "\u304a\u3044\u3057\u3044",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198372.mp3",
+        "kana": "\u304a\u3044\u3057\u3044",
+        "romaji": "oishii",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1170939.mp3",
+                "text": "\u304a\u3044\u3057\u305d\u3046",
+                "english": "looks delicious",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1174484.mp3",
+                "kana": "\u304a\u3044\u3057\u305d\u3046",
+                "romaji": "oishis\u014d"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201016.mp3",
+                "text": "\u304a\u3044\u3057\u3044\u30d4\u30b6",
+                "english": "delicious pizza",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198374.mp3",
+                "kana": "\u304a\u3044\u3057\u3044\u30d4\u30b6",
+                "romaji": "oishii piza"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1170951.mp3",
+                "text": "\u3053\u306e\u30a2\u30a4\u30b9\u30af\u30ea\u30fc\u30e0\u306f\u304a\u3044\u3057\u305d\u3046\u3067\u3059\u3002",
+                "english": "The ice cream looks delicious.",
+                "en_audio": "",
+                "kana": "\u3053\u306e\u3042\u3044\u3059\u304f\u308a\u30fc\u3080\u306f\u304a\u3044\u3057\u305d\u3046\u3067\u3059\u3002",
+                "romaji": "Kono aisukur\u012bmu wa oishis\u014d desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271273.mp3",
+                "text": "\u305d\u306e\u5973\u6027\u306f\u304a\u3044\u3057\u305d\u3046\u306b\u30d4\u30b6\u3092\u98df\u3079\u3066\u3044\u307e\u3059\u3002",
+                "english": "The woman is enjoying delicious pizza.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u3058\u3087\u305b\u3044\u306f\u304a\u3044\u3057\u305d\u3046\u306b\u30d4\u30b6\u3092\u305f\u3079\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Sono josei wa oishi s\u014d ni piza o tabete imasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201015.mp3",
+                "text": "\u305d\u306e\u30d4\u30b6\u306f\u304a\u3044\u3057\u305d\u3046\u3067\u3059\u3002",
+                "english": "The pizza looks delicious.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u30d4\u30b6\u306f\u304a\u3044\u3057\u305d\u3046\u3067\u3059\u3002",
+                "romaji": "Sono piza wa oishi s\u014d desu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1170951.mp3",
+                "text": "\u3053\u306e\u30a2\u30a4\u30b9\u30af\u30ea\u30fc\u30e0\u306f\u304a\u3044\u3057\u305d\u3046\u3067\u3059\u3002",
+                "english": "The ice cream looks delicious.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1174496.mp3",
+                "kana": "\u3053\u306e\u3042\u3044\u3059\u304f\u308a\u30fc\u3080\u306f\u304a\u3044\u3057\u305d\u3046\u3067\u3059\u3002",
+                "romaji": "Kono aisukur\u012bmu wa oishis\u014d desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1170939.mp3",
+                "text": "\u304a\u3044\u3057\u305d\u3046",
+                "english": "looks delicious",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1174484.mp3",
+                "kana": "\u304a\u3044\u3057\u305d\u3046",
+                "romaji": "oishis\u014d"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271273.mp3",
+                "text": "\u305d\u306e\u5973\u6027\u306f\u304a\u3044\u3057\u305d\u3046\u306b\u30d4\u30b6\u3092\u98df\u3079\u3066\u3044\u307e\u3059\u3002",
+                "english": "The woman is enjoying delicious pizza.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198368.mp3",
+                "kana": "\u305d\u306e\u3058\u3087\u305b\u3044\u306f\u304a\u3044\u3057\u305d\u3046\u306b\u30d4\u30b6\u3092\u305f\u3079\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Sono josei wa oishi s\u014d ni piza o tabete imasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201016.mp3",
+                "text": "\u304a\u3044\u3057\u3044\u30d4\u30b6",
+                "english": "delicious pizza",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198374.mp3",
+                "kana": "\u304a\u3044\u3057\u3044\u30d4\u30b6",
+                "romaji": "oishii piza"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201015.mp3",
+                "text": "\u305d\u306e\u30d4\u30b6\u306f\u304a\u3044\u3057\u305d\u3046\u3067\u3059\u3002",
+                "english": "The pizza looks delicious.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/198373.mp3",
+                "kana": "\u305d\u306e\u30d4\u30b6\u306f\u304a\u3044\u3057\u305d\u3046\u3067\u3059\u3002",
+                "romaji": "Sono piza wa oishi s\u014d desu."
+            }
+        ]
+    },
+    {
+        "img": "9671",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271280.mp3",
+        "class": "phrase",
+        "english": "relaxing",
+        "flashcardId": "2158488",
+        "meaning": "relaxing (adjective) - making you feel relaxed",
+        "id": "32706",
+        "word": "\u304f\u3064\u308d\u3044\u3060",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262767.mp3",
+        "kana": "\u304f\u3064\u308d\u3044\u3060",
+        "romaji": "kutsuroida",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271281.mp3",
+                "text": "\u304f\u3064\u308d\u3044\u3060\u4e00\u65e5",
+                "english": "relaxing day",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262768.mp3",
+                "kana": "\u304f\u3064\u308d\u3044\u3060\u3044\u3061\u306b\u3061",
+                "romaji": "kutsuroida ichi-nichi"
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271281.mp3",
+                "text": "\u304f\u3064\u308d\u3044\u3060\u4e00\u65e5",
+                "english": "relaxing day",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262768.mp3",
+                "kana": "\u304f\u3064\u308d\u3044\u3060\u3044\u3061\u306b\u3061",
+                "romaji": "kutsuroida ichi-nichi"
+            }
+        ]
+    },
+    {
+        "img": "8751",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225979.mp3",
+        "class": "noun",
+        "english": "pound",
+        "flashcardId": "2166814",
+        "meaning": "pound (noun) - measurement - (lb) 16 oz /  453.59237 g",
+        "id": "99",
+        "word": "\u30dd\u30f3\u30c9",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/24166.mp3",
+        "kana": "\u30dd\u30f3\u30c9",
+        "romaji": "pondo",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225983.mp3",
+                "text": "\u4e00\u30dd\u30f3\u30c9",
+                "english": "one pound",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262790.mp3",
+                "kana": "\u3044\u3061\u30dd\u30f3\u30c9",
+                "romaji": "ichi-pondo"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225981.mp3",
+                "text": "180\u30dd\u30f3\u30c9",
+                "english": "one hundred eighty pounds",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262788.mp3",
+                "kana": "\u3072\u3083\u304f\u306f\u3061\u3058\u3085\u3063\u30dd\u30f3\u30c9",
+                "romaji": "hyaku hachi-ju-ppondo"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225982.mp3",
+                "text": "\u30dd\u30f3\u30c9\u306e\u3001\u7565\u8a9e\u306f\u201clb\u201d\u3067\u3059\u3002",
+                "english": "The abbreviation for pound is lb.",
+                "en_audio": "",
+                "kana": "\u30dd\u30f3\u30c9\u306e\u3001\u308a\u3083\u304f\u3054\u306f\u201c\u30a8\u30eb\u30d3\u30fc\u201d\u3067\u3059\u3002",
+                "romaji": "Pondo no, ryakugo wa \"eru b\u012b\" desu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225983.mp3",
+                "text": "\u4e00\u30dd\u30f3\u30c9",
+                "english": "one pound",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262790.mp3",
+                "kana": "\u3044\u3061\u30dd\u30f3\u30c9",
+                "romaji": "ichi-pondo"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225982.mp3",
+                "text": "\u30dd\u30f3\u30c9\u306e\u3001\u7565\u8a9e\u306f\u201clb\u201d\u3067\u3059\u3002",
+                "english": "The abbreviation for pound is lb.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262789.mp3",
+                "kana": "\u30dd\u30f3\u30c9\u306e\u3001\u308a\u3083\u304f\u3054\u306f\u201c\u30a8\u30eb\u30d3\u30fc\u201d\u3067\u3059\u3002",
+                "romaji": "Pondo no, ryakugo wa \"eru b\u012b\" desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225981.mp3",
+                "text": "180\u30dd\u30f3\u30c9",
+                "english": "one hundred eighty pounds",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262788.mp3",
+                "kana": "\u3072\u3083\u304f\u306f\u3061\u3058\u3085\u3063\u30dd\u30f3\u30c9",
+                "romaji": "hyaku hachi-ju-ppondo"
+            }
+        ]
+    },
+    {
+        "img": "11944",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271313.mp3",
+        "class": "noun",
+        "english": "mile",
+        "flashcardId": "2158651",
+        "meaning": "mile (noun) - abbreviation \"m\". a unit for measuring distance, equal to 1760 yards\tor about 1609 metrers",
+        "id": "32053",
+        "word": "\u30de\u30a4\u30eb",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/24168.mp3",
+        "kana": "\u30de\u30a4\u30eb",
+        "romaji": "mairu",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271314.mp3",
+                "text": "\uff11\u30de\u30a4\u30eb\u306e\u30ea\u30ec\u30fc\u7af6\u4e89",
+                "english": "one mile relay race",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90230.mp3",
+                "kana": "\u3044\u3061\u30de\u30a4\u30eb\u306e\u30ea\u30ec\u30fc\u304d\u3087\u3046\u305d\u3046",
+                "romaji": "ichi-mairu no rir\u0113 ky\u014ds\u014d"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271315.mp3",
+                "text": "\uff11\u30de\u30a4\u30eb\u306f\u3060\u3044\u305f\u30441.6\u30ad\u30ed\u30e1\u30fc\u30c8\u30eb\u3067\u3059\u3002",
+                "english": "One mile is roughly 1.6 kilometers.",
+                "en_audio": "",
+                "kana": "\u3044\u3061\u30de\u30a4\u30eb\u306f\u3060\u3044\u305f\u3044\u3044\u3063\u3066\u3093\u308d\u304f\u30ad\u30ed\u30e1\u30fc\u30c8\u30eb\u3067\u3059\u3002",
+                "romaji": "ichi-mairu wa daitai i-tten roku-kirom\u0113toru desu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271315.mp3",
+                "text": "\uff11\u30de\u30a4\u30eb\u306f\u3060\u3044\u305f\u30441.6\u30ad\u30ed\u30e1\u30fc\u30c8\u30eb\u3067\u3059\u3002",
+                "english": "One mile is roughly 1.6 kilometers.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262792.mp3",
+                "kana": "\u3044\u3061\u30de\u30a4\u30eb\u306f\u3060\u3044\u305f\u3044\u3044\u3063\u3066\u3093\u308d\u304f\u30ad\u30ed\u30e1\u30fc\u30c8\u30eb\u3067\u3059\u3002",
+                "romaji": "ichi-mairu wa daitai i-tten roku-kirom\u0113toru desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271314.mp3",
+                "text": "\uff11\u30de\u30a4\u30eb\u306e\u30ea\u30ec\u30fc\u7af6\u4e89",
+                "english": "one mile relay race",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90230.mp3",
+                "kana": "\u3044\u3061\u30de\u30a4\u30eb\u306e\u30ea\u30ec\u30fc\u304d\u3087\u3046\u305d\u3046",
+                "romaji": "ichi-mairu no rir\u0113 ky\u014ds\u014d"
+            }
+        ]
+    },
+    {
+        "img": "10137",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271316.mp3",
+        "class": "noun",
+        "english": "foot",
+        "flashcardId": "2158652",
+        "meaning": "foot (noun) - abbreviation \"ft\". a unit for measuring length, equal to 12 inches or about 30 centimeters",
+        "id": "32032",
+        "word": "\u30d5\u30a3\u30fc\u30c8",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/24183.mp3",
+        "kana": "\u30d5\u30a3\u30fc\u30c8",
+        "romaji": "f\u012bto",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271317.mp3",
+                "text": "1\u30d5\u30a3\u30fc\u30c86\u30a4\u30f3\u30c1",
+                "english": "one foot six inches",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262793.mp3",
+                "kana": "\u3044\u3061\u30d5\u30a3\u30fc\u30c8\u308d\u304f\u30a4\u30f3\u30c1",
+                "romaji": "ichi-f\u012bto roku-inchi"
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271317.mp3",
+                "text": "1\u30d5\u30a3\u30fc\u30c86\u30a4\u30f3\u30c1",
+                "english": "one foot six inches",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262793.mp3",
+                "kana": "\u3044\u3061\u30d5\u30a3\u30fc\u30c8\u308d\u304f\u30a4\u30f3\u30c1",
+                "romaji": "ichi-f\u012bto roku-inchi"
+            }
+        ]
+    },
+    {
+        "img": "13349",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225988.mp3",
+        "class": "noun",
+        "english": "inch",
+        "flashcardId": "2158653",
+        "meaning": "inch (noun) - abbreviation \"in\". a unit for measuring length, equal to 2.54 centimeters.",
+        "id": "102",
+        "word": "\u30a4\u30f3\u30c1",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/104500.mp3",
+        "kana": "\u30a4\u30f3\u30c1",
+        "romaji": "inchi",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206091.mp3",
+                "text": "\u5341\u4e8c\u30a4\u30f3\u30c1\u306e\u5b9a\u898f",
+                "english": "twelve inch ruler",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102792.mp3",
+                "kana": "\u3058\u3085\u3046\u306b\u30a4\u30f3\u30c1\u306e\u3058\u3087\u3046\u304e",
+                "romaji": "j\u016b ni-inchi no j\u014dgi"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/553798.mp3",
+                "text": "\u79c1\u306f\uff14\uff10\u30a4\u30f3\u30c1\u306e\u8584\u578b\u30c6\u30ec\u30d3\u3092\u8cb7\u3063\u305f\u3070\u304b\u308a\u3067\u3059\u3002",
+                "english": "I just bought a 40 inch flat screen television.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306f\u3088\u3093\u3058\u3085\u3046\u30a4\u30f3\u30c1\u306e\u3046\u3059\u304c\u305f\u30c6\u30ec\u30d3\u3092\u304b\u3063\u305f\u3070\u304b\u308a\u3067\u3059\u3002",
+                "romaji": "Watashi wa yon-j\u016b-inchi no usugata terebi o katta bakari desu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206091.mp3",
+                "text": "\u5341\u4e8c\u30a4\u30f3\u30c1\u306e\u5b9a\u898f",
+                "english": "twelve inch ruler",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102792.mp3",
+                "kana": "\u3058\u3085\u3046\u306b\u30a4\u30f3\u30c1\u306e\u3058\u3087\u3046\u304e",
+                "romaji": "j\u016b ni-inchi no j\u014dgi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/553798.mp3",
+                "text": "\u79c1\u306f\uff14\uff10\u30a4\u30f3\u30c1\u306e\u8584\u578b\u30c6\u30ec\u30d3\u3092\u8cb7\u3063\u305f\u3070\u304b\u308a\u3067\u3059\u3002",
+                "english": "I just bought a 40 inch flat screen television.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3816.mp3",
+                "kana": "\u308f\u305f\u3057\u306f\u3088\u3093\u3058\u3085\u3046\u30a4\u30f3\u30c1\u306e\u3046\u3059\u304c\u305f\u30c6\u30ec\u30d3\u3092\u304b\u3063\u305f\u3070\u304b\u308a\u3067\u3059\u3002",
+                "romaji": "Watashi wa yon-j\u016b-inchi no usugata terebi o katta bakari desu."
+            }
+        ]
+    },
+    {
+        "img": "22368",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225984.mp3",
+        "class": "counter",
+        "english": "kilogram",
+        "flashcardId": "2158656",
+        "meaning": "kilogram (noun) - abbreviation \"kg\". a unit for measuring weight, equal to 1000 grams",
+        "id": "100",
+        "word": "\u30ad\u30ed\u30b0\u30e9\u30e0",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262794.mp3",
+        "kana": "\u30ad\u30ed\u30b0\u30e9\u30e0",
+        "romaji": "kiroguramu",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225986.mp3",
+                "text": "\uff12\uff12\u30ad\u30ed\u30b0\u30e9\u30e0",
+                "english": "22 kilograms",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262796.mp3",
+                "kana": "\u306b\u3058\u3085\u3046\u306b\u30ad\u30ed\u30b0\u30e9\u30e0",
+                "romaji": "ni-j\u016b ni-kiroguramu"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225985.mp3",
+                "text": "\uff11\u30ad\u30ed\u30b0\u30e9\u30e0\u306f\u3001\u3060\u3044\u305f\u30442.2\u30dd\u30f3\u30c9\u3067\u3059\u3002",
+                "english": "One kilogram is roughly 2.2 pounds.",
+                "en_audio": "",
+                "kana": "\u3044\u3061\u30ad\u30ed\u30b0\u30e9\u30e0\u306f\u3001\u3060\u3044\u305f\u3044\u306b\u3066\u3093\u306b\u30dd\u30f3\u30c9\u3067\u3059\u3002",
+                "romaji": "ichi-kiroguramu wa, daitai ni-ten ni-pondo desu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225986.mp3",
+                "text": "\uff12\uff12\u30ad\u30ed\u30b0\u30e9\u30e0",
+                "english": "22 kilograms",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262796.mp3",
+                "kana": "\u306b\u3058\u3085\u3046\u306b\u30ad\u30ed\u30b0\u30e9\u30e0",
+                "romaji": "ni-j\u016b ni-kiroguramu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225985.mp3",
+                "text": "\uff11\u30ad\u30ed\u30b0\u30e9\u30e0\u306f\u3001\u3060\u3044\u305f\u30442.2\u30dd\u30f3\u30c9\u3067\u3059\u3002",
+                "english": "One kilogram is roughly 2.2 pounds.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262795.mp3",
+                "kana": "\u3044\u3061\u30ad\u30ed\u30b0\u30e9\u30e0\u306f\u3001\u3060\u3044\u305f\u3044\u306b\u3066\u3093\u306b\u30dd\u30f3\u30c9\u3067\u3059\u3002",
+                "romaji": "ichi-kiroguramu wa, daitai ni-ten ni-pondo desu."
+            }
+        ]
+    },
+    {
+        "img": "10925",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225990.mp3",
+        "class": "counter",
+        "english": "centimeter",
+        "flashcardId": "2158655",
+        "meaning": "centimeter (noun) - abbreviation \"cm\". a unit for measuring length. There are 100 centimeters in one meter",
+        "id": "103",
+        "word": "\u30bb\u30f3\u30c1\u30e1\u30fc\u30c8\u30eb",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92264.mp3",
+        "kana": "\u30bb\u30f3\u30c1\u30e1\u30fc\u30c8\u30eb",
+        "romaji": "senchim\u0113toru",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225994.mp3",
+                "text": "7.9 \u30bb\u30f3\u30c1\u30e1\u30fc\u30c8\u30eb",
+                "english": "7.9 centimeters",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262798.mp3",
+                "kana": "\u306a\u306a\u3066\u3093\u304d\u3085\u3046\u30bb\u30f3\u30c1\u30e1\u30fc\u30c8\u30eb",
+                "romaji": "nana-ten ky\u016b-senchim\u0113toru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225992.mp3",
+                "text": "\u4f55\u30bb\u30f3\u30c1\u304b",
+                "english": "several centimeters",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92266.mp3",
+                "kana": "\u306a\u3093\u30bb\u30f3\u30c1\u304b",
+                "romaji": "nan-senchi ka"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225993.mp3",
+                "text": "\u7a4d\u307f\u4e0a\u3052\u3089\u308c\u305f\u786c\u8ca8\u306f\u3001\u3082\u3046\u5c11\u3057\u30678\u30bb\u30f3\u30c1\u3067\u3059\u3002",
+                "english": "The stacked coins measure almost eight centimeters.",
+                "en_audio": "",
+                "kana": "\u3064\u307f\u3042\u3052\u3089\u308c\u305f\u3053\u3046\u304b\u306f\u3001\u3082\u3046\u3059\u3053\u3057\u3067\u306f\u3063\u30bb\u30f3\u30c1\u3067\u3059\u3002",
+                "romaji": "Tsumiagerareta k\u014dka wa, m\u014dsukoshi de hassenchi desu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225994.mp3",
+                "text": "7.9 \u30bb\u30f3\u30c1\u30e1\u30fc\u30c8\u30eb",
+                "english": "7.9 centimeters",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262798.mp3",
+                "kana": "\u306a\u306a\u3066\u3093\u304d\u3085\u3046\u30bb\u30f3\u30c1\u30e1\u30fc\u30c8\u30eb",
+                "romaji": "nana-ten ky\u016b-senchim\u0113toru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225993.mp3",
+                "text": "\u7a4d\u307f\u4e0a\u3052\u3089\u308c\u305f\u786c\u8ca8\u306f\u3001\u3082\u3046\u5c11\u3057\u30678\u30bb\u30f3\u30c1\u3067\u3059\u3002",
+                "english": "The stacked coins measure almost eight centimeters.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262797.mp3",
+                "kana": "\u3064\u307f\u3042\u3052\u3089\u308c\u305f\u3053\u3046\u304b\u306f\u3001\u3082\u3046\u3059\u3053\u3057\u3067\u306f\u3063\u30bb\u30f3\u30c1\u3067\u3059\u3002",
+                "romaji": "Tsumiagerareta k\u014dka wa, m\u014dsukoshi de hassenchi desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225992.mp3",
+                "text": "\u4f55\u30bb\u30f3\u30c1\u304b",
+                "english": "several centimeters",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92266.mp3",
+                "kana": "\u306a\u3093\u30bb\u30f3\u30c1\u304b",
+                "romaji": "nan-senchi ka"
+            }
+        ]
+    },
+    {
+        "img": "10917",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271318.mp3",
+        "class": "counter",
+        "english": "gram",
+        "flashcardId": "2158657",
+        "meaning": "gram (noun) - abbreviation \"g\" or \"gm\". the basic unit for measuring weight in the metric system",
+        "id": "32030",
+        "word": "\u30b0\u30e9\u30e0",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103806.mp3",
+        "kana": "\u30b0\u30e9\u30e0",
+        "romaji": "guramu",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271321.mp3",
+                "text": "\uff11\uff15\uff17\u30b0\u30e9\u30e0",
+                "english": "157 grams",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262800.mp3",
+                "kana": "\u3072\u3083\u304f\u3054\u3058\u3085\u3046\u306a\u306a\u30b0\u30e9\u30e0",
+                "romaji": "hyaku go-j\u016b nana-guramu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271319.mp3",
+                "text": "\uff11\uff10\u30b0\u30e9\u30e0",
+                "english": "ten grams",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103807.mp3",
+                "kana": "\u3058\u3085\u3046\u30b0\u30e9\u30e0",
+                "romaji": "j\u016b-guramu"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271320.mp3",
+                "text": "\u30ea\u30f3\u30b4\u306f157\u30b0\u30e9\u30e0\u3042\u308a\u307e\u3059\u3002",
+                "english": "The apple weighs 157 grams.",
+                "en_audio": "",
+                "kana": "\u30ea\u30f3\u30b4\u306f\u3072\u3083\u304f\u3054\u3058\u3085\u3046\u306a\u306a\u30b0\u30e9\u30e0\u3042\u308a\u307e\u3059\u3002",
+                "romaji": "Ringo wa hyaku go-j\u016b nana-guramu arimasu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271321.mp3",
+                "text": "\uff11\uff15\uff17\u30b0\u30e9\u30e0",
+                "english": "157 grams",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262800.mp3",
+                "kana": "\u3072\u3083\u304f\u3054\u3058\u3085\u3046\u306a\u306a\u30b0\u30e9\u30e0",
+                "romaji": "hyaku go-j\u016b nana-guramu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271320.mp3",
+                "text": "\u30ea\u30f3\u30b4\u306f157\u30b0\u30e9\u30e0\u3042\u308a\u307e\u3059\u3002",
+                "english": "The apple weighs 157 grams.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262799.mp3",
+                "kana": "\u30ea\u30f3\u30b4\u306f\u3072\u3083\u304f\u3054\u3058\u3085\u3046\u306a\u306a\u30b0\u30e9\u30e0\u3042\u308a\u307e\u3059\u3002",
+                "romaji": "Ringo wa hyaku go-j\u016b nana-guramu arimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271319.mp3",
+                "text": "\uff11\uff10\u30b0\u30e9\u30e0",
+                "english": "ten grams",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103807.mp3",
+                "kana": "\u3058\u3085\u3046\u30b0\u30e9\u30e0",
+                "romaji": "j\u016b-guramu"
+            }
+        ]
+    },
+    {
+        "img": "12212",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271322.mp3",
+        "class": "counter",
+        "english": "meter",
+        "flashcardId": "2158658",
+        "meaning": "meter (noun) -  measurement; meter, =3.28 feet",
+        "id": "32054",
+        "word": "\u30e1\u30fc\u30c8\u30eb",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262801.mp3",
+        "kana": "\u30e1\u30fc\u30c8\u30eb",
+        "romaji": "m\u0113toru",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271324.mp3",
+                "text": "\uff11\u30e1\u30fc\u30c8\u30eb",
+                "english": "one meter",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262803.mp3",
+                "kana": "\u3044\u3061\u30e1\u30fc\u30c8\u30eb",
+                "romaji": "ichi-m\u0113toru"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/824514.mp3",
+                "text": "\u5927\u4eba\u306e\u5973\u6027\u306e\u811a\u306e\u9577\u3055\u306f\uff11\u30e1\u30fc\u30c8\u30eb\u3042\u308a\u307e\u3059\u3002",
+                "english": "The adult woman's leg measures one meter.",
+                "en_audio": "",
+                "kana": "\u304a\u3068\u306a\u306e\u3058\u3087\u305b\u3044\u306e\u3042\u3057\u306e\u306a\u304c\u3055\u306f\u3044\u3061\u30e1\u30fc\u30c8\u30eb\u3042\u308a\u307e\u3059\u3002",
+                "romaji": "Otona no josei no ashi no nagasa wa ichi-m\u0113toru arimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225991.mp3",
+                "text": "1\u30e1\u30fc\u30c8\u30eb\u306f\u3001100\u30bb\u30f3\u30c1\u3067\u3059\u3002",
+                "english": "There are one hundred centimeters in a meter.",
+                "en_audio": "",
+                "kana": "\u3044\u3061\u30e1\u30fc\u30c8\u30eb\u306f\u3001\u3072\u3083\u304f\u30bb\u30f3\u30c1\u3067\u3059\u3002",
+                "romaji": "ichi-m\u0113toru wa, hyaku-senchi desu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271324.mp3",
+                "text": "\uff11\u30e1\u30fc\u30c8\u30eb",
+                "english": "one meter",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262803.mp3",
+                "kana": "\u3044\u3061\u30e1\u30fc\u30c8\u30eb",
+                "romaji": "ichi-m\u0113toru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/824514.mp3",
+                "text": "\u5927\u4eba\u306e\u5973\u6027\u306e\u811a\u306e\u9577\u3055\u306f\uff11\u30e1\u30fc\u30c8\u30eb\u3042\u308a\u307e\u3059\u3002",
+                "english": "The adult woman's leg measures one meter.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262802.mp3",
+                "kana": "\u304a\u3068\u306a\u306e\u3058\u3087\u305b\u3044\u306e\u3042\u3057\u306e\u306a\u304c\u3055\u306f\u3044\u3061\u30e1\u30fc\u30c8\u30eb\u3042\u308a\u307e\u3059\u3002",
+                "romaji": "Otona no josei no ashi no nagasa wa ichi-m\u0113toru arimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225991.mp3",
+                "text": "1\u30e1\u30fc\u30c8\u30eb\u306f\u3001100\u30bb\u30f3\u30c1\u3067\u3059\u3002",
+                "english": "There are one hundred centimeters in a meter.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92265.mp3",
+                "kana": "\u3044\u3061\u30e1\u30fc\u30c8\u30eb\u306f\u3001\u3072\u3083\u304f\u30bb\u30f3\u30c1\u3067\u3059\u3002",
+                "romaji": "ichi-m\u0113toru wa, hyaku-senchi desu."
+            }
+        ]
+    },
+    {
+        "img": "10924",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271328.mp3",
+        "class": "counter",
+        "english": "kilometer",
+        "flashcardId": "2158659",
+        "meaning": "kilometer (noun) - abbreviation \"km\". a unit for measuring distance, equal to 1000 meters",
+        "id": "32029",
+        "word": "\u30ad\u30ed\u30e1\u30fc\u30c8\u30eb",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262807.mp3",
+        "kana": "\u30ad\u30ed\u30e1\u30fc\u30c8\u30eb",
+        "romaji": "kirom\u0113toru",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/824495.mp3",
+                "text": "\u6642\u901f\uff11\uff15\uff10\u30ad\u30ed\u30e1\u30fc\u30c8\u30eb",
+                "english": "one hundred fifty kilometers per hour",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4385.mp3",
+                "kana": "\u3058\u305d\u304f\u3072\u3083\u304f\u3054\u3058\u3085\u3063\u30ad\u30ed\u30e1\u30fc\u30c8\u30eb",
+                "romaji": "jisoku hyaku go-jukkiro m\u0113toru"
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/824495.mp3",
+                "text": "\u6642\u901f\uff11\uff15\uff10\u30ad\u30ed\u30e1\u30fc\u30c8\u30eb",
+                "english": "one hundred fifty kilometers per hour",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4385.mp3",
+                "kana": "\u3058\u305d\u304f\u3072\u3083\u304f\u3054\u3058\u3085\u3063\u30ad\u30ed\u30e1\u30fc\u30c8\u30eb",
+                "romaji": "jisoku hyaku go-jukkiro m\u0113toru"
+            }
+        ]
+    },
+    {
+        "img": "10909",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271325.mp3",
+        "class": "noun",
+        "english": "liter",
+        "flashcardId": "2158654",
+        "meaning": "liter  (noun) - measurement - 1/1,000 cubic meter",
+        "id": "32055",
+        "word": "\u30ea\u30c3\u30c8\u30eb",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262804.mp3",
+        "kana": "\u30ea\u30c3\u30c8\u30eb",
+        "romaji": "rittoru",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271327.mp3",
+                "text": "\uff12\u30ea\u30c3\u30c8\u30eb\u306e\u30dc\u30c8\u30eb",
+                "english": "two-liter bottle",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262806.mp3",
+                "kana": "\u306b\u30ea\u30c3\u30c8\u30eb\u306e\u30dc\u30c8\u30eb",
+                "romaji": "ni-rittoru no botoru"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/979515.mp3",
+                "text": "\u305d\u306e\u30dc\u30c8\u30eb\u306b\u306f\uff12\u30ea\u30c3\u30c8\u30eb\u306e\u30b3\u30fc\u30e9\u304c\u5165\u3063\u3066\u3044\u308b\u3002",
+                "english": "The bottle contains 2 liters of cola.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u30dc\u30c8\u30eb\u306b\u306f\u306b\u30ea\u30c3\u30c8\u30eb\u306e\u30b3\u30fc\u30e9\u304c\u306f\u3044\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Sono botoru ni wa ni-rittoru no k\u014dra ga haitte iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271327.mp3",
+                "text": "\uff12\u30ea\u30c3\u30c8\u30eb\u306e\u30dc\u30c8\u30eb",
+                "english": "two-liter bottle",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262806.mp3",
+                "kana": "\u306b\u30ea\u30c3\u30c8\u30eb\u306e\u30dc\u30c8\u30eb",
+                "romaji": "ni-rittoru no botoru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/979515.mp3",
+                "text": "\u305d\u306e\u30dc\u30c8\u30eb\u306b\u306f\uff12\u30ea\u30c3\u30c8\u30eb\u306e\u30b3\u30fc\u30e9\u304c\u5165\u3063\u3066\u3044\u308b\u3002",
+                "english": "The bottle contains 2 liters of cola.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262805.mp3",
+                "kana": "\u305d\u306e\u30dc\u30c8\u30eb\u306b\u306f\u306b\u30ea\u30c3\u30c8\u30eb\u306e\u30b3\u30fc\u30e9\u304c\u306f\u3044\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Sono botoru ni wa ni-rittoru no k\u014dra ga haitte iru."
+            }
+        ]
+    },
+    {
+        "img": "9615",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251175.mp3",
+        "class": "noun",
+        "english": "five hundred",
+        "flashcardId": "2158715",
+        "meaning": "five hundred (noun) - 500",
+        "id": "29673",
+        "word": "\u4e94\u767e",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4388.mp3",
+        "kana": "\u3054\u3072\u3083\u304f",
+        "romaji": "go-hyaku",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251176.mp3",
+                "text": "500\u30c8\u30f3",
+                "english": "five hundred tons",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4389.mp3",
+                "kana": "\u3054\u3072\u3083\u304f\u30c8\u30f3",
+                "romaji": "go-hyaku-ton"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/258436.mp3",
+                "text": "\u652f\u6255\u3044\u306f\uff11\uff15\uff10\uff10\u30e6\u30fc\u30ed\u3067\u3059\u3002",
+                "english": "The pay is one thousand five hundred Euros.",
+                "en_audio": "",
+                "kana": "\u3057\u306f\u3089\u3044\u306f\u305b\u3093\u3054\u3072\u3083\u304f\u30e6\u30fc\u30ed\u3067\u3059\u3002",
+                "romaji": "Shiharai wa sen go-hyaku y\u016bro desu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/258436.mp3",
+                "text": "\u652f\u6255\u3044\u306f\uff11\uff15\uff10\uff10\u30e6\u30fc\u30ed\u3067\u3059\u3002",
+                "english": "The pay is one thousand five hundred Euros.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/47273.mp3",
+                "kana": "\u3057\u306f\u3089\u3044\u306f\u305b\u3093\u3054\u3072\u3083\u304f\u30e6\u30fc\u30ed\u3067\u3059\u3002",
+                "romaji": "Shiharai wa sen go-hyaku y\u016bro desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251176.mp3",
+                "text": "500\u30c8\u30f3",
+                "english": "five hundred tons",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4389.mp3",
+                "kana": "\u3054\u3072\u3083\u304f\u30c8\u30f3",
+                "romaji": "go-hyaku-ton"
+            }
+        ]
+    },
+    {
+        "img": "9392",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251177.mp3",
+        "class": "noun",
+        "english": "nine hundred nintey nine",
+        "flashcardId": "2158716",
+        "meaning": "nine hundred ninety nine (noun) - 999",
+        "id": "29674",
+        "word": "\u4e5d\u767e\u4e5d\u5341\u4e5d",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4390.mp3",
+        "kana": "\u304d\u3085\u3046\u3072\u3083\u304f\u304d\u3085\u3046\u3058\u3085\u3046\u304d\u3085\u3046",
+        "romaji": "ky\u016b-hyaku ky\u016b-j\u016b ky\u016b"
+    },
+    {
+        "img": "9525",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251178.mp3",
+        "class": "noun",
+        "english": "one hundred one",
+        "flashcardId": "2158717",
+        "meaning": "one hundred one (noun) - 101",
+        "id": "2255",
+        "word": "\u767e\u4e00",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/104431.mp3",
+        "kana": "\u3072\u3083\u304f\u3044\u3061",
+        "romaji": "hyaku ichi"
+    },
+    {
+        "img": "9487",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251180.mp3",
+        "class": "noun",
+        "english": "four hundred",
+        "flashcardId": "2158718",
+        "meaning": "four hundred (noun) - 400",
+        "id": "32031",
+        "word": "\u56db\u767e",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253443.mp3",
+        "kana": "\u3088\u3093\u3072\u3083\u304f",
+        "romaji": "yon-hyaku",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271349.mp3",
+                "text": "\u56db\u5343\u56db\u767e\u56db\u5341\u4eba\u306e\u5175\u58eb",
+                "english": "four thousand four hundred forty soldiers",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4397.mp3",
+                "kana": "\u3088\u3093\u305b\u3093\u3088\u3093\u3072\u3083\u304f\u3088\u3093\u3058\u3085\u3046\u306b\u3093\u306e\u3078\u3044\u3057",
+                "romaji": "yon-sen yon-hyaku yon-j\u016b-nin no heishi"
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271349.mp3",
+                "text": "\u56db\u5343\u56db\u767e\u56db\u5341\u4eba\u306e\u5175\u58eb",
+                "english": "four thousand four hundred forty soldiers",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4397.mp3",
+                "kana": "\u3088\u3093\u305b\u3093\u3088\u3093\u3072\u3083\u304f\u3088\u3093\u3058\u3085\u3046\u306b\u3093\u306e\u3078\u3044\u3057",
+                "romaji": "yon-sen yon-hyaku yon-j\u016b-nin no heishi"
+            }
+        ]
+    },
+    {
+        "img": "8356",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251184.mp3",
+        "class": "noun",
+        "english": "eight hundred",
+        "flashcardId": "2158722",
+        "meaning": "eight hundred (noun) - 800",
+        "id": "32035",
+        "word": "\u516b\u767e",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253447.mp3",
+        "kana": "\u306f\u3063\u3074\u3083\u304f",
+        "romaji": "ha-ppyaku",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/529157.mp3",
+                "text": "800\u4fbf",
+                "english": "flight 800",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262817.mp3",
+                "kana": "\u306f\u3063\u3074\u3083\u304f\u3073\u3093",
+                "romaji": "ha-ppyaku-bin"
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/529157.mp3",
+                "text": "800\u4fbf",
+                "english": "flight 800",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262817.mp3",
+                "kana": "\u306f\u3063\u3074\u3083\u304f\u3073\u3093",
+                "romaji": "ha-ppyaku-bin"
+            }
+        ]
+    }
+]

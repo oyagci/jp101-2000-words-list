@@ -1,0 +1,1078 @@
+[
+    {
+        "img": "9178",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/549503.mp3",
+        "class": "phrase",
+        "english": "get a job",
+        "flashcardId": "2320398",
+        "meaning": "get a job (phrase)",
+        "id": "32814",
+        "word": "\u4ed5\u4e8b\u3092\u5f97\u308b",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/132503.mp3",
+        "kana": "\u3057\u3054\u3068\u3092\u3048\u308b",
+        "romaji": "shigoto o eru"
+    },
+    {
+        "img": "8424",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271806.mp3",
+        "class": "verb",
+        "english": "die",
+        "flashcardId": "1786951",
+        "meaning": "die (verb) - to stop living and become dead",
+        "id": "32812",
+        "word": "\u6b7b\u306c",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/132514.mp3",
+        "kana": "\u3057\u306c",
+        "romaji": "shinu",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271807.mp3",
+                "text": "\u75c5\u6c17\u3067\u6b7b\u306c",
+                "english": "die of an illness",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/686112.mp3",
+                "kana": "\u3073\u3087\u3046\u304d\u3067\u3057\u306c",
+                "romaji": "by\u014dki de shinu"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271808.mp3",
+                "text": "\u5f7c\u306f\u53bb\u5e74\u3001\u4e8b\u6545\u3067\u6b7b\u306b\u307e\u3057\u305f\u3002",
+                "english": "He died in an accident last year.",
+                "en_audio": "",
+                "kana": "\u304b\u308c\u306f\u304d\u3087\u306d\u3093\u3001\u3058\u3053\u3067\u3057\u306b\u307e\u3057\u305f\u3002",
+                "romaji": "Kare wa kyonen, jiko de shinimashita."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271808.mp3",
+                "text": "\u5f7c\u306f\u53bb\u5e74\u3001\u4e8b\u6545\u3067\u6b7b\u306b\u307e\u3057\u305f\u3002",
+                "english": "He died in an accident last year.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/686113.mp3",
+                "kana": "\u304b\u308c\u306f\u304d\u3087\u306d\u3093\u3001\u3058\u3053\u3067\u3057\u306b\u307e\u3057\u305f\u3002",
+                "romaji": "Kare wa kyonen, jiko de shinimashita."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271807.mp3",
+                "text": "\u75c5\u6c17\u3067\u6b7b\u306c",
+                "english": "die of an illness",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/686112.mp3",
+                "kana": "\u3073\u3087\u3046\u304d\u3067\u3057\u306c",
+                "romaji": "by\u014dki de shinu"
+            }
+        ]
+    },
+    {
+        "img": "8176",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271812.mp3",
+        "class": "verb",
+        "english": "engage",
+        "flashcardId": "2320454",
+        "meaning": "engage (verb) - formally agree to marry",
+        "id": "34781",
+        "word": "\u5a5a\u7d04\u3059\u308b",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263255.mp3",
+        "kana": "\u3053\u3093\u3084\u304f\u3059\u308b",
+        "romaji": "kon'yaku\u3000suru",
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271813.mp3",
+                "text": "\u5a5a\u7d04\u3057\u305f\u306e\uff1f\u304a\u3081\u3067\u3068\u3046\uff01\uff01",
+                "english": "Are you engaged? Congratulations!",
+                "en_audio": "",
+                "kana": "\u3053\u3093\u3084\u304f\u3057\u305f\u306e\uff1f\u304a\u3081\u3067\u3068\u3046\uff01\uff01",
+                "romaji": "Kon'yakushita no? Omedet\u014d!!"
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271813.mp3",
+                "text": "\u5a5a\u7d04\u3057\u305f\u306e\uff1f\u304a\u3081\u3067\u3068\u3046\uff01\uff01",
+                "english": "Are you engaged? Congratulations!",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263256.mp3",
+                "kana": "\u3053\u3093\u3084\u304f\u3057\u305f\u306e\uff1f\u304a\u3081\u3067\u3068\u3046\uff01\uff01",
+                "romaji": "Kon'yakushita no? Omedet\u014d!!"
+            }
+        ]
+    },
+    {
+        "img": "8443",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271809.mp3",
+        "class": "verb",
+        "english": "marry",
+        "flashcardId": "224566",
+        "meaning": "marry (verb)",
+        "id": "32815",
+        "word": "\u7d50\u5a5a\u3059\u308b",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263252.mp3",
+        "kana": "\u3051\u3063\u3053\u3093\u3059\u308b",
+        "romaji": "kekkon suru",
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271811.mp3",
+                "text": "\u3042\u306a\u305f\u3068\u7d50\u5a5a\u3057\u305f\u3044\u3067\u3059\u3002",
+                "english": "I want to marry you.",
+                "en_audio": "",
+                "kana": "\u3042\u306a\u305f\u3068\u3051\u3063\u3053\u3093\u3057\u305f\u3044\u3067\u3059\u3002",
+                "romaji": "Anata to kekkon shitai desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271810.mp3",
+                "text": "\u79c1\u306e\u4e21\u89aa\u306f\u7d50\u5a5a\u3057\u3066\u4e94\u5341\u5e74\u306b\u306a\u308a\u307e\u3059\u3002",
+                "english": "My mother and father were married fifty (50) years.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306e\u308a\u3087\u3046\u3057\u3093\u306f\u3051\u3063\u3053\u3093\u3057\u3066\u3054\u3058\u3085\u3046\u306d\u3093\u306b\u306a\u308a\u307e\u3059\u3002",
+                "romaji": "Watashi no ry\u014dshin wa kekkonshite go-j\u016b-nen ni narimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251959.mp3",
+                "text": "\u53d4\u7236\u306e\u30d4\u30fc\u30bf\u30fc\u306f\u4e09\u56de\u3082\u7d50\u5a5a\u3057\u3066\u3044\u308b\u3002",
+                "english": "My uncle Peter has been married three times.",
+                "en_audio": "",
+                "kana": "\u304a\u3058\u306e\u30d4\u30fc\u30bf\u30fc\u306f\u3055\u3093\u304b\u3044\u3082\u3051\u3063\u3053\u3093\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Oji no P\u012bt\u0101 wa san-kai mo kekkon shite iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271811.mp3",
+                "text": "\u3042\u306a\u305f\u3068\u7d50\u5a5a\u3057\u305f\u3044\u3067\u3059\u3002",
+                "english": "I want to marry you.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/72296.mp3",
+                "kana": "\u3042\u306a\u305f\u3068\u3051\u3063\u3053\u3093\u3057\u305f\u3044\u3067\u3059\u3002",
+                "romaji": "Anata to kekkon shitai desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271810.mp3",
+                "text": "\u79c1\u306e\u4e21\u89aa\u306f\u7d50\u5a5a\u3057\u3066\u4e94\u5341\u5e74\u306b\u306a\u308a\u307e\u3059\u3002",
+                "english": "My mother and father were married fifty (50) years.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/91627.mp3",
+                "kana": "\u308f\u305f\u3057\u306e\u308a\u3087\u3046\u3057\u3093\u306f\u3051\u3063\u3053\u3093\u3057\u3066\u3054\u3058\u3085\u3046\u306d\u3093\u306b\u306a\u308a\u307e\u3059\u3002",
+                "romaji": "Watashi no ry\u014dshin wa kekkonshite go-j\u016b-nen ni narimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251959.mp3",
+                "text": "\u53d4\u7236\u306e\u30d4\u30fc\u30bf\u30fc\u306f\u4e09\u56de\u3082\u7d50\u5a5a\u3057\u3066\u3044\u308b\u3002",
+                "english": "My uncle Peter has been married three times.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85742.mp3",
+                "kana": "\u304a\u3058\u306e\u30d4\u30fc\u30bf\u30fc\u306f\u3055\u3093\u304b\u3044\u3082\u3051\u3063\u3053\u3093\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Oji no P\u012bt\u0101 wa san-kai mo kekkon shite iru."
+            }
+        ]
+    },
+    {
+        "img": "21948",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226112.mp3",
+        "class": "noun",
+        "english": "Madrid",
+        "flashcardId": "2320368",
+        "meaning": "Madrid, Spain - Province Capital",
+        "id": "212",
+        "word": "\u30de\u30c9\u30ea\u30fc\u30c9",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87420.mp3",
+        "kana": "\u30de\u30c9\u30ea\u30fc\u30c9",
+        "romaji": "Mador\u012bdo",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/258529.mp3",
+                "text": "\u30b9\u30da\u30a4\u30f3\u306e\u30de\u30c9\u30ea\u30fc\u30c9",
+                "english": "Madrid, Spain",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90476.mp3",
+                "kana": "\u30b9\u30da\u30a4\u30f3\u306e\u30de\u30c9\u30ea\u30fc\u30c9",
+                "romaji": "Supein no Mador\u012bdo"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226113.mp3",
+                "text": "\u30de\u30c9\u30ea\u30fc\u30c9\u306f\u30b9\u30da\u30a4\u30f3\u306e\u9996\u90fd\u3067\u3042\u308a\u6700\u5927\u306e\u90fd\u5e02\u3060\u3002",
+                "english": "Madrid is the capital city and largest city of Spain.",
+                "en_audio": "",
+                "kana": "\u30de\u30c9\u30ea\u30fc\u30c9\u306f\u30b9\u30da\u30a4\u30f3\u306e\u3057\u3085\u3068\u3067\u3042\u308a\u3055\u3044\u3060\u3044\u306e\u3068\u3057\u3060\u3002",
+                "romaji": "Mador\u012bdo wa Supein no shuto de ari saidai no toshi da."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/258529.mp3",
+                "text": "\u30b9\u30da\u30a4\u30f3\u306e\u30de\u30c9\u30ea\u30fc\u30c9",
+                "english": "Madrid, Spain",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90476.mp3",
+                "kana": "\u30b9\u30da\u30a4\u30f3\u306e\u30de\u30c9\u30ea\u30fc\u30c9",
+                "romaji": "Supein no Mador\u012bdo"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226113.mp3",
+                "text": "\u30de\u30c9\u30ea\u30fc\u30c9\u306f\u30b9\u30da\u30a4\u30f3\u306e\u9996\u90fd\u3067\u3042\u308a\u6700\u5927\u306e\u90fd\u5e02\u3060\u3002",
+                "english": "Madrid is the capital city and largest city of Spain.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90475.mp3",
+                "kana": "\u30de\u30c9\u30ea\u30fc\u30c9\u306f\u30b9\u30da\u30a4\u30f3\u306e\u3057\u3085\u3068\u3067\u3042\u308a\u3055\u3044\u3060\u3044\u306e\u3068\u3057\u3060\u3002",
+                "romaji": "Mador\u012bdo wa Supein no shuto de ari saidai no toshi da."
+            }
+        ]
+    },
+    {
+        "img": "8275",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226121.mp3",
+        "class": "proper noun",
+        "english": "New Delhi",
+        "flashcardId": "2320345",
+        "meaning": "New Delhi (noun) - the capital of India",
+        "id": "216",
+        "word": "\u30cb\u30e5\u30fc\u30c7\u30ea\u30fc",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87424.mp3",
+        "kana": "\u30cb\u30e5\u30fc\u30c7\u30ea\u30fc",
+        "romaji": "Ny\u016bder\u012b",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271842.mp3",
+                "text": "\u30a4\u30f3\u30c9\u306e\u30cb\u30e5\u30fc\u30c7\u30ea\u30fc",
+                "english": "New Delhi, India",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90143.mp3",
+                "kana": "\u30a4\u30f3\u30c9\u306e\u30cb\u30e5\u30fc\u30c7\u30ea\u30fc",
+                "romaji": "Indo no Ny\u016bder\u012b"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226124.mp3",
+                "text": "\u30cb\u30e5\u30fc\u30c7\u30ea\u30fc\u306f\u3001\u30a4\u30f3\u30c9\u306e\u9996\u90fd\u3067\u3001\u30e4\u30e0\u30ca\u30fc\u5ddd\u6cbf\u3044\u306b\u3042\u308b\u3002",
+                "english": "New Delhi is the capital city of India and sits on the Yamuna River.",
+                "en_audio": "",
+                "kana": "\u30cb\u30e5\u30fc\u30c7\u30ea\u30fc\u306f\u3001\u30a4\u30f3\u30c9\u306e\u3057\u3085\u3068\u3067\u3001\u30e4\u30e0\u30ca\u30fc\u304c\u308f\u305e\u3044\u306b\u3042\u308b\u3002",
+                "romaji": "Ny\u016bder\u012b wa, Indo no shuto de, Yamun\u0101 gawa zoi ni aru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226124.mp3",
+                "text": "\u30cb\u30e5\u30fc\u30c7\u30ea\u30fc\u306f\u3001\u30a4\u30f3\u30c9\u306e\u9996\u90fd\u3067\u3001\u30e4\u30e0\u30ca\u30fc\u5ddd\u6cbf\u3044\u306b\u3042\u308b\u3002",
+                "english": "New Delhi is the capital city of India and sits on the Yamuna River.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90142.mp3",
+                "kana": "\u30cb\u30e5\u30fc\u30c7\u30ea\u30fc\u306f\u3001\u30a4\u30f3\u30c9\u306e\u3057\u3085\u3068\u3067\u3001\u30e4\u30e0\u30ca\u30fc\u304c\u308f\u305e\u3044\u306b\u3042\u308b\u3002",
+                "romaji": "Ny\u016bder\u012b wa, Indo no shuto de, Yamun\u0101 gawa zoi ni aru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271842.mp3",
+                "text": "\u30a4\u30f3\u30c9\u306e\u30cb\u30e5\u30fc\u30c7\u30ea\u30fc",
+                "english": "New Delhi, India",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90143.mp3",
+                "kana": "\u30a4\u30f3\u30c9\u306e\u30cb\u30e5\u30fc\u30c7\u30ea\u30fc",
+                "romaji": "Indo no Ny\u016bder\u012b"
+            }
+        ]
+    },
+    {
+        "img": "9123",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375167.mp3",
+        "class": "noun",
+        "english": "Tokyo",
+        "flashcardId": "224580",
+        "meaning": "Tokyo (noun) - one of the 47 prefectures of Japan. the capital of Japan",
+        "id": "223",
+        "word": "\u6771\u4eac\u90fd",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263268.mp3",
+        "kana": "\u3068\u3046\u304d\u3087\u3046\u3068",
+        "romaji": "T\u014dky\u014d to",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/258530.mp3",
+                "text": "\u65e5\u672c\u306e\u6771\u4eac",
+                "english": "City of Tokyo, Japan",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90157.mp3",
+                "kana": "\u306b\u307b\u3093\u306e\u3068\u3046\u304d\u3087\u3046",
+                "romaji": "Nihon no T\u014dky\u014d"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/860637.mp3",
+                "text": "\u6771\u4eac\u306f\u65e5\u672c\u306e\u9996\u90fd\u3060\u3002",
+                "english": "Tokyo is the capital city of the nation of Japan.",
+                "en_audio": "",
+                "kana": "\u3068\u3046\u304d\u3087\u3046\u306f\u306b\u307b\u3093\u306e\u3057\u3085\u3068\u3060\u3002",
+                "romaji": "T\u014dky\u014d wa Nihon no shuto da."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/860637.mp3",
+                "text": "\u6771\u4eac\u306f\u65e5\u672c\u306e\u9996\u90fd\u3060\u3002",
+                "english": "Tokyo is the capital city of the nation of Japan.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90156.mp3",
+                "kana": "\u3068\u3046\u304d\u3087\u3046\u306f\u306b\u307b\u3093\u306e\u3057\u3085\u3068\u3060\u3002",
+                "romaji": "T\u014dky\u014d wa Nihon no shuto da."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/258530.mp3",
+                "text": "\u65e5\u672c\u306e\u6771\u4eac",
+                "english": "City of Tokyo, Japan",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90157.mp3",
+                "kana": "\u306b\u307b\u3093\u306e\u3068\u3046\u304d\u3087\u3046",
+                "romaji": "Nihon no T\u014dky\u014d"
+            }
+        ]
+    },
+    {
+        "img": "9677",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226135.mp3",
+        "class": "proper noun",
+        "english": "Beijing",
+        "flashcardId": "2141609",
+        "meaning": "capital of China and the third most populous city proper in the world",
+        "id": "224",
+        "word": "\u5317\u4eac",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87432.mp3",
+        "kana": "\u307a\u304d\u3093",
+        "romaji": "Pekin",
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251756.mp3",
+                "text": "\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u56fd\u306e\u9996\u90fd\u3001\u30d9\u30a4\u30b8\u30f3\u306f\u3001\u5317\u4eac\u3068\u3082\u547c\u3070\u308c\u3066\u3044\u307e\u3059\u3002",
+                "english": "Beijing, capital of the Peoples Republic of China is also called Peking.",
+                "en_audio": "",
+                "kana": "\u3061\u3085\u3046\u304b\u3058\u3093\u307f\u3093\u304d\u3087\u3046\u308f\u3053\u304f\u306e\u3057\u3085\u3068\u3001\u30d9\u30a4\u30b8\u30f3\u306f\u3001\u307a\u304d\u3093\u3068\u3082\u3088\u3070\u308c\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Ch\u016bkajinminky\u014dwakoku no shuto, Beijin wa Pekin to mo yobarete imasu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251756.mp3",
+                "text": "\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u56fd\u306e\u9996\u90fd\u3001\u30d9\u30a4\u30b8\u30f3\u306f\u3001\u5317\u4eac\u3068\u3082\u547c\u3070\u308c\u3066\u3044\u307e\u3059\u3002",
+                "english": "Beijing, capital of the Peoples Republic of China is also called Peking.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90158.mp3",
+                "kana": "\u3061\u3085\u3046\u304b\u3058\u3093\u307f\u3093\u304d\u3087\u3046\u308f\u3053\u304f\u306e\u3057\u3085\u3068\u3001\u30d9\u30a4\u30b8\u30f3\u306f\u3001\u307a\u304d\u3093\u3068\u3082\u3088\u3070\u308c\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Ch\u016bkajinminky\u014dwakoku no shuto, Beijin wa Pekin to mo yobarete imasu."
+            }
+        ]
+    },
+    {
+        "img": "21947",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226136.mp3",
+        "class": "proper noun",
+        "english": "London",
+        "flashcardId": "2320381",
+        "meaning": "capital and most populous city in the United Kingdom located on the River Thames",
+        "id": "225",
+        "word": "\u30ed\u30f3\u30c9\u30f3",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263269.mp3",
+        "kana": "\u30ed\u30f3\u30c9\u30f3",
+        "romaji": "Rondon"
+    },
+    {
+        "img": "8980",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226142.mp3",
+        "class": "noun",
+        "english": "Paris",
+        "flashcardId": "2320351",
+        "meaning": "capital and most populous city of France located on the river Seine",
+        "id": "228",
+        "word": "\u30d1\u30ea",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87436.mp3",
+        "kana": "\u30d1\u30ea",
+        "romaji": "Pari"
+    },
+    {
+        "img": "9215",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/548813.mp3",
+        "class": "noun",
+        "english": "Berlin",
+        "flashcardId": "2320362",
+        "meaning": "Berlin (proper noun) - the capital city of Germany and one of the 16 states of Germany",
+        "id": "231",
+        "word": "\u30d9\u30eb\u30ea\u30f3",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87439.mp3",
+        "kana": "\u30d9\u30eb\u30ea\u30f3",
+        "romaji": "Berurin",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/548820.mp3",
+                "text": "\u30c9\u30a4\u30c4\u306e\u30d9\u30eb\u30ea\u30f3",
+                "english": "Berlin, Germany",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90173.mp3",
+                "kana": "\u30c9\u30a4\u30c4\u306e\u30d9\u30eb\u30ea\u30f3",
+                "romaji": "Doitsu no Berurin"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/548819.mp3",
+                "text": "\u30c9\u30a4\u30c4\u306e\u9996\u90fd\u306f\u30d9\u30eb\u30ea\u30f3\u3060\u3002",
+                "english": "The capital city of Germany is Berlin.",
+                "en_audio": "",
+                "kana": "\u30c9\u30a4\u30c4\u306e\u3057\u3085\u3068\u306f\u30d9\u30eb\u30ea\u30f3\u3060\u3002",
+                "romaji": "Doitsu no shuto wa Berurin da."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/548820.mp3",
+                "text": "\u30c9\u30a4\u30c4\u306e\u30d9\u30eb\u30ea\u30f3",
+                "english": "Berlin, Germany",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90173.mp3",
+                "kana": "\u30c9\u30a4\u30c4\u306e\u30d9\u30eb\u30ea\u30f3",
+                "romaji": "Doitsu no Berurin"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/548819.mp3",
+                "text": "\u30c9\u30a4\u30c4\u306e\u9996\u90fd\u306f\u30d9\u30eb\u30ea\u30f3\u3060\u3002",
+                "english": "The capital city of Germany is Berlin.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90172.mp3",
+                "kana": "\u30c9\u30a4\u30c4\u306e\u3057\u3085\u3068\u306f\u30d9\u30eb\u30ea\u30f3\u3060\u3002",
+                "romaji": "Doitsu no shuto wa Berurin da."
+            }
+        ]
+    },
+    {
+        "img": "17454",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226169.mp3",
+        "class": "proper noun",
+        "english": "New York",
+        "flashcardId": "224585",
+        "meaning": "New York (noun) - the center of the New York Metropolitan Area. the most populous city in the United States",
+        "id": "234",
+        "word": "\u30cb\u30e5\u30fc\u30e8\u30fc\u30af",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87442.mp3",
+        "kana": "\u30cb\u30e5\u30fc\u30e8\u30fc\u30af",
+        "romaji": "Ny\u016by\u014dku",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/549510.mp3",
+                "text": "\u30a2\u30e1\u30ea\u30ab\u306e\u30cb\u30e5\u30fc\u30e8\u30fc\u30af",
+                "english": "New York, USA",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90179.mp3",
+                "kana": "\u30a2\u30e1\u30ea\u30ab\u306e\u30cb\u30e5\u30fc\u30e8\u30fc\u30af",
+                "romaji": "Amerika no Ny\u016by\u014dku"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226172.mp3",
+                "text": "\u30cb\u30e5\u30fc\u30e8\u30fc\u30af\u306f\u3001\u30cb\u30e5\u30fc\u30e8\u30fc\u30af\u5dde\u306b\u3042\u308a\u3001\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u6700\u5927\u306e\u90fd\u5e02\u3060\u3002",
+                "english": "New York City, in the state of New York, is the  largest city in the USA.",
+                "en_audio": "",
+                "kana": "\u30cb\u30e5\u30fc\u30e8\u30fc\u30af\u306f\u3001\u30cb\u30e5\u30fc\u30e8\u30fc\u30af\u3057\u3085\u3046\u306b\u3042\u308a\u3001\u30a2\u30e1\u30ea\u30ab\u304c\u3063\u3057\u3085\u3046\u3053\u304f\u3055\u3044\u3060\u3044\u306e\u3068\u3057\u3060\u3002",
+                "romaji": "Ny\u016by\u014dku wa, Ny\u016by\u014dku-sh\u016b ni ari, Amerikagassh\u016bkoku saidai no toshi da."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226172.mp3",
+                "text": "\u30cb\u30e5\u30fc\u30e8\u30fc\u30af\u306f\u3001\u30cb\u30e5\u30fc\u30e8\u30fc\u30af\u5dde\u306b\u3042\u308a\u3001\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u6700\u5927\u306e\u90fd\u5e02\u3060\u3002",
+                "english": "New York City, in the state of New York, is the  largest city in the USA.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90178.mp3",
+                "kana": "\u30cb\u30e5\u30fc\u30e8\u30fc\u30af\u306f\u3001\u30cb\u30e5\u30fc\u30e8\u30fc\u30af\u3057\u3085\u3046\u306b\u3042\u308a\u3001\u30a2\u30e1\u30ea\u30ab\u304c\u3063\u3057\u3085\u3046\u3053\u304f\u3055\u3044\u3060\u3044\u306e\u3068\u3057\u3060\u3002",
+                "romaji": "Ny\u016by\u014dku wa, Ny\u016by\u014dku-sh\u016b ni ari, Amerikagassh\u016bkoku saidai no toshi da."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/549510.mp3",
+                "text": "\u30a2\u30e1\u30ea\u30ab\u306e\u30cb\u30e5\u30fc\u30e8\u30fc\u30af",
+                "english": "New York, USA",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90179.mp3",
+                "kana": "\u30a2\u30e1\u30ea\u30ab\u306e\u30cb\u30e5\u30fc\u30e8\u30fc\u30af",
+                "romaji": "Amerika no Ny\u016by\u014dku"
+            }
+        ]
+    },
+    {
+        "img": "21957",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226174.mp3",
+        "class": "noun",
+        "english": "Rome",
+        "flashcardId": "2141620",
+        "meaning": "capital city of Italy and also the largest and most populous commune there",
+        "id": "235",
+        "word": "\u30ed\u30fc\u30de",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87443.mp3",
+        "kana": "\u30ed\u30fc\u30de",
+        "romaji": "R\u014dma",
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226177.mp3",
+                "text": "\u30a4\u30bf\u30ea\u30a2\u306e\u9996\u90fd\u3067\u3001\u30a4\u30bf\u30ea\u30a2\u6700\u5927\u306e\u90fd\u5e02\u306f\u3001\u30ed\u30fc\u30de\u3060\u3002",
+                "english": "The largest city and capital of Italy is Rome.",
+                "en_audio": "",
+                "kana": "\u30a4\u30bf\u30ea\u30a2\u306e\u3057\u3085\u3068\u3067\u3001\u30a4\u30bf\u30ea\u30a2\u3055\u3044\u3060\u3044\u306e\u3068\u3057\u306f\u3001\u30ed\u30fc\u30de\u3060\u3002",
+                "romaji": "Itaria no shuto de, Itaria saidai no toshi wa, R\u014dma da."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226177.mp3",
+                "text": "\u30a4\u30bf\u30ea\u30a2\u306e\u9996\u90fd\u3067\u3001\u30a4\u30bf\u30ea\u30a2\u6700\u5927\u306e\u90fd\u5e02\u306f\u3001\u30ed\u30fc\u30de\u3060\u3002",
+                "english": "The largest city and capital of Italy is Rome.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90180.mp3",
+                "kana": "\u30a4\u30bf\u30ea\u30a2\u306e\u3057\u3085\u3068\u3067\u3001\u30a4\u30bf\u30ea\u30a2\u3055\u3044\u3060\u3044\u306e\u3068\u3057\u306f\u3001\u30ed\u30fc\u30de\u3060\u3002",
+                "romaji": "Itaria no shuto de, Itaria saidai no toshi wa, R\u014dma da."
+            }
+        ]
+    },
+    {
+        "img": "8655",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226179.mp3",
+        "class": "noun",
+        "english": "Moscow",
+        "flashcardId": "2320372",
+        "meaning": "capital and most populous city in the Russian Federation",
+        "id": "237",
+        "word": "\u30e2\u30b9\u30af\u30ef",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87445.mp3",
+        "kana": "\u30e2\u30b9\u30af\u30ef",
+        "romaji": "Mosukuwa",
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226180.mp3",
+                "text": "\u30ed\u30b7\u30a2\u306e\u9996\u90fd\u306f\u30ed\u30b7\u30a2\u6700\u5927\u306e\u90fd\u5e02\u3001\u30e2\u30b9\u30af\u30ef\u3060\u3002",
+                "english": "The largest city in Russia is Moscow, its capital.",
+                "en_audio": "",
+                "kana": "\u30ed\u30b7\u30a2\u306e\u3057\u3085\u3068\u306f\u30ed\u30b7\u30a2\u3055\u3044\u3060\u3044\u306e\u3068\u3057\u3001\u30e2\u30b9\u30af\u30ef\u3060\u3002",
+                "romaji": "Roshia no shuto wa Roshia saidai no toshi, Mosukuwa da."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226180.mp3",
+                "text": "\u30ed\u30b7\u30a2\u306e\u9996\u90fd\u306f\u30ed\u30b7\u30a2\u6700\u5927\u306e\u90fd\u5e02\u3001\u30e2\u30b9\u30af\u30ef\u3060\u3002",
+                "english": "The largest city in Russia is Moscow, its capital.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/90184.mp3",
+                "kana": "\u30ed\u30b7\u30a2\u306e\u3057\u3085\u3068\u306f\u30ed\u30b7\u30a2\u3055\u3044\u3060\u3044\u306e\u3068\u3057\u3001\u30e2\u30b9\u30af\u30ef\u3060\u3002",
+                "romaji": "Roshia no shuto wa Roshia saidai no toshi, Mosukuwa da."
+            }
+        ]
+    },
+    {
+        "img": "21954",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/258847.mp3",
+        "class": "noun",
+        "english": "ticket",
+        "flashcardId": "2320423",
+        "meaning": "ticket (noun) - a printed piece of paper which shows that you have paid to enter a cinema, travel on a bus, plane etc; ticket (noun) - a piece of paper or card that gives the holder a certain right, especially to enter a place, travel by public transport, or participate in an event",
+        "id": "1528",
+        "word": "\u5207\u7b26",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/88893.mp3",
+        "kana": "\u304d\u3063\u3077",
+        "romaji": "kippu",
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253117.mp3",
+                "text": "\u96fb\u8eca\u306b\u4e57\u308b\u524d\u306b\u99c5\u3067\u5207\u7b26\u3092\u8cb7\u3063\u3066\u4e0b\u3055\u3044\u3002",
+                "english": "Get your ticket at the station before getting on the train.",
+                "en_audio": "",
+                "kana": "\u3067\u3093\u3057\u3083\u306b\u306e\u308b\u307e\u3048\u306b\u3048\u304d\u3067\u304d\u3063\u3077\u3092\u304b\u3063\u3066\u304f\u3060\u3055\u3044\u3002",
+                "romaji": "Densha ni noru mae ni eki de kippu o katte kudasai."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/68403.mp3",
+                "text": "\u3053\u306e\u5207\u7b26\u306f\u5168\u56fd\u5171\u901a\u3067\u3059\u3002",
+                "english": "This ticket can be used nationwide.",
+                "en_audio": "",
+                "kana": "\u3053\u306e\u304d\u3063\u3077\u306f\u305c\u3093\u3053\u304f\u304d\u3087\u3046\u3064\u3046\u3067\u3059\u3002",
+                "romaji": "Kono kippu wa zenkoku ky\u014dts\u016b desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/68225.mp3",
+                "text": "\u6771\u4eac\u99c5\u307e\u3067\u306e\u5207\u7b26\u3092\u4e00\u679a\u304f\u3060\u3055\u3044\u3002",
+                "english": "One ticket to Tokyo Station please.",
+                "en_audio": "",
+                "kana": "\u3068\u3046\u304d\u3087\u3046\u3048\u304d\u307e\u3067\u306e\u304d\u3063\u3077\u3092\u3044\u3061\u307e\u3044\u304f\u3060\u3055\u3044\u3002",
+                "romaji": "Toky\u014d-eki made no kippu o ichi-mai kudasai."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/68215.mp3",
+                "text": "\u4e8c\u679a\u5207\u7b26\u3092\u4e0b\u3055\u3044\u3002",
+                "english": "Two tickets please.",
+                "en_audio": "",
+                "kana": "\u306b\u307e\u3044\u304d\u3063\u3077\u3092\u304f\u3060\u3055\u3044\u3002",
+                "romaji": "Ni-mai kippu o kudasai."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253117.mp3",
+                "text": "\u96fb\u8eca\u306b\u4e57\u308b\u524d\u306b\u99c5\u3067\u5207\u7b26\u3092\u8cb7\u3063\u3066\u4e0b\u3055\u3044\u3002",
+                "english": "Get your ticket at the station before getting on the train.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85753.mp3",
+                "kana": "\u3067\u3093\u3057\u3083\u306b\u306e\u308b\u307e\u3048\u306b\u3048\u304d\u3067\u304d\u3063\u3077\u3092\u304b\u3063\u3066\u304f\u3060\u3055\u3044\u3002",
+                "romaji": "Densha ni noru mae ni eki de kippu o katte kudasai."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/68403.mp3",
+                "text": "\u3053\u306e\u5207\u7b26\u306f\u5168\u56fd\u5171\u901a\u3067\u3059\u3002",
+                "english": "This ticket can be used nationwide.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/68404.mp3",
+                "kana": "\u3053\u306e\u304d\u3063\u3077\u306f\u305c\u3093\u3053\u304f\u304d\u3087\u3046\u3064\u3046\u3067\u3059\u3002",
+                "romaji": "Kono kippu wa zenkoku ky\u014dts\u016b desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/68225.mp3",
+                "text": "\u6771\u4eac\u99c5\u307e\u3067\u306e\u5207\u7b26\u3092\u4e00\u679a\u304f\u3060\u3055\u3044\u3002",
+                "english": "One ticket to Tokyo Station please.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/68226.mp3",
+                "kana": "\u3068\u3046\u304d\u3087\u3046\u3048\u304d\u307e\u3067\u306e\u304d\u3063\u3077\u3092\u3044\u3061\u307e\u3044\u304f\u3060\u3055\u3044\u3002",
+                "romaji": "Toky\u014d-eki made no kippu o ichi-mai kudasai."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/68215.mp3",
+                "text": "\u4e8c\u679a\u5207\u7b26\u3092\u4e0b\u3055\u3044\u3002",
+                "english": "Two tickets please.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/68216.mp3",
+                "kana": "\u306b\u307e\u3044\u304d\u3063\u3077\u3092\u304f\u3060\u3055\u3044\u3002",
+                "romaji": "Ni-mai kippu o kudasai."
+            }
+        ]
+    },
+    {
+        "img": "21956",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/258856.mp3",
+        "class": "noun",
+        "english": "roundtrip",
+        "flashcardId": "2320475",
+        "meaning": "roundtrip (noun) - a journey to a place and back again:",
+        "id": "1529",
+        "word": "\u5f80\u5fa9",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263292.mp3",
+        "kana": "\u304a\u3046\u3075\u304f",
+        "romaji": "\u014dfuku",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253164.mp3",
+                "text": "\u5f80\u5fa9\u5207\u7b26",
+                "english": "roundtrip ticket",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85757.mp3",
+                "kana": "\u304a\u3046\u3075\u304f\u304d\u3063\u3077",
+                "romaji": "\u014dfuku kippu"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271864.mp3",
+                "text": "\u5f80\u5fa9\u6599\u91d1\u3067\u884c\u304d\u6765\u3067\u304d\u307e\u3059\u3002",
+                "english": "The roundtrip fare will get me there and back again.",
+                "en_audio": "",
+                "kana": "\u304a\u3046\u3075\u304f\u308a\u3087\u3046\u304d\u3093\u3067\u3044\u304d\u304d\u3067\u304d\u307e\u3059\u3002",
+                "romaji": "\u014cfuku ry\u014dkin de ikiki dekimasu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253164.mp3",
+                "text": "\u5f80\u5fa9\u5207\u7b26",
+                "english": "roundtrip ticket",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85757.mp3",
+                "kana": "\u304a\u3046\u3075\u304f\u304d\u3063\u3077",
+                "romaji": "\u014dfuku kippu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271864.mp3",
+                "text": "\u5f80\u5fa9\u6599\u91d1\u3067\u884c\u304d\u6765\u3067\u304d\u307e\u3059\u3002",
+                "english": "The roundtrip fare will get me there and back again.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85756.mp3",
+                "kana": "\u304a\u3046\u3075\u304f\u308a\u3087\u3046\u304d\u3093\u3067\u3044\u304d\u304d\u3067\u304d\u307e\u3059\u3002",
+                "romaji": "\u014cfuku ry\u014dkin de ikiki dekimasu."
+            }
+        ]
+    },
+    {
+        "img": "21950",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/208569.mp3",
+        "class": "noun",
+        "english": "express train",
+        "flashcardId": "2320555",
+        "meaning": "express train (phrase)",
+        "id": "1532",
+        "word": "\u7279\u6025",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263295.mp3",
+        "kana": "\u3068\u3063\u304d\u3085\u3046",
+        "romaji": "tokky\u016b",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253172.mp3",
+                "text": "\u7dda\u8def\u306b\u3044\u308b\u7279\u6025",
+                "english": "express train on the tracks",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85764.mp3",
+                "kana": "\u305b\u3093\u308d\u306b\u3044\u308b\u3068\u3063\u304d\u3085\u3046",
+                "romaji": "senro ni iru tokky\u016b"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253171.mp3",
+                "text": "\u7279\u6025\u304c\u7dda\u8def\u3092\u8d70\u3063\u3066\u3044\u307e\u3059\u3002",
+                "english": "The express train is moving down the track.",
+                "en_audio": "",
+                "kana": "\u3068\u3063\u304d\u3085\u3046\u304c\u305b\u3093\u308d\u3092\u306f\u3057\u3063\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Tokky\u016b ga senro o hahsitte imasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253170.mp3",
+                "text": "\u7279\u6025\u306f\u4e3b\u306a\u90fd\u5e02\u9593\u3092\u6b62\u307e\u3089\u305a\u306b\u3042\u306a\u305f\u3092\u304a\u9023\u308c\u3057\u307e\u3059\u3002",
+                "english": "The express train will take you between major cities non-stop.",
+                "en_audio": "",
+                "kana": "\u3068\u3063\u304d\u3085\u3046\u306f\u304a\u3082\u306a\u3068\u3057\u304b\u3093\u3092\u3068\u307e\u3089\u305a\u306b\u3042\u306a\u305f\u3092\u304a\u3064\u308c\u3057\u307e\u3059\u3002",
+                "romaji": "Tokky\u016b wa omo na toshikan o tomarazu ni anata o otsure shiamsu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253172.mp3",
+                "text": "\u7dda\u8def\u306b\u3044\u308b\u7279\u6025",
+                "english": "express train on the tracks",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85764.mp3",
+                "kana": "\u305b\u3093\u308d\u306b\u3044\u308b\u3068\u3063\u304d\u3085\u3046",
+                "romaji": "senro ni iru tokky\u016b"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253171.mp3",
+                "text": "\u7279\u6025\u304c\u7dda\u8def\u3092\u8d70\u3063\u3066\u3044\u307e\u3059\u3002",
+                "english": "The express train is moving down the track.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263296.mp3",
+                "kana": "\u3068\u3063\u304d\u3085\u3046\u304c\u305b\u3093\u308d\u3092\u306f\u3057\u3063\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Tokky\u016b ga senro o hahsitte imasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253170.mp3",
+                "text": "\u7279\u6025\u306f\u4e3b\u306a\u90fd\u5e02\u9593\u3092\u6b62\u307e\u3089\u305a\u306b\u3042\u306a\u305f\u3092\u304a\u9023\u308c\u3057\u307e\u3059\u3002",
+                "english": "The express train will take you between major cities non-stop.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85762.mp3",
+                "kana": "\u3068\u3063\u304d\u3085\u3046\u306f\u304a\u3082\u306a\u3068\u3057\u304b\u3093\u3092\u3068\u307e\u3089\u305a\u306b\u3042\u306a\u305f\u3092\u304a\u3064\u308c\u3057\u307e\u3059\u3002",
+                "romaji": "Tokky\u016b wa omo na toshikan o tomarazu ni anata o otsure shiamsu."
+            }
+        ]
+    },
+    {
+        "img": "21951",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227797.mp3",
+        "class": "noun",
+        "english": "local train",
+        "flashcardId": "2320515",
+        "meaning": "local train (phrase)",
+        "id": "1533",
+        "word": "\u666e\u901a\u96fb\u8eca",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263297.mp3",
+        "kana": "\u3075\u3064\u3046\u3067\u3093\u3057\u3083",
+        "romaji": "futs\u016b densha",
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253173.mp3",
+                "text": "\u666e\u901a\u96fb\u8eca\u306f\u3001\u8def\u7dda\u4e0a\u306e\u5c0f\u3055\u306a\u99c5\u3092\u4e00\u3064\u4e00\u3064\u6b62\u307e\u308a\u307e\u3059\u3002",
+                "english": "The local train stops at every small station along its route.",
+                "en_audio": "",
+                "kana": "\u3075\u3064\u3046\u3067\u3093\u3057\u3083\u306f\u3001\u308d\u305b\u3093\u3058\u3087\u3046\u306e\u3061\u3044\u3055\u306a\u3048\u304d\u3092\u3072\u3068\u3064\u3072\u3068\u3064\u3068\u307e\u308a\u307e\u3059\u3002",
+                "romaji": "Futs\u016b densha wa, rosenj\u014d no chiisana eki o hitotsu hitotsu tomarimasu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253173.mp3",
+                "text": "\u666e\u901a\u96fb\u8eca\u306f\u3001\u8def\u7dda\u4e0a\u306e\u5c0f\u3055\u306a\u99c5\u3092\u4e00\u3064\u4e00\u3064\u6b62\u307e\u308a\u307e\u3059\u3002",
+                "english": "The local train stops at every small station along its route.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85765.mp3",
+                "kana": "\u3075\u3064\u3046\u3067\u3093\u3057\u3083\u306f\u3001\u308d\u305b\u3093\u3058\u3087\u3046\u306e\u3061\u3044\u3055\u306a\u3048\u304d\u3092\u3072\u3068\u3064\u3072\u3068\u3064\u3068\u307e\u308a\u307e\u3059\u3002",
+                "romaji": "Futs\u016b densha wa, rosenj\u014d no chiisana eki o hitotsu hitotsu tomarimasu."
+            }
+        ]
+    },
+    {
+        "img": "10378",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/258858.mp3",
+        "class": "noun",
+        "english": "timetable",
+        "flashcardId": "2320513",
+        "meaning": "timetable (noun) - a chart showing the departure and arrival times of trains",
+        "id": "1534",
+        "word": "\u6642\u523b\u8868",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/88899.mp3",
+        "kana": "\u3058\u3053\u304f\u3072\u3087\u3046",
+        "romaji": "jikokuhy\u014d",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253177.mp3",
+                "text": "\u98db\u884c\u6a5f\u306e\u6642\u523b\u8868",
+                "english": "flight timetable",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85769.mp3",
+                "kana": "\u3072\u3053\u3046\u304d\u306e\u3058\u3053\u304f\u3072\u3087\u3046",
+                "romaji": "hik\u014dki no jikokuhy\u014d"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253176.mp3",
+                "text": "\u6642\u523b\u8868\u3092\u898b\u308b",
+                "english": "check the timetable",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85768.mp3",
+                "kana": "\u3058\u3053\u304f\u3072\u3087\u3046\u3092\u307f\u308b",
+                "romaji": "jikokuhy\u014d o miru"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/810138.mp3",
+                "text": "\u5230\u7740\u3001\u51fa\u767a\u6642\u523b\u3068\u3082\u306b\u3001\u6642\u523b\u8868\u901a\u308a\u3067\u3059\u3002",
+                "english": "Departure and arrival times are all on the timetable.",
+                "en_audio": "",
+                "kana": "\u3068\u3046\u3061\u3083\u304f\u3001\u3057\u3085\u3063\u3071\u3064\u3058\u3053\u304f\u3068\u3082\u306b\u3001\u3058\u3053\u304f\u3072\u3087\u3046\u3069\u304a\u308a\u3067\u3059\u3002",
+                "romaji": "T\u014dchaku, shuppatsu jikoku tomo ni, jikokuhy\u014d d\u014dri desu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253177.mp3",
+                "text": "\u98db\u884c\u6a5f\u306e\u6642\u523b\u8868",
+                "english": "flight timetable",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85769.mp3",
+                "kana": "\u3072\u3053\u3046\u304d\u306e\u3058\u3053\u304f\u3072\u3087\u3046",
+                "romaji": "hik\u014dki no jikokuhy\u014d"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253176.mp3",
+                "text": "\u6642\u523b\u8868\u3092\u898b\u308b",
+                "english": "check the timetable",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85768.mp3",
+                "kana": "\u3058\u3053\u304f\u3072\u3087\u3046\u3092\u307f\u308b",
+                "romaji": "jikokuhy\u014d o miru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/810138.mp3",
+                "text": "\u5230\u7740\u3001\u51fa\u767a\u6642\u523b\u3068\u3082\u306b\u3001\u6642\u523b\u8868\u901a\u308a\u3067\u3059\u3002",
+                "english": "Departure and arrival times are all on the timetable.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85767.mp3",
+                "kana": "\u3068\u3046\u3061\u3083\u304f\u3001\u3057\u3085\u3063\u3071\u3064\u3058\u3053\u304f\u3068\u3082\u306b\u3001\u3058\u3053\u304f\u3072\u3087\u3046\u3069\u304a\u308a\u3067\u3059\u3002",
+                "romaji": "T\u014dchaku, shuppatsu jikoku tomo ni, jikokuhy\u014d d\u014dri desu."
+            }
+        ]
+    },
+    {
+        "img": "21953",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/549533.mp3",
+        "class": "phrase",
+        "english": "ticket inspection",
+        "flashcardId": "2320425",
+        "meaning": "ticket inspection (phrase)",
+        "id": "1536",
+        "word": "\u5207\u7b26\u306e\u70b9\u691c",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263298.mp3",
+        "kana": "\u304d\u3063\u3077\u306e\u3066\u3093\u3051\u3093",
+        "romaji": "kippu no tenken",
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253178.mp3",
+                "text": "\u305d\u308c\u305e\u308c\u306e\u99c5\u3067\u306e\u5207\u7b26\u70b9\u691c\u306e\u305f\u3081\u306b\u3001\u5207\u7b26\u3092\u624b\u3082\u3068\u306b\u7f6e\u3044\u3066\u304a\u304d\u306a\u3055\u3044\u3002",
+                "english": "Keep your ticket handy for a ticket inspection at each stop.",
+                "en_audio": "",
+                "kana": "\u305d\u308c\u305e\u308c\u306e\u3048\u304d\u3067\u306e\u304d\u3063\u3077\u3066\u3093\u3051\u3093\u306e\u305f\u3081\u306b\u3001\u304d\u3063\u3077\u3092\u3066\u3082\u3068\u306b\u304a\u3044\u3066\u304a\u304d\u306a\u3055\u3044\u3002",
+                "romaji": "Sorezore no eki de no kippu tenken no tame ni, kippu o temoto ni oite okinasai."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253178.mp3",
+                "text": "\u305d\u308c\u305e\u308c\u306e\u99c5\u3067\u306e\u5207\u7b26\u70b9\u691c\u306e\u305f\u3081\u306b\u3001\u5207\u7b26\u3092\u624b\u3082\u3068\u306b\u7f6e\u3044\u3066\u304a\u304d\u306a\u3055\u3044\u3002",
+                "english": "Keep your ticket handy for a ticket inspection at each stop.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85770.mp3",
+                "kana": "\u305d\u308c\u305e\u308c\u306e\u3048\u304d\u3067\u306e\u304d\u3063\u3077\u3066\u3093\u3051\u3093\u306e\u305f\u3081\u306b\u3001\u304d\u3063\u3077\u3092\u3066\u3082\u3068\u306b\u304a\u3044\u3066\u304a\u304d\u306a\u3055\u3044\u3002",
+                "romaji": "Sorezore no eki de no kippu tenken no tame ni, kippu o temoto ni oite okinasai."
+            }
+        ]
+    },
+    {
+        "img": "21952",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375362.mp3",
+        "class": "noun",
+        "english": "ticket gate",
+        "flashcardId": "2320501",
+        "meaning": "a type of turnstile that allows one person to pass at a time, often for regulating paid foot traffic.",
+        "id": "1537",
+        "word": "\u6539\u672d\u53e3",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263299.mp3",
+        "kana": "\u304b\u3044\u3055\u3064\u3050\u3061",
+        "romaji": "kaisatsu guchi",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253180.mp3",
+                "text": "\u81ea\u52d5\u6539\u672d\u53e3",
+                "english": "electronic ticket gate",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85772.mp3",
+                "kana": "\u3058\u3069\u3046\u304b\u3044\u3055\u3064\u304f\u3061",
+                "romaji": "jid\u014d kaisatsu guchi"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253179.mp3",
+                "text": "\u96fb\u8eca\u307e\u3067\u306e\u9014\u4e2d\u306e\u6539\u672d\u53e3\u3067\u3001\u5207\u7b26\u3092\u898b\u305b\u3066\u4e0b\u3055\u3044\u3002",
+                "english": "Show your ticket at the ticket gate on the way to the train.",
+                "en_audio": "",
+                "kana": "\u3067\u3093\u3057\u3083\u307e\u3067\u306e\u3068\u3061\u3085\u3046\u306e\u304b\u3044\u3055\u3064\u3050\u3061\u3067\u3001\u304d\u3063\u3077\u3092\u307f\u305b\u3066\u304f\u3060\u3055\u3044\u3002",
+                "romaji": "Densha made no toch\u016b no kaisatsu guchi de, kippu o misete kudasai."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253180.mp3",
+                "text": "\u81ea\u52d5\u6539\u672d\u53e3",
+                "english": "electronic ticket gate",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85772.mp3",
+                "kana": "\u3058\u3069\u3046\u304b\u3044\u3055\u3064\u304f\u3061",
+                "romaji": "jid\u014d kaisatsu guchi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253179.mp3",
+                "text": "\u96fb\u8eca\u307e\u3067\u306e\u9014\u4e2d\u306e\u6539\u672d\u53e3\u3067\u3001\u5207\u7b26\u3092\u898b\u305b\u3066\u4e0b\u3055\u3044\u3002",
+                "english": "Show your ticket at the ticket gate on the way to the train.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85771.mp3",
+                "kana": "\u3067\u3093\u3057\u3083\u307e\u3067\u306e\u3068\u3061\u3085\u3046\u306e\u304b\u3044\u3055\u3064\u3050\u3061\u3067\u3001\u304d\u3063\u3077\u3092\u307f\u305b\u3066\u304f\u3060\u3055\u3044\u3002",
+                "romaji": "Densha made no toch\u016b no kaisatsu guchi de, kippu o misete kudasai."
+            }
+        ]
+    },
+    {
+        "img": "8425",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227799.mp3",
+        "class": "noun",
+        "english": "platform",
+        "flashcardId": "2320358",
+        "meaning": "platform (noun) - the raised surface between or beside the tracks of station, where passengers board and exit the train cars",
+        "id": "1540",
+        "word": "\u30d7\u30e9\u30c3\u30c8\u30db\u30fc\u30e0",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/306095.mp3",
+        "kana": "\u30d7\u30e9\u30c3\u30c8\u30db\u30fc\u30e0",
+        "romaji": "purattoh\u014dmu",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253184.mp3",
+                "text": "\u96fb\u8eca\u306e\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0",
+                "english": "train platform",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86117.mp3",
+                "kana": "\u3067\u3093\u3057\u3083\u306e\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0",
+                "romaji": "densha no purattof\u014dmu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253182.mp3",
+                "text": "\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u306b\u3044\u308b\u666e\u901a\u96fb\u8eca",
+                "english": "local train at the platform",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85766.mp3",
+                "kana": "\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u306b\u3044\u308b\u3075\u3064\u3046\u3067\u3093\u3057\u3083",
+                "romaji": "purattof\u014dmu ni iru futs\u016b densah"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253183.mp3",
+                "text": "\u7537\u6027\u304c\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u3067\u5f85\u3063\u3066\u3044\u307e\u3059\u3002",
+                "english": "The man is waiting on the platform.",
+                "en_audio": "",
+                "kana": "\u3060\u3093\u305b\u3044\u304c\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u3067\u307e\u3063\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Dansei ga purattof\u014dmu de matte imasu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253184.mp3",
+                "text": "\u96fb\u8eca\u306e\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0",
+                "english": "train platform",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86117.mp3",
+                "kana": "\u3067\u3093\u3057\u3083\u306e\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0",
+                "romaji": "densha no purattof\u014dmu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253183.mp3",
+                "text": "\u7537\u6027\u304c\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u3067\u5f85\u3063\u3066\u3044\u307e\u3059\u3002",
+                "english": "The man is waiting on the platform.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86116.mp3",
+                "kana": "\u3060\u3093\u305b\u3044\u304c\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u3067\u307e\u3063\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Dansei ga purattof\u014dmu de matte imasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253182.mp3",
+                "text": "\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u306b\u3044\u308b\u666e\u901a\u96fb\u8eca",
+                "english": "local train at the platform",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85766.mp3",
+                "kana": "\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u306b\u3044\u308b\u3075\u3064\u3046\u3067\u3093\u3057\u3083",
+                "romaji": "purattof\u014dmu ni iru futs\u016b densah"
+            }
+        ]
+    },
+    {
+        "img": "8678",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271869.mp3",
+        "class": "noun",
+        "english": "ticket machine",
+        "flashcardId": "2320427",
+        "meaning": "ticket machine (phrase)",
+        "id": "11979",
+        "word": "\u5207\u7b26\u81ea\u52d5\u8ca9\u58f2\u6a5f",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263308.mp3",
+        "kana": "\u304d\u3063\u3077\u3058\u3069\u3046\u306f\u3093\u3070\u3044\u304d",
+        "romaji": "kippu jid\u014d hanbaiki",
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271870.mp3",
+                "text": "\u305d\u306e\u5207\u7b26\u8ca9\u58f2\u6a5f\u306f\u58ca\u308c\u3066\u3044\u307e\u3059\u3002",
+                "english": "The ticket machine is broken.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u304d\u3063\u3077\u306f\u3093\u3070\u3044\u304d\u306f\u3053\u308f\u308c\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Sono kippu hanbaiki wa kowarete imasu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271870.mp3",
+                "text": "\u305d\u306e\u5207\u7b26\u8ca9\u58f2\u6a5f\u306f\u58ca\u308c\u3066\u3044\u307e\u3059\u3002",
+                "english": "The ticket machine is broken.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263309.mp3",
+                "kana": "\u305d\u306e\u304d\u3063\u3077\u306f\u3093\u3070\u3044\u304d\u306f\u3053\u308f\u308c\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Sono kippu hanbaiki wa kowarete imasu."
+            }
+        ]
+    },
+    {
+        "img": "21955",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253210.mp3",
+        "class": "noun",
+        "english": "ticket booth",
+        "flashcardId": "2320334",
+        "meaning": "ticket booth",
+        "id": "34560",
+        "word": "\u30c1\u30b1\u30c3\u30c8\u58f2\u308a\u5834",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254173.mp3",
+        "kana": "\u30c1\u30b1\u30c3\u30c8\u3046\u308a\u3070",
+        "romaji": "chiketto uriba",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271872.mp3",
+                "text": "\u7a7a\u306e\u30c1\u30b1\u30c3\u30c8\u58f2\u308a\u5834",
+                "english": "empty ticket booth",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263311.mp3",
+                "kana": "\u304b\u3089\u306e\u30c1\u30b1\u30c3\u30c8\u3046\u308a\u3070",
+                "romaji": "kara no chiketto uriba"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271871.mp3",
+                "text": "\u30c1\u30b1\u30c3\u30c8\u58f2\u308a\u5834\u306f\u7a7a\u3067\u3059\u3002",
+                "english": "The ticket booth is empty.",
+                "en_audio": "",
+                "kana": "\u30c1\u30b1\u30c3\u30c8\u3046\u308a\u3070\u306f\u304b\u3089\u3067\u3059\u3002",
+                "romaji": "Chiketto uriba wa kara desu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271872.mp3",
+                "text": "\u7a7a\u306e\u30c1\u30b1\u30c3\u30c8\u58f2\u308a\u5834",
+                "english": "empty ticket booth",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263311.mp3",
+                "kana": "\u304b\u3089\u306e\u30c1\u30b1\u30c3\u30c8\u3046\u308a\u3070",
+                "romaji": "kara no chiketto uriba"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271871.mp3",
+                "text": "\u30c1\u30b1\u30c3\u30c8\u58f2\u308a\u5834\u306f\u7a7a\u3067\u3059\u3002",
+                "english": "The ticket booth is empty.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263310.mp3",
+                "kana": "\u30c1\u30b1\u30c3\u30c8\u3046\u308a\u3070\u306f\u304b\u3089\u3067\u3059\u3002",
+                "romaji": "Chiketto uriba wa kara desu."
+            }
+        ]
+    }
+]

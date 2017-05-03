@@ -1,0 +1,1615 @@
+[
+    {
+        "img": "21133",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271508.mp3",
+        "class": "noun",
+        "english": "bandage",
+        "flashcardId": "2320431",
+        "meaning": "bandage; bandage (noun) - a narrow piece of cloth that you tie around a wound or around a part of the body that has been injured",
+        "id": "34791",
+        "word": "\u5305\u5e2f",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262921.mp3",
+        "kana": "\u307b\u3046\u305f\u3044",
+        "romaji": "h\u014dtai",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271511.mp3",
+                "text": "\u5305\u5e2f\u3067\u5dfb\u304f",
+                "english": "wrap with bandage",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262923.mp3",
+                "kana": "\u307b\u3046\u305f\u3044\u3067\u307e\u304f",
+                "romaji": "h\u014dtai de maku"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/824398.mp3",
+                "text": "\u5305\u5e2f\u3092\u3068\u3063\u3066\u304f\u3060\u3055\u3044\u3002",
+                "english": "Get the bandages.",
+                "en_audio": "",
+                "kana": "\u307b\u3046\u305f\u3044\u3092\u3068\u3063\u3066\u304f\u3060\u3055\u3044\u3002",
+                "romaji": "H\u014dtai o totte kudasai."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/554020.mp3",
+                "text": "\u8155\u306b\u5305\u5e2f\u3092\u5dfb\u3044\u305f\u3002",
+                "english": "I wrapped a bandage around my arm.",
+                "en_audio": "",
+                "kana": "\u3046\u3067\u306b\u307b\u3046\u305f\u3044\u3092\u307e\u3044\u305f\u3002",
+                "romaji": "Ude ni h\u014dtai o maita."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271511.mp3",
+                "text": "\u5305\u5e2f\u3067\u5dfb\u304f",
+                "english": "wrap with bandage",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262923.mp3",
+                "kana": "\u307b\u3046\u305f\u3044\u3067\u307e\u304f",
+                "romaji": "h\u014dtai de maku"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/824398.mp3",
+                "text": "\u5305\u5e2f\u3092\u3068\u3063\u3066\u304f\u3060\u3055\u3044\u3002",
+                "english": "Get the bandages.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262922.mp3",
+                "kana": "\u307b\u3046\u305f\u3044\u3092\u3068\u3063\u3066\u304f\u3060\u3055\u3044\u3002",
+                "romaji": "H\u014dtai o totte kudasai."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/554020.mp3",
+                "text": "\u8155\u306b\u5305\u5e2f\u3092\u5dfb\u3044\u305f\u3002",
+                "english": "I wrapped a bandage around my arm.",
+                "en_audio": "",
+                "kana": "\u3046\u3067\u306b\u307b\u3046\u305f\u3044\u3092\u307e\u3044\u305f\u3002",
+                "romaji": "Ude ni h\u014dtai o maita."
+            }
+        ]
+    },
+    {
+        "img": "9104",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1117.mp3",
+        "class": "noun",
+        "english": "patient",
+        "flashcardId": "2320482",
+        "meaning": "patient (noun) - a person receiving or registered to receive medical treatment",
+        "id": "5576",
+        "word": "\u60a3\u8005",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262938.mp3",
+        "kana": "\u304b\u3093\u3058\u3083",
+        "romaji": "kanja",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271514.mp3",
+                "text": "\u4fe1\u7528\u3057\u3066\u3044\u308b\u60a3\u8005",
+                "english": "trusting patient",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/106654.mp3",
+                "kana": "\u3057\u3093\u3088\u3046\u3057\u3066\u3044\u308b\u304b\u3093\u3058\u3083",
+                "romaji": "shiny\u014d shite iru kanja"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1119.mp3",
+                "text": "\u75c5\u6c17\u306e\u60a3\u8005",
+                "english": "sick patient",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4054.mp3",
+                "kana": "\u3073\u3087\u3046\u304d\u306e\u304b\u3093\u3058\u3083",
+                "romaji": "by\u014dki no kanja"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1118.mp3",
+                "text": "\u60a3\u8005\u306e\u30b1\u30a2",
+                "english": "patient care",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4051.mp3",
+                "kana": "\u304b\u3093\u3058\u3083\u306e\u30b1\u30a2",
+                "romaji": "kanja no kea"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271513.mp3",
+                "text": "\u60a3\u8005\u306f\u3001\u62c5\u5f53\u533b\u3068\u62c5\u5f53\u306e\u770b\u8b77\u58eb\u3092\u4fe1\u3058\u306a\u3051\u308c\u3070\u306a\u3089\u306a\u3044\u3002",
+                "english": "A patient must trust his doctors and nurses.",
+                "en_audio": "",
+                "kana": "\u304b\u3093\u3058\u3083\u306f\u3001\u305f\u3093\u3068\u3046\u3044\u3068\u305f\u3093\u3068\u3046\u306e\u304b\u3093\u3054\u3057\u3092\u3057\u3093\u3058\u306a\u3051\u308c\u3070\u306a\u3089\u306a\u3044\u3002",
+                "romaji": "Kanja wa, tant\u014di to tant\u014d no kangoshi o shinjinakereba naranai."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228870.mp3",
+                "text": "\u305d\u306e\u60a3\u8005\u306f\u3001\u70b9\u6ef4\u306b\u3088\u308b\u6295\u85ac\u3092\u53d7\u3051\u3066\u3044\u308b\u3002",
+                "english": "The patient is getting medicine through an IV (intraveous line).",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u304b\u3093\u3058\u3083\u306f\u3001\u3066\u3093\u3066\u304d\u306b\u3088\u308b\u3068\u3046\u3084\u304f\u3092\u3046\u3051\u3066\u3044\u308b\u3002",
+                "romaji": "Sono kanja wa, tenteki ni yoru t\u014dyaku o ukete iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228869.mp3",
+                "text": "\u3053\u306e\u75c5\u9662\u306f\u3001\u5343\u4eba\u306e\u60a3\u8005\u3092\u53d7\u3051\u5165\u308c\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002",
+                "english": "This hospital can accommodate one thousand patients.",
+                "en_audio": "",
+                "kana": "\u3053\u306e\u3073\u3087\u3046\u3044\u3093\u306f\u3001\u305b\u3093\u306b\u3093\u306e\u304b\u3093\u3058\u3083\u3092\u3046\u3051\u3044\u308c\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002",
+                "romaji": "Kono by\u014din wa, sen-nin no kanja o ukeireru koto ga dekiru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271513.mp3",
+                "text": "\u60a3\u8005\u306f\u3001\u62c5\u5f53\u533b\u3068\u62c5\u5f53\u306e\u770b\u8b77\u58eb\u3092\u4fe1\u3058\u306a\u3051\u308c\u3070\u306a\u3089\u306a\u3044\u3002",
+                "english": "A patient must trust his doctors and nurses.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/106653.mp3",
+                "kana": "\u304b\u3093\u3058\u3083\u306f\u3001\u305f\u3093\u3068\u3046\u3044\u3068\u305f\u3093\u3068\u3046\u306e\u304b\u3093\u3054\u3057\u3092\u3057\u3093\u3058\u306a\u3051\u308c\u3070\u306a\u3089\u306a\u3044\u3002",
+                "romaji": "Kanja wa, tant\u014di to tant\u014d no kangoshi o shinjinakereba naranai."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271514.mp3",
+                "text": "\u4fe1\u7528\u3057\u3066\u3044\u308b\u60a3\u8005",
+                "english": "trusting patient",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/106654.mp3",
+                "kana": "\u3057\u3093\u3088\u3046\u3057\u3066\u3044\u308b\u304b\u3093\u3058\u3083",
+                "romaji": "shiny\u014d shite iru kanja"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228870.mp3",
+                "text": "\u305d\u306e\u60a3\u8005\u306f\u3001\u70b9\u6ef4\u306b\u3088\u308b\u6295\u85ac\u3092\u53d7\u3051\u3066\u3044\u308b\u3002",
+                "english": "The patient is getting medicine through an IV (intraveous line).",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4053.mp3",
+                "kana": "\u305d\u306e\u304b\u3093\u3058\u3083\u306f\u3001\u3066\u3093\u3066\u304d\u306b\u3088\u308b\u3068\u3046\u3084\u304f\u3092\u3046\u3051\u3066\u3044\u308b\u3002",
+                "romaji": "Sono kanja wa, tenteki ni yoru t\u014dyaku o ukete iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228869.mp3",
+                "text": "\u3053\u306e\u75c5\u9662\u306f\u3001\u5343\u4eba\u306e\u60a3\u8005\u3092\u53d7\u3051\u5165\u308c\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002",
+                "english": "This hospital can accommodate one thousand patients.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4052.mp3",
+                "kana": "\u3053\u306e\u3073\u3087\u3046\u3044\u3093\u306f\u3001\u305b\u3093\u306b\u3093\u306e\u304b\u3093\u3058\u3083\u3092\u3046\u3051\u3044\u308c\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002",
+                "romaji": "Kono by\u014din wa, sen-nin no kanja o ukeireru koto ga dekiru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1119.mp3",
+                "text": "\u75c5\u6c17\u306e\u60a3\u8005",
+                "english": "sick patient",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4054.mp3",
+                "kana": "\u3073\u3087\u3046\u304d\u306e\u304b\u3093\u3058\u3083",
+                "romaji": "by\u014dki no kanja"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1118.mp3",
+                "text": "\u60a3\u8005\u306e\u30b1\u30a2",
+                "english": "patient care",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4051.mp3",
+                "kana": "\u304b\u3093\u3058\u3083\u306e\u30b1\u30a2",
+                "romaji": "kanja no kea"
+            }
+        ]
+    },
+    {
+        "img": "9457",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226725.mp3",
+        "class": "noun",
+        "english": "infection",
+        "flashcardId": "2320483",
+        "meaning": "infection (noun) - a disease that affects a particular part of your body and is caused by bacteria or a virus",
+        "id": "707",
+        "word": "\u611f\u67d3",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87946.mp3",
+        "kana": "\u304b\u3093\u305b\u3093",
+        "romaji": "kansen",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226728.mp3",
+                "text": "\u76ae\u819a\u611f\u67d3",
+                "english": "skin infection",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86005.mp3",
+                "kana": "\u3072\u3075\u304b\u3093\u305b\u3093",
+                "romaji": "hifu kansen"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226727.mp3",
+                "text": "\u91cd\u5ea6\u306e\u611f\u67d3",
+                "english": "severe infection",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86004.mp3",
+                "kana": "\u3058\u3085\u3046\u3069\u306e\u304b\u3093\u305b\u3093",
+                "romaji": "j\u016bdo no kansen"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226726.mp3",
+                "text": "\u5f7c\u5973\u304c\u6297\u751f\u7269\u8cea\u3092\u98f2\u307f\u59cb\u3081\u305f\u3089\u3001\u611f\u67d3\u90e8\u4f4d\u306f\u826f\u304f\u306a\u3063\u305f\u3002",
+                "english": "The infection improved when she started taking an antibiotic.",
+                "en_audio": "",
+                "kana": "\u304b\u306e\u3058\u3087\u304c\u3053\u3046\u305b\u3044\u3076\u3063\u3057\u3064\u3092\u306e\u307f\u306f\u3058\u3081\u305f\u3089\u3001\u304b\u3093\u305b\u3093\u3076\u3044\u306f\u3088\u304f\u306a\u3063\u305f\u3002",
+                "romaji": "Kanojo ga k\u014dsei busshitsu o nomi hajimetara, kansen bui wa yoku natta."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226728.mp3",
+                "text": "\u76ae\u819a\u611f\u67d3",
+                "english": "skin infection",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86005.mp3",
+                "kana": "\u3072\u3075\u304b\u3093\u305b\u3093",
+                "romaji": "hifu kansen"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226727.mp3",
+                "text": "\u91cd\u5ea6\u306e\u611f\u67d3",
+                "english": "severe infection",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86004.mp3",
+                "kana": "\u3058\u3085\u3046\u3069\u306e\u304b\u3093\u305b\u3093",
+                "romaji": "j\u016bdo no kansen"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226726.mp3",
+                "text": "\u5f7c\u5973\u304c\u6297\u751f\u7269\u8cea\u3092\u98f2\u307f\u59cb\u3081\u305f\u3089\u3001\u611f\u67d3\u90e8\u4f4d\u306f\u826f\u304f\u306a\u3063\u305f\u3002",
+                "english": "The infection improved when she started taking an antibiotic.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/86003.mp3",
+                "kana": "\u304b\u306e\u3058\u3087\u304c\u3053\u3046\u305b\u3044\u3076\u3063\u3057\u3064\u3092\u306e\u307f\u306f\u3058\u3081\u305f\u3089\u3001\u304b\u3093\u305b\u3093\u3076\u3044\u306f\u3088\u304f\u306a\u3063\u305f\u3002",
+                "romaji": "Kanojo ga k\u014dsei busshitsu o nomi hajimetara, kansen bui wa yoku natta."
+            }
+        ]
+    },
+    {
+        "img": "9267",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271533.mp3",
+        "class": "noun",
+        "english": "flu",
+        "flashcardId": "2032613",
+        "meaning": "flu (noun) - a common illness that makes you feel very tired and weak, gives you a sore throat, and makes you cough and have to clear your nose a lot",
+        "id": "30195",
+        "word": "\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b6",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5250.mp3",
+        "kana": "\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b6",
+        "romaji": "infuruenza",
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271535.mp3",
+                "text": "\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b6\u306e\u5b63\u7bc0",
+                "english": "flu season",
+                "en_audio": "",
+                "kana": "\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b6\u306e\u304d\u305b\u3064",
+                "romaji": "infuruenza no kisetsu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271534.mp3",
+                "text": "\u5973\u6027\u306f\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b6\u3067\u3059\u3002",
+                "english": "The woman is sick with the flu.",
+                "en_audio": "",
+                "kana": "\u3058\u3087\u305b\u3044\u306f\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b6\u3067\u3059\u3002",
+                "romaji": "Josei wa infuruenza desu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271535.mp3",
+                "text": "\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b6\u306e\u5b63\u7bc0",
+                "english": "flu season",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5253.mp3",
+                "kana": "\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b6\u306e\u304d\u305b\u3064",
+                "romaji": "infuruenza no kisetsu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271534.mp3",
+                "text": "\u5973\u6027\u306f\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b6\u3067\u3059\u3002",
+                "english": "The woman is sick with the flu.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85614.mp3",
+                "kana": "\u3058\u3087\u305b\u3044\u306f\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b6\u3067\u3059\u3002",
+                "romaji": "Josei wa infuruenza desu."
+            }
+        ]
+    },
+    {
+        "img": "9346",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1845.mp3",
+        "class": "noun",
+        "english": "prescription",
+        "flashcardId": "2320419",
+        "meaning": "prescription (noun) - a piece of paper on which a doctor writes what medicine a sick person should have, so that they can get it from a\tpharmacist",
+        "id": "10563",
+        "word": "\u51e6\u65b9\u7b8b",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5164.mp3",
+        "kana": "\u3057\u3087\u307b\u3046\u305b\u3093",
+        "romaji": "shoh\u014dsen",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/829976.mp3",
+                "text": "\u51e6\u65b9\u7b8b\u306e\u85ac",
+                "english": "prescription medicine",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102848.mp3",
+                "kana": "\u3057\u3087\u307b\u3046\u305b\u3093\u306e\u304f\u3059\u308a",
+                "romaji": "shoh\u014dsen no kusuri"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251495.mp3",
+                "text": "\u773c\u93e1\u306e\u51e6\u65b9\u7b8b",
+                "english": "prescription eyeglasses",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89872.mp3",
+                "kana": "\u3081\u304c\u306d\u306e\u3057\u3087\u307b\u3046\u305b\u3093",
+                "romaji": "megane no shoh\u014dsen"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/830306.mp3",
+                "text": "\u51e6\u65b9\u7b8b\u306e\u85ac\u3092\u8abf\u5408\u3059\u308b",
+                "english": "fill a prescription",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5167.mp3",
+                "kana": "\u3057\u3087\u307b\u3046\u305b\u3093\u306e\u304f\u3059\u308a\u3092\u3061\u3087\u3046\u3054\u3046\u3059\u308b",
+                "romaji": "shoh\u014dsen no kusuri o ch\u014dg\u014d suru"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/830307.mp3",
+                "text": "\u3053\u306e\u51e6\u65b9\u7b8b\u3069\u304a\u308a\u306b\u8abf\u5408\u3059\u308b\u3068100\u30c9\u30eb\u304b\u304b\u308b\u3002",
+                "english": "It cost one hundred dollars to fill this prescription.",
+                "en_audio": "",
+                "kana": "\u3053\u306e\u3057\u3087\u307b\u3046\u305b\u3093\u3069\u304a\u308a\u306b\u3061\u3087\u3046\u3054\u3046\u3059\u308b\u3068\u3072\u3083\u304f\u30c9\u30eb\u304b\u304b\u308b\u3002",
+                "romaji": "Kono shoh\u014dsen d\u014dri ni ch\u014dg\u014d suru to hyaku-doru kakaru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/829976.mp3",
+                "text": "\u51e6\u65b9\u7b8b\u306e\u85ac",
+                "english": "prescription medicine",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102848.mp3",
+                "kana": "\u3057\u3087\u307b\u3046\u305b\u3093\u306e\u304f\u3059\u308a",
+                "romaji": "shoh\u014dsen no kusuri"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251495.mp3",
+                "text": "\u773c\u93e1\u306e\u51e6\u65b9\u7b8b",
+                "english": "prescription eyeglasses",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89872.mp3",
+                "kana": "\u3081\u304c\u306d\u306e\u3057\u3087\u307b\u3046\u305b\u3093",
+                "romaji": "megane no shoh\u014dsen"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/830307.mp3",
+                "text": "\u3053\u306e\u51e6\u65b9\u7b8b\u3069\u304a\u308a\u306b\u8abf\u5408\u3059\u308b\u3068100\u30c9\u30eb\u304b\u304b\u308b\u3002",
+                "english": "It cost one hundred dollars to fill this prescription.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5168.mp3",
+                "kana": "\u3053\u306e\u3057\u3087\u307b\u3046\u305b\u3093\u3069\u304a\u308a\u306b\u3061\u3087\u3046\u3054\u3046\u3059\u308b\u3068\u3072\u3083\u304f\u30c9\u30eb\u304b\u304b\u308b\u3002",
+                "romaji": "Kono shoh\u014dsen d\u014dri ni ch\u014dg\u014d suru to hyaku-doru kakaru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/830306.mp3",
+                "text": "\u51e6\u65b9\u7b8b\u306e\u85ac\u3092\u8abf\u5408\u3059\u308b",
+                "english": "fill a prescription",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5167.mp3",
+                "kana": "\u3057\u3087\u307b\u3046\u305b\u3093\u306e\u304f\u3059\u308a\u3092\u3061\u3087\u3046\u3054\u3046\u3059\u308b",
+                "romaji": "shoh\u014dsen no kusuri o ch\u014dg\u014d suru"
+            }
+        ]
+    },
+    {
+        "img": "17373",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1179726.mp3",
+        "class": "noun",
+        "english": "flight attendant",
+        "flashcardId": "2320457",
+        "meaning": "flight attendant (noun) - someone who serves food and drinks to passengers on a plane, and looks after their comfort and safety",
+        "id": "25",
+        "word": "\u5ba2\u5ba4\u4e57\u52d9\u54e1",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263143.mp3",
+        "kana": "\u304d\u3083\u304f\u3057\u3064\u3058\u3087\u3046\u3080\u3044\u3093",
+        "romaji": "kyakushitsu j\u014dmuin",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225871.mp3",
+                "text": "\u5973\u6027\u306e\u5ba2\u5ba4\u4e57\u52d9\u54e1",
+                "english": "female flight attendant",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2215.mp3",
+                "kana": "\u3058\u3087\u305b\u3044\u306e\u304d\u3083\u304f\u3057\u3064\u3058\u3087\u3046\u3080\u3044\u3093",
+                "romaji": "josei no kyakushitsu j\u014dmuin"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225870.mp3",
+                "text": "\u89aa\u5207\u306a\u5ba2\u5ba4\u4e57\u52d9\u54e1",
+                "english": "friendly flight attendant",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2213.mp3",
+                "kana": "\u3057\u3093\u305b\u3064\u306a\u304d\u3083\u304f\u3057\u3064\u3058\u3087\u3046\u3080\u3044\u3093",
+                "romaji": "shinsetsu na kyakushitsu j\u014dmuin"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225876.mp3",
+                "text": "\u5ba2\u5ba4\u4e57\u52d9\u54e1\u304c\u3001\u30b5\u30fc\u30d3\u30b9\u306e\u98f2\u307f\u7269\u3068\u30b9\u30ca\u30c3\u30af\u3092\u6301\u3063\u3066\u304f\u308b\u3067\u3057\u3087\u3046\u3002",
+                "english": "The flight attendant will bring complimentary drinks and snacks.",
+                "en_audio": "",
+                "kana": "\u304d\u3083\u304f\u3057\u3064\u3058\u3087\u3046\u3080\u3044\u3093\u304c\u3001\u30b5\u30fc\u30d3\u30b9\u306e\u306e\u307f\u3082\u306e\u3068\u30b9\u30ca\u30c3\u30af\u3092\u3082\u3063\u3066\u304f\u308b\u3067\u3057\u3087\u3046\u3002",
+                "romaji": "Kyakushitsu j\u014dmuin ga, s\u0101bisu no nomimono to sunakku o motte kuru desh\u014d."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225874.mp3",
+                "text": "\u5ba2\u5ba4\u4e57\u52d9\u54e1\u304c\u5ba2\u306b\u5bfe\u5fdc\u3057\u3066\u3044\u308b\u3002",
+                "english": "The flight attendant is serving the passenger.",
+                "en_audio": "",
+                "kana": "\u304d\u3083\u304f\u3057\u3064\u3058\u3087\u3046\u3080\u3044\u3093\u304c\u304d\u3083\u304f\u306b\u305f\u3044\u304a\u3046\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "kyakushitsu j\u014dmuin ga kyaku ni tai\u014d shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225872.mp3",
+                "text": "\u5ba2\u5ba4\u4e57\u52d9\u54e1\u3092\u547c\u3093\u3067\u304f\u3060\u3055\u3044\u3002",
+                "english": "Call the flight attendant, please.",
+                "en_audio": "",
+                "kana": "\u304d\u3083\u304f\u3057\u3064\u3058\u3087\u3046\u3080\u3044\u3093\u3092\u3088\u3093\u3067\u304f\u3060\u3055\u3044\u3002",
+                "romaji": "Kyakushitsu j\u014dmuin o yonde kudasai."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225876.mp3",
+                "text": "\u5ba2\u5ba4\u4e57\u52d9\u54e1\u304c\u3001\u30b5\u30fc\u30d3\u30b9\u306e\u98f2\u307f\u7269\u3068\u30b9\u30ca\u30c3\u30af\u3092\u6301\u3063\u3066\u304f\u308b\u3067\u3057\u3087\u3046\u3002",
+                "english": "The flight attendant will bring complimentary drinks and snacks.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2212.mp3",
+                "kana": "\u304d\u3083\u304f\u3057\u3064\u3058\u3087\u3046\u3080\u3044\u3093\u304c\u3001\u30b5\u30fc\u30d3\u30b9\u306e\u306e\u307f\u3082\u306e\u3068\u30b9\u30ca\u30c3\u30af\u3092\u3082\u3063\u3066\u304f\u308b\u3067\u3057\u3087\u3046\u3002",
+                "romaji": "Kyakushitsu j\u014dmuin ga, s\u0101bisu no nomimono to sunakku o motte kuru desh\u014d."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225874.mp3",
+                "text": "\u5ba2\u5ba4\u4e57\u52d9\u54e1\u304c\u5ba2\u306b\u5bfe\u5fdc\u3057\u3066\u3044\u308b\u3002",
+                "english": "The flight attendant is serving the passenger.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2214.mp3",
+                "kana": "\u304d\u3083\u304f\u3057\u3064\u3058\u3087\u3046\u3080\u3044\u3093\u304c\u304d\u3083\u304f\u306b\u305f\u3044\u304a\u3046\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "kyakushitsu j\u014dmuin ga kyaku ni tai\u014d shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225872.mp3",
+                "text": "\u5ba2\u5ba4\u4e57\u52d9\u54e1\u3092\u547c\u3093\u3067\u304f\u3060\u3055\u3044\u3002",
+                "english": "Call the flight attendant, please.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2211.mp3",
+                "kana": "\u304d\u3083\u304f\u3057\u3064\u3058\u3087\u3046\u3080\u3044\u3093\u3092\u3088\u3093\u3067\u304f\u3060\u3055\u3044\u3002",
+                "romaji": "Kyakushitsu j\u014dmuin o yonde kudasai."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225871.mp3",
+                "text": "\u5973\u6027\u306e\u5ba2\u5ba4\u4e57\u52d9\u54e1",
+                "english": "female flight attendant",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2215.mp3",
+                "kana": "\u3058\u3087\u305b\u3044\u306e\u304d\u3083\u304f\u3057\u3064\u3058\u3087\u3046\u3080\u3044\u3093",
+                "romaji": "josei no kyakushitsu j\u014dmuin"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225870.mp3",
+                "text": "\u89aa\u5207\u306a\u5ba2\u5ba4\u4e57\u52d9\u54e1",
+                "english": "friendly flight attendant",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2213.mp3",
+                "kana": "\u3057\u3093\u305b\u3064\u306a\u304d\u3083\u304f\u3057\u3064\u3058\u3087\u3046\u3080\u3044\u3093",
+                "romaji": "shinsetsu na kyakushitsu j\u014dmuin"
+            }
+        ]
+    },
+    {
+        "img": "21928",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225862.mp3",
+        "class": "noun",
+        "english": "seat",
+        "flashcardId": "2320471",
+        "meaning": "seat (noun) - a place where you can sit, especially one in a vehicle or one from which you watch a performance, sports event etc",
+        "id": "23",
+        "word": "\u5ea7\u5e2d",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87225.mp3",
+        "kana": "\u3056\u305b\u304d",
+        "romaji": "zaseki",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225888.mp3",
+                "text": "\u30a8\u30b3\u30ce\u30df\u30fc\u30af\u30e9\u30b9\u306e\u5ea7\u5e2d",
+                "english": "economy class seats",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92060.mp3",
+                "kana": "\u30a8\u30b3\u30ce\u30df\u30fc\u30af\u30e9\u30b9\u306e\u3056\u305b\u304d",
+                "romaji": "ekonom\u012b kurasu no zaseki"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225865.mp3",
+                "text": "\u98db\u884c\u6a5f\u306e\u5ea7\u5e2d",
+                "english": "airplane seat",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263144.mp3",
+                "kana": "\u3072\u3053\u3046\u304d\u306e\u3056\u305b\u304d",
+                "romaji": "hik\u014dki no zaseki"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225863.mp3",
+                "text": "\u5ea7\u5e2d\u30af\u30c3\u30b7\u30e7\u30f3",
+                "english": "seat cushion",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92055.mp3",
+                "kana": "\u3056\u305b\u304d\u30af\u30c3\u30b7\u30e7\u30f3",
+                "romaji": "zaseki kusshon"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225868.mp3",
+                "text": "\u5ba2\u5ba4\u4e57\u52d9\u54e1\u306f\u3001\u305d\u306e\u4e57\u5ba2\u306b\u5ea7\u5e2d\u306b\u7740\u304f\u3088\u3046\u306b\u983c\u3093\u3060\u3002",
+                "english": "The flight attendant asked the passenger to take her seat.",
+                "en_audio": "",
+                "kana": "\u304d\u3083\u304f\u3057\u3064\u3058\u3087\u3046\u3080\u3044\u3093\u306f\u3001\u305d\u306e\u3058\u3087\u3046\u304d\u3083\u304f\u306b\u3056\u305b\u304d\u306b\u3064\u304f\u3088\u3046\u306b\u305f\u306e\u3093\u3060\u3002",
+                "romaji": "Kyakushitsu j\u014dmuin wa, sono j\u014dkyaku ni zaseki ni tsuku y\u014d ni tanonda."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225888.mp3",
+                "text": "\u30a8\u30b3\u30ce\u30df\u30fc\u30af\u30e9\u30b9\u306e\u5ea7\u5e2d",
+                "english": "economy class seats",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92060.mp3",
+                "kana": "\u30a8\u30b3\u30ce\u30df\u30fc\u30af\u30e9\u30b9\u306e\u3056\u305b\u304d",
+                "romaji": "ekonom\u012b kurasu no zaseki"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225868.mp3",
+                "text": "\u5ba2\u5ba4\u4e57\u52d9\u54e1\u306f\u3001\u305d\u306e\u4e57\u5ba2\u306b\u5ea7\u5e2d\u306b\u7740\u304f\u3088\u3046\u306b\u983c\u3093\u3060\u3002",
+                "english": "The flight attendant asked the passenger to take her seat.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92054.mp3",
+                "kana": "\u304d\u3083\u304f\u3057\u3064\u3058\u3087\u3046\u3080\u3044\u3093\u306f\u3001\u305d\u306e\u3058\u3087\u3046\u304d\u3083\u304f\u306b\u3056\u305b\u304d\u306b\u3064\u304f\u3088\u3046\u306b\u305f\u306e\u3093\u3060\u3002",
+                "romaji": "Kyakushitsu j\u014dmuin wa, sono j\u014dkyaku ni zaseki ni tsuku y\u014d ni tanonda."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225865.mp3",
+                "text": "\u98db\u884c\u6a5f\u306e\u5ea7\u5e2d",
+                "english": "airplane seat",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263144.mp3",
+                "kana": "\u3072\u3053\u3046\u304d\u306e\u3056\u305b\u304d",
+                "romaji": "hik\u014dki no zaseki"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225863.mp3",
+                "text": "\u5ea7\u5e2d\u30af\u30c3\u30b7\u30e7\u30f3",
+                "english": "seat cushion",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92055.mp3",
+                "kana": "\u3056\u305b\u304d\u30af\u30c3\u30b7\u30e7\u30f3",
+                "romaji": "zaseki kusshon"
+            }
+        ]
+    },
+    {
+        "img": "9637",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225882.mp3",
+        "class": "noun",
+        "english": "economy class",
+        "flashcardId": "2320300",
+        "meaning": "economy class (phrase) - the cheapest type of seats in a plane",
+        "id": "30",
+        "word": "\u30a8\u30b3\u30ce\u30df\u30fc\u30af\u30e9\u30b9",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263145.mp3",
+        "kana": "\u30a8\u30b3\u30ce\u30df\u30fc\u30af\u30e9\u30b9",
+        "romaji": "ekonom\u012b kurasu",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225889.mp3",
+                "text": "\u98db\u884c\u6a5f\u306e\u30a8\u30b3\u30ce\u30df\u30fc\u30af\u30e9\u30b9",
+                "english": "economy class on a plane",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92061.mp3",
+                "kana": "\u3072\u3053\u3046\u304d\u306e\u30a8\u30b3\u30ce\u30df\u30fc\u30af\u30e9\u30b9",
+                "romaji": "hik\u014dki no ekonom\u012b kurasu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225884.mp3",
+                "text": "\u30a8\u30b3\u30ce\u30df\u30fc\u30af\u30e9\u30b9\u5e2d",
+                "english": "economy class seats",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92060.mp3",
+                "kana": "\u30a8\u30b3\u30ce\u30df\u30fc\u30af\u30e9\u30b9\u305b\u304d",
+                "romaji": "ekonom\u012b kurasu seki"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225883.mp3",
+                "text": "\u30a8\u30b3\u30ce\u30df\u30fc\u30af\u30e9\u30b9\u642d\u4e57\u5238",
+                "english": "economy class tickets",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92059.mp3",
+                "kana": "\u30a8\u30b3\u30ce\u30df\u30fc\u30af\u30e9\u30b9\u3068\u3046\u3058\u3087\u3046\u3051\u3093",
+                "romaji": "ekonom\u012b kurasu t\u014dj\u014dken"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225890.mp3",
+                "text": "\u30a8\u30b3\u30ce\u30df\u30fc\u30af\u30e9\u30b9\u306e\u5ea7\u5e2d\u306f\u3001\u6700\u3082\u624b\u3054\u308d\u306a\u6599\u91d1\u3060\u3002",
+                "english": "The seats in economy class are the most affordable.",
+                "en_audio": "",
+                "kana": "\u30a8\u30b3\u30ce\u30df\u30fc\u30af\u30e9\u30b9\u306e\u3056\u305b\u304d\u306f\u3001\u3082\u3063\u3068\u3082\u3066\u3054\u308d\u306a\u308a\u3087\u3046\u304d\u3093\u3060\u3002",
+                "romaji": "Ekonom\u012b kurasu no zaseki wa, mottomo tegoro na ry\u014dkin da."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225890.mp3",
+                "text": "\u30a8\u30b3\u30ce\u30df\u30fc\u30af\u30e9\u30b9\u306e\u5ea7\u5e2d\u306f\u3001\u6700\u3082\u624b\u3054\u308d\u306a\u6599\u91d1\u3060\u3002",
+                "english": "The seats in economy class are the most affordable.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92058.mp3",
+                "kana": "\u30a8\u30b3\u30ce\u30df\u30fc\u30af\u30e9\u30b9\u306e\u3056\u305b\u304d\u306f\u3001\u3082\u3063\u3068\u3082\u3066\u3054\u308d\u306a\u308a\u3087\u3046\u304d\u3093\u3060\u3002",
+                "romaji": "Ekonom\u012b kurasu no zaseki wa, mottomo tegoro na ry\u014dkin da."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225889.mp3",
+                "text": "\u98db\u884c\u6a5f\u306e\u30a8\u30b3\u30ce\u30df\u30fc\u30af\u30e9\u30b9",
+                "english": "economy class on a plane",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92061.mp3",
+                "kana": "\u3072\u3053\u3046\u304d\u306e\u30a8\u30b3\u30ce\u30df\u30fc\u30af\u30e9\u30b9",
+                "romaji": "hik\u014dki no ekonom\u012b kurasu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225884.mp3",
+                "text": "\u30a8\u30b3\u30ce\u30df\u30fc\u30af\u30e9\u30b9\u5e2d",
+                "english": "economy class seats",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92060.mp3",
+                "kana": "\u30a8\u30b3\u30ce\u30df\u30fc\u30af\u30e9\u30b9\u305b\u304d",
+                "romaji": "ekonom\u012b kurasu seki"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225883.mp3",
+                "text": "\u30a8\u30b3\u30ce\u30df\u30fc\u30af\u30e9\u30b9\u642d\u4e57\u5238",
+                "english": "economy class tickets",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92059.mp3",
+                "kana": "\u30a8\u30b3\u30ce\u30df\u30fc\u30af\u30e9\u30b9\u3068\u3046\u3058\u3087\u3046\u3051\u3093",
+                "romaji": "ekonom\u012b kurasu t\u014dj\u014dken"
+            }
+        ]
+    },
+    {
+        "img": "21927",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/549437.mp3",
+        "class": "noun",
+        "english": "flight",
+        "flashcardId": "2320356",
+        "meaning": "flight (noun) - a journey in a plane or space vehicle, or the plane or vehicle that is making the journey",
+        "id": "51",
+        "word": "\u30d5\u30e9\u30a4\u30c8",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87253.mp3",
+        "kana": "\u30d5\u30e9\u30a4\u30c8",
+        "romaji": "furaito",
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225913.mp3",
+                "text": "\u305d\u306e\u30d5\u30e9\u30a4\u30c8\u306f\u4e00\u6642\u9593\u4ee5\u5185\u306b\u96e2\u9678\u3057\u307e\u3059\u3002",
+                "english": "The flight will leave in one hour.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u30d5\u30e9\u30a4\u30c8\u306f\u3044\u3061\u3058\u304b\u3093\u3044\u306a\u3044\u306b\u308a\u308a\u304f\u3057\u307e\u3059\u3002",
+                "romaji": "Sono furaito wa ichi-jikan inai ni ririku shimasu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225913.mp3",
+                "text": "\u305d\u306e\u30d5\u30e9\u30a4\u30c8\u306f\u4e00\u6642\u9593\u4ee5\u5185\u306b\u96e2\u9678\u3057\u307e\u3059\u3002",
+                "english": "The flight will leave in one hour.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89660.mp3",
+                "kana": "\u305d\u306e\u30d5\u30e9\u30a4\u30c8\u306f\u3044\u3061\u3058\u304b\u3093\u3044\u306a\u3044\u306b\u308a\u308a\u304f\u3057\u307e\u3059\u3002",
+                "romaji": "Sono furaito wa ichi-jikan inai ni ririku shimasu."
+            }
+        ]
+    },
+    {
+        "img": "10265",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225918.mp3",
+        "class": "noun",
+        "english": "luggage",
+        "flashcardId": "2320604",
+        "meaning": "luggage (noun) - the cases, bags etc that you carry when you are travelling",
+        "id": "56",
+        "word": "\u8377\u7269",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253491.mp3",
+        "kana": "\u306b\u3082\u3064",
+        "romaji": "nimotsu",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225921.mp3",
+                "text": "\u8377\u7269\u7528\u30ab\u30fc\u30c8\u306b\u8f09\u3063\u3066\u3044\u308b\u8377\u7269",
+                "english": "luggage on a luggage cart",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89678.mp3",
+                "kana": "\u306b\u3082\u3064\u3088\u3046\u30ab\u30fc\u30c8\u306b\u306e\u3063\u3066\u3044\u308b\u306b\u3082\u3064",
+                "romaji": "nimotsu-y\u014d k\u0101to ni notte iru nimotsu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225919.mp3",
+                "text": "\u8377\u7269\u3092\u6301\u3063\u3066\u65c5\u884c\u3059\u308b",
+                "english": "travel with luggage",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102949.mp3",
+                "kana": "\u306b\u3082\u3064\u3092\u3082\u3063\u3066\u308a\u3087\u3053\u3046\u3059\u308b",
+                "romaji": "nimotsu o motte ryok\u014d suru"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271714.mp3",
+                "text": "\u8377\u7269\u304c\u8377\u7269\u7528\u30ab\u30fc\u30c8\u306b\u8f09\u3063\u3066\u3044\u308b\u3002",
+                "english": "The luggage is on a luggage cart.",
+                "en_audio": "",
+                "kana": "\u306b\u3082\u3064\u304c\u306b\u3082\u3064\u3088\u3046\u30ab\u30fc\u30c8\u306b\u306e\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Nimotsu ga nimotsu-y\u014d k\u0101to ni notte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226795.mp3",
+                "text": "\u30dc\u30fc\u30a4\u304c\u79c1\u9054\u306e\u8377\u7269\u3092\u90e8\u5c4b\u307e\u3067\u904b\u3093\u3067\u304f\u308c\u305f\u3002",
+                "english": "A porter carried our bags to our room.",
+                "en_audio": "",
+                "kana": "\u30dc\u30fc\u30a4\u304c\u308f\u305f\u3057\u305f\u3061\u306e\u306b\u3082\u3064\u3092\u3078\u3084\u307e\u3067\u306f\u3053\u3093\u3067\u304f\u308c\u305f\u3002",
+                "romaji": "B\u014di ga watashi-tachi no nimotsu o heya made hakonde kureta."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225921.mp3",
+                "text": "\u8377\u7269\u7528\u30ab\u30fc\u30c8\u306b\u8f09\u3063\u3066\u3044\u308b\u8377\u7269",
+                "english": "luggage on a luggage cart",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89678.mp3",
+                "kana": "\u306b\u3082\u3064\u3088\u3046\u30ab\u30fc\u30c8\u306b\u306e\u3063\u3066\u3044\u308b\u306b\u3082\u3064",
+                "romaji": "nimotsu-y\u014d k\u0101to ni notte iru nimotsu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271714.mp3",
+                "text": "\u8377\u7269\u304c\u8377\u7269\u7528\u30ab\u30fc\u30c8\u306b\u8f09\u3063\u3066\u3044\u308b\u3002",
+                "english": "The luggage is on a luggage cart.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89677.mp3",
+                "kana": "\u306b\u3082\u3064\u304c\u306b\u3082\u3064\u3088\u3046\u30ab\u30fc\u30c8\u306b\u306e\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Nimotsu ga nimotsu-y\u014d k\u0101to ni notte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225919.mp3",
+                "text": "\u8377\u7269\u3092\u6301\u3063\u3066\u65c5\u884c\u3059\u308b",
+                "english": "travel with luggage",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102949.mp3",
+                "kana": "\u306b\u3082\u3064\u3092\u3082\u3063\u3066\u308a\u3087\u3053\u3046\u3059\u308b",
+                "romaji": "nimotsu o motte ryok\u014d suru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226795.mp3",
+                "text": "\u30dc\u30fc\u30a4\u304c\u79c1\u9054\u306e\u8377\u7269\u3092\u90e8\u5c4b\u307e\u3067\u904b\u3093\u3067\u304f\u308c\u305f\u3002",
+                "english": "A porter carried our bags to our room.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5411.mp3",
+                "kana": "\u30dc\u30fc\u30a4\u304c\u308f\u305f\u3057\u305f\u3061\u306e\u306b\u3082\u3064\u3092\u3078\u3084\u307e\u3067\u306f\u3053\u3093\u3067\u304f\u308c\u305f\u3002",
+                "romaji": "B\u014di ga watashi-tachi no nimotsu o heya made hakonde kureta."
+            }
+        ]
+    },
+    {
+        "img": "21925",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225910.mp3",
+        "class": "noun",
+        "english": "boarding pass",
+        "flashcardId": "2162367",
+        "meaning": "boarding pass (noun) - an official card that you have to show before you get onto a plane",
+        "id": "4162",
+        "word": "\u642d\u4e57\u5238",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/91458.mp3",
+        "kana": "\u3068\u3046\u3058\u3087\u3046\u3051\u3093",
+        "romaji": "t\u014dj\u014dken",
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271716.mp3",
+                "text": "\u642d\u4e57\u5238\u3092\u304a\u9858\u3044\u3057\u307e\u3059\u3002",
+                "english": "Boarding pass, please.",
+                "en_audio": "",
+                "kana": "\u3068\u3046\u3058\u3087\u3046\u3051\u3093\u3092\u304a\u306d\u304c\u3044\u3057\u307e\u3059\u3002",
+                "romaji": "T\u014dj\u014dken o o-negai shimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271715.mp3",
+                "text": "\u642d\u4e57\u5238\u306f\u304a\u6301\u3061\u3067\u3059\u304b\u3002",
+                "english": "Do you have the boarding passes?",
+                "en_audio": "",
+                "kana": "\u3068\u3046\u3058\u3087\u3046\u3051\u3093\u306f\u304a\u3082\u3061\u3067\u3059\u304b\u3002",
+                "romaji": "T\u014dj\u014dken wa o-mochi desu ka."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271716.mp3",
+                "text": "\u642d\u4e57\u5238\u3092\u304a\u9858\u3044\u3057\u307e\u3059\u3002",
+                "english": "Boarding pass, please.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/91461.mp3",
+                "kana": "\u3068\u3046\u3058\u3087\u3046\u3051\u3093\u3092\u304a\u306d\u304c\u3044\u3057\u307e\u3059\u3002",
+                "romaji": "T\u014dj\u014dken o o-negai shimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271715.mp3",
+                "text": "\u642d\u4e57\u5238\u306f\u304a\u6301\u3061\u3067\u3059\u304b\u3002",
+                "english": "Do you have the boarding passes?",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/91460.mp3",
+                "kana": "\u3068\u3046\u3058\u3087\u3046\u3051\u3093\u306f\u304a\u3082\u3061\u3067\u3059\u304b\u3002",
+                "romaji": "T\u014dj\u014dken wa o-mochi desu ka."
+            }
+        ]
+    },
+    {
+        "img": "8931",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271719.mp3",
+        "class": "noun",
+        "english": "departure gate",
+        "flashcardId": "2320421",
+        "meaning": "departure gate",
+        "id": "29977",
+        "word": "\u51fa\u767a\u30b2\u30fc\u30c8",
+        "en_audio": "",
+        "kana": "\u3057\u3085\u3063\u3071\u3064\u30b2\u30fc\u30c8",
+        "romaji": "shuppatsu g\u0113to",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271720.mp3",
+                "text": "\u51fa\u767a\u30b2\u30fc\u30c8\uff14\uff13",
+                "english": "departing gate 43",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92063.mp3",
+                "kana": "\u3057\u3085\u3063\u3071\u3064\u30b2\u30fc\u30c8\u3088\u3093\u3058\u3085\u3046\u3055\u3093",
+                "romaji": "syuppatsu g\u0113to yon-j\u016b san"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271721.mp3",
+                "text": "\u79c1\u9054\u306e\u51fa\u767a\u30b2\u30fc\u30c8\u306f\u3069\u308c\u3067\u3059\u304b?",
+                "english": "What is our departing gate?",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u305f\u3061\u306e\u3057\u3085\u3063\u3071\u3064\u30b2\u30fc\u30c8\u306f\u3069\u308c\u3067\u3059\u304b?",
+                "romaji": "Watashi-tachi no shuppatsu g\u0113to wa dore desu ka."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271721.mp3",
+                "text": "\u79c1\u9054\u306e\u51fa\u767a\u30b2\u30fc\u30c8\u306f\u3069\u308c\u3067\u3059\u304b?",
+                "english": "What is our departing gate?",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92064.mp3",
+                "kana": "\u308f\u305f\u3057\u305f\u3061\u306e\u3057\u3085\u3063\u3071\u3064\u30b2\u30fc\u30c8\u306f\u3069\u308c\u3067\u3059\u304b?",
+                "romaji": "Watashi-tachi no shuppatsu g\u0113to wa dore desu ka."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271720.mp3",
+                "text": "\u51fa\u767a\u30b2\u30fc\u30c8\uff14\uff13",
+                "english": "departing gate 43",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92063.mp3",
+                "kana": "\u3057\u3085\u3063\u3071\u3064\u30b2\u30fc\u30c8\u3088\u3093\u3058\u3085\u3046\u3055\u3093",
+                "romaji": "syuppatsu g\u0113to yon-j\u016b san"
+            }
+        ]
+    },
+    {
+        "img": "8450",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271722.mp3",
+        "class": "noun",
+        "english": "departure",
+        "flashcardId": "224674",
+        "meaning": "departure (noun) - an act of leaving a place, especially at the start of a journey",
+        "id": "5103",
+        "word": "\u51fa\u767a",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/817474.mp3",
+        "kana": "\u3057\u3085\u3063\u3071\u3064",
+        "romaji": "shuppatsu",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271726.mp3",
+                "text": "\u51fa\u767a\u6642\u9593",
+                "english": "departure time",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92069.mp3",
+                "kana": "\u3057\u3085\u3063\u3071\u3064\u3058\u304b\u3093",
+                "romaji": "shuppatsu jikan"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271725.mp3",
+                "text": "\u51fa\u767a\u65e5",
+                "english": "departure date",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92071.mp3",
+                "kana": "\u3057\u3085\u3063\u3071\u3064\u3073",
+                "romaji": "shuppatsu bi"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271727.mp3",
+                "text": "\u30cb\u30e5\u30fc\u30e8\u30fc\u30af\u884c\u304dA3\u4fbf\u306e\u51fa\u767a\u6642\u9593\u3092\u78ba\u8a8d\u3057\u305f\u3044\u3002",
+                "english": "I would like to confirm the departure time for flight A3 to New York.",
+                "en_audio": "",
+                "kana": "\u30cb\u30e5\u30fc\u30e8\u30fc\u30af\u3044\u304d\u30a8\u30fc\u3055\u3093\u3073\u3093\u306e\u3057\u3085\u3063\u3071\u3064\u3058\u304b\u3093\u3092\u304b\u304f\u306b\u3093\u3057\u305f\u3044\u3002",
+                "romaji": "Ny\u016by\u014dku iki \u0113 san-bin no shuppatsu jikan o kakunin shitai."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/64225.mp3",
+                "text": "\u51fa\u767a\u306f\u4f55\u6642\u3067\u3059\u304b\u3002",
+                "english": "What time is the departure?",
+                "en_audio": "",
+                "kana": "\u3057\u3085\u3063\u3071\u3064\u306f\u306a\u3093\u3058\u3067\u3059\u304b\u3002",
+                "romaji": "Shuppatsu wa nan-ji desu ka."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271727.mp3",
+                "text": "\u30cb\u30e5\u30fc\u30e8\u30fc\u30af\u884c\u304dA3\u4fbf\u306e\u51fa\u767a\u6642\u9593\u3092\u78ba\u8a8d\u3057\u305f\u3044\u3002",
+                "english": "I would like to confirm the departure time for flight A3 to New York.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92070.mp3",
+                "kana": "\u30cb\u30e5\u30fc\u30e8\u30fc\u30af\u3044\u304d\u30a8\u30fc\u3055\u3093\u3073\u3093\u306e\u3057\u3085\u3063\u3071\u3064\u3058\u304b\u3093\u3092\u304b\u304f\u306b\u3093\u3057\u305f\u3044\u3002",
+                "romaji": "Ny\u016by\u014dku iki \u0113 san-bin no shuppatsu jikan o kakunin shitai."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271726.mp3",
+                "text": "\u51fa\u767a\u6642\u9593",
+                "english": "departure time",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92069.mp3",
+                "kana": "\u3057\u3085\u3063\u3071\u3064\u3058\u304b\u3093",
+                "romaji": "shuppatsu jikan"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/64225.mp3",
+                "text": "\u51fa\u767a\u306f\u4f55\u6642\u3067\u3059\u304b\u3002",
+                "english": "What time is the departure?",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/64226.mp3",
+                "kana": "\u3057\u3085\u3063\u3071\u3064\u306f\u306a\u3093\u3058\u3067\u3059\u304b\u3002",
+                "romaji": "Shuppatsu wa nan-ji desu ka."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271725.mp3",
+                "text": "\u51fa\u767a\u65e5",
+                "english": "departure date",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92071.mp3",
+                "kana": "\u3057\u3085\u3063\u3071\u3064\u3073",
+                "romaji": "shuppatsu bi"
+            }
+        ]
+    },
+    {
+        "img": "22257",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271728.mp3",
+        "class": "noun",
+        "english": "arrival",
+        "flashcardId": "224675",
+        "meaning": "arrival (noun) - when someone or something arrives somewhere",
+        "id": "5104",
+        "word": "\u5230\u7740",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/817473.mp3",
+        "kana": "\u3068\u3046\u3061\u3083\u304f",
+        "romaji": "t\u014dchaku",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271731.mp3",
+                "text": "\u5230\u7740\u7a7a\u6e2f",
+                "english": "arrival airport",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92075.mp3",
+                "kana": "\u3068\u3046\u3061\u3083\u304f\u304f\u3046\u3053\u3046",
+                "romaji": "t\u014dchaku k\u016bk\u014d"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271729.mp3",
+                "text": "\u5230\u7740\u30b2\u30fc\u30c8",
+                "english": "arrival gate",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92073.mp3",
+                "kana": "\u3068\u3046\u3061\u3083\u304f\u30b2\u30fc\u30c8",
+                "romaji": "t\u014dchaku g\u0113to"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/529214.mp3",
+                "text": "\u5230\u7740\u524d\u306b\u901a\u95a2\u66f8\u985e\u306b\u8a18\u5165\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+                "english": "Before arrival, complete the customs documents.",
+                "en_audio": "",
+                "kana": "\u3068\u3046\u3061\u3083\u304f\u307e\u3048\u306b\u3064\u3046\u304b\u3093\u3057\u3087\u308b\u3044\u306b\u304d\u306b\u3085\u3046\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+                "romaji": "T\u014dchaku mae ni ts\u016bkan shorui ni kiny\u016b shite kudasai."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271731.mp3",
+                "text": "\u5230\u7740\u7a7a\u6e2f",
+                "english": "arrival airport",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92075.mp3",
+                "kana": "\u3068\u3046\u3061\u3083\u304f\u304f\u3046\u3053\u3046",
+                "romaji": "t\u014dchaku k\u016bk\u014d"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/529214.mp3",
+                "text": "\u5230\u7740\u524d\u306b\u901a\u95a2\u66f8\u985e\u306b\u8a18\u5165\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+                "english": "Before arrival, complete the customs documents.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92074.mp3",
+                "kana": "\u3068\u3046\u3061\u3083\u304f\u307e\u3048\u306b\u3064\u3046\u304b\u3093\u3057\u3087\u308b\u3044\u306b\u304d\u306b\u3085\u3046\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+                "romaji": "T\u014dchaku mae ni ts\u016bkan shorui ni kiny\u016b shite kudasai."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271729.mp3",
+                "text": "\u5230\u7740\u30b2\u30fc\u30c8",
+                "english": "arrival gate",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92073.mp3",
+                "kana": "\u3068\u3046\u3061\u3083\u304f\u30b2\u30fc\u30c8",
+                "romaji": "t\u014dchaku g\u0113to"
+            }
+        ]
+    },
+    {
+        "img": "21926",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/229029.mp3",
+        "class": "noun",
+        "english": "flight number",
+        "flashcardId": "2389552",
+        "meaning": "flight number (phrase)",
+        "id": "8537",
+        "word": "\u30d5\u30e9\u30a4\u30c8\u30ca\u30f3\u30d0\u30fc",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263146.mp3",
+        "kana": "\u30d5\u30e9\u30a4\u30c8\u30ca\u30f3\u30d0\u30fc",
+        "romaji": "furaito nanb\u0101",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271733.mp3",
+                "text": "\u30d5\u30e9\u30a4\u30c8\u30ca\u30f3\u30d0\u30fc\uff13\uff14\uff15",
+                "english": "flight number 345",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263147.mp3",
+                "kana": "\u30d5\u30e9\u30a4\u30c8\u30ca\u30f3\u30d0\u30fc\u3055\u3093\u3088\u3093\u3054",
+                "romaji": "furaitonanb\u0101 san yon go"
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271733.mp3",
+                "text": "\u30d5\u30e9\u30a4\u30c8\u30ca\u30f3\u30d0\u30fc\uff13\uff14\uff15",
+                "english": "flight number 345",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263147.mp3",
+                "kana": "\u30d5\u30e9\u30a4\u30c8\u30ca\u30f3\u30d0\u30fc\u3055\u3093\u3088\u3093\u3054",
+                "romaji": "furaitonanb\u0101 san yon go"
+            }
+        ]
+    },
+    {
+        "img": "22505",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1179725.mp3",
+        "class": "noun",
+        "english": "agriculture",
+        "flashcardId": "2151491",
+        "meaning": "agriculture (noun) - the science or practice of farming, including cultivation of the soil for the growing of crops and the rearing of animals to provide food, wool, and other products",
+        "id": "1189",
+        "word": "\u8fb2\u696d",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/88480.mp3",
+        "kana": "\u306e\u3046\u304e\u3087\u3046",
+        "romaji": "n\u014dgy\u014d",
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1342516.mp3",
+                "text": "\u8fb2\u696d\u306f\u5168\u3066\u306e\u56fd\u3067\u91cd\u8981\u306a\u7523\u696d\u3060\u3002",
+                "english": "Agriculture is an important industry in every country.",
+                "en_audio": "",
+                "kana": "\u306e\u3046\u304e\u3087\u3046\u306f\u3059\u3079\u3066\u306e\u304f\u306b\u3067\u3058\u3085\u3046\u3088\u3046\u306a\u3055\u3093\u304e\u3087\u3046\u3060\u3002",
+                "romaji": "N\u014dgy\u014d wa subete no kuni de j\u016by\u014d na sangy\u014d da."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1342516.mp3",
+                "text": "\u8fb2\u696d\u306f\u5168\u3066\u306e\u56fd\u3067\u91cd\u8981\u306a\u7523\u696d\u3060\u3002",
+                "english": "Agriculture is an important industry in every country.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2309.mp3",
+                "kana": "\u306e\u3046\u304e\u3087\u3046\u306f\u3059\u3079\u3066\u306e\u304f\u306b\u3067\u3058\u3085\u3046\u3088\u3046\u306a\u3055\u3093\u304e\u3087\u3046\u3060\u3002",
+                "romaji": "N\u014dgy\u014d wa subete no kuni de j\u016by\u014d na sangy\u014d da."
+            }
+        ]
+    },
+    {
+        "img": "24019",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227729.mp3",
+        "class": "noun",
+        "english": "English",
+        "flashcardId": "1786861",
+        "meaning": "English (noun) - the language used in Britain, the US, Australia, and some other countries",
+        "id": "1472",
+        "word": "\u82f1\u8a9e",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/88823.mp3",
+        "kana": "\u3048\u3044\u3054",
+        "romaji": "eigo",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227731.mp3",
+                "text": "\u82f1\u8a9e\u306e\u7ffb\u8a33",
+                "english": "English translation",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102702.mp3",
+                "kana": "\u3048\u3044\u3054\u306e\u307b\u3093\u3084\u304f",
+                "romaji": "Eigo no hon'yaku"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227730.mp3",
+                "text": "\u82f1\u8a9e\u304b\u3089\u4e2d\u56fd\u8a9e\u306b\u8a33\u3057\u3066\u3082\u3089\u3048\u307e\u3059\u304b\u3002",
+                "english": "Can you translate from English to Chinese for me?",
+                "en_audio": "",
+                "kana": "\u3048\u3044\u3054\u304b\u3089\u3061\u3085\u3046\u3054\u304f\u3054\u306b\u3084\u304f\u3057\u3066\u3082\u3089\u3048\u307e\u3059\u304b\u3002",
+                "romaji": "Eigo kara Ch\u016bgoku-go ni yakushite moraemasu ka."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227731.mp3",
+                "text": "\u82f1\u8a9e\u306e\u7ffb\u8a33",
+                "english": "English translation",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102702.mp3",
+                "kana": "\u3048\u3044\u3054\u306e\u307b\u3093\u3084\u304f",
+                "romaji": "Eigo no hon'yaku"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227730.mp3",
+                "text": "\u82f1\u8a9e\u304b\u3089\u4e2d\u56fd\u8a9e\u306b\u8a33\u3057\u3066\u3082\u3089\u3048\u307e\u3059\u304b\u3002",
+                "english": "Can you translate from English to Chinese for me?",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102701.mp3",
+                "kana": "\u3048\u3044\u3054\u304b\u3089\u3061\u3085\u3046\u3054\u304f\u3054\u306b\u3084\u304f\u3057\u3066\u3082\u3089\u3048\u307e\u3059\u304b\u3002",
+                "romaji": "Eigo kara Ch\u016bgoku-go ni yakushite moraemasu ka."
+            }
+        ]
+    },
+    {
+        "img": "9866",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271823.mp3",
+        "class": "noun",
+        "english": "medicine",
+        "flashcardId": "2151506",
+        "meaning": "medicine (noun) - field of study",
+        "id": "3273",
+        "word": "\u85ac\u5b66",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102747.mp3",
+        "kana": "\u3084\u304f\u304c\u304f",
+        "romaji": "yakugaku",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271824.mp3",
+                "text": "\u85ac\u5b66\u306e\u5206\u91ce",
+                "english": "field of medicine",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102750.mp3",
+                "kana": "\u3084\u304f\u304c\u304f\u306e\u3076\u3093\u3084",
+                "romaji": "yakugaku no bun'ya"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271827.mp3",
+                "text": "\u5f7c\u306f\u30d0\u30eb\u30bb\u30ed\u30ca\u3067\u85ac\u5b66\u306e\u7814\u7a76\u3092\u3057\u3066\u3044\u307e\u3059\u3002",
+                "english": "He's studying medicine at Barcelona.",
+                "en_audio": "",
+                "kana": "\u304b\u308c\u306f\u30d0\u30eb\u30bb\u30ed\u30ca\u3067\u3084\u304f\u304c\u304f\u306e\u3051\u3093\u304d\u3085\u3046\u3092\u3057\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Kare wa Baruserona de yakugaku no kenky\u016b o shite imasu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271827.mp3",
+                "text": "\u5f7c\u306f\u30d0\u30eb\u30bb\u30ed\u30ca\u3067\u85ac\u5b66\u306e\u7814\u7a76\u3092\u3057\u3066\u3044\u307e\u3059\u3002",
+                "english": "He's studying medicine at Barcelona.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/49365.mp3",
+                "kana": "\u304b\u308c\u306f\u30d0\u30eb\u30bb\u30ed\u30ca\u3067\u3084\u304f\u304c\u304f\u306e\u3051\u3093\u304d\u3085\u3046\u3092\u3057\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "Kare wa Baruserona de yakugaku no kenky\u016b o shite imasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271824.mp3",
+                "text": "\u85ac\u5b66\u306e\u5206\u91ce",
+                "english": "field of medicine",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102750.mp3",
+                "kana": "\u3084\u304f\u304c\u304f\u306e\u3076\u3093\u3084",
+                "romaji": "yakugaku no bun'ya"
+            }
+        ]
+    },
+    {
+        "img": "8883",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271828.mp3",
+        "class": "noun",
+        "english": "education",
+        "flashcardId": "2151507",
+        "meaning": "education (noun) - the process of teaching and learning, usually at school, college, or university",
+        "id": "1844",
+        "word": "\u6559\u80b2",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2414.mp3",
+        "kana": "\u304d\u3087\u3046\u3044\u304f",
+        "romaji": "ky\u014diku",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1342529.mp3",
+                "text": "\u6559\u80b2\u3068\u8a13\u7df4",
+                "english": "education and training",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2415.mp3",
+                "kana": "\u304d\u3087\u3046\u3044\u304f\u3068\u304f\u3093\u308c\u3093",
+                "romaji": "ky\u014diku to kunren"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1342530.mp3",
+                "text": "\u826f\u3044\u6559\u80b2\u306f\u4eba\u306e\u672a\u6765\u306b\u3068\u3063\u3066\u91cd\u8981\u306a\u3082\u306e\u3060\u3002",
+                "english": "A good education is important for one's future.",
+                "en_audio": "",
+                "kana": "\u3088\u3044\u304d\u3087\u3046\u3044\u304f\u306f\u3072\u3068\u306e\u307f\u3089\u3044\u306b\u3068\u3063\u3066\u3058\u3085\u3046\u3088\u3046\u306a\u3082\u306e\u3060\u3002",
+                "romaji": "Yoi ky\u014diku wa hito no mirai ni totte j\u016by\u014d na mono da."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/979529.mp3",
+                "text": "\u6559\u80b2\u3092\u53d7\u3051\u305a\u306b\u3001\u66ae\u3089\u3059\u306e\u306b\u5341\u5206\u306a\u7d66\u6599\u3092\u3082\u3089\u3046\u306e\u306f\u5927\u5909\u3060\u3002",
+                "english": "Without an education it is hard to make a livable wage.",
+                "en_audio": "",
+                "kana": "\u304d\u3087\u3046\u3044\u304f\u3092\u3046\u3051\u305a\u306b\u3001\u304f\u3089\u3059\u306e\u306b\u3058\u3085\u3046\u3076\u3093\u306a\u304d\u3085\u3046\u308a\u3087\u3046\u3092\u3082\u3089\u3046\u306e\u306f\u305f\u3044\u3078\u3093\u3060\u3002",
+                "romaji": "Ky\u014diku o ukezu ni, kurasu no ni j\u016bbun na ky\u016bry\u014d o morau no wa taihen da."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1342530.mp3",
+                "text": "\u826f\u3044\u6559\u80b2\u306f\u4eba\u306e\u672a\u6765\u306b\u3068\u3063\u3066\u91cd\u8981\u306a\u3082\u306e\u3060\u3002",
+                "english": "A good education is important for one's future.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2416.mp3",
+                "kana": "\u3088\u3044\u304d\u3087\u3046\u3044\u304f\u306f\u3072\u3068\u306e\u307f\u3089\u3044\u306b\u3068\u3063\u3066\u3058\u3085\u3046\u3088\u3046\u306a\u3082\u306e\u3060\u3002",
+                "romaji": "Yoi ky\u014diku wa hito no mirai ni totte j\u016by\u014d na mono da."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1342529.mp3",
+                "text": "\u6559\u80b2\u3068\u8a13\u7df4",
+                "english": "education and training",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2415.mp3",
+                "kana": "\u304d\u3087\u3046\u3044\u304f\u3068\u304f\u3093\u308c\u3093",
+                "romaji": "ky\u014diku to kunren"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/979529.mp3",
+                "text": "\u6559\u80b2\u3092\u53d7\u3051\u305a\u306b\u3001\u66ae\u3089\u3059\u306e\u306b\u5341\u5206\u306a\u7d66\u6599\u3092\u3082\u3089\u3046\u306e\u306f\u5927\u5909\u3060\u3002",
+                "english": "Without an education it is hard to make a livable wage.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2368.mp3",
+                "kana": "\u304d\u3087\u3046\u3044\u304f\u3092\u3046\u3051\u305a\u306b\u3001\u304f\u3089\u3059\u306e\u306b\u3058\u3085\u3046\u3076\u3093\u306a\u304d\u3085\u3046\u308a\u3087\u3046\u3092\u3082\u3089\u3046\u306e\u306f\u305f\u3044\u3078\u3093\u3060\u3002",
+                "romaji": "Ky\u014diku o ukezu ni, kurasu no ni j\u016bbun na ky\u016bry\u014d o morau no wa taihen da."
+            }
+        ]
+    },
+    {
+        "img": "8015",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/891758.mp3",
+        "class": "noun",
+        "english": "business",
+        "flashcardId": "224250",
+        "meaning": "business (noun) - the activity of making money by producing or buying and selling goods, or providing services",
+        "id": "450",
+        "word": "\u30d3\u30b8\u30cd\u30b9",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87674.mp3",
+        "kana": "\u30d3\u30b8\u30cd\u30b9",
+        "romaji": "bijinesu",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/979509.mp3",
+                "text": "\u30d3\u30b8\u30cd\u30b9\u3092\u3059\u308b",
+                "english": "do business",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2095.mp3",
+                "kana": "\u30d3\u30b8\u30cd\u30b9\u3092\u3059\u308b",
+                "romaji": "bijinesu o suru"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/549187.mp3",
+                "text": "\u4ed5\u4e8b\u306f\u3069\u3046\u3067\u3059\u304b\uff1f",
+                "english": "How is business?",
+                "en_audio": "",
+                "kana": "\u3057\u3054\u3068\u306f\u3069\u3046\u3067\u3059\u304b\uff1f",
+                "romaji": "Shigoto wa d\u014d desu ka?"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206427.mp3",
+                "text": "\u79c1\u306f\u3001\u6765\u9031\u4ed5\u4e8b\u3067\u6771\u4eac\u306b\u884c\u304f\u3002",
+                "english": "I'll be in Tokyo next week on business.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306f\u3001\u3089\u3044\u3057\u3085\u3046\u3057\u3054\u3068\u3067\u3068\u3046\u304d\u3087\u3046\u306b\u3044\u304f\u3002",
+                "romaji": "Watashi wa raish\u016b shigoto de T\u014dky\u014d ni iku."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/549187.mp3",
+                "text": "\u4ed5\u4e8b\u306f\u3069\u3046\u3067\u3059\u304b\uff1f",
+                "english": "How is business?",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253608.mp3",
+                "kana": "\u3057\u3054\u3068\u306f\u3069\u3046\u3067\u3059\u304b\uff1f",
+                "romaji": "Shigoto wa d\u014d desu ka?"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206427.mp3",
+                "text": "\u79c1\u306f\u3001\u6765\u9031\u4ed5\u4e8b\u3067\u6771\u4eac\u306b\u884c\u304f\u3002",
+                "english": "I'll be in Tokyo next week on business.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2096.mp3",
+                "kana": "\u308f\u305f\u3057\u306f\u3001\u3089\u3044\u3057\u3085\u3046\u3057\u3054\u3068\u3067\u3068\u3046\u304d\u3087\u3046\u306b\u3044\u304f\u3002",
+                "romaji": "Watashi wa raish\u016b shigoto de T\u014dky\u014d ni iku."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/979509.mp3",
+                "text": "\u30d3\u30b8\u30cd\u30b9\u3092\u3059\u308b",
+                "english": "do business",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2095.mp3",
+                "kana": "\u30d3\u30b8\u30cd\u30b9\u3092\u3059\u308b",
+                "romaji": "bijinesu o suru"
+            }
+        ]
+    },
+    {
+        "img": "507",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/227713.mp3",
+        "class": "noun",
+        "english": "language",
+        "flashcardId": "224682",
+        "meaning": "language (noun) - a system of communication by written or spoken words, which is used by the people of a particular country or area; language (noun) - linguistics",
+        "id": "28990",
+        "word": "\u8a00\u8a9e",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263151.mp3",
+        "kana": "\u3052\u3093\u3054",
+        "romaji": "gengo",
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271793.mp3",
+                "text": "\u8a00\u8a9e\u5b66\u306f\u81ea\u7136\u8a00\u8a9e\u306e\u5206\u91ce\u3067\u3059\u3002",
+                "english": "Linguistics is the study of natural language.",
+                "en_audio": "",
+                "kana": "\u3052\u3093\u3054\u304c\u304f\u306f\u3057\u305c\u3093\u3052\u3093\u3054\u306e\u3076\u3093\u3084\u3067\u3059\u3002",
+                "romaji": "Gengogaku wa shizen gengo no bun'ya desu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271793.mp3",
+                "text": "\u8a00\u8a9e\u5b66\u306f\u81ea\u7136\u8a00\u8a9e\u306e\u5206\u91ce\u3067\u3059\u3002",
+                "english": "Linguistics is the study of natural language.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102753.mp3",
+                "kana": "\u3052\u3093\u3054\u304c\u304f\u306f\u3057\u305c\u3093\u3052\u3093\u3054\u306e\u3076\u3093\u3084\u3067\u3059\u3002",
+                "romaji": "Gengogaku wa shizen gengo no bun'ya desu."
+            }
+        ]
+    },
+    {
+        "img": "9297",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271829.mp3",
+        "class": "noun",
+        "english": "earth science",
+        "flashcardId": "2151508",
+        "meaning": "earth sciences; earth science",
+        "id": "28991",
+        "word": "\u5730\u7403\u79d1\u5b66",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102754.mp3",
+        "kana": "\u3061\u304d\u3085\u3046\u304b\u304c\u304f",
+        "romaji": "chiky\u016b kagaku",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271830.mp3",
+                "text": "\u5730\u7403\u79d1\u5b66\u7814\u7a76",
+                "english": "earth science research",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102755.mp3",
+                "kana": "\u3061\u304d\u3085\u3046\u304b\u304c\u304f\u3051\u3093\u304d\u3085\u3046",
+                "romaji": "chiky\u016b kagaku kenky\u016b"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/979523.mp3",
+                "text": "\u5730\u7403\u79d1\u5b66\u306f\u3001\u60d1\u661f\u3068\u3057\u3066\u306e\u5730\u7403\u306b\u95a2\u3059\u308b\u79d1\u5b66\u306e\u7814\u7a76\u3060\u3002",
+                "english": "Earth science is the study of sciences related to the plant Earth.",
+                "en_audio": "",
+                "kana": "\u3061\u304d\u3085\u3046\u304b\u304c\u304f\u306f\u3001\u308f\u304f\u305b\u3044\u3068\u3057\u3066\u306e\u3061\u304d\u3085\u3046\u306b\u304b\u3093\u3059\u308b\u304b\u304c\u304f\u306e\u3051\u3093\u304d\u3085\u3046\u3060\u3002",
+                "romaji": "Chiky\u016b kagaku wa, wakusei to shite no chiky\u016b ni kansuru kagaku no kenky\u016b da."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/979523.mp3",
+                "text": "\u5730\u7403\u79d1\u5b66\u306f\u3001\u60d1\u661f\u3068\u3057\u3066\u306e\u5730\u7403\u306b\u95a2\u3059\u308b\u79d1\u5b66\u306e\u7814\u7a76\u3060\u3002",
+                "english": "Earth science is the study of sciences related to the plant Earth.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102756.mp3",
+                "kana": "\u3061\u304d\u3085\u3046\u304b\u304c\u304f\u306f\u3001\u308f\u304f\u305b\u3044\u3068\u3057\u3066\u306e\u3061\u304d\u3085\u3046\u306b\u304b\u3093\u3059\u308b\u304b\u304c\u304f\u306e\u3051\u3093\u304d\u3085\u3046\u3060\u3002",
+                "romaji": "Chiky\u016b kagaku wa, wakusei to shite no chiky\u016b ni kansuru kagaku no kenky\u016b da."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271830.mp3",
+                "text": "\u5730\u7403\u79d1\u5b66\u7814\u7a76",
+                "english": "earth science research",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102755.mp3",
+                "kana": "\u3061\u304d\u3085\u3046\u304b\u304c\u304f\u3051\u3093\u304d\u3085\u3046",
+                "romaji": "chiky\u016b kagaku kenky\u016b"
+            }
+        ]
+    },
+    {
+        "img": "8694",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228702.mp3",
+        "class": "noun",
+        "english": "science",
+        "flashcardId": "2320575",
+        "meaning": "science (noun) - \tthe study of science",
+        "id": "4853",
+        "word": "\u79d1\u5b66",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102713.mp3",
+        "kana": "\u304b\u304c\u304f",
+        "romaji": "kagaku",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228706.mp3",
+                "text": "\u79d1\u5b66\u306e\u7814\u7a76",
+                "english": "study of science",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102717.mp3",
+                "kana": "\u304b\u304c\u304f\u306e\u3051\u3093\u304d\u3085\u3046",
+                "romaji": "kagaku no kenky\u016b"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228705.mp3",
+                "text": "\u5fdc\u7528\u79d1\u5b66",
+                "english": "applied science",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102716.mp3",
+                "kana": "\u304a\u3046\u3088\u3046\u304b\u304c\u304f",
+                "romaji": "\u014dy\u014d kagaku"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206329.mp3",
+                "text": "\u79d1\u5b66\u306e\u6559\u79d1\u66f8",
+                "english": "science textbook",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102765.mp3",
+                "kana": "\u304b\u304c\u304f\u306e\u304d\u3087\u3046\u304b\u3057\u3087",
+                "romaji": "kagaku no ky\u014dkasho"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201602.mp3",
+                "text": "\u79d1\u5b66\u306e\u6388\u696d",
+                "english": "science class",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102519.mp3",
+                "kana": "\u304b\u304c\u304f\u306e\u3058\u3085\u304e\u3087\u3046",
+                "romaji": "kagaku no jugy\u014d"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228704.mp3",
+                "text": "\u4e16\u754c\u4e2d\u306e\u653f\u5e9c\u304c\u56fd\u6c11\u306e\u751f\u6d3b\u3092\u5411\u4e0a\u3055\u305b\u308b\u305f\u3081\u306b\u79d1\u5b66\u306b\u6295\u8cc7\u3057\u3066\u3044\u308b\u3002",
+                "english": "Governments across the world invest in sciences to improve the lives of the citizens.",
+                "en_audio": "",
+                "kana": "\u305b\u304b\u3044\u3058\u3085\u3046\u306e\u305b\u3044\u3075\u304c\u3053\u304f\u307f\u3093\u306e\u305b\u3044\u304b\u3064\u3092\u3053\u3046\u3058\u3087\u3046\u3055\u305b\u308b\u305f\u3081\u306b\u304b\u304c\u304f\u306b\u3068\u3046\u3057\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Sekaij\u016b no seifu ga kokumin no seikatsu o k\u014dj\u014d saseru tame ni kagaku ni t\u014dshi shite iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228706.mp3",
+                "text": "\u79d1\u5b66\u306e\u7814\u7a76",
+                "english": "study of science",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102717.mp3",
+                "kana": "\u304b\u304c\u304f\u306e\u3051\u3093\u304d\u3085\u3046",
+                "romaji": "kagaku no kenky\u016b"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228705.mp3",
+                "text": "\u5fdc\u7528\u79d1\u5b66",
+                "english": "applied science",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102716.mp3",
+                "kana": "\u304a\u3046\u3088\u3046\u304b\u304c\u304f",
+                "romaji": "\u014dy\u014d kagaku"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228704.mp3",
+                "text": "\u4e16\u754c\u4e2d\u306e\u653f\u5e9c\u304c\u56fd\u6c11\u306e\u751f\u6d3b\u3092\u5411\u4e0a\u3055\u305b\u308b\u305f\u3081\u306b\u79d1\u5b66\u306b\u6295\u8cc7\u3057\u3066\u3044\u308b\u3002",
+                "english": "Governments across the world invest in sciences to improve the lives of the citizens.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102715.mp3",
+                "kana": "\u305b\u304b\u3044\u3058\u3085\u3046\u306e\u305b\u3044\u3075\u304c\u3053\u304f\u307f\u3093\u306e\u305b\u3044\u304b\u3064\u3092\u3053\u3046\u3058\u3087\u3046\u3055\u305b\u308b\u305f\u3081\u306b\u304b\u304c\u304f\u306b\u3068\u3046\u3057\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Sekaij\u016b no seifu ga kokumin no seikatsu o k\u014dj\u014d saseru tame ni kagaku ni t\u014dshi shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206329.mp3",
+                "text": "\u79d1\u5b66\u306e\u6559\u79d1\u66f8",
+                "english": "science textbook",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102765.mp3",
+                "kana": "\u304b\u304c\u304f\u306e\u304d\u3087\u3046\u304b\u3057\u3087",
+                "romaji": "kagaku no ky\u014dkasho"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201602.mp3",
+                "text": "\u79d1\u5b66\u306e\u6388\u696d",
+                "english": "science class",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102519.mp3",
+                "kana": "\u304b\u304c\u304f\u306e\u3058\u3085\u304e\u3087\u3046",
+                "romaji": "kagaku no jugy\u014d"
+            }
+        ]
+    },
+    {
+        "img": "9573",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271832.mp3",
+        "class": "noun",
+        "english": "sociology",
+        "flashcardId": "2320573",
+        "meaning": "sociology (noun) - the study of the development, structure, and functioning of human society",
+        "id": "4869",
+        "word": "\u793e\u4f1a\u5b66",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102757.mp3",
+        "kana": "\u3057\u3083\u304b\u3044\u304c\u304f",
+        "romaji": "shakaigaku",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271835.mp3",
+                "text": "\u793e\u4f1a\u5b66\u306e\u7814\u7a76",
+                "english": "study of sociology",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102760.mp3",
+                "kana": "\u3057\u3083\u304b\u3044\u304c\u304f\u306e\u3051\u3093\u304d\u3085\u3046",
+                "romaji": "shakaigaku no kenky\u016b"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271833.mp3",
+                "text": "\u90fd\u5e02\u793e\u4f1a\u5b66",
+                "english": "urban sociology",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102758.mp3",
+                "kana": "\u3068\u3057\u3057\u3083\u304b\u3044\u304c\u304f",
+                "romaji": "toshi shakaigaku"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271834.mp3",
+                "text": "\u793e\u4f1a\u5b66\u3068\u306f\u4eba\u9593\u306e\u793e\u4f1a\u69cb\u6210\u3068\u884c\u52d5\u306e\u7814\u7a76\u3060\u3002",
+                "english": "Sociology is the study of human social structure and activity.",
+                "en_audio": "",
+                "kana": "\u3057\u3083\u304b\u3044\u304c\u304f\u3068\u306f\u306b\u3093\u3052\u3093\u306e\u3057\u3083\u304b\u3044\u3053\u3046\u305b\u3044\u3068\u3053\u3046\u3069\u3046\u306e\u3051\u3093\u304d\u3085\u3046\u3060\u3002",
+                "romaji": "Shakaigaku to wa ningen no shakai k\u014dsei to k\u014dd\u014d no kenky\u016b da."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271835.mp3",
+                "text": "\u793e\u4f1a\u5b66\u306e\u7814\u7a76",
+                "english": "study of sociology",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102760.mp3",
+                "kana": "\u3057\u3083\u304b\u3044\u304c\u304f\u306e\u3051\u3093\u304d\u3085\u3046",
+                "romaji": "shakaigaku no kenky\u016b"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271834.mp3",
+                "text": "\u793e\u4f1a\u5b66\u3068\u306f\u4eba\u9593\u306e\u793e\u4f1a\u69cb\u6210\u3068\u884c\u52d5\u306e\u7814\u7a76\u3060\u3002",
+                "english": "Sociology is the study of human social structure and activity.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102759.mp3",
+                "kana": "\u3057\u3083\u304b\u3044\u304c\u304f\u3068\u306f\u306b\u3093\u3052\u3093\u306e\u3057\u3083\u304b\u3044\u3053\u3046\u305b\u3044\u3068\u3053\u3046\u3069\u3046\u306e\u3051\u3093\u304d\u3085\u3046\u3060\u3002",
+                "romaji": "Shakaigaku to wa ningen no shakai k\u014dsei to k\u014dd\u014d no kenky\u016b da."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271833.mp3",
+                "text": "\u90fd\u5e02\u793e\u4f1a\u5b66",
+                "english": "urban sociology",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102758.mp3",
+                "kana": "\u3068\u3057\u3057\u3083\u304b\u3044\u304c\u304f",
+                "romaji": "toshi shakaigaku"
+            }
+        ]
+    },
+    {
+        "img": "24254",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271838.mp3",
+        "class": "noun",
+        "english": "law",
+        "flashcardId": "2320539",
+        "meaning": "law (noun) - field of study",
+        "id": "34776",
+        "word": "\u6cd5\u5f8b",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263267.mp3",
+        "kana": "\u307b\u3046\u308a\u3064",
+        "romaji": "h\u014dritsu",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206833.mp3",
+                "text": "\u6cd5\u5f8b\u3092\u52c9\u5f37\u3059\u308b",
+                "english": "study law",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103350.mp3",
+                "kana": "\u307b\u3046\u308a\u3064\u3092\u3079\u3093\u304d\u3087\u3046\u3059\u308b",
+                "romaji": "h\u014dritsu o benky\u014d suru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271839.mp3",
+                "text": "\u6cd5\u3068\u79e9\u5e8f",
+                "english": "law and order",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102709.mp3",
+                "kana": "\u307b\u3046\u3068\u3061\u3064\u3058\u3087",
+                "romaji": "h\u014d to chitsujo"
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206833.mp3",
+                "text": "\u6cd5\u5f8b\u3092\u52c9\u5f37\u3059\u308b",
+                "english": "study law",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103350.mp3",
+                "kana": "\u307b\u3046\u308a\u3064\u3092\u3079\u3093\u304d\u3087\u3046\u3059\u308b",
+                "romaji": "h\u014dritsu o benky\u014d suru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271839.mp3",
+                "text": "\u6cd5\u3068\u79e9\u5e8f",
+                "english": "law and order",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102709.mp3",
+                "kana": "\u307b\u3046\u3068\u3061\u3064\u3058\u3087",
+                "romaji": "h\u014d to chitsujo"
+            }
+        ]
+    }
+]

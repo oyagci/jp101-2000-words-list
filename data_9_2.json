@@ -1,0 +1,1345 @@
+[
+    {
+        "img": "17283",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271428.mp3",
+        "class": "noun",
+        "english": "saxophone",
+        "flashcardId": "224519",
+        "meaning": "saxophone (noun) - a curved musical instrument made of metal that you play by blowing into it and pressing buttons, used especially in popular music and\tjazz",
+        "id": "30652",
+        "word": "\u30b5\u30af\u30bd\u30d5\u30a9\u30f3",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4500.mp3",
+        "kana": "\u30b5\u30af\u30bd\u30d5\u30a9\u30f3",
+        "romaji": "sakusofon",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305289.mp3",
+                "text": "\u30b5\u30af\u30bd\u30d5\u30a9\u30f3\u3092\u7fd2\u3046",
+                "english": "learn the saxaphone",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/304070.mp3",
+                "kana": "\u30b5\u30af\u30bd\u30d5\u30a9\u30f3\u3092\u306a\u3089\u3046",
+                "romaji": "sakusofon o narau"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271430.mp3",
+                "text": "\u30b5\u30af\u30bd\u30d5\u30a9\u30f3\u3092\u5439\u304f",
+                "english": "play the saxophone",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262869.mp3",
+                "kana": "\u30b5\u30af\u30bd\u30d5\u30a9\u30f3\u3092\u3075\u304f",
+                "romaji": "sakusofon o fuku"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271429.mp3",
+                "text": "\u30b5\u30af\u30bd\u30d5\u30a9\u30f3\u306e\u6f14\u594f\u8005",
+                "english": "saxophone player",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103331.mp3",
+                "kana": "\u30b5\u30af\u30bd\u30d5\u30a9\u30f3\u306e\u3048\u3093\u305d\u3046\u3057\u3083",
+                "romaji": "sakusofon no ens\u014dsha"
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305289.mp3",
+                "text": "\u30b5\u30af\u30bd\u30d5\u30a9\u30f3\u3092\u7fd2\u3046",
+                "english": "learn the saxaphone",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/304070.mp3",
+                "kana": "\u30b5\u30af\u30bd\u30d5\u30a9\u30f3\u3092\u306a\u3089\u3046",
+                "romaji": "sakusofon o narau"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271430.mp3",
+                "text": "\u30b5\u30af\u30bd\u30d5\u30a9\u30f3\u3092\u5439\u304f",
+                "english": "play the saxophone",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262869.mp3",
+                "kana": "\u30b5\u30af\u30bd\u30d5\u30a9\u30f3\u3092\u3075\u304f",
+                "romaji": "sakusofon o fuku"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271429.mp3",
+                "text": "\u30b5\u30af\u30bd\u30d5\u30a9\u30f3\u306e\u6f14\u594f\u8005",
+                "english": "saxophone player",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103331.mp3",
+                "kana": "\u30b5\u30af\u30bd\u30d5\u30a9\u30f3\u306e\u3048\u3093\u305d\u3046\u3057\u3083",
+                "romaji": "sakusofon no ens\u014dsha"
+            }
+        ]
+    },
+    {
+        "img": "9320",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271433.mp3",
+        "class": "noun",
+        "english": "drums",
+        "flashcardId": "1397843",
+        "meaning": "drums (noun) - music instrument",
+        "id": "34785",
+        "word": "\u30c9\u30e9\u30e0",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/105206.mp3",
+        "kana": "\u30c9\u30e9\u30e0",
+        "romaji": "doramu",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271434.mp3",
+                "text": "\u30c9\u30e9\u30e0\u3092\u53e9\u304f",
+                "english": "play the drums",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262871.mp3",
+                "kana": "\u30c9\u30e9\u30e0\u3092\u305f\u305f\u304f",
+                "romaji": "doramu o tataku"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271435.mp3",
+                "text": "\u5144\u306f\u30c9\u30e9\u30e0\u3092\u53e9\u304d\u307e\u3059\u3002",
+                "english": "My older brother plays the drums.",
+                "en_audio": "",
+                "kana": "\u3042\u306b\u306f\u30c9\u30e9\u30e0\u3092\u305f\u305f\u304d\u307e\u3059\u3002",
+                "romaji": "Ani wa doramu o tatakimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/549287.mp3",
+                "text": "\u30b3\u30f3\u30b5\u30fc\u30c8\u3067\u30c9\u30e9\u30e0\u3092\u53e9\u304d\u307e\u3057\u305f\u3002",
+                "english": "I hit the drum at the concert.",
+                "en_audio": "",
+                "kana": "\u30b3\u30f3\u30b5\u30fc\u30c8\u3067\u30c9\u30e9\u30e0\u3092\u305f\u305f\u304d\u307e\u3057\u305f\u3002",
+                "romaji": "Kons\u0101to de doramu o tatakimashita."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271435.mp3",
+                "text": "\u5144\u306f\u30c9\u30e9\u30e0\u3092\u53e9\u304d\u307e\u3059\u3002",
+                "english": "My older brother plays the drums.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262872.mp3",
+                "kana": "\u3042\u306b\u306f\u30c9\u30e9\u30e0\u3092\u305f\u305f\u304d\u307e\u3059\u3002",
+                "romaji": "Ani wa doramu o tatakimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271434.mp3",
+                "text": "\u30c9\u30e9\u30e0\u3092\u53e9\u304f",
+                "english": "play the drums",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262871.mp3",
+                "kana": "\u30c9\u30e9\u30e0\u3092\u305f\u305f\u304f",
+                "romaji": "doramu o tataku"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/549287.mp3",
+                "text": "\u30b3\u30f3\u30b5\u30fc\u30c8\u3067\u30c9\u30e9\u30e0\u3092\u53e9\u304d\u307e\u3057\u305f\u3002",
+                "english": "I hit the drum at the concert.",
+                "en_audio": "",
+                "kana": "\u30b3\u30f3\u30b5\u30fc\u30c8\u3067\u30c9\u30e9\u30e0\u3092\u305f\u305f\u304d\u307e\u3057\u305f\u3002",
+                "romaji": "Kons\u0101to de doramu o tatakimashita."
+            }
+        ]
+    },
+    {
+        "img": "7270",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271431.mp3",
+        "class": "noun",
+        "english": "harmonica",
+        "flashcardId": "1993073",
+        "meaning": "harmonica (noun) - a small musical instrument that you play by blowing or sucking and moving it from side to side near your mouth",
+        "id": "8921",
+        "word": "\u30cf\u30fc\u30e2\u30cb\u30ab",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/105180.mp3",
+        "kana": "\u30cf\u30fc\u30e2\u30cb\u30ab",
+        "romaji": "h\u0101monika",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271432.mp3",
+                "text": "\u30cf\u30fc\u30e2\u30cb\u30ab\u3092\u5439\u304f",
+                "english": "play the harmonica",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262870.mp3",
+                "kana": "\u30cf\u30fc\u30e2\u30cb\u30ab\u3092\u3075\u304f",
+                "romaji": "h\u0101monika o fuku"
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271432.mp3",
+                "text": "\u30cf\u30fc\u30e2\u30cb\u30ab\u3092\u5439\u304f",
+                "english": "play the harmonica",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262870.mp3",
+                "kana": "\u30cf\u30fc\u30e2\u30cb\u30ab\u3092\u3075\u304f",
+                "romaji": "h\u0101monika o fuku"
+            }
+        ]
+    },
+    {
+        "img": "9837",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271436.mp3",
+        "class": "noun",
+        "english": "keyboard",
+        "flashcardId": "224600",
+        "meaning": "keyboard (noun) - the row of keys on some musical instruments that you press in order to play them; keyboard (noun) - a board with buttons marked with letters or numbers that are pressed to put information into a computer or other machine",
+        "id": "34777",
+        "word": "\u30ad\u30fc\u30dc\u30fc\u30c9",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262873.mp3",
+        "kana": "\u30ad\u30fc\u30dc\u30fc\u30c9",
+        "romaji": "k\u012bb\u014ddo",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271437.mp3",
+                "text": "\u30ad\u30fc\u30dc\u30fc\u30c9\u3092\u6f14\u594f\u3059\u308b",
+                "english": "play the keyboard",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262874.mp3",
+                "kana": "\u30ad\u30fc\u30dc\u30fc\u30c9\u3092\u3048\u3093\u305d\u3046\u3059\u308b",
+                "romaji": "k\u012bb\u014ddo o ens\u014d suru"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271438.mp3",
+                "text": "\u3053\u306e\u30ad\u30fc\u30dc\u30fc\u30c9\u306f\u3068\u3066\u3082\u9ad8\u304b\u3063\u305f\u3093\u3067\u3059\u3002",
+                "english": "This keyboard was very expensive.",
+                "en_audio": "",
+                "kana": "\u3053\u306e\u30ad\u30fc\u30dc\u30fc\u30c9\u306f\u3068\u3066\u3082\u305f\u304b\u304b\u3063\u305f\u3093\u3067\u3059\u3002",
+                "romaji": "Kono k\u012bb\u014ddo wa totemo takakatta n desu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271438.mp3",
+                "text": "\u3053\u306e\u30ad\u30fc\u30dc\u30fc\u30c9\u306f\u3068\u3066\u3082\u9ad8\u304b\u3063\u305f\u3093\u3067\u3059\u3002",
+                "english": "This keyboard was very expensive.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262875.mp3",
+                "kana": "\u3053\u306e\u30ad\u30fc\u30dc\u30fc\u30c9\u306f\u3068\u3066\u3082\u305f\u304b\u304b\u3063\u305f\u3093\u3067\u3059\u3002",
+                "romaji": "Kono k\u012bb\u014ddo wa totemo takakatta n desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271437.mp3",
+                "text": "\u30ad\u30fc\u30dc\u30fc\u30c9\u3092\u6f14\u594f\u3059\u308b",
+                "english": "play the keyboard",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262874.mp3",
+                "kana": "\u30ad\u30fc\u30dc\u30fc\u30c9\u3092\u3048\u3093\u305d\u3046\u3059\u308b",
+                "romaji": "k\u012bb\u014ddo o ens\u014d suru"
+            }
+        ]
+    },
+    {
+        "img": "9408",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206845.mp3",
+        "class": "noun",
+        "english": "pain",
+        "flashcardId": "2320563",
+        "meaning": "pain (noun) - the feeling you have when part of your body hurts",
+        "id": "598",
+        "word": "\u75db\u307f\u3000",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87962.mp3",
+        "kana": "\u3044\u305f\u307f\u3000",
+        "romaji": "itami",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252147.mp3",
+                "text": "\u80a9\u306e\u75db\u307f",
+                "english": "shoulder pain",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253617.mp3",
+                "kana": "\u304b\u305f\u306e\u3044\u305f\u307f",
+                "romaji": "kata no itami"
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252147.mp3",
+                "text": "\u80a9\u306e\u75db\u307f",
+                "english": "shoulder pain",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253617.mp3",
+                "kana": "\u304b\u305f\u306e\u3044\u305f\u307f",
+                "romaji": "kata no itami"
+            }
+        ]
+    },
+    {
+        "img": "9089",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/830310.mp3",
+        "class": "noun",
+        "english": "rash",
+        "flashcardId": "2320566",
+        "meaning": "rash (noun) - a lot of red spots on someone's skin, caused by an illness",
+        "id": "709",
+        "word": "\u767a\u75b9",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85604.mp3",
+        "kana": "\u307b\u3063\u3057\u3093",
+        "romaji": "hosshin",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/273855.mp3",
+                "text": "\u75d2\u307f\u306e\u3042\u308b\u767a\u75b9",
+                "english": "itchy rash",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85606.mp3",
+                "kana": "\u304b\u3086\u307f\u306e\u3042\u308b\u307b\u3063\u3057\u3093",
+                "romaji": "kayumi no aru hosshin"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/273856.mp3",
+                "text": "\u5f7c\u306f\u767a\u75b9\u304c\u3042\u308a\u307e\u3059\u3002",
+                "english": "He has a rash.",
+                "en_audio": "",
+                "kana": "\u304b\u308c\u306f\u307b\u3063\u3057\u3093\u304c\u3042\u308a\u307e\u3059\u3002",
+                "romaji": "Kare wa hosshin ga arimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/273854.mp3",
+                "text": "\u30c4\u30bf\u30a6\u30eb\u30b7\u3067\u3001\u5f7c\u5973\u306e\u8155\u306b\u75d2\u307f\u3092\u4f34\u3046\u767a\u75b9\u3092\u5f15\u304d\u8d77\u3053\u3057\u307e\u3057\u305f\u3002",
+                "english": "The poison ivy caused her to develop an itchy rash on her arm.",
+                "en_audio": "",
+                "kana": "\u30c4\u30bf\u30a6\u30eb\u30b7\u3067\u3001\u304b\u306e\u3058\u3087\u306e\u3046\u3067\u306b\u304b\u3086\u307f\u3092\u3068\u3082\u306a\u3046\u307b\u3063\u3057\u3093\u3092\u3072\u304d\u304a\u3053\u3057\u307e\u3057\u305f\u3002",
+                "romaji": "Tsutaurushi de, kanojo no ude ni kayumi o tomonau hosshin o hikiokoshimashita."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/273856.mp3",
+                "text": "\u5f7c\u306f\u767a\u75b9\u304c\u3042\u308a\u307e\u3059\u3002",
+                "english": "He has a rash.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85607.mp3",
+                "kana": "\u304b\u308c\u306f\u307b\u3063\u3057\u3093\u304c\u3042\u308a\u307e\u3059\u3002",
+                "romaji": "Kare wa hosshin ga arimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/273855.mp3",
+                "text": "\u75d2\u307f\u306e\u3042\u308b\u767a\u75b9",
+                "english": "itchy rash",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85606.mp3",
+                "kana": "\u304b\u3086\u307f\u306e\u3042\u308b\u307b\u3063\u3057\u3093",
+                "romaji": "kayumi no aru hosshin"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/273854.mp3",
+                "text": "\u30c4\u30bf\u30a6\u30eb\u30b7\u3067\u3001\u5f7c\u5973\u306e\u8155\u306b\u75d2\u307f\u3092\u4f34\u3046\u767a\u75b9\u3092\u5f15\u304d\u8d77\u3053\u3057\u307e\u3057\u305f\u3002",
+                "english": "The poison ivy caused her to develop an itchy rash on her arm.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85605.mp3",
+                "kana": "\u30c4\u30bf\u30a6\u30eb\u30b7\u3067\u3001\u304b\u306e\u3058\u3087\u306e\u3046\u3067\u306b\u304b\u3086\u307f\u3092\u3068\u3082\u306a\u3046\u307b\u3063\u3057\u3093\u3092\u3072\u304d\u304a\u3053\u3057\u307e\u3057\u305f\u3002",
+                "romaji": "Tsutaurushi de, kanojo no ude ni kayumi o tomonau hosshin o hikiokoshimashita."
+            }
+        ]
+    },
+    {
+        "img": "21933",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226733.mp3",
+        "class": "noun",
+        "english": "cough",
+        "flashcardId": "2320443",
+        "meaning": "cough (noun) - a physical condition or illness that causes someone to cough",
+        "id": "712",
+        "word": "\u54b3",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87952.mp3",
+        "kana": "\u305b\u304d",
+        "romaji": "seki",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252151.mp3",
+                "text": "\u6fc0\u3057\u3044\u54b3",
+                "english": "severe cough",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85609.mp3",
+                "kana": "\u306f\u3052\u3057\u3044\u305b\u304d",
+                "romaji": "hageshii seki"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "",
+                "text": "\u54b3\u304c\u51fa\u307e\u3059\u3002",
+                "english": "I have a cough.",
+                "en_audio": "",
+                "kana": "\u305b\u304d\u304c\u3067\u307e\u3059\u3002",
+                "romaji": "Seki ga demasu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "",
+                "text": "\u54b3\u304c\u51fa\u307e\u3059\u3002",
+                "english": "I have a cough.",
+                "en_audio": "",
+                "kana": "\u305b\u304d\u304c\u3067\u307e\u3059\u3002",
+                "romaji": "Seki ga demasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252151.mp3",
+                "text": "\u6fc0\u3057\u3044\u54b3",
+                "english": "severe cough",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85609.mp3",
+                "kana": "\u306f\u3052\u3057\u3044\u305b\u304d",
+                "romaji": "hageshii seki"
+            }
+        ]
+    },
+    {
+        "img": "9203",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/258641.mp3",
+        "class": "noun",
+        "english": "nausea",
+        "flashcardId": "2320440",
+        "meaning": "nausea (noun) - sickness at the stomach, especially when accompanied by a loathing for food and an involuntary impulse to vomit",
+        "id": "715",
+        "word": "\u5410\u304d\u6c17",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87955.mp3",
+        "kana": "\u306f\u304d\u3051",
+        "romaji": "hakike",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252157.mp3",
+                "text": "\u5410\u304d\u6c17\u3068\u5614\u5410",
+                "english": "nausea and vomiting",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85617.mp3",
+                "kana": "\u306f\u304d\u3051\u3068\u304a\u3046\u3068",
+                "romaji": "hakike to \u014dto"
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252157.mp3",
+                "text": "\u5410\u304d\u6c17\u3068\u5614\u5410",
+                "english": "nausea and vomiting",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85617.mp3",
+                "kana": "\u306f\u304d\u3051\u3068\u304a\u3046\u3068",
+                "romaji": "hakike to \u014dto"
+            }
+        ]
+    },
+    {
+        "img": "9227",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/258642.mp3",
+        "class": "noun",
+        "english": "fatigue",
+        "flashcardId": "2151366",
+        "meaning": "fatigue (noun) - very great tiredness",
+        "id": "721",
+        "word": "\u75b2\u308c",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87961.mp3",
+        "kana": "\u3064\u304b\u308c",
+        "romaji": "tsukare",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252164.mp3",
+                "text": "\u7b4b\u8089\u75b2\u52b4",
+                "english": "muscle fatigue",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85619.mp3",
+                "kana": "\u304d\u3093\u306b\u304f\u3072\u308d\u3046",
+                "romaji": "kinniku hir\u014d"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252163.mp3",
+                "text": "\u30a8\u30af\u30b5\u30b5\u30a4\u30ba\u3092\u3084\u308a\u3059\u304e\u308b\u3068\u3001\u7b4b\u8089\u306e\u75b2\u308c\u3092\u5f15\u304d\u8d77\u3053\u3059\u3002",
+                "english": "Over working during exercise can lead to muscle fatigue.",
+                "en_audio": "",
+                "kana": "\u30a8\u30af\u30b5\u30b5\u30a4\u30ba\u3092\u3084\u308a\u3059\u304e\u308b\u3068\u3001\u304d\u3093\u306b\u304f\u306e\u3064\u304b\u308c\u3092\u3072\u304d\u304a\u3053\u3059\u3002",
+                "romaji": "Ekusasaizu o yari sugiru to, kinniku no tsukare o hiki okosu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252164.mp3",
+                "text": "\u7b4b\u8089\u75b2\u52b4",
+                "english": "muscle fatigue",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85619.mp3",
+                "kana": "\u304d\u3093\u306b\u304f\u3072\u308d\u3046",
+                "romaji": "kinniku hir\u014d"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252163.mp3",
+                "text": "\u30a8\u30af\u30b5\u30b5\u30a4\u30ba\u3092\u3084\u308a\u3059\u304e\u308b\u3068\u3001\u7b4b\u8089\u306e\u75b2\u308c\u3092\u5f15\u304d\u8d77\u3053\u3059\u3002",
+                "english": "Over working during exercise can lead to muscle fatigue.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85618.mp3",
+                "kana": "\u30a8\u30af\u30b5\u30b5\u30a4\u30ba\u3092\u3084\u308a\u3059\u304e\u308b\u3068\u3001\u304d\u3093\u306b\u304f\u306e\u3064\u304b\u308c\u3092\u3072\u304d\u304a\u3053\u3059\u3002",
+                "romaji": "Ekusasaizu o yari sugiru to, kinniku no tsukare o hiki okosu."
+            }
+        ]
+    },
+    {
+        "img": "9302",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375225.mp3",
+        "class": "noun",
+        "english": "itch",
+        "flashcardId": "2320276",
+        "meaning": "itch (noun) - an uncomfortable feeling on your skin that makes you want to rub it with your nails",
+        "id": "725",
+        "word": "\u304b\u3086\u307f",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87966.mp3",
+        "kana": "\u304b\u3086\u307f",
+        "romaji": "kayumi"
+    },
+    {
+        "img": "21932",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271556.mp3",
+        "class": "phrase",
+        "english": "sore throat",
+        "flashcardId": "2320282",
+        "meaning": "sore throat (phrase)",
+        "id": "3224",
+        "word": "\u306e\u3069\u304c\u75db\u3044",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/106383.mp3",
+        "kana": "\u306e\u3069\u304c\u3044\u305f\u3044",
+        "romaji": "nodo ga itai",
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/549350.mp3",
+                "text": "\u306e\u3069\u304c\u75db\u3044\u3067\u3059\u3002",
+                "english": "I have a sore throat.",
+                "en_audio": "",
+                "kana": "\u306e\u3069\u304c\u3044\u305f\u3044\u3067\u3059\u3002",
+                "romaji": "Nodo ga itai desu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/549350.mp3",
+                "text": "\u306e\u3069\u304c\u75db\u3044\u3067\u3059\u3002",
+                "english": "I have a sore throat.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/64292.mp3",
+                "kana": "\u306e\u3069\u304c\u3044\u305f\u3044\u3067\u3059\u3002",
+                "romaji": "Nodo ga itai desu."
+            }
+        ]
+    },
+    {
+        "img": "10295",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/830318.mp3",
+        "class": "noun",
+        "english": "runny nose",
+        "flashcardId": "2151374",
+        "meaning": "runny nose (phrase)",
+        "id": "34768",
+        "word": "\u9f3b\u6c34",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262968.mp3",
+        "kana": "\u306f\u306a\u307f\u305a",
+        "romaji": "hanamizu",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/830320.mp3",
+                "text": "\u9f3b\u6c34\u304c\u51fa\u3066\u3044\u308b",
+                "english": "have a runny nose",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262970.mp3",
+                "kana": "\u306f\u306a\u307f\u305a\u304c\u3067\u3066\u3044\u308b",
+                "romaji": "hanamizu ga dete iru"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/830319.mp3",
+                "text": "\u8d64\u3061\u3083\u3093\u306f\u9f3b\u6c34\u304c\u305f\u308c\u3066\u3044\u308b\u3002",
+                "english": "The baby has a runny nose.",
+                "en_audio": "",
+                "kana": "\u3042\u304b\u3061\u3083\u3093\u306f\u306f\u306a\u307f\u305a\u304c\u305f\u308c\u3066\u3044\u308b\u3002",
+                "romaji": "Aka-chan wa hanamizu ga tarete iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/830320.mp3",
+                "text": "\u9f3b\u6c34\u304c\u51fa\u3066\u3044\u308b",
+                "english": "have a runny nose",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262970.mp3",
+                "kana": "\u306f\u306a\u307f\u305a\u304c\u3067\u3066\u3044\u308b",
+                "romaji": "hanamizu ga dete iru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/830319.mp3",
+                "text": "\u8d64\u3061\u3083\u3093\u306f\u9f3b\u6c34\u304c\u305f\u308c\u3066\u3044\u308b\u3002",
+                "english": "The baby has a runny nose.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262969.mp3",
+                "kana": "\u3042\u304b\u3061\u3083\u3093\u306f\u306f\u306a\u307f\u305a\u304c\u305f\u308c\u3066\u3044\u308b\u3002",
+                "romaji": "Aka-chan wa hanamizu ga tarete iru."
+            }
+        ]
+    },
+    {
+        "img": "9404",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271562.mp3",
+        "class": "phrase",
+        "english": "dizzy",
+        "flashcardId": "2320290",
+        "meaning": "dizzy (adjective) - having or involving a sensation of spinning around and losing one\u2019s balance",
+        "id": "34786",
+        "word": "\u3081\u307e\u3044\u304c\u3059\u308b",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262974.mp3",
+        "kana": "\u3081\u307e\u3044\u304c\u3059\u308b",
+        "romaji": "memai ga suru",
+        "sentences": [
+            {
+                "audio": "",
+                "text": "\u3081\u307e\u3044\u304c\u3057\u307e\u3059\u3002",
+                "english": "I feel dizzy.",
+                "en_audio": "",
+                "kana": "\u3081\u307e\u3044\u304c\u3057\u307e\u3059\u3002",
+                "romaji": "Memai ga shimasu."
+            },
+            {
+                "audio": "",
+                "text": "\u982d\u304c\u30d5\u30e9\u30d5\u30e9\u3057\u307e\u3059\u3002",
+                "english": "My head is dizzy.",
+                "en_audio": "",
+                "kana": "\u982d\u304c\u30d5\u30e9\u30d5\u30e9\u3057\u307e\u3059\u3002",
+                "romaji": "Atama ga furafura shimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271563.mp3",
+                "text": "\u5973\u6027\u306f\u3081\u307e\u3044\u304c\u3057\u3066\u3044\u308b\u3002",
+                "english": "The woman is dizzy.",
+                "en_audio": "",
+                "kana": "\u3058\u3087\u305b\u3044\u306f\u3081\u307e\u3044\u304c\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Josei wa memai ga shite iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "",
+                "text": "\u3081\u307e\u3044\u304c\u3057\u307e\u3059\u3002",
+                "english": "I feel dizzy.",
+                "en_audio": "",
+                "kana": "\u3081\u307e\u3044\u304c\u3057\u307e\u3059\u3002",
+                "romaji": "Memai ga shimasu."
+            },
+            {
+                "audio": "",
+                "text": "\u982d\u304c\u30d5\u30e9\u30d5\u30e9\u3057\u307e\u3059\u3002",
+                "english": "My head is dizzy.",
+                "en_audio": "",
+                "kana": "\u982d\u304c\u30d5\u30e9\u30d5\u30e9\u3057\u307e\u3059\u3002",
+                "romaji": "Atama ga furafura shimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271563.mp3",
+                "text": "\u5973\u6027\u306f\u3081\u307e\u3044\u304c\u3057\u3066\u3044\u308b\u3002",
+                "english": "The woman is dizzy.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262975.mp3",
+                "kana": "\u3058\u3087\u305b\u3044\u306f\u3081\u307e\u3044\u304c\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Josei wa memai ga shite iru."
+            }
+        ]
+    },
+    {
+        "img": "21931",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271561.mp3",
+        "class": "noun",
+        "english": "stuffy nose",
+        "flashcardId": "2320663",
+        "meaning": "stuffy nose (phrase)",
+        "id": "34765",
+        "word": "\u9f3b\u8a70\u307e\u308a",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262971.mp3",
+        "kana": "\u306f\u306a\u3065\u307e\u308a",
+        "romaji": "hanazumari",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/273893.mp3",
+                "text": "\u9f3b\u8a70\u307e\u308a\u306e\u85ac",
+                "english": "medicine for a stuffy nose",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262972.mp3",
+                "kana": "\u306f\u306a\u3065\u307e\u308a\u306e\u304f\u3059\u308a",
+                "romaji": "hanazumari no kuzuri"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/273894.mp3",
+                "text": "\u9f3b\u8a70\u307e\u308a\u3067\u3001\u4f55\u3082\u5473\u308f\u3046\u4e8b\u304c\u3067\u304d\u307e\u305b\u3093\u3002",
+                "english": "I can't taste anything because of this stuffy nose.",
+                "en_audio": "",
+                "kana": "\u306f\u306a\u3065\u307e\u308a\u3067\u3001\u306a\u306b\u3082\u3042\u3058\u308f\u3046\u3053\u3068\u304c\u3067\u304d\u307e\u305b\u3093\u3002",
+                "romaji": "Hanazumari de, nani mo ajiwau koto ga dekimasen."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/273894.mp3",
+                "text": "\u9f3b\u8a70\u307e\u308a\u3067\u3001\u4f55\u3082\u5473\u308f\u3046\u4e8b\u304c\u3067\u304d\u307e\u305b\u3093\u3002",
+                "english": "I can't taste anything because of this stuffy nose.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262973.mp3",
+                "kana": "\u306f\u306a\u3065\u307e\u308a\u3067\u3001\u306a\u306b\u3082\u3042\u3058\u308f\u3046\u3053\u3068\u304c\u3067\u304d\u307e\u305b\u3093\u3002",
+                "romaji": "Hanazumari de, nani mo ajiwau koto ga dekimasen."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/273893.mp3",
+                "text": "\u9f3b\u8a70\u307e\u308a\u306e\u85ac",
+                "english": "medicine for a stuffy nose",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262972.mp3",
+                "kana": "\u306f\u306a\u3065\u307e\u308a\u306e\u304f\u3059\u308a",
+                "romaji": "hanazumari no kuzuri"
+            }
+        ]
+    },
+    {
+        "img": "10286",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1980.mp3",
+        "class": "noun",
+        "english": "room",
+        "flashcardId": "2165194",
+        "meaning": "room (noun) - a part of the inside of a building that has its own walls, floor, and ceiling",
+        "id": "763",
+        "word": "\u90e8\u5c4b",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/88103.mp3",
+        "kana": "\u3078\u3084",
+        "romaji": "heya",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226796.mp3",
+                "text": "\u5bee\u306e\u90e8\u5c4b",
+                "english": "dormitory room",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5550.mp3",
+                "kana": "\u308a\u3087\u3046\u306e\u3078\u3084",
+                "romaji": "ry\u014d no heya"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226793.mp3",
+                "text": "\u30db\u30c6\u30eb\u306e\u90e8\u5c4b",
+                "english": "hotel room",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5413.mp3",
+                "kana": "\u30db\u30c6\u30eb\u306e\u3078\u3084",
+                "romaji": "hoteru no heya"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226791.mp3",
+                "text": "\u90e8\u5c4b\u4ee3\u3068\u98df\u4e8b\u4ee3",
+                "english": "room and board",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5410.mp3",
+                "kana": "\u3078\u3084\u3060\u3044\u3068\u3057\u3087\u304f\u3058\u3060\u3044",
+                "romaji": "heya dai to shokuji dai"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226795.mp3",
+                "text": "\u30dc\u30fc\u30a4\u304c\u79c1\u9054\u306e\u8377\u7269\u3092\u90e8\u5c4b\u307e\u3067\u904b\u3093\u3067\u304f\u308c\u305f\u3002",
+                "english": "A porter carried our bags to our room.",
+                "en_audio": "",
+                "kana": "\u30dc\u30fc\u30a4\u304c\u308f\u305f\u3057\u305f\u3061\u306e\u306b\u3082\u3064\u3092\u3078\u3084\u307e\u3067\u306f\u3053\u3093\u3067\u304f\u308c\u305f\u3002",
+                "romaji": "B\u014di ga watashi-tachi no nimotsu o heya made hakonde kureta."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226794.mp3",
+                "text": "\u5bb6\u306e\u5168\u3066\u306e\u90e8\u5c4b\u306b\u65b0\u3057\u3044\u30ab\u30fc\u30da\u30c3\u30c8\u304c\u5fc5\u8981\u3060\u3002",
+                "english": "New carpet is needed in every room in the house.",
+                "en_audio": "",
+                "kana": "\u3044\u3048\u306e\u3059\u3079\u3066\u306e\u3078\u3084\u306b\u3042\u305f\u3089\u3057\u3044\u30ab\u30fc\u30da\u30c3\u30c8\u304c\u3072\u3064\u3088\u3046\u3060\u3002",
+                "romaji": "Ie no subete no heya ni atarashii k\u0101petto ga hitsuy\u014d da."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226796.mp3",
+                "text": "\u5bee\u306e\u90e8\u5c4b",
+                "english": "dormitory room",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5550.mp3",
+                "kana": "\u308a\u3087\u3046\u306e\u3078\u3084",
+                "romaji": "ry\u014d no heya"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226795.mp3",
+                "text": "\u30dc\u30fc\u30a4\u304c\u79c1\u9054\u306e\u8377\u7269\u3092\u90e8\u5c4b\u307e\u3067\u904b\u3093\u3067\u304f\u308c\u305f\u3002",
+                "english": "A porter carried our bags to our room.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5411.mp3",
+                "kana": "\u30dc\u30fc\u30a4\u304c\u308f\u305f\u3057\u305f\u3061\u306e\u306b\u3082\u3064\u3092\u3078\u3084\u307e\u3067\u306f\u3053\u3093\u3067\u304f\u308c\u305f\u3002",
+                "romaji": "B\u014di ga watashi-tachi no nimotsu o heya made hakonde kureta."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226794.mp3",
+                "text": "\u5bb6\u306e\u5168\u3066\u306e\u90e8\u5c4b\u306b\u65b0\u3057\u3044\u30ab\u30fc\u30da\u30c3\u30c8\u304c\u5fc5\u8981\u3060\u3002",
+                "english": "New carpet is needed in every room in the house.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5409.mp3",
+                "kana": "\u3044\u3048\u306e\u3059\u3079\u3066\u306e\u3078\u3084\u306b\u3042\u305f\u3089\u3057\u3044\u30ab\u30fc\u30da\u30c3\u30c8\u304c\u3072\u3064\u3088\u3046\u3060\u3002",
+                "romaji": "Ie no subete no heya ni atarashii k\u0101petto ga hitsuy\u014d da."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226793.mp3",
+                "text": "\u30db\u30c6\u30eb\u306e\u90e8\u5c4b",
+                "english": "hotel room",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5413.mp3",
+                "kana": "\u30db\u30c6\u30eb\u306e\u3078\u3084",
+                "romaji": "hoteru no heya"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226791.mp3",
+                "text": "\u90e8\u5c4b\u4ee3\u3068\u98df\u4e8b\u4ee3",
+                "english": "room and board",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/5410.mp3",
+                "kana": "\u3078\u3084\u3060\u3044\u3068\u3057\u3087\u304f\u3058\u3060\u3044",
+                "romaji": "heya dai to shokuji dai"
+            }
+        ]
+    },
+    {
+        "img": "10252",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/258661.mp3",
+        "class": "noun",
+        "english": "lobby",
+        "flashcardId": "224542",
+        "meaning": "lobby (noun) - a wide passage or large hall just inside the entrance to a public building",
+        "id": "847",
+        "word": "\u30ed\u30d3\u30fc",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/88095.mp3",
+        "kana": "\u30ed\u30d3\u30fc",
+        "romaji": "rob\u012b",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252353.mp3",
+                "text": "\u30db\u30c6\u30eb\u306e\u30ed\u30d3\u30fc",
+                "english": "hotel lobby",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85547.mp3",
+                "kana": "\u30db\u30c6\u30eb\u306e\u30ed\u30d3\u30fc",
+                "romaji": "hoteru no rob\u012b"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252354.mp3",
+                "text": "\u30ed\u30d3\u30fc\u306f\u4e00\u968e\u3067\u3059\u3002",
+                "english": "The lobby is on the first floor.",
+                "en_audio": "",
+                "kana": "\u30ed\u30d3\u30fc\u306f\u3044\u3063\u304b\u3044\u3067\u3059\u3002",
+                "romaji": "Rob\u012b wa i-kkai desu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252354.mp3",
+                "text": "\u30ed\u30d3\u30fc\u306f\u4e00\u968e\u3067\u3059\u3002",
+                "english": "The lobby is on the first floor.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/68010.mp3",
+                "kana": "\u30ed\u30d3\u30fc\u306f\u3044\u3063\u304b\u3044\u3067\u3059\u3002",
+                "romaji": "Rob\u012b wa i-kkai desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252353.mp3",
+                "text": "\u30db\u30c6\u30eb\u306e\u30ed\u30d3\u30fc",
+                "english": "hotel lobby",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85547.mp3",
+                "kana": "\u30db\u30c6\u30eb\u306e\u30ed\u30d3\u30fc",
+                "romaji": "hoteru no rob\u012b"
+            }
+        ]
+    },
+    {
+        "img": "21937",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/830347.mp3",
+        "class": "noun",
+        "english": "wake-up service",
+        "flashcardId": "224543",
+        "meaning": "wake-up service (phrase) - the service to wake up guest at a hotel",
+        "id": "850",
+        "word": "\u30a6\u30a7\u30a4\u30af\u30a2\u30c3\u30d7\u30b5\u30fc\u30d3\u30b9",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263160.mp3",
+        "kana": "\u30a6\u30a7\u30a4\u30af\u30a2\u30c3\u30d7\u30b5\u30fc\u30d3\u30b9",
+        "romaji": "ueikuappu s\u0101bisu",
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/891847.mp3",
+                "text": "\u671d\u516d\u6642\u306b\u8d77\u3053\u3057\u3066\u3082\u3089\u3046\u3088\u3046\u306b\u3001\u30a6\u30a7\u30a4\u30af\u30a2\u30c3\u30d7\u30b5\u30fc\u30d3\u30b9\u3092\u4f7f\u3044\u307e\u3057\u305f\u3002",
+                "english": "I used the wake-up service to call me at 6 o'clock AM.",
+                "en_audio": "",
+                "kana": "\u3042\u3055\u308d\u304f\u3058\u306b\u304a\u3053\u3057\u3066\u3082\u3089\u3046\u3088\u3046\u306b\u3001\u30a6\u30a7\u30a4\u30af\u30a2\u30c3\u30d7\u30b5\u30fc\u30d3\u30b9\u3092\u3064\u304b\u3044\u307e\u3057\u305f\u3002",
+                "romaji": "Asa roku-ji ni okoshite morau y\u014d ni, weikuappu s\u0101bisu o tsukaimashita."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/891847.mp3",
+                "text": "\u671d\u516d\u6642\u306b\u8d77\u3053\u3057\u3066\u3082\u3089\u3046\u3088\u3046\u306b\u3001\u30a6\u30a7\u30a4\u30af\u30a2\u30c3\u30d7\u30b5\u30fc\u30d3\u30b9\u3092\u4f7f\u3044\u307e\u3057\u305f\u3002",
+                "english": "I used the wake-up service to call me at 6 o'clock AM.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85548.mp3",
+                "kana": "\u3042\u3055\u308d\u304f\u3058\u306b\u304a\u3053\u3057\u3066\u3082\u3089\u3046\u3088\u3046\u306b\u3001\u30a6\u30a7\u30a4\u30af\u30a2\u30c3\u30d7\u30b5\u30fc\u30d3\u30b9\u3092\u3064\u304b\u3044\u307e\u3057\u305f\u3002",
+                "romaji": "Asa roku-ji ni okoshite morau y\u014d ni, weikuappu s\u0101bisu o tsukaimashita."
+            }
+        ]
+    },
+    {
+        "img": "9640",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/258663.mp3",
+        "class": "noun",
+        "english": "suite",
+        "flashcardId": "2066753",
+        "meaning": "suite (noun) - a set of rooms, especially expensive ones in a hotel",
+        "id": "851",
+        "word": "\u30b9\u30a4\u30fc\u30c8",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/88099.mp3",
+        "kana": "\u30b9\u30a4\u30fc\u30c8",
+        "romaji": "su\u012bto",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252358.mp3",
+                "text": "\u30db\u30c6\u30eb\u306e\u30b9\u30a4\u30fc\u30c8",
+                "english": "hotel suite",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85550.mp3",
+                "kana": "\u30db\u30c6\u30eb\u306e\u30b9\u30a4\u30fc\u30c8",
+                "romaji": "hoteru no su\u012bto"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/830330.mp3",
+                "text": "\u30d9\u30c3\u30c9\u30eb\u30fc\u30e0\u306f\u5225\u306e\u65b9\u304c\u3088\u304b\u3063\u305f\u306e\u3067\u3001\u30b9\u30a4\u30fc\u30c8\u3092\u304a\u9858\u3044\u3057\u305f\u3002",
+                "english": "I wanted a separate bedroom, so I asked for a suite.",
+                "en_audio": "",
+                "kana": "\u30d9\u30c3\u30c9\u30eb\u30fc\u30e0\u306f\u3079\u3064\u306e\u307b\u3046\u304c\u3088\u304b\u3063\u305f\u306e\u3067\u3001\u30b9\u30a4\u30fc\u30c8\u3092\u304a\u306d\u304c\u3044\u3057\u305f\u3002",
+                "romaji": "Beddo r\u016bmu wa betsu no h\u014d ga yokatta node, su\u012bto o o-negai shita."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252358.mp3",
+                "text": "\u30db\u30c6\u30eb\u306e\u30b9\u30a4\u30fc\u30c8",
+                "english": "hotel suite",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85550.mp3",
+                "kana": "\u30db\u30c6\u30eb\u306e\u30b9\u30a4\u30fc\u30c8",
+                "romaji": "hoteru no su\u012bto"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/830330.mp3",
+                "text": "\u30d9\u30c3\u30c9\u30eb\u30fc\u30e0\u306f\u5225\u306e\u65b9\u304c\u3088\u304b\u3063\u305f\u306e\u3067\u3001\u30b9\u30a4\u30fc\u30c8\u3092\u304a\u9858\u3044\u3057\u305f\u3002",
+                "english": "I wanted a separate bedroom, so I asked for a suite.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85549.mp3",
+                "kana": "\u30d9\u30c3\u30c9\u30eb\u30fc\u30e0\u306f\u3079\u3064\u306e\u307b\u3046\u304c\u3088\u304b\u3063\u305f\u306e\u3067\u3001\u30b9\u30a4\u30fc\u30c8\u3092\u304a\u306d\u304c\u3044\u3057\u305f\u3002",
+                "romaji": "Beddo r\u016bmu wa betsu no h\u014d ga yokatta node, su\u012bto o o-negai shita."
+            }
+        ]
+    },
+    {
+        "img": "21934",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1060.mp3",
+        "class": "noun",
+        "english": "credit card",
+        "flashcardId": "224490",
+        "meaning": "credit card (noun) - a small plastic card that you use to buy goods or services and pay for them later",
+        "id": "854",
+        "word": "\u30af\u30ec\u30b8\u30c3\u30c8\u30ab\u30fc\u30c9",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262823.mp3",
+        "kana": "\u30af\u30ec\u30b8\u30c3\u30c8\u30ab\u30fc\u30c9",
+        "romaji": "kurejittok\u0101do",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/976740.mp3",
+                "text": "\u30af\u30ec\u30b8\u30c3\u30c8\u30ab\u30fc\u30c9\u3067\u8cb7\u3046",
+                "english": "buy with a credit card",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3512.mp3",
+                "kana": "\u30af\u30ec\u30b8\u30c3\u30c8\u30ab\u30fc\u30c9\u3067\u304b\u3046",
+                "romaji": "kurejitto k\u0101do de kau"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206037.mp3",
+                "text": "\u30af\u30ec\u30b8\u30c3\u30c8\u30ab\u30fc\u30c9\u756a\u53f7",
+                "english": "credit card number",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3968.mp3",
+                "kana": "\u30af\u30ec\u30b8\u30c3\u30c8\u30ab\u30fc\u30c9\u3070\u3093\u3054\u3046",
+                "romaji": "kurejitto k\u0101do bang\u014d"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/824445.mp3",
+                "text": "\u30af\u30ec\u30b8\u30c3\u30c8\u30ab\u30fc\u30c9\u3067\u652f\u6255\u3046",
+                "english": "pay by credit card",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3966.mp3",
+                "kana": "\u30af\u30ec\u30b8\u30c3\u30c8\u30ab\u30fc\u30c9\u3067\u3057\u306f\u3089\u3046",
+                "romaji": "kurejitto k\u0101do de shiharau"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252363.mp3",
+                "text": "\u30af\u30ec\u30b8\u30c3\u30c8\u30ab\u30fc\u30c9\u306f\u4f7f\u3048\u307e\u3059\u304b\u3002",
+                "english": "Do you take credit cards?",
+                "en_audio": "",
+                "kana": "\u30af\u30ec\u30b8\u30c3\u30c8\u30ab\u30fc\u30c9\u306f\u3064\u304b\u3048\u307e\u3059\u304b\u3002",
+                "romaji": "Kurejitto k\u0101do wa tsukaemasu ka."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206039.mp3",
+                "text": "\u30af\u30ec\u30b8\u30c3\u30c8\u30ab\u30fc\u30c9\u3067\u6599\u91d1\u3092\u6255\u3063\u3066\u3001\u30c1\u30c3\u30d7\u306f\u73fe\u91d1\u3067\u6255\u3044\u306a\u3055\u3044\u3002",
+                "english": "Pay the bill with a credit card and the tip with cash.",
+                "en_audio": "",
+                "kana": "\u30af\u30ec\u30b8\u30c3\u30c8\u30ab\u30fc\u30c9\u3067\u308a\u3087\u3046\u304d\u3093\u3092\u306f\u3089\u3063\u3066\u3001\u30c1\u30c3\u30d7\u306f\u3052\u3093\u304d\u3093\u3067\u306f\u3089\u3044\u306a\u3055\u3044\u3002",
+                "romaji": "Kurejitto k\u0101do de ry\u014dkin o haratte, chippu wa genkin de harainasai."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/976740.mp3",
+                "text": "\u30af\u30ec\u30b8\u30c3\u30c8\u30ab\u30fc\u30c9\u3067\u8cb7\u3046",
+                "english": "buy with a credit card",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3512.mp3",
+                "kana": "\u30af\u30ec\u30b8\u30c3\u30c8\u30ab\u30fc\u30c9\u3067\u304b\u3046",
+                "romaji": "kurejitto k\u0101do de kau"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252363.mp3",
+                "text": "\u30af\u30ec\u30b8\u30c3\u30c8\u30ab\u30fc\u30c9\u306f\u4f7f\u3048\u307e\u3059\u304b\u3002",
+                "english": "Do you take credit cards?",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3967.mp3",
+                "kana": "\u30af\u30ec\u30b8\u30c3\u30c8\u30ab\u30fc\u30c9\u306f\u3064\u304b\u3048\u307e\u3059\u304b\u3002",
+                "romaji": "Kurejitto k\u0101do wa tsukaemasu ka."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206039.mp3",
+                "text": "\u30af\u30ec\u30b8\u30c3\u30c8\u30ab\u30fc\u30c9\u3067\u6599\u91d1\u3092\u6255\u3063\u3066\u3001\u30c1\u30c3\u30d7\u306f\u73fe\u91d1\u3067\u6255\u3044\u306a\u3055\u3044\u3002",
+                "english": "Pay the bill with a credit card and the tip with cash.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3963.mp3",
+                "kana": "\u30af\u30ec\u30b8\u30c3\u30c8\u30ab\u30fc\u30c9\u3067\u308a\u3087\u3046\u304d\u3093\u3092\u306f\u3089\u3063\u3066\u3001\u30c1\u30c3\u30d7\u306f\u3052\u3093\u304d\u3093\u3067\u306f\u3089\u3044\u306a\u3055\u3044\u3002",
+                "romaji": "Kurejitto k\u0101do de ry\u014dkin o haratte, chippu wa genkin de harainasai."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206037.mp3",
+                "text": "\u30af\u30ec\u30b8\u30c3\u30c8\u30ab\u30fc\u30c9\u756a\u53f7",
+                "english": "credit card number",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3968.mp3",
+                "kana": "\u30af\u30ec\u30b8\u30c3\u30c8\u30ab\u30fc\u30c9\u3070\u3093\u3054\u3046",
+                "romaji": "kurejitto k\u0101do bang\u014d"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/824445.mp3",
+                "text": "\u30af\u30ec\u30b8\u30c3\u30c8\u30ab\u30fc\u30c9\u3067\u652f\u6255\u3046",
+                "english": "pay by credit card",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3966.mp3",
+                "kana": "\u30af\u30ec\u30b8\u30c3\u30c8\u30ab\u30fc\u30c9\u3067\u3057\u306f\u3089\u3046",
+                "romaji": "kurejitto k\u0101do de shiharau"
+            }
+        ]
+    },
+    {
+        "img": "21936",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/375239.mp3",
+        "class": "noun",
+        "english": "room service",
+        "flashcardId": "1397850",
+        "meaning": "room service (phrase) - a service provided by a hotel, by which food and drinks can be sent to a guest's room",
+        "id": "855",
+        "word": "\u30eb\u30fc\u30e0\u30b5\u30fc\u30d3\u30b9",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/88104.mp3",
+        "kana": "\u30eb\u30fc\u30e0\u30b5\u30fc\u30d3\u30b9",
+        "romaji": "r\u016bmu s\u0101bisu",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252365.mp3",
+                "text": "\u30eb\u30fc\u30e0\u30b5\u30fc\u30d3\u30b9\u306e\u98df\u4e8b",
+                "english": "room service meal",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85559.mp3",
+                "kana": "\u30eb\u30fc\u30e0\u30b5\u30fc\u30d3\u30b9\u306e\u3057\u3087\u304f\u3058",
+                "romaji": "r\u016bmu s\u0101bisu no shokuji"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252364.mp3",
+                "text": "\u30a6\u30a7\u30a4\u30bf\u30fc\u304c\u30eb\u30fc\u30e0\u30b5\u30fc\u30d3\u30b9\u3092\u904b\u3093\u3067\u3044\u308b\u3002",
+                "english": "The waiter is delivering room service.",
+                "en_audio": "",
+                "kana": "\u30a6\u30a7\u30a4\u30bf\u30fc\u304c\u30eb\u30fc\u30e0\u30b5\u30fc\u30d3\u30b9\u3092\u306f\u3053\u3093\u3067\u3044\u308b\u3002",
+                "romaji": "Weit\u0101 ga r\u016bmu s\u0101bisu o hakonde iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/68313.mp3",
+                "text": "\u30eb\u30fc\u30e0\u30b5\u30fc\u30d3\u30b9\u3092\u304a\u9858\u3044\u3057\u307e\u3059\u3002",
+                "english": "Room service, please.",
+                "en_audio": "",
+                "kana": "\u30eb\u30fc\u30e0\u30b5\u30fc\u30d3\u30b9\u3092\u304a\u306d\u304c\u3044\u3057\u307e\u3059\u3002",
+                "romaji": "R\u016bmu s\u0101bisu o onegai shimasu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252365.mp3",
+                "text": "\u30eb\u30fc\u30e0\u30b5\u30fc\u30d3\u30b9\u306e\u98df\u4e8b",
+                "english": "room service meal",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85559.mp3",
+                "kana": "\u30eb\u30fc\u30e0\u30b5\u30fc\u30d3\u30b9\u306e\u3057\u3087\u304f\u3058",
+                "romaji": "r\u016bmu s\u0101bisu no shokuji"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252364.mp3",
+                "text": "\u30a6\u30a7\u30a4\u30bf\u30fc\u304c\u30eb\u30fc\u30e0\u30b5\u30fc\u30d3\u30b9\u3092\u904b\u3093\u3067\u3044\u308b\u3002",
+                "english": "The waiter is delivering room service.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253810.mp3",
+                "kana": "\u30a6\u30a7\u30a4\u30bf\u30fc\u304c\u30eb\u30fc\u30e0\u30b5\u30fc\u30d3\u30b9\u3092\u306f\u3053\u3093\u3067\u3044\u308b\u3002",
+                "romaji": "Weit\u0101 ga r\u016bmu s\u0101bisu o hakonde iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/68313.mp3",
+                "text": "\u30eb\u30fc\u30e0\u30b5\u30fc\u30d3\u30b9\u3092\u304a\u9858\u3044\u3057\u307e\u3059\u3002",
+                "english": "Room service, please.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/68314.mp3",
+                "kana": "\u30eb\u30fc\u30e0\u30b5\u30fc\u30d3\u30b9\u3092\u304a\u306d\u304c\u3044\u3057\u307e\u3059\u3002",
+                "romaji": "R\u016bmu s\u0101bisu o onegai shimasu."
+            }
+        ]
+    },
+    {
+        "img": "21935",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/830312.mp3",
+        "class": "noun",
+        "english": "receipt",
+        "flashcardId": "1829699",
+        "meaning": "receipt (noun) - a piece of paper that you are given which shows that you have paid for something",
+        "id": "856",
+        "word": "\u30ec\u30b7\u30fc\u30c8",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/88105.mp3",
+        "kana": "\u30ec\u30b7\u30fc\u30c8",
+        "romaji": "resh\u012bto",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/830314.mp3",
+                "text": "\u8cb7\u3044\u7269\u306e\u30ec\u30b7\u30fc\u30c8",
+                "english": "shopping receipt",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85562.mp3",
+                "kana": "\u304b\u3044\u3082\u306e\u306e\u30ec\u30b7\u30fc\u30c8",
+                "romaji": "kaimono no resh\u012bto"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/830313.mp3",
+                "text": "\u30db\u30c6\u30eb\u306e\u30ec\u30b7\u30fc\u30c8",
+                "english": "hotel receipt",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85561.mp3",
+                "kana": "\u30db\u30c6\u30eb\u306e\u30ec\u30b7\u30fc\u30c8",
+                "romaji": "hoteru no resh\u012bto"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/976723.mp3",
+                "text": "\u30ec\u30b7\u30fc\u30c8\u306f\u7d50\u69cb\u3067\u3059\u3002",
+                "english": "I don't need a receipt.",
+                "en_audio": "",
+                "kana": "\u30ec\u30b7\u30fc\u30c8\u306f\u3051\u3063\u3053\u3046\u3067\u3059\u3002",
+                "romaji": "Resh\u012bto wa kekk\u014d desu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/976723.mp3",
+                "text": "\u30ec\u30b7\u30fc\u30c8\u306f\u7d50\u69cb\u3067\u3059\u3002",
+                "english": "I don't need a receipt.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253811.mp3",
+                "kana": "\u30ec\u30b7\u30fc\u30c8\u306f\u3051\u3063\u3053\u3046\u3067\u3059\u3002",
+                "romaji": "Resh\u012bto wa kekk\u014d desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/830314.mp3",
+                "text": "\u8cb7\u3044\u7269\u306e\u30ec\u30b7\u30fc\u30c8",
+                "english": "shopping receipt",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85562.mp3",
+                "kana": "\u304b\u3044\u3082\u306e\u306e\u30ec\u30b7\u30fc\u30c8",
+                "romaji": "kaimono no resh\u012bto"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/830313.mp3",
+                "text": "\u30db\u30c6\u30eb\u306e\u30ec\u30b7\u30fc\u30c8",
+                "english": "hotel receipt",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85561.mp3",
+                "kana": "\u30db\u30c6\u30eb\u306e\u30ec\u30b7\u30fc\u30c8",
+                "romaji": "hoteru no resh\u012bto"
+            }
+        ]
+    },
+    {
+        "img": "21938",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/228134.mp3",
+        "class": "noun",
+        "english": "Wi-Fi",
+        "flashcardId": "224547",
+        "meaning": "Wi-Fi (noun) - wireless fidelity. a facility allowing computers, smartphones, or other devices to connect to the Internet or communicate with one another wirelessly within a particular area",
+        "id": "1727",
+        "word": "WiFi",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89134.mp3",
+        "kana": "\u30ef\u30a4\u30d5\u30a1\u30a4",
+        "romaji": "waifai",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253065.mp3",
+                "text": "\uff37\uff49\uff26\uff49\u306e\u30eb\u30fc\u30bf\u30fc",
+                "english": "Wi-Fi router",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92025.mp3",
+                "kana": "\u30ef\u30a4\u30d5\u30a1\u30a4\u306e\u30eb\u30fc\u30bf\u30fc",
+                "romaji": "waifai no r\u016bt\u0101"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253064.mp3",
+                "text": "\uff37\uff49\uff26\uff49\u306e\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u63a5\u7d9a",
+                "english": "Wi-Fi Internet connection",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92024.mp3",
+                "kana": "\u30ef\u30a4\u30d5\u30a1\u30a4\u306e\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u305b\u3064\u305e\u304f",
+                "romaji": "waifai no int\u0101netto setsuzoku"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253063.mp3",
+                "text": "\u79c1\u306e\u30ce\u30fc\u30c8\u30d1\u30bd\u30b3\u30f3\u306f\u3001Wifi\u306e\u30a8\u30ea\u30a2\u306a\u3089\u3001\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u3092\u4f7f\u3046\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+                "english": "My laptop can connect to the Internet using Wi-Fi service where it is available.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306e\u30ce\u30fc\u30c8\u30d1\u30bd\u30b3\u30f3\u306f\u3001\u30ef\u30a4\u30d5\u30a1\u30a4\u306e\u30a8\u30ea\u30a2\u306a\u3089\u3001\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u3092\u3064\u304b\u3046\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002",
+                "romaji": "Watashi no n\u014dto pasokon wa, waifai no eria nara, int\u0101netto o tsukau koto ga dekimasu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253065.mp3",
+                "text": "\uff37\uff49\uff26\uff49\u306e\u30eb\u30fc\u30bf\u30fc",
+                "english": "Wi-Fi router",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92025.mp3",
+                "kana": "\u30ef\u30a4\u30d5\u30a1\u30a4\u306e\u30eb\u30fc\u30bf\u30fc",
+                "romaji": "waifai no r\u016bt\u0101"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253064.mp3",
+                "text": "\uff37\uff49\uff26\uff49\u306e\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u63a5\u7d9a",
+                "english": "Wi-Fi Internet connection",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92024.mp3",
+                "kana": "\u30ef\u30a4\u30d5\u30a1\u30a4\u306e\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u305b\u3064\u305e\u304f",
+                "romaji": "waifai no int\u0101netto setsuzoku"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253063.mp3",
+                "text": "\u79c1\u306e\u30ce\u30fc\u30c8\u30d1\u30bd\u30b3\u30f3\u306f\u3001Wifi\u306e\u30a8\u30ea\u30a2\u306a\u3089\u3001\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u3092\u4f7f\u3046\u4e8b\u304c\u3067\u304d\u307e\u3059\u3002",
+                "english": "My laptop can connect to the Internet using Wi-Fi service where it is available.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92023.mp3",
+                "kana": "\u308f\u305f\u3057\u306e\u30ce\u30fc\u30c8\u30d1\u30bd\u30b3\u30f3\u306f\u3001\u30ef\u30a4\u30d5\u30a1\u30a4\u306e\u30a8\u30ea\u30a2\u306a\u3089\u3001\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u3092\u3064\u304b\u3046\u3053\u3068\u304c\u3067\u304d\u307e\u3059\u3002",
+                "romaji": "Watashi no n\u014dto pasokon wa, waifai no eria nara, int\u0101netto o tsukau koto ga dekimasu."
+            }
+        ]
+    },
+    {
+        "img": "9220",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251272.mp3",
+        "class": "noun",
+        "english": "reservation",
+        "flashcardId": "2151530",
+        "meaning": "reservation (noun) - an arrangement which you make so that a place in a hotel, restaurant, plane etc is kept for you at a particular time in the future",
+        "id": "32805",
+        "word": "\u4e88\u7d04",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85563.mp3",
+        "kana": "\u3088\u3084\u304f",
+        "romaji": "yoyaku",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251275.mp3",
+                "text": "\u516b\u6642\u306e\u4e88\u7d04",
+                "english": "reservation for 8 PM",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253500.mp3",
+                "kana": "\u306f\u3061\u3058\u306e\u3088\u3084\u304f",
+                "romaji": "hachi-ji no yoyaku"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251273.mp3",
+                "text": "\u4e09\u4eba\u5206\u306e\u4e88\u7d04",
+                "english": "reservation for three",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85564.mp3",
+                "kana": "\u3055\u3093\u306b\u3093\u3076\u3093\u306e\u3088\u3084\u304f",
+                "romaji": "san-nin-bun no yoyaku"
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251275.mp3",
+                "text": "\u516b\u6642\u306e\u4e88\u7d04",
+                "english": "reservation for 8 PM",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/253500.mp3",
+                "kana": "\u306f\u3061\u3058\u306e\u3088\u3084\u304f",
+                "romaji": "hachi-ji no yoyaku"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/251273.mp3",
+                "text": "\u4e09\u4eba\u5206\u306e\u4e88\u7d04",
+                "english": "reservation for three",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85564.mp3",
+                "kana": "\u3055\u3093\u306b\u3093\u3076\u3093\u306e\u3088\u3084\u304f",
+                "romaji": "san-nin-bun no yoyaku"
+            }
+        ]
+    },
+    {
+        "img": "9049",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271751.mp3",
+        "class": "noun",
+        "english": "vacancy",
+        "flashcardId": "2123276",
+        "meaning": "vacancy (noun) - a room in a hotel or building that is not being used and is available for someone to stay in",
+        "id": "32816",
+        "word": "\u7a7a\u304d\u90e8\u5c4b",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263163.mp3",
+        "kana": "\u3042\u304d\u3079\u3084",
+        "romaji": "akibeya"
+    },
+    {
+        "img": "21941",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201100.mp3",
+        "class": "noun",
+        "english": "ping pong",
+        "flashcardId": "2124270",
+        "meaning": "ping pong (noun) - an indoor game played on a table by two people with a small plastic ball and two\tbats",
+        "id": "1397",
+        "word": "\u5353\u7403",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263105.mp3",
+        "kana": "\u305f\u3063\u304d\u3085\u3046",
+        "romaji": "takky\u016b",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201105.mp3",
+                "text": "\u5353\u7403\u3092\u3059\u308b",
+                "english": "play ping pong",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197982.mp3",
+                "kana": "\u305f\u3063\u304d\u3085\u3046\u3092\u3059\u308b",
+                "romaji": "takky\u016b o suru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201104.mp3",
+                "text": "\u5353\u7403\u53f0",
+                "english": "ping pong table",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103407.mp3",
+                "kana": "\u305f\u3063\u304d\u3085\u3046\u3060\u3044",
+                "romaji": "takky\u016bdai"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201106.mp3",
+                "text": "\u82e5\u3044\u7537\u6027\u304c\u5730\u4e0b\u5ba4\u3067\u5353\u7403\u3092\u3057\u3066\u3044\u308b\u3002",
+                "english": "The young man is playing ping pong in the basement.",
+                "en_audio": "",
+                "kana": "\u308f\u304b\u3044\u3060\u3093\u305b\u3044\u304c\u3061\u304b\u3057\u3064\u3067\u305f\u3063\u304d\u3085\u3046\u3092\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Wakai dansei ga chikashitsu de takky\u016b o shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201103.mp3",
+                "text": "\u5353\u7403\u306f\u3001\u30d4\u30f3\u30dd\u30f3\u3068\u3082\u8a00\u308f\u308c\u3066\u304a\u308a\u30011988\u5e74\u304b\u3089\u30aa\u30ea\u30f3\u30d4\u30c3\u30af\u306e\u7a2e\u76ee\u306b\u306a\u3063\u3066\u3044\u308b\u3002",
+                "english": "Table tenis, also known as ping pong, has been an olympic sport since 1988.",
+                "en_audio": "",
+                "kana": "\u305f\u3063\u304d\u3085\u3046\u306f\u3001\u30d4\u30f3\u30dd\u30f3\u3068\u3082\u3044\u308f\u308c\u3066\u304a\u308a\u3001\u305b\u3093\u304d\u3085\u3046\u3072\u3083\u304f\u306f\u3061\u3058\u3085\u3046\u306f\u3061\u306d\u3093\u304b\u3089\u30aa\u30ea\u30f3\u30d4\u30c3\u30af\u306e\u3057\u3085\u3082\u304f\u306b\u306a\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Takky\u016b wa, pinpon to mo iwarete ori, sen ky\u016b-hyaku ky\u016b-j\u016b hachi-nen kara Orinpikku no shumoku ni natte iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201106.mp3",
+                "text": "\u82e5\u3044\u7537\u6027\u304c\u5730\u4e0b\u5ba4\u3067\u5353\u7403\u3092\u3057\u3066\u3044\u308b\u3002",
+                "english": "The young man is playing ping pong in the basement.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197983.mp3",
+                "kana": "\u308f\u304b\u3044\u3060\u3093\u305b\u3044\u304c\u3061\u304b\u3057\u3064\u3067\u305f\u3063\u304d\u3085\u3046\u3092\u3057\u3066\u3044\u308b\u3002",
+                "romaji": "Wakai dansei ga chikashitsu de takky\u016b o shite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201105.mp3",
+                "text": "\u5353\u7403\u3092\u3059\u308b",
+                "english": "play ping pong",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197982.mp3",
+                "kana": "\u305f\u3063\u304d\u3085\u3046\u3092\u3059\u308b",
+                "romaji": "takky\u016b o suru"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201104.mp3",
+                "text": "\u5353\u7403\u53f0",
+                "english": "ping pong table",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103407.mp3",
+                "kana": "\u305f\u3063\u304d\u3085\u3046\u3060\u3044",
+                "romaji": "takky\u016bdai"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201103.mp3",
+                "text": "\u5353\u7403\u306f\u3001\u30d4\u30f3\u30dd\u30f3\u3068\u3082\u8a00\u308f\u308c\u3066\u304a\u308a\u30011988\u5e74\u304b\u3089\u30aa\u30ea\u30f3\u30d4\u30c3\u30af\u306e\u7a2e\u76ee\u306b\u306a\u3063\u3066\u3044\u308b\u3002",
+                "english": "Table tenis, also known as ping pong, has been an olympic sport since 1988.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103406.mp3",
+                "kana": "\u305f\u3063\u304d\u3085\u3046\u306f\u3001\u30d4\u30f3\u30dd\u30f3\u3068\u3082\u3044\u308f\u308c\u3066\u304a\u308a\u3001\u305b\u3093\u304d\u3085\u3046\u3072\u3083\u304f\u306f\u3061\u3058\u3085\u3046\u306f\u3061\u306d\u3093\u304b\u3089\u30aa\u30ea\u30f3\u30d4\u30c3\u30af\u306e\u3057\u3085\u3082\u304f\u306b\u306a\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Takky\u016b wa, pinpon to mo iwarete ori, sen ky\u016b-hyaku ky\u016b-j\u016b hachi-nen kara Orinpikku no shumoku ni natte iru."
+            }
+        ]
+    }
+]

@@ -1,0 +1,118 @@
+[
+    {
+        "img": "8690",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201882.mp3",
+        "class": "noun",
+        "english": "bakery",
+        "flashcardId": "224217",
+        "meaning": "bakery (noun) - a place where bread and cakes are baked, or a shop where they are sold",
+        "id": "5273",
+        "word": "\u30d1\u30f3\u5c4b",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/7859.mp3",
+        "kana": "\u30d1\u30f3\u3084",
+        "romaji": "pan-ya",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/979508.mp3",
+                "text": "\u30d1\u30f3\u5c4b\u306e\u713c\u304d\u83d3\u5b50",
+                "english": "baked goods at a bakery",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102662.mp3",
+                "kana": "\u30d1\u30f3\u3084\u306e\u3084\u304d\u304c\u3057",
+                "romaji": "pan-ya no yakigashi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201883.mp3",
+                "text": "\u5730\u5143\u306e\u30d1\u30f3\u5c4b",
+                "english": "local bakery",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102660.mp3",
+                "kana": "\u3058\u3082\u3068\u306e\u30d1\u30f3\u3084",
+                "romaji": "jimoto no pan-ya"
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/979508.mp3",
+                "text": "\u30d1\u30f3\u5c4b\u306e\u713c\u304d\u83d3\u5b50",
+                "english": "baked goods at a bakery",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102662.mp3",
+                "kana": "\u30d1\u30f3\u3084\u306e\u3084\u304d\u304c\u3057",
+                "romaji": "pan-ya no yakigashi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201883.mp3",
+                "text": "\u5730\u5143\u306e\u30d1\u30f3\u5c4b",
+                "english": "local bakery",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102660.mp3",
+                "kana": "\u3058\u3082\u3068\u306e\u30d1\u30f3\u3084",
+                "romaji": "jimoto no pan-ya"
+            }
+        ]
+    },
+    {
+        "img": "21263",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206215.mp3",
+        "class": "noun",
+        "english": "movie theater",
+        "flashcardId": "2161987",
+        "meaning": "movie theater (noun) - a building where you go in order to watch films",
+        "id": "4196",
+        "word": "\u6620\u753b\u9928",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/687733.mp3",
+        "kana": "\u3048\u3044\u304c\u304b\u3093",
+        "romaji": "eigakan",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206217.mp3",
+                "text": "\u6620\u753b\u9928\u306b\u3044\u308b\u4eba\u305f\u3061",
+                "english": "people in a movie theater",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197905.mp3",
+                "kana": "\u3048\u3044\u304c\u304b\u3093\u306b\u3044\u308b\u3072\u3068\u305f\u3061",
+                "romaji": "eigakan ni iru hito-tachi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206216.mp3",
+                "text": "\u8ab0\u3082\u3044\u306a\u3044\u6620\u753b\u9928",
+                "english": "empty movie theater",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197904.mp3",
+                "kana": "\u3060\u308c\u3082\u3044\u306a\u3044\u3048\u3044\u304c\u304b\u3093",
+                "romaji": "dare mo inai eigakan"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206218.mp3",
+                "text": "\u4eba\u3005\u304c\u6620\u753b\u9928\u3067\u6620\u753b\u3092\u898b\u3066\u3044\u308b\u3002",
+                "english": "The people are watching a movie at a movie theater.",
+                "en_audio": "",
+                "kana": "\u3072\u3068\u3073\u3068\u304c\u3048\u3044\u304c\u304b\u3093\u3067\u3048\u3044\u304c\u3092\u307f\u3066\u3044\u308b\u3002",
+                "romaji": "Hitobito ga eigakan de eiga o mite iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206218.mp3",
+                "text": "\u4eba\u3005\u304c\u6620\u753b\u9928\u3067\u6620\u753b\u3092\u898b\u3066\u3044\u308b\u3002",
+                "english": "The people are watching a movie at a movie theater.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197906.mp3",
+                "kana": "\u3072\u3068\u3073\u3068\u304c\u3048\u3044\u304c\u304b\u3093\u3067\u3048\u3044\u304c\u3092\u307f\u3066\u3044\u308b\u3002",
+                "romaji": "Hitobito ga eigakan de eiga o mite iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206217.mp3",
+                "text": "\u6620\u753b\u9928\u306b\u3044\u308b\u4eba\u305f\u3061",
+                "english": "people in a movie theater",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197905.mp3",
+                "kana": "\u3048\u3044\u304c\u304b\u3093\u306b\u3044\u308b\u3072\u3068\u305f\u3061",
+                "romaji": "eigakan ni iru hito-tachi"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206216.mp3",
+                "text": "\u8ab0\u3082\u3044\u306a\u3044\u6620\u753b\u9928",
+                "english": "empty movie theater",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197904.mp3",
+                "kana": "\u3060\u308c\u3082\u3044\u306a\u3044\u3048\u3044\u304c\u304b\u3093",
+                "romaji": "dare mo inai eigakan"
+            }
+        ]
+    }
+]

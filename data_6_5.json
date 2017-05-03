@@ -1,0 +1,169 @@
+[
+    {
+        "img": "8169",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271859.mp3",
+        "class": "noun",
+        "english": "sign",
+        "flashcardId": "2320522",
+        "meaning": "sign (noun) - the meaning as \"street sign\"",
+        "id": "34766",
+        "word": "\u6a19\u8b58",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2336.mp3",
+        "kana": "\u3072\u3087\u3046\u3057\u304d",
+        "romaji": "hy\u014dshiki",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271862.mp3",
+                "text": "\u8d64\u3044\u505c\u6b62\u306e\u6a19\u8b58",
+                "english": "red stop sign",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89412.mp3",
+                "kana": "\u3042\u304b\u3044\u3066\u3044\u3057\u306e\u3072\u3087\u3046\u3057\u304d",
+                "romaji": "akai teishi no hy\u014dshiki"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271861.mp3",
+                "text": "\u5de6\u6298\u306e\u6a19\u8b58",
+                "english": "left turn sign",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3693.mp3",
+                "kana": "\u3055\u305b\u3064\u306e\u3072\u3087\u3046\u3057\u304d",
+                "romaji": "sasetsu no hy\u014dshiki"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271863.mp3",
+                "text": "\u9053\u8def\u6a19\u8b58\u306f\u3001\u30a6\u30a9\u30fc\u30eb\u901a\u308a\u3068\u30e1\u30a4\u30f3\u901a\u308a\u3092\u793a\u3057\u3066\u3044\u307e\u3059\u3002",
+                "english": "The street signs say Wall St. and Main St.",
+                "en_audio": "",
+                "kana": "\u3069\u3046\u308d\u3072\u3087\u3046\u3057\u304d\u306f\u3001\u30a6\u30a9\u30fc\u30eb\u3069\u304a\u308a\u3068\u30e1\u30a4\u30f3\u3069\u304a\u308a\u3092\u3057\u3081\u3057\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "D\u014dro hy\u014dshiki wa, W\u014dru-d\u014dri to Mein-d\u014dri o shimeshite imasu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271863.mp3",
+                "text": "\u9053\u8def\u6a19\u8b58\u306f\u3001\u30a6\u30a9\u30fc\u30eb\u901a\u308a\u3068\u30e1\u30a4\u30f3\u901a\u308a\u3092\u793a\u3057\u3066\u3044\u307e\u3059\u3002",
+                "english": "The street signs say Wall St. and Main St.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263290.mp3",
+                "kana": "\u3069\u3046\u308d\u3072\u3087\u3046\u3057\u304d\u306f\u3001\u30a6\u30a9\u30fc\u30eb\u3069\u304a\u308a\u3068\u30e1\u30a4\u30f3\u3069\u304a\u308a\u3092\u3057\u3081\u3057\u3066\u3044\u307e\u3059\u3002",
+                "romaji": "D\u014dro hy\u014dshiki wa, W\u014dru-d\u014dri to Mein-d\u014dri o shimeshite imasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271862.mp3",
+                "text": "\u8d64\u3044\u505c\u6b62\u306e\u6a19\u8b58",
+                "english": "red stop sign",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89412.mp3",
+                "kana": "\u3042\u304b\u3044\u3066\u3044\u3057\u306e\u3072\u3087\u3046\u3057\u304d",
+                "romaji": "akai teishi no hy\u014dshiki"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271861.mp3",
+                "text": "\u5de6\u6298\u306e\u6a19\u8b58",
+                "english": "left turn sign",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3693.mp3",
+                "kana": "\u3055\u305b\u3064\u306e\u3072\u3087\u3046\u3057\u304d",
+                "romaji": "sasetsu no hy\u014dshiki"
+            }
+        ]
+    },
+    {
+        "img": "8709",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206884.mp3",
+        "class": "noun",
+        "english": "subway",
+        "flashcardId": "2123189",
+        "meaning": "metro (noun) - a railway system that runs under the ground below a city:; subway (noun) - a railway system that runs under the ground below a big city",
+        "id": "1527",
+        "word": "\u5730\u4e0b\u9244",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/88892.mp3",
+        "kana": "\u3061\u304b\u3066\u3064",
+        "romaji": "chikatetsu",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206885.mp3",
+                "text": "\u5730\u4e0b\u9244\u8eca\u4e21",
+                "english": "subway car",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102798.mp3",
+                "kana": "\u3061\u304b\u3066\u3064\u3057\u3083\u308a\u3087\u3046",
+                "romaji": "chikatetsu shary\u014d"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271850.mp3",
+                "text": "\u79c1\u306f\u5730\u4e0b\u9244\u3067\u4f1a\u793e\u306b\u884c\u304d\u307e\u3059\u3002",
+                "english": "I take the subway to the office.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306f\u3061\u304b\u3066\u3064\u3067\u304b\u3044\u3057\u3083\u306b\u3044\u304d\u307e\u3059\u3002",
+                "romaji": "Watashi wa chikatetsu de kaisha ni ikimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206887.mp3",
+                "text": "\u79c1\u306f\u3001\u5730\u4e0b\u9244\u3067\u753a\u4e2d\u3069\u3053\u3078\u3067\u3082\u884c\u304f\u3053\u3068\u304c\u3067\u304d\u308b\u3002",
+                "english": "I can ride the subway underground all over the city.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306f\u3001\u3061\u304b\u3066\u3064\u3067\u307e\u3061\u3058\u3085\u3046\u3069\u3053\u3078\u3067\u3082\u3044\u304f\u3053\u3068\u304c\u3067\u304d\u308b\u3002",
+                "romaji": "Watashi wa, chikatetsu de machi j\u016b doko e demo iku koto ga dekiru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271850.mp3",
+                "text": "\u79c1\u306f\u5730\u4e0b\u9244\u3067\u4f1a\u793e\u306b\u884c\u304d\u307e\u3059\u3002",
+                "english": "I take the subway to the office.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/254152.mp3",
+                "kana": "\u308f\u305f\u3057\u306f\u3061\u304b\u3066\u3064\u3067\u304b\u3044\u3057\u3083\u306b\u3044\u304d\u307e\u3059\u3002",
+                "romaji": "Watashi wa chikatetsu de kaisha ni ikimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206887.mp3",
+                "text": "\u79c1\u306f\u3001\u5730\u4e0b\u9244\u3067\u753a\u4e2d\u3069\u3053\u3078\u3067\u3082\u884c\u304f\u3053\u3068\u304c\u3067\u304d\u308b\u3002",
+                "english": "I can ride the subway underground all over the city.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102797.mp3",
+                "kana": "\u308f\u305f\u3057\u306f\u3001\u3061\u304b\u3066\u3064\u3067\u307e\u3061\u3058\u3085\u3046\u3069\u3053\u3078\u3067\u3082\u3044\u304f\u3053\u3068\u304c\u3067\u304d\u308b\u3002",
+                "romaji": "Watashi wa, chikatetsu de machi j\u016b doko e demo iku koto ga dekiru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/206885.mp3",
+                "text": "\u5730\u4e0b\u9244\u8eca\u4e21",
+                "english": "subway car",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102798.mp3",
+                "kana": "\u3061\u304b\u3066\u3064\u3057\u3083\u308a\u3087\u3046",
+                "romaji": "chikatetsu shary\u014d"
+            }
+        ]
+    },
+    {
+        "img": "8208",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/549537.mp3",
+        "class": "noun",
+        "english": "train station",
+        "flashcardId": "224762",
+        "meaning": "train station (phrase)",
+        "id": "5118",
+        "word": "\u99c5",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263306.mp3",
+        "kana": "\u3048\u304d",
+        "romaji": "eki",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/529177.mp3",
+                "text": "\u99c5\u3067",
+                "english": "at the train station",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263307.mp3",
+                "kana": "\u3048\u304d\u3067",
+                "romaji": "eki de"
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/529177.mp3",
+                "text": "\u99c5\u3067",
+                "english": "at the train station",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/263307.mp3",
+                "kana": "\u3048\u304d\u3067",
+                "romaji": "eki de"
+            }
+        ]
+    }
+]

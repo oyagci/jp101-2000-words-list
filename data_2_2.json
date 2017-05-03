@@ -1,0 +1,2189 @@
+[
+    {
+        "img": "9099",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201436.mp3",
+        "class": "i-adjective",
+        "english": "hot",
+        "flashcardId": "1703974",
+        "meaning": "hot (adjective) - temperature of physical thing; hot (adjective) - temperature",
+        "id": "2689",
+        "word": "\u71b1\u3044",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/105331.mp3",
+        "kana": "\u3042\u3064\u3044",
+        "romaji": "atsui",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/529108.mp3",
+                "text": "\u71b1\u3044\u30d7\u30ec\u30fc\u30c8",
+                "english": "hot plate",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262762.mp3",
+                "kana": "\u3042\u3064\u3044\u30d7\u30ec\u30fc\u30c8",
+                "romaji": "atsui pur\u0113to"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/529107.mp3",
+                "text": "\u71b1\u3044\u98f2\u307f\u7269",
+                "english": "hot drink",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262761.mp3",
+                "kana": "\u3042\u3064\u3044\u306e\u307f\u3082\u306e",
+                "romaji": "atsui nomimono"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/529109.mp3",
+                "text": "\u3053\u308c\u306f\u3068\u3066\u3082\u71b1\u3044\u304b\u3089\u3001\u89e6\u3089\u306a\u3044\u3067\u3002",
+                "english": "This is really hot, so don't touch it.",
+                "en_audio": "",
+                "kana": "\u3053\u308c\u306f\u3068\u3066\u3082\u3042\u3064\u3044\u304b\u3089\u3001\u3055\u308f\u3089\u306a\u3044\u3067\u3002",
+                "romaji": "Kore wa totemo atsui kara, sawaranaide."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/529109.mp3",
+                "text": "\u3053\u308c\u306f\u3068\u3066\u3082\u71b1\u3044\u304b\u3089\u3001\u89e6\u3089\u306a\u3044\u3067\u3002",
+                "english": "This is really hot, so don't touch it.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262763.mp3",
+                "kana": "\u3053\u308c\u306f\u3068\u3066\u3082\u3042\u3064\u3044\u304b\u3089\u3001\u3055\u308f\u3089\u306a\u3044\u3067\u3002",
+                "romaji": "Kore wa totemo atsui kara, sawaranaide."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/529108.mp3",
+                "text": "\u71b1\u3044\u30d7\u30ec\u30fc\u30c8",
+                "english": "hot plate",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262762.mp3",
+                "kana": "\u3042\u3064\u3044\u30d7\u30ec\u30fc\u30c8",
+                "romaji": "atsui pur\u0113to"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/529107.mp3",
+                "text": "\u71b1\u3044\u98f2\u307f\u7269",
+                "english": "hot drink",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262761.mp3",
+                "kana": "\u3042\u3064\u3044\u306e\u307f\u3082\u306e",
+                "romaji": "atsui nomimono"
+            }
+        ]
+    },
+    {
+        "img": "8570",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271306.mp3",
+        "class": "na-adjective",
+        "english": "clean",
+        "flashcardId": "224420",
+        "meaning": "clean (adjective) - without any dirt, marks etc",
+        "id": "2423",
+        "word": "\u304d\u308c\u3044",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4232.mp3",
+        "kana": "\u304d\u308c\u3044",
+        "romaji": "kirei",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1204.mp3",
+                "text": "\u304d\u308c\u3044\u306a\u90e8\u5c4b",
+                "english": "clean room",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4233.mp3",
+                "kana": "\u304d\u308c\u3044\u306a\u3078\u3084",
+                "romaji": "kirei na heya"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1205.mp3",
+                "text": "\u53f0\u6240\u306f\u304d\u308c\u3044\u3060\u304c\u3001\u5bdd\u5ba4\u306f\u307e\u3060\u6c5a\u3044\u3002",
+                "english": "The kitchen is clean, but the bedroom is still messy.",
+                "en_audio": "",
+                "kana": "\u3060\u3044\u3069\u3053\u308d\u306f\u304d\u308c\u3044\u3060\u304c\u3001\u3057\u3093\u3057\u3064\u306f\u307e\u3060\u304d\u305f\u306a\u3044\u3002",
+                "romaji": "Daidokoro wa kirei da ga, shinshitsu wa mada kitanai."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1205.mp3",
+                "text": "\u53f0\u6240\u306f\u304d\u308c\u3044\u3060\u304c\u3001\u5bdd\u5ba4\u306f\u307e\u3060\u6c5a\u3044\u3002",
+                "english": "The kitchen is clean, but the bedroom is still messy.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4234.mp3",
+                "kana": "\u3060\u3044\u3069\u3053\u308d\u306f\u304d\u308c\u3044\u3060\u304c\u3001\u3057\u3093\u3057\u3064\u306f\u307e\u3060\u304d\u305f\u306a\u3044\u3002",
+                "romaji": "Daidokoro wa kirei da ga, shinshitsu wa mada kitanai."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1204.mp3",
+                "text": "\u304d\u308c\u3044\u306a\u90e8\u5c4b",
+                "english": "clean room",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4233.mp3",
+                "kana": "\u304d\u308c\u3044\u306a\u3078\u3084",
+                "romaji": "kirei na heya"
+            }
+        ]
+    },
+    {
+        "img": "8310",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1209.mp3",
+        "class": "i-adjective",
+        "english": "dirty",
+        "flashcardId": "2166622",
+        "meaning": "dirty (adjective) - covered in or marked by an unwanted substance",
+        "id": "8070",
+        "word": "\u6c5a\u3044",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4241.mp3",
+        "kana": "\u304d\u305f\u306a\u3044",
+        "romaji": "kitanai",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1210.mp3",
+                "text": "\u6c5a\u3044\u670d",
+                "english": "dirty clothes",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4242.mp3",
+                "kana": "\u304d\u305f\u306a\u3044\u3075\u304f",
+                "romaji": "kitanai fuku"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271308.mp3",
+                "text": "\u30d5\u30a9\u30fc\u30af\u304c\u6c5a\u3044\u76bf\u306e\u4e0a\u306b\u3042\u308a\u307e\u3059\u3002",
+                "english": "The fork is on the dirty plate.",
+                "en_audio": "",
+                "kana": "\u30d5\u30a9\u30fc\u30af\u304c\u304d\u305f\u306a\u3044\u3055\u3089\u306e\u3046\u3048\u306b\u3042\u308a\u307e\u3059\u3002",
+                "romaji": "F\u014dku ga kitanai sara no ue ni arimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1211.mp3",
+                "text": "\u305d\u306e\u753a\u306e\u9053\u306f\u3068\u3066\u3082\u6c5a\u3044\u3002",
+                "english": "The city streets are very dirty.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u307e\u3061\u306e\u307f\u3061\u306f\u3068\u3066\u3082\u304d\u305f\u306a\u3044\u3002",
+                "romaji": "Sono machi no michi wa totemo kitanai."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271308.mp3",
+                "text": "\u30d5\u30a9\u30fc\u30af\u304c\u6c5a\u3044\u76bf\u306e\u4e0a\u306b\u3042\u308a\u307e\u3059\u3002",
+                "english": "The fork is on the dirty plate.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/105615.mp3",
+                "kana": "\u30d5\u30a9\u30fc\u30af\u304c\u304d\u305f\u306a\u3044\u3055\u3089\u306e\u3046\u3048\u306b\u3042\u308a\u307e\u3059\u3002",
+                "romaji": "F\u014dku ga kitanai sara no ue ni arimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1211.mp3",
+                "text": "\u305d\u306e\u753a\u306e\u9053\u306f\u3068\u3066\u3082\u6c5a\u3044\u3002",
+                "english": "The city streets are very dirty.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4243.mp3",
+                "kana": "\u305d\u306e\u307e\u3061\u306e\u307f\u3061\u306f\u3068\u3066\u3082\u304d\u305f\u306a\u3044\u3002",
+                "romaji": "Sono machi no michi wa totemo kitanai."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1210.mp3",
+                "text": "\u6c5a\u3044\u670d",
+                "english": "dirty clothes",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4242.mp3",
+                "kana": "\u304d\u305f\u306a\u3044\u3075\u304f",
+                "romaji": "kitanai fuku"
+            }
+        ]
+    },
+    {
+        "img": "17496",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201529.mp3",
+        "class": "i-adjective",
+        "english": "low",
+        "flashcardId": "2166621",
+        "meaning": "low (adjective) - small, or smaller than usual, in amount, level, or value",
+        "id": "31931",
+        "word": "\u4f4e\u3044",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262780.mp3",
+        "kana": "\u3072\u304f\u3044",
+        "romaji": "hikui",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271303.mp3",
+                "text": "\u4f4e\u3044\u5f97\u70b9",
+                "english": "low score",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262781.mp3",
+                "kana": "\u3072\u304f\u3044\u3068\u304f\u3066\u3093",
+                "romaji": "hikui tokuten"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/891794.mp3",
+                "text": "\u3053\u306e\u8eca\u306e\u5024\u6bb5\u306f\u5b89\u3059\u304e\u307e\u3059\u3002",
+                "english": "The price of this car is too low.",
+                "en_audio": "",
+                "kana": "\u3053\u306e\u304f\u308b\u307e\u306e\u306d\u3060\u3093\u306f\u3084\u3059\u3059\u304e\u307e\u3059\u3002",
+                "romaji": "Kono kuruma no nedan wa yasu sugimasu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/891794.mp3",
+                "text": "\u3053\u306e\u8eca\u306e\u5024\u6bb5\u306f\u5b89\u3059\u304e\u307e\u3059\u3002",
+                "english": "The price of this car is too low.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262783.mp3",
+                "kana": "\u3053\u306e\u304f\u308b\u307e\u306e\u306d\u3060\u3093\u306f\u3084\u3059\u3059\u304e\u307e\u3059\u3002",
+                "romaji": "Kono kuruma no nedan wa yasu sugimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271303.mp3",
+                "text": "\u4f4e\u3044\u5f97\u70b9",
+                "english": "low score",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262781.mp3",
+                "kana": "\u3072\u304f\u3044\u3068\u304f\u3066\u3093",
+                "romaji": "hikui tokuten"
+            }
+        ]
+    },
+    {
+        "img": "17230",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201528.mp3",
+        "class": "i-adjective",
+        "english": "high",
+        "flashcardId": "2166620",
+        "meaning": "high (adjective) - \tmeasuring a long distance from the bottom to the top",
+        "id": "31925",
+        "word": "\u9ad8\u3044",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262776.mp3",
+        "kana": "\u305f\u304b\u3044",
+        "romaji": "takai",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225963.mp3",
+                "text": "\u80cc\u304c\u9ad8\u3044",
+                "english": "tall",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87293.mp3",
+                "kana": "\u305b\u304c\u305f\u304b\u3044",
+                "romaji": "se ga takai"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271300.mp3",
+                "text": "\u9ad8\u3044\u5f97\u70b9",
+                "english": "high score",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262777.mp3",
+                "kana": "\u305f\u304b\u3044\u3068\u304f\u3066\u3093",
+                "romaji": "takai tokuten"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1170949.mp3",
+                "text": "\u5f7c\u306f\u80cc\u304c\u9ad8\u3044\u3067\u3059\u3002",
+                "english": "He is tall.",
+                "en_audio": "",
+                "kana": "\u304b\u308c\u306f\u305b\u304c\u305f\u304b\u3044\u3067\u3059\u3002",
+                "romaji": "Kare wa se ga takai desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271302.mp3",
+                "text": "\u3053\u306e\u30b8\u30e3\u30b1\u30c3\u30c8\u306e\u5024\u6bb5\u306f\u9ad8\u3059\u304e\u307e\u3059\u3002",
+                "english": "The price of this jacket is too high.",
+                "en_audio": "",
+                "kana": "\u3053\u306e\u30b8\u30e3\u30b1\u30c3\u30c8\u306e\u306d\u3060\u3093\u306f\u305f\u304b\u3059\u304e\u307e\u3059\u3002",
+                "romaji": "Kono jaketto no nedan wa taka sugimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271301.mp3",
+                "text": "\u9ad8\u3044\u5024\u6bb5",
+                "english": "high price",
+                "en_audio": "",
+                "kana": "\u305f\u304b\u3044\u306d\u3060\u3093",
+                "romaji": "takai nedan"
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1170949.mp3",
+                "text": "\u5f7c\u306f\u80cc\u304c\u9ad8\u3044\u3067\u3059\u3002",
+                "english": "He is tall.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1179967.mp3",
+                "kana": "\u304b\u308c\u306f\u305b\u304c\u305f\u304b\u3044\u3067\u3059\u3002",
+                "romaji": "Kare wa se ga takai desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/225963.mp3",
+                "text": "\u80cc\u304c\u9ad8\u3044",
+                "english": "tall",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87293.mp3",
+                "kana": "\u305b\u304c\u305f\u304b\u3044",
+                "romaji": "se ga takai"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271302.mp3",
+                "text": "\u3053\u306e\u30b8\u30e3\u30b1\u30c3\u30c8\u306e\u5024\u6bb5\u306f\u9ad8\u3059\u304e\u307e\u3059\u3002",
+                "english": "The price of this jacket is too high.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262779.mp3",
+                "kana": "\u3053\u306e\u30b8\u30e3\u30b1\u30c3\u30c8\u306e\u306d\u3060\u3093\u306f\u305f\u304b\u3059\u304e\u307e\u3059\u3002",
+                "romaji": "Kono jaketto no nedan wa taka sugimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271301.mp3",
+                "text": "\u9ad8\u3044\u5024\u6bb5",
+                "english": "high price",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262778.mp3",
+                "kana": "\u305f\u304b\u3044\u306d\u3060\u3093",
+                "romaji": "takai nedan"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271300.mp3",
+                "text": "\u9ad8\u3044\u5f97\u70b9",
+                "english": "high score",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262777.mp3",
+                "kana": "\u305f\u304b\u3044\u3068\u304f\u3066\u3093",
+                "romaji": "takai tokuten"
+            }
+        ]
+    },
+    {
+        "img": "21817",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1417.mp3",
+        "class": "noun",
+        "english": "fruit",
+        "flashcardId": "224432",
+        "meaning": "fruit (noun) - \tsomething that grows on a plant, tree, or bush, can be eaten as a food, contains seeds or a stone, and is usually sweet",
+        "id": "631",
+        "word": "\u679c\u7269",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87866.mp3",
+        "kana": "\u304f\u3060\u3082\u306e",
+        "romaji": "kudamono",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1422.mp3",
+                "text": "\u4e00\u5207\u308c\u306e\u679c\u7269",
+                "english": "piece of fruit",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4651.mp3",
+                "kana": "\u3072\u3068\u304d\u308c\u306e\u304f\u3060\u3082\u306e",
+                "romaji": "hito-kire no kudamono"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1421.mp3",
+                "text": "\u65b0\u9bae\u306a\u679c\u7269",
+                "english": "fresh fruit",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4650.mp3",
+                "kana": "\u3057\u3093\u305b\u3093\u306a\u304f\u3060\u3082\u306e",
+                "romaji": "shinsen na kudamono"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252015.mp3",
+                "text": "\u5c11\u306a\u304f\u3068\u3082\u4e00\u65e5\u306b\u4e00\u5ea6\u306f\u679c\u7269\u3092\u98df\u3079\u305f\u65b9\u304c\u3044\u3044\u3002",
+                "english": "You should eat fruit at least once a day.",
+                "en_audio": "",
+                "kana": "\u3059\u304f\u306a\u304f\u3068\u3082\u3044\u3061\u306b\u3061\u306b\u3044\u3061\u3069\u306f\u304f\u3060\u3082\u306e\u3092\u305f\u3079\u305f\u307b\u3046\u304c\u3044\u3044\u3002",
+                "romaji": "Sukunaku tomo ichi-nichi ni ichi-do wa kudamono o tabeta h\u014d ga ii."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1422.mp3",
+                "text": "\u4e00\u5207\u308c\u306e\u679c\u7269",
+                "english": "piece of fruit",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4651.mp3",
+                "kana": "\u3072\u3068\u304d\u308c\u306e\u304f\u3060\u3082\u306e",
+                "romaji": "hito-kire no kudamono"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1421.mp3",
+                "text": "\u65b0\u9bae\u306a\u679c\u7269",
+                "english": "fresh fruit",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4650.mp3",
+                "kana": "\u3057\u3093\u305b\u3093\u306a\u304f\u3060\u3082\u306e",
+                "romaji": "shinsen na kudamono"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252015.mp3",
+                "text": "\u5c11\u306a\u304f\u3068\u3082\u4e00\u65e5\u306b\u4e00\u5ea6\u306f\u679c\u7269\u3092\u98df\u3079\u305f\u65b9\u304c\u3044\u3044\u3002",
+                "english": "You should eat fruit at least once a day.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4649.mp3",
+                "kana": "\u3059\u304f\u306a\u304f\u3068\u3082\u3044\u3061\u306b\u3061\u306b\u3044\u3061\u3069\u306f\u304f\u3060\u3082\u306e\u3092\u305f\u3079\u305f\u307b\u3046\u304c\u3044\u3044\u3002",
+                "romaji": "Sukunaku tomo ichi-nichi ni ichi-do wa kudamono o tabeta h\u014d ga ii."
+            }
+        ]
+    },
+    {
+        "img": "9656",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1424.mp3",
+        "class": "noun",
+        "english": "banana",
+        "flashcardId": "224433",
+        "meaning": "banana (noun) - a long curved tropical fruit with a yellow skin",
+        "id": "633",
+        "word": "\u30d0\u30ca\u30ca",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87869.mp3",
+        "kana": "\u30d0\u30ca\u30ca",
+        "romaji": "banana",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201283.mp3",
+                "text": "\u719f\u3057\u305f\u30d0\u30ca\u30ca\u3068\u8150\u3063\u305f\u30d0\u30ca\u30ca",
+                "english": "a ripe banana and a rotten banana",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197878.mp3",
+                "kana": "\u3058\u3085\u304f\u3057\u305f\u30d0\u30ca\u30ca\u3068\u304f\u3055\u3063\u305f\u30d0\u30ca\u30ca",
+                "romaji": "jukushita banana to kusatta banana"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1426.mp3",
+                "text": "\u30d0\u30ca\u30ca\u30d6\u30ec\u30c3\u30c9",
+                "english": "banana bread",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4658.mp3",
+                "kana": "\u30d0\u30ca\u30ca\u30d6\u30ec\u30c3\u30c9",
+                "romaji": "banana bureddo"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1427.mp3",
+                "text": "\u76ae\u3092\u3080\u3044\u305f\u30d0\u30ca\u30ca",
+                "english": "peeled banana",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4659.mp3",
+                "kana": "\u304b\u308f\u3092\u3080\u3044\u305f\u30d0\u30ca\u30ca",
+                "romaji": "kawa o muita banana"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1425.mp3",
+                "text": "\u30d0\u30ca\u30ca\u306e\u76ae",
+                "english": "banana peel",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4656.mp3",
+                "kana": "\u30d0\u30ca\u30ca\u306e\u304b\u308f",
+                "romaji": "banana no kawa"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201284.mp3",
+                "text": "\u30d0\u30ca\u30ca\u306f\u30ab\u30ea\u30a6\u30e0\u304c\u8c4a\u5bcc\u3067\u3059\u3002",
+                "english": "Bananas are rich in potassium.",
+                "en_audio": "",
+                "kana": "\u30d0\u30ca\u30ca\u306f\u30ab\u30ea\u30a6\u30e0\u304c\u307b\u3046\u3075\u3067\u3059\u3002",
+                "romaji": "Banana wa kariumu ga h\u014dfu desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1429.mp3",
+                "text": "\u30d0\u30ca\u30ca\u306f\u30d7\u30c7\u30a3\u30f3\u30b0\u3084\u30b1\u30fc\u30ad\u306a\u3069\u306e\u6599\u7406\u306b\u4f7f\u3063\u3066\u3082\u826f\u3044\u304c\u3001\u79c1\u306f\u751f\u306e\u30d0\u30ca\u30ca\u304c\u4e00\u756a\u597d\u304d\u3067\u3059\u3002",
+                "english": "Bananas are good cooked, in puddings, or in cakes, but I like raw bananas best.",
+                "en_audio": "",
+                "kana": "\u30d0\u30ca\u30ca\u306f\u30d7\u30c7\u30a3\u30f3\u30b0\u3084\u30b1\u30fc\u30ad\u306a\u3069\u306e\u308a\u3087\u3046\u308a\u306b\u3064\u304b\u3063\u3066\u3082\u3088\u3044\u304c\u3001\u308f\u305f\u3057\u306f\u306a\u307e\u306e\u30d0\u30ca\u30ca\u304c\u3044\u3061\u3070\u3093\u3059\u304d\u3067\u3059\u3002",
+                "romaji": "Banana wa pudingu ya k\u0113ki nado no ry\u014dri ni tsukatte mo yoi ga, watashi wa nama no banana ga ichi-ban suki desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1428.mp3",
+                "text": "\u30d0\u30ca\u30ca\u306f\u5357\u56fd\u3067\u80b2\u3066\u3089\u308c\u308b\u304c\u3001\u4e16\u754c\u4e2d\u306e\u4eba\u304c\u98df\u3079\u307e\u3059\u3002",
+                "english": "Bananas are grown in the tropics, but people throughout the world eat them.",
+                "en_audio": "",
+                "kana": "\u30d0\u30ca\u30ca\u306f\u306a\u3093\u3054\u304f\u3067\u305d\u3060\u3066\u3089\u308c\u308b\u304c\u3001\u305b\u304b\u3044\u3058\u3085\u3046\u306e\u3072\u3068\u304c\u305f\u3079\u307e\u3059\u3002",
+                "romaji": "Banana wa nangoku de sodaterareru ga, sekaij\u016b no hito ga tabemasu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201283.mp3",
+                "text": "\u719f\u3057\u305f\u30d0\u30ca\u30ca\u3068\u8150\u3063\u305f\u30d0\u30ca\u30ca",
+                "english": "a ripe banana and a rotten banana",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197878.mp3",
+                "kana": "\u3058\u3085\u304f\u3057\u305f\u30d0\u30ca\u30ca\u3068\u304f\u3055\u3063\u305f\u30d0\u30ca\u30ca",
+                "romaji": "jukushita banana to kusatta banana"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201284.mp3",
+                "text": "\u30d0\u30ca\u30ca\u306f\u30ab\u30ea\u30a6\u30e0\u304c\u8c4a\u5bcc\u3067\u3059\u3002",
+                "english": "Bananas are rich in potassium.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197879.mp3",
+                "kana": "\u30d0\u30ca\u30ca\u306f\u30ab\u30ea\u30a6\u30e0\u304c\u307b\u3046\u3075\u3067\u3059\u3002",
+                "romaji": "Banana wa kariumu ga h\u014dfu desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1429.mp3",
+                "text": "\u30d0\u30ca\u30ca\u306f\u30d7\u30c7\u30a3\u30f3\u30b0\u3084\u30b1\u30fc\u30ad\u306a\u3069\u306e\u6599\u7406\u306b\u4f7f\u3063\u3066\u3082\u826f\u3044\u304c\u3001\u79c1\u306f\u751f\u306e\u30d0\u30ca\u30ca\u304c\u4e00\u756a\u597d\u304d\u3067\u3059\u3002",
+                "english": "Bananas are good cooked, in puddings, or in cakes, but I like raw bananas best.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4657.mp3",
+                "kana": "\u30d0\u30ca\u30ca\u306f\u30d7\u30c7\u30a3\u30f3\u30b0\u3084\u30b1\u30fc\u30ad\u306a\u3069\u306e\u308a\u3087\u3046\u308a\u306b\u3064\u304b\u3063\u3066\u3082\u3088\u3044\u304c\u3001\u308f\u305f\u3057\u306f\u306a\u307e\u306e\u30d0\u30ca\u30ca\u304c\u3044\u3061\u3070\u3093\u3059\u304d\u3067\u3059\u3002",
+                "romaji": "Banana wa pudingu ya k\u0113ki nado no ry\u014dri ni tsukatte mo yoi ga, watashi wa nama no banana ga ichi-ban suki desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1428.mp3",
+                "text": "\u30d0\u30ca\u30ca\u306f\u5357\u56fd\u3067\u80b2\u3066\u3089\u308c\u308b\u304c\u3001\u4e16\u754c\u4e2d\u306e\u4eba\u304c\u98df\u3079\u307e\u3059\u3002",
+                "english": "Bananas are grown in the tropics, but people throughout the world eat them.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4655.mp3",
+                "kana": "\u30d0\u30ca\u30ca\u306f\u306a\u3093\u3054\u304f\u3067\u305d\u3060\u3066\u3089\u308c\u308b\u304c\u3001\u305b\u304b\u3044\u3058\u3085\u3046\u306e\u3072\u3068\u304c\u305f\u3079\u307e\u3059\u3002",
+                "romaji": "Banana wa nangoku de sodaterareru ga, sekaij\u016b no hito ga tabemasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1426.mp3",
+                "text": "\u30d0\u30ca\u30ca\u30d6\u30ec\u30c3\u30c9",
+                "english": "banana bread",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4658.mp3",
+                "kana": "\u30d0\u30ca\u30ca\u30d6\u30ec\u30c3\u30c9",
+                "romaji": "banana bureddo"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1427.mp3",
+                "text": "\u76ae\u3092\u3080\u3044\u305f\u30d0\u30ca\u30ca",
+                "english": "peeled banana",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4659.mp3",
+                "kana": "\u304b\u308f\u3092\u3080\u3044\u305f\u30d0\u30ca\u30ca",
+                "romaji": "kawa o muita banana"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1425.mp3",
+                "text": "\u30d0\u30ca\u30ca\u306e\u76ae",
+                "english": "banana peel",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4656.mp3",
+                "kana": "\u30d0\u30ca\u30ca\u306e\u304b\u308f",
+                "romaji": "banana no kawa"
+            }
+        ]
+    },
+    {
+        "img": "21816",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252017.mp3",
+        "class": "noun",
+        "english": "apple",
+        "flashcardId": "224434",
+        "meaning": "apple (noun) - a hard round fruit that has red, light green, or yellow skin and is white inside:",
+        "id": "15248",
+        "word": "\u308a\u3093\u3054",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/89146.mp3",
+        "kana": "\u308a\u3093\u3054",
+        "romaji": "ringo",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1342544.mp3",
+                "text": "\u9752\u308a\u3093\u3054",
+                "english": "green apple",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2403.mp3",
+                "kana": "\u3042\u304a\u308a\u3093\u3054",
+                "romaji": "aoringo"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1342543.mp3",
+                "text": "\u30ea\u30f3\u30b4\u30b8\u30e5\u30fc\u30b9",
+                "english": "apple juice",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2401.mp3",
+                "kana": "\u30ea\u30f3\u30b4\u30b8\u30e5\u30fc\u30b9",
+                "romaji": "ringo j\u016bsu"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201285.mp3",
+                "text": "\u305d\u306e\u5973\u6027\u306f\u308a\u3093\u3054\u3092\u304b\u3058\u3063\u3066\u3044\u308b\u3002",
+                "english": "The woman is chewing an apple.",
+                "en_audio": "",
+                "kana": "\u305d\u306e\u3058\u3087\u305b\u3044\u306f\u308a\u3093\u3054\u3092\u304b\u3058\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Sono josei wa ringo o kajitte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1342498.mp3",
+                "text": "\u4e00\u65e5\u4e00\u500b\u306e\u308a\u3093\u3054\u3092\u98df\u3079\u308c\u3070\u3001\u533b\u8005\u306f\u8981\u3089\u306a\u3044\u3002",
+                "english": "An apple a day keeps the doctor away.",
+                "en_audio": "",
+                "kana": "\u3044\u3061\u306b\u3061\u3044\u3063\u3053\u306e\u308a\u3093\u3054\u3092\u305f\u3079\u308c\u3070\u3001\u3044\u3057\u3083\u306f\u3044\u3089\u306a\u3044\u3002",
+                "romaji": "Ichi-nichi i-kko no ringo o tabereba, isha wa iranai."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201285.mp3",
+                "text": "\u305d\u306e\u5973\u6027\u306f\u308a\u3093\u3054\u3092\u304b\u3058\u3063\u3066\u3044\u308b\u3002",
+                "english": "The woman is chewing an apple.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/92354.mp3",
+                "kana": "\u305d\u306e\u3058\u3087\u305b\u3044\u306f\u308a\u3093\u3054\u3092\u304b\u3058\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Sono josei wa ringo o kajitte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1342498.mp3",
+                "text": "\u4e00\u65e5\u4e00\u500b\u306e\u308a\u3093\u3054\u3092\u98df\u3079\u308c\u3070\u3001\u533b\u8005\u306f\u8981\u3089\u306a\u3044\u3002",
+                "english": "An apple a day keeps the doctor away.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2400.mp3",
+                "kana": "\u3044\u3061\u306b\u3061\u3044\u3063\u3053\u306e\u308a\u3093\u3054\u3092\u305f\u3079\u308c\u3070\u3001\u3044\u3057\u3083\u306f\u3044\u3089\u306a\u3044\u3002",
+                "romaji": "Ichi-nichi i-kko no ringo o tabereba, isha wa iranai."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1342544.mp3",
+                "text": "\u9752\u308a\u3093\u3054",
+                "english": "green apple",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2403.mp3",
+                "kana": "\u3042\u304a\u308a\u3093\u3054",
+                "romaji": "aoringo"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1342543.mp3",
+                "text": "\u30ea\u30f3\u30b4\u30b8\u30e5\u30fc\u30b9",
+                "english": "apple juice",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/2401.mp3",
+                "kana": "\u30ea\u30f3\u30b4\u30b8\u30e5\u30fc\u30b9",
+                "romaji": "ringo j\u016bsu"
+            }
+        ]
+    },
+    {
+        "img": "965",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1555.mp3",
+        "class": "noun",
+        "english": "grape",
+        "flashcardId": "2164234",
+        "meaning": "grape (noun) - one of a number of small round green or purple fruits that grow together on a\tvine.",
+        "id": "635",
+        "word": "\u3076\u3069\u3046",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4810.mp3",
+        "kana": "\u3076\u3069\u3046",
+        "romaji": "bud\u014d",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201291.mp3",
+                "text": "\u4e00\u623f\u306e\u8d64\u3076\u3069\u3046\u3068\u3001\u4e00\u623f\u306e\u767d\u3076\u3069\u3046",
+                "english": "a bunch of red grapes and a bunch of white grapes",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197880.mp3",
+                "kana": "\u3072\u3068\u3075\u3055\u306e\u3042\u304b\u3076\u3069\u3046\u3068\u3001\u3072\u3068\u3075\u3055\u306e\u3057\u308d\u3076\u3069\u3046",
+                "romaji": "hito-fusa no aka bud\u014d to, hito-fusa no shiro bud\u014d"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201287.mp3",
+                "text": "\u3076\u3069\u3046\u30b8\u30e5\u30fc\u30b9",
+                "english": "grape juice",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4816.mp3",
+                "kana": "\u3076\u3069\u3046\u30b8\u30e5\u30fc\u30b9",
+                "romaji": "bud\u014d j\u016bsu"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200791.mp3",
+                "text": "\u306d\u305a\u307f\u304c\u3076\u3069\u3046\u3092\u98df\u3079\u3066\u3044\u308b\u3002",
+                "english": "The mouse is eating a grape.",
+                "en_audio": "",
+                "kana": "\u306d\u305a\u307f\u304c\u3076\u3069\u3046\u3092\u305f\u3079\u3066\u3044\u308b\u3002",
+                "romaji": "Nezumi ga bud\u014d o tabete iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1560.mp3",
+                "text": "\u8d64\u306e\u30d6\u30c9\u30a6\u3082\u7dd1\u306e\u30d6\u30c9\u30a6\u3082\u3088\u304f\u643e\u308b\u3068\u30ef\u30a4\u30f3\u3084\u30b8\u30e5\u30fc\u30b9\u306b\u306a\u308a\u307e\u3059\u3002",
+                "english": "Both red and green grapes are good squeezed and turned into wine or juice.",
+                "en_audio": "",
+                "kana": "\u3042\u304b\u306e\u30d6\u30c9\u30a6\u3082\u307f\u3069\u308a\u306e\u30d6\u30c9\u30a6\u3082\u3088\u304f\u3057\u307c\u308b\u3068\u30ef\u30a4\u30f3\u3084\u30b8\u30e5\u30fc\u30b9\u306b\u306a\u308a\u307e\u3059\u3002",
+                "romaji": "Aka no bud\u014d mo midori no bud\u014d mo yoku shiboru to wain ya j\u016bsu ni narimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252018.mp3",
+                "text": "\u4eca\u3067\u3082\u4eba\u3005\u306f\u3001\u88f8\u8db3\u3067\u30d6\u30c9\u30a6\u3092\u8e0f\u3093\u3067\u3001\u30ef\u30a4\u30f3\u3092\u9020\u3063\u3066\u3044\u308b\u306e\u3067\u3059\u304b\uff1f",
+                "english": "Do people still stomp on grapes in their bare feet to make wine?",
+                "en_audio": "",
+                "kana": "\u3044\u307e\u3067\u3082\u3072\u3068\u3073\u3068\u306f\u3001\u306f\u3060\u3057\u3067\u30d6\u30c9\u30a6\u3092\u3075\u3093\u3067\u3001\u30ef\u30a4\u30f3\u3092\u3064\u304f\u3063\u3066\u3044\u308b\u306e\u3067\u3059\u304b\uff1f",
+                "romaji": "Ima de mo hitobito wa hadashi de bud\u014d o funde, wain o tsukutte iru no desu ka?"
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/200791.mp3",
+                "text": "\u306d\u305a\u307f\u304c\u3076\u3069\u3046\u3092\u98df\u3079\u3066\u3044\u308b\u3002",
+                "english": "The mouse is eating a grape.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/77788.mp3",
+                "kana": "\u306d\u305a\u307f\u304c\u3076\u3069\u3046\u3092\u305f\u3079\u3066\u3044\u308b\u3002",
+                "romaji": "Nezumi ga bud\u014d o tabete iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201291.mp3",
+                "text": "\u4e00\u623f\u306e\u8d64\u3076\u3069\u3046\u3068\u3001\u4e00\u623f\u306e\u767d\u3076\u3069\u3046",
+                "english": "a bunch of red grapes and a bunch of white grapes",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197880.mp3",
+                "kana": "\u3072\u3068\u3075\u3055\u306e\u3042\u304b\u3076\u3069\u3046\u3068\u3001\u3072\u3068\u3075\u3055\u306e\u3057\u308d\u3076\u3069\u3046",
+                "romaji": "hito-fusa no aka bud\u014d to, hito-fusa no shiro bud\u014d"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201287.mp3",
+                "text": "\u3076\u3069\u3046\u30b8\u30e5\u30fc\u30b9",
+                "english": "grape juice",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4816.mp3",
+                "kana": "\u3076\u3069\u3046\u30b8\u30e5\u30fc\u30b9",
+                "romaji": "bud\u014d j\u016bsu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1560.mp3",
+                "text": "\u8d64\u306e\u30d6\u30c9\u30a6\u3082\u7dd1\u306e\u30d6\u30c9\u30a6\u3082\u3088\u304f\u643e\u308b\u3068\u30ef\u30a4\u30f3\u3084\u30b8\u30e5\u30fc\u30b9\u306b\u306a\u308a\u307e\u3059\u3002",
+                "english": "Both red and green grapes are good squeezed and turned into wine or juice.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4815.mp3",
+                "kana": "\u3042\u304b\u306e\u30d6\u30c9\u30a6\u3082\u307f\u3069\u308a\u306e\u30d6\u30c9\u30a6\u3082\u3088\u304f\u3057\u307c\u308b\u3068\u30ef\u30a4\u30f3\u3084\u30b8\u30e5\u30fc\u30b9\u306b\u306a\u308a\u307e\u3059\u3002",
+                "romaji": "Aka no bud\u014d mo midori no bud\u014d mo yoku shiboru to wain ya j\u016bsu ni narimasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252018.mp3",
+                "text": "\u4eca\u3067\u3082\u4eba\u3005\u306f\u3001\u88f8\u8db3\u3067\u30d6\u30c9\u30a6\u3092\u8e0f\u3093\u3067\u3001\u30ef\u30a4\u30f3\u3092\u9020\u3063\u3066\u3044\u308b\u306e\u3067\u3059\u304b\uff1f",
+                "english": "Do people still stomp on grapes in their bare feet to make wine?",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4813.mp3",
+                "kana": "\u3044\u307e\u3067\u3082\u3072\u3068\u3073\u3068\u306f\u3001\u306f\u3060\u3057\u3067\u30d6\u30c9\u30a6\u3092\u3075\u3093\u3067\u3001\u30ef\u30a4\u30f3\u3092\u3064\u304f\u3063\u3066\u3044\u308b\u306e\u3067\u3059\u304b\uff1f",
+                "romaji": "Ima de mo hitobito wa hadashi de bud\u014d o funde, wain o tsukutte iru no desu ka?"
+            }
+        ]
+    },
+    {
+        "img": "17296",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1561.mp3",
+        "class": "noun",
+        "english": "watermelon",
+        "flashcardId": "224436",
+        "meaning": "watermelon (noun) - a large round fruit with hard green skin, red flesh, and black seeds",
+        "id": "636",
+        "word": "\u30b9\u30a4\u30ab",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/305959.mp3",
+        "kana": "\u30b9\u30a4\u30ab",
+        "romaji": "suika",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201292.mp3",
+                "text": "\u7a2e\u7121\u3057\u30b9\u30a4\u30ab",
+                "english": "seedless watermelon",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4824.mp3",
+                "kana": "\u305f\u306d\u306a\u3057\u30b9\u30a4\u30ab",
+                "romaji": "tanenashi suika"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1564.mp3",
+                "text": "\u4e38\u3054\u3068\u4e00\u500b\u306e\u30b9\u30a4\u30ab\u3068\u4e00\u5207\u308c\u306e\u30b9\u30a4\u30ab",
+                "english": "whole watermelon and a slice of watermelon",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4825.mp3",
+                "kana": "\u307e\u308b\u3054\u3068\u3044\u3063\u3053\u306e\u30b9\u30a4\u30ab\u3068\u3072\u3068\u304d\u308c\u306e\u30b9\u30a4\u30ab",
+                "romaji": "marugoto i-kko no suika to hito-kire no suika"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1562.mp3",
+                "text": "\u51b7\u3048\u305f\u30b9\u30a4\u30ab",
+                "english": "chilled watermelon",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4822.mp3",
+                "kana": "\u3072\u3048\u305f\u30b9\u30a4\u30ab",
+                "romaji": "hieta suika"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226662.mp3",
+                "text": "\u6691\u3044\u590f\u306e\u65e5\u306e\u51b7\u3048\u305f\u30b9\u30a4\u30ab\u306f\u3001\u3055\u3063\u3071\u308a\u3057\u305f\u304a\u3084\u3064\u306b\u3082\u306a\u308b\u3057\u30c7\u30b6\u30fc\u30c8\u306b\u3082\u306a\u308b\u3002",
+                "english": "Cold watermelon is a refreshing snack or dessert on a hot summer day.",
+                "en_audio": "",
+                "kana": "\u3042\u3064\u3044\u306a\u3064\u306e\u3072\u306e\u3072\u3048\u305f\u30b9\u30a4\u30ab\u306f\u3001\u3055\u3063\u3071\u308a\u3057\u305f\u304a\u3084\u3064\u306b\u3082\u306a\u308b\u3057\u30c7\u30b6\u30fc\u30c8\u306b\u3082\u306a\u308b\u3002",
+                "romaji": "Atsui natsu no hi no hieta suika wa, sappari shita oyatsu ni mo naru shi dez\u0101to ni mo naru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226661.mp3",
+                "text": "\u590f\u306e\u51b7\u3048\u305f\u30b9\u30a4\u30ab\u307b\u3069\u3001\u3055\u3063\u3071\u308a\u3059\u308b\u3082\u306e\u306f\u306a\u3044\u3002",
+                "english": "Nothing refreshes better than a chilled watermelon in the summer.",
+                "en_audio": "",
+                "kana": "\u306a\u3064\u306e\u3072\u3048\u305f\u30b9\u30a4\u30ab\u307b\u3069\u3001\u3055\u3063\u3071\u308a\u3059\u308b\u3082\u306e\u306f\u306a\u3044\u3002",
+                "romaji": "Natsu no hieta suika hodo, sappari suru mono wa nai."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201292.mp3",
+                "text": "\u7a2e\u7121\u3057\u30b9\u30a4\u30ab",
+                "english": "seedless watermelon",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4824.mp3",
+                "kana": "\u305f\u306d\u306a\u3057\u30b9\u30a4\u30ab",
+                "romaji": "tanenashi suika"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226662.mp3",
+                "text": "\u6691\u3044\u590f\u306e\u65e5\u306e\u51b7\u3048\u305f\u30b9\u30a4\u30ab\u306f\u3001\u3055\u3063\u3071\u308a\u3057\u305f\u304a\u3084\u3064\u306b\u3082\u306a\u308b\u3057\u30c7\u30b6\u30fc\u30c8\u306b\u3082\u306a\u308b\u3002",
+                "english": "Cold watermelon is a refreshing snack or dessert on a hot summer day.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4823.mp3",
+                "kana": "\u3042\u3064\u3044\u306a\u3064\u306e\u3072\u306e\u3072\u3048\u305f\u30b9\u30a4\u30ab\u306f\u3001\u3055\u3063\u3071\u308a\u3057\u305f\u304a\u3084\u3064\u306b\u3082\u306a\u308b\u3057\u30c7\u30b6\u30fc\u30c8\u306b\u3082\u306a\u308b\u3002",
+                "romaji": "Atsui natsu no hi no hieta suika wa, sappari shita oyatsu ni mo naru shi dez\u0101to ni mo naru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226661.mp3",
+                "text": "\u590f\u306e\u51b7\u3048\u305f\u30b9\u30a4\u30ab\u307b\u3069\u3001\u3055\u3063\u3071\u308a\u3059\u308b\u3082\u306e\u306f\u306a\u3044\u3002",
+                "english": "Nothing refreshes better than a chilled watermelon in the summer.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4821.mp3",
+                "kana": "\u306a\u3064\u306e\u3072\u3048\u305f\u30b9\u30a4\u30ab\u307b\u3069\u3001\u3055\u3063\u3071\u308a\u3059\u308b\u3082\u306e\u306f\u306a\u3044\u3002",
+                "romaji": "Natsu no hieta suika hodo, sappari suru mono wa nai."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1564.mp3",
+                "text": "\u4e38\u3054\u3068\u4e00\u500b\u306e\u30b9\u30a4\u30ab\u3068\u4e00\u5207\u308c\u306e\u30b9\u30a4\u30ab",
+                "english": "whole watermelon and a slice of watermelon",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4825.mp3",
+                "kana": "\u307e\u308b\u3054\u3068\u3044\u3063\u3053\u306e\u30b9\u30a4\u30ab\u3068\u3072\u3068\u304d\u308c\u306e\u30b9\u30a4\u30ab",
+                "romaji": "marugoto i-kko no suika to hito-kire no suika"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1562.mp3",
+                "text": "\u51b7\u3048\u305f\u30b9\u30a4\u30ab",
+                "english": "chilled watermelon",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4822.mp3",
+                "kana": "\u3072\u3048\u305f\u30b9\u30a4\u30ab",
+                "romaji": "hieta suika"
+            }
+        ]
+    },
+    {
+        "img": "21813",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1573.mp3",
+        "class": "noun",
+        "english": "tomato",
+        "flashcardId": "224437",
+        "meaning": "tomato (noun) - a round soft red fruit eaten raw or cooked as a vegetable",
+        "id": "649",
+        "word": "\u30c8\u30de\u30c8",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87885.mp3",
+        "kana": "\u30c8\u30de\u30c8",
+        "romaji": "tomato",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201322.mp3",
+                "text": "\u719f\u3057\u305f\u8d64\u3044\u30c8\u30de\u30c8",
+                "english": "ripe red tomato",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4841.mp3",
+                "kana": "\u3058\u3085\u304f\u3057\u305f\u3042\u304b\u3044\u30c8\u30de\u30c8",
+                "romaji": "jukushita akai tomato"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201321.mp3",
+                "text": "\u30d7\u30c1\u30c8\u30de\u30c8",
+                "english": "cherry tomato",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4840.mp3",
+                "kana": "\u30d7\u30c1\u30c8\u30de\u30c8",
+                "romaji": "puchi tomato"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201320.mp3",
+                "text": "\u30c8\u30de\u30c8\u30b9\u30e9\u30a4\u30b9",
+                "english": "tomato slice",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4838.mp3",
+                "kana": "\u30c8\u30de\u30c8\u30b9\u30e9\u30a4\u30b9",
+                "romaji": "tomato suraisu"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201325.mp3",
+                "text": "\u30c8\u30de\u30c8\u306f\u679c\u7269\u3067\u3059\u304b\u3001\u91ce\u83dc\u3067\u3059\u304b?",
+                "english": "Is a tomato a fruit or a vegetable?",
+                "en_audio": "",
+                "kana": "\u30c8\u30de\u30c8\u306f\u304f\u3060\u3082\u306e\u3067\u3059\u304b\u3001\u3084\u3055\u3044\u3067\u3059\u304b?",
+                "romaji": "Tomato wa kudamono desu ka, yasai desu ka?"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201326.mp3",
+                "text": "\u30c8\u30de\u30c8\u306f\u679c\u7269\u3067\u3059\u3002",
+                "english": "Tomatoes are fruit.",
+                "en_audio": "",
+                "kana": "\u30c8\u30de\u30c8\u306f\u304f\u3060\u3082\u306e\u3067\u3059\u3002",
+                "romaji": "Tomato wa kudamono desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252035.mp3",
+                "text": "\u30c8\u30de\u30c8\u306f\u3001\u30b5\u30e9\u30c0\u3084\u30b5\u30f3\u30c9\u30a4\u30c3\u30c1\u306b\u4f7f\u308f\u308c\u305f\u308a\u3001\u30e1\u30a4\u30f3\u30c7\u30a3\u30c3\u30b7\u30e5\u306e\u4ed8\u3051\u5408\u305b\u3068\u3057\u3066\u4f7f\u308f\u308c\u308b\u679c\u7269\u3067\u3059\u3002",
+                "english": "Tomato is a fruit used on salads, sandwiches and as part of main dishes.",
+                "en_audio": "",
+                "kana": "\u30c8\u30de\u30c8\u306f\u3001\u30b5\u30e9\u30c0\u3084\u30b5\u30f3\u30c9\u30a4\u30c3\u30c1\u306b\u3064\u304b\u308f\u308c\u305f\u308a\u3001\u30e1\u30a4\u30f3\u30c7\u30a3\u30c3\u30b7\u30e5\u306e\u3064\u3051\u3042\u308f\u305b\u3068\u3057\u3066\u3064\u304b\u308f\u308c\u308b\u304f\u3060\u3082\u306e\u3067\u3059\u3002",
+                "romaji": "Tomato wa, sarada ya sandoitchi ni tsukaware tari, meindisshu no tsukeawase to shite tsukawareru kudamono desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252034.mp3",
+                "text": "\u65b0\u9bae\u306a\u30c8\u30de\u30c8\u30b9\u30e9\u30a4\u30b9\u3092\u30cf\u30f3\u30d0\u30fc\u30ac\u30fc\u306b\u5165\u308c\u308b\u3068\u3001\u98a8\u5473\u304c\u51fa\u308b\u3002",
+                "english": "A fresh slice of tomato adds flavor to any hamburger.",
+                "en_audio": "",
+                "kana": "\u3057\u3093\u305b\u3093\u306a\u30c8\u30de\u30c8\u30b9\u30e9\u30a4\u30b9\u3092\u30cf\u30f3\u30d0\u30fc\u30ac\u30fc\u306b\u3044\u308c\u308b\u3068\u3001\u3075\u3046\u307f\u304c\u3067\u308b\u3002",
+                "romaji": "Shinsen na tomato suraisu o hanb\u0101g\u0101 ni ireru to, f\u016bmi ga deru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201325.mp3",
+                "text": "\u30c8\u30de\u30c8\u306f\u679c\u7269\u3067\u3059\u304b\u3001\u91ce\u83dc\u3067\u3059\u304b?",
+                "english": "Is a tomato a fruit or a vegetable?",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197881.mp3",
+                "kana": "\u30c8\u30de\u30c8\u306f\u304f\u3060\u3082\u306e\u3067\u3059\u304b\u3001\u3084\u3055\u3044\u3067\u3059\u304b?",
+                "romaji": "Tomato wa kudamono desu ka, yasai desu ka?"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201326.mp3",
+                "text": "\u30c8\u30de\u30c8\u306f\u679c\u7269\u3067\u3059\u3002",
+                "english": "Tomatoes are fruit.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197882.mp3",
+                "kana": "\u30c8\u30de\u30c8\u306f\u304f\u3060\u3082\u306e\u3067\u3059\u3002",
+                "romaji": "Tomato wa kudamono desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201322.mp3",
+                "text": "\u719f\u3057\u305f\u8d64\u3044\u30c8\u30de\u30c8",
+                "english": "ripe red tomato",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4841.mp3",
+                "kana": "\u3058\u3085\u304f\u3057\u305f\u3042\u304b\u3044\u30c8\u30de\u30c8",
+                "romaji": "jukushita akai tomato"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201321.mp3",
+                "text": "\u30d7\u30c1\u30c8\u30de\u30c8",
+                "english": "cherry tomato",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4840.mp3",
+                "kana": "\u30d7\u30c1\u30c8\u30de\u30c8",
+                "romaji": "puchi tomato"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252035.mp3",
+                "text": "\u30c8\u30de\u30c8\u306f\u3001\u30b5\u30e9\u30c0\u3084\u30b5\u30f3\u30c9\u30a4\u30c3\u30c1\u306b\u4f7f\u308f\u308c\u305f\u308a\u3001\u30e1\u30a4\u30f3\u30c7\u30a3\u30c3\u30b7\u30e5\u306e\u4ed8\u3051\u5408\u305b\u3068\u3057\u3066\u4f7f\u308f\u308c\u308b\u679c\u7269\u3067\u3059\u3002",
+                "english": "Tomato is a fruit used on salads, sandwiches and as part of main dishes.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4839.mp3",
+                "kana": "\u30c8\u30de\u30c8\u306f\u3001\u30b5\u30e9\u30c0\u3084\u30b5\u30f3\u30c9\u30a4\u30c3\u30c1\u306b\u3064\u304b\u308f\u308c\u305f\u308a\u3001\u30e1\u30a4\u30f3\u30c7\u30a3\u30c3\u30b7\u30e5\u306e\u3064\u3051\u3042\u308f\u305b\u3068\u3057\u3066\u3064\u304b\u308f\u308c\u308b\u304f\u3060\u3082\u306e\u3067\u3059\u3002",
+                "romaji": "Tomato wa, sarada ya sandoitchi ni tsukaware tari, meindisshu no tsukeawase to shite tsukawareru kudamono desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201320.mp3",
+                "text": "\u30c8\u30de\u30c8\u30b9\u30e9\u30a4\u30b9",
+                "english": "tomato slice",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4838.mp3",
+                "kana": "\u30c8\u30de\u30c8\u30b9\u30e9\u30a4\u30b9",
+                "romaji": "tomato suraisu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252034.mp3",
+                "text": "\u65b0\u9bae\u306a\u30c8\u30de\u30c8\u30b9\u30e9\u30a4\u30b9\u3092\u30cf\u30f3\u30d0\u30fc\u30ac\u30fc\u306b\u5165\u308c\u308b\u3068\u3001\u98a8\u5473\u304c\u51fa\u308b\u3002",
+                "english": "A fresh slice of tomato adds flavor to any hamburger.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4837.mp3",
+                "kana": "\u3057\u3093\u305b\u3093\u306a\u30c8\u30de\u30c8\u30b9\u30e9\u30a4\u30b9\u3092\u30cf\u30f3\u30d0\u30fc\u30ac\u30fc\u306b\u3044\u308c\u308b\u3068\u3001\u3075\u3046\u307f\u304c\u3067\u308b\u3002",
+                "romaji": "Shinsen na tomato suraisu o hanb\u0101g\u0101 ni ireru to, f\u016bmi ga deru."
+            }
+        ]
+    },
+    {
+        "img": "9428",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201788.mp3",
+        "class": "noun",
+        "english": "strawberry",
+        "flashcardId": "224438",
+        "meaning": "strawberry (noun) - a soft red juicy fruit with small seeds on its surface, or the plant that grows this fruit",
+        "id": "2832",
+        "word": "\u82fa",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/306014.mp3",
+        "kana": "\u3044\u3061\u3054",
+        "romaji": "ichigo",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201443.mp3",
+                "text": "\u719f\u308c\u305f\u30a4\u30c1\u30b4",
+                "english": "ripe strawberry",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/105442.mp3",
+                "kana": "\u3046\u308c\u305f\u30a4\u30c1\u30b4",
+                "romaji": "ureta ichigo"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271456.mp3",
+                "text": "\u30a4\u30c1\u30b4\u306f\u7f8e\u5473\u3057\u304f\u3066\u4f53\u306b\u826f\u3044\u3067\u3059\u3002",
+                "english": "Strawberries are delicious and good for the body.",
+                "en_audio": "",
+                "kana": "\u30a4\u30c1\u30b4\u306f\u304a\u3044\u3057\u304f\u3066\u304b\u3089\u3060\u306b\u3088\u3044\u3067\u3059\u3002",
+                "romaji": "Ichigo wa oishikute karada ni yoi desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271455.mp3",
+                "text": "\u30a4\u30c1\u30b4\u306f\u3059\u3070\u3089\u3057\u3044\u30d3\u30bf\u30df\u30f3\uff23\u306e\u6e90\u3067\u3059\u3002",
+                "english": "Strawberries are an excellent source of vitamin C.",
+                "en_audio": "",
+                "kana": "\u30a4\u30c1\u30b4\u306f\u3059\u3070\u3089\u3057\u3044\u30d3\u30bf\u30df\u30f3\u30b7\u30fc\u306e\u307f\u306a\u3082\u3068\u3067\u3059\u3002",
+                "romaji": "Ichigo wa subarashii bitamin sh\u012b no minamoto desu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271456.mp3",
+                "text": "\u30a4\u30c1\u30b4\u306f\u7f8e\u5473\u3057\u304f\u3066\u4f53\u306b\u826f\u3044\u3067\u3059\u3002",
+                "english": "Strawberries are delicious and good for the body.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197884.mp3",
+                "kana": "\u30a4\u30c1\u30b4\u306f\u304a\u3044\u3057\u304f\u3066\u304b\u3089\u3060\u306b\u3088\u3044\u3067\u3059\u3002",
+                "romaji": "Ichigo wa oishikute karada ni yoi desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271455.mp3",
+                "text": "\u30a4\u30c1\u30b4\u306f\u3059\u3070\u3089\u3057\u3044\u30d3\u30bf\u30df\u30f3\uff23\u306e\u6e90\u3067\u3059\u3002",
+                "english": "Strawberries are an excellent source of vitamin C.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197883.mp3",
+                "kana": "\u30a4\u30c1\u30b4\u306f\u3059\u3070\u3089\u3057\u3044\u30d3\u30bf\u30df\u30f3\u30b7\u30fc\u306e\u307f\u306a\u3082\u3068\u3067\u3059\u3002",
+                "romaji": "Ichigo wa subarashii bitamin sh\u012b no minamoto desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201443.mp3",
+                "text": "\u719f\u308c\u305f\u30a4\u30c1\u30b4",
+                "english": "ripe strawberry",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/105442.mp3",
+                "kana": "\u3046\u308c\u305f\u30a4\u30c1\u30b4",
+                "romaji": "ureta ichigo"
+            }
+        ]
+    },
+    {
+        "img": "17289",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201924.mp3",
+        "class": "noun",
+        "english": "cherry",
+        "flashcardId": "2164238",
+        "meaning": "cherry (noun) - a small round red or black fruit with a long thin stem and a stone in the middle",
+        "id": "2841",
+        "word": "\u30b5\u30af\u30e9\u30f3\u30dc",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197886.mp3",
+        "kana": "\u30b5\u30af\u30e9\u30f3\u30dc",
+        "romaji": "sakuranbo",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271458.mp3",
+                "text": "\u304f\u304d\u4ed8\u304d\u306e\u4e8c\u7c92\u306e\u3055\u304f\u3089\u3093\u307c",
+                "english": "pair of cherries and stems",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/106082.mp3",
+                "kana": "\u304f\u304d\u3064\u304d\u306e\u306b\u3064\u3076\u306e\u3055\u304f\u3089\u3093\u307c",
+                "romaji": "kuki tsuki no ni-tsubu no sakuranbo"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201446.mp3",
+                "text": "\u4e8c\u7c92\u306e\u30b5\u30af\u30e9\u30f3\u30dc",
+                "english": "two cherries",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103486.mp3",
+                "kana": "\u306b\u3064\u3076\u306e\u30b5\u30af\u30e9\u30f3\u30dc",
+                "romaji": "ni-tsubu no sakuranbo"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271457.mp3",
+                "text": "\u30b5\u30af\u30e9\u30f3\u30dc\u3092\u72e9\u308b",
+                "english": "pick cherries",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103485.mp3",
+                "kana": "\u30b5\u30af\u30e9\u30f3\u30dc\u3092\u304b\u308b",
+                "romaji": "sakuranbo o karu"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271459.mp3",
+                "text": "\u3055\u304f\u3089\u3093\u307c\u304c\u98df\u3079\u305f\u3044\u3067\u3059\u3002",
+                "english": "I want to eat cherries.",
+                "en_audio": "",
+                "kana": "\u3055\u304f\u3089\u3093\u307c\u304c\u305f\u3079\u305f\u3044\u3067\u3059\u3002",
+                "romaji": "Sakuranbo ga tabetai desu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271459.mp3",
+                "text": "\u3055\u304f\u3089\u3093\u307c\u304c\u98df\u3079\u305f\u3044\u3067\u3059\u3002",
+                "english": "I want to eat cherries.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262891.mp3",
+                "kana": "\u3055\u304f\u3089\u3093\u307c\u304c\u305f\u3079\u305f\u3044\u3067\u3059\u3002",
+                "romaji": "Sakuranbo ga tabetai desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271458.mp3",
+                "text": "\u304f\u304d\u4ed8\u304d\u306e\u4e8c\u7c92\u306e\u3055\u304f\u3089\u3093\u307c",
+                "english": "pair of cherries and stems",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/106082.mp3",
+                "kana": "\u304f\u304d\u3064\u304d\u306e\u306b\u3064\u3076\u306e\u3055\u304f\u3089\u3093\u307c",
+                "romaji": "kuki tsuki no ni-tsubu no sakuranbo"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201446.mp3",
+                "text": "\u4e8c\u7c92\u306e\u30b5\u30af\u30e9\u30f3\u30dc",
+                "english": "two cherries",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103486.mp3",
+                "kana": "\u306b\u3064\u3076\u306e\u30b5\u30af\u30e9\u30f3\u30dc",
+                "romaji": "ni-tsubu no sakuranbo"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/271457.mp3",
+                "text": "\u30b5\u30af\u30e9\u30f3\u30dc\u3092\u72e9\u308b",
+                "english": "pick cherries",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103485.mp3",
+                "kana": "\u30b5\u30af\u30e9\u30f3\u30dc\u3092\u304b\u308b",
+                "romaji": "sakuranbo o karu"
+            }
+        ]
+    },
+    {
+        "img": "21810",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1524.mp3",
+        "class": "noun",
+        "english": "peach",
+        "flashcardId": "2164237",
+        "meaning": "peach (noun) - a round juicy fruit that has a soft yellow or red skin and a large, hard seed in the centre, or the tree that this fruit grows on",
+        "id": "2853",
+        "word": "\u6843",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4774.mp3",
+        "kana": "\u3082\u3082",
+        "romaji": "momo",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1527.mp3",
+                "text": "\u6843\u3068\u30b9\u30e9\u30a4\u30b9\u3057\u305f\u6843",
+                "english": "peach and a sliced peach",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4777.mp3",
+                "kana": "\u3082\u3082\u3068\u30b9\u30e9\u30a4\u30b9\u3057\u305f\u3082\u3082",
+                "romaji": "momo to suraisu shita momo"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1525.mp3",
+                "text": "\u6843\u306f\u3001\u3082\u3068\u3082\u3068\u4e2d\u56fd\u304c\u539f\u7523\u5730\u3060\u304c\u3001\u4eca\u306f\u4e16\u754c\u4e2d\u3067\u80b2\u3066\u3089\u308c\u3066\u3044\u308b\u3002",
+                "english": "Peaches are originally from China, but are now grown throughout the world.",
+                "en_audio": "",
+                "kana": "\u3082\u3082\u306f\u3001\u3082\u3068\u3082\u3068\u3061\u3085\u3046\u3054\u304f\u304c\u3052\u3093\u3055\u3093\u3061\u3060\u304c\u3001\u3044\u307e\u306f\u305b\u304b\u3044\u3058\u3085\u3046\u3067\u305d\u3060\u3066\u3089\u308c\u3066\u3044\u308b\u3002",
+                "romaji": "Momo wa, motomoto Ch\u016bgoku ga gensanchi daga, ima wa sekaij\u016b de sodaterarete iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1527.mp3",
+                "text": "\u6843\u3068\u30b9\u30e9\u30a4\u30b9\u3057\u305f\u6843",
+                "english": "peach and a sliced peach",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4777.mp3",
+                "kana": "\u3082\u3082\u3068\u30b9\u30e9\u30a4\u30b9\u3057\u305f\u3082\u3082",
+                "romaji": "momo to suraisu shita momo"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1525.mp3",
+                "text": "\u6843\u306f\u3001\u3082\u3068\u3082\u3068\u4e2d\u56fd\u304c\u539f\u7523\u5730\u3060\u304c\u3001\u4eca\u306f\u4e16\u754c\u4e2d\u3067\u80b2\u3066\u3089\u308c\u3066\u3044\u308b\u3002",
+                "english": "Peaches are originally from China, but are now grown throughout the world.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4775.mp3",
+                "kana": "\u3082\u3082\u306f\u3001\u3082\u3068\u3082\u3068\u3061\u3085\u3046\u3054\u304f\u304c\u3052\u3093\u3055\u3093\u3061\u3060\u304c\u3001\u3044\u307e\u306f\u305b\u304b\u3044\u3058\u3085\u3046\u3067\u305d\u3060\u3066\u3089\u308c\u3066\u3044\u308b\u3002",
+                "romaji": "Momo wa, motomoto Ch\u016bgoku ga gensanchi daga, ima wa sekaij\u016b de sodaterarete iru."
+            }
+        ]
+    },
+    {
+        "img": "21809",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1423.mp3",
+        "class": "noun",
+        "english": "orange",
+        "flashcardId": "2145585",
+        "meaning": "orange - (noun) - a round fruit that has a thick orange skin and is divided into parts inside",
+        "id": "333",
+        "word": "\u30aa\u30ec\u30f3\u30b8",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/53194.mp3",
+        "kana": "\u30aa\u30ec\u30f3\u30b8",
+        "romaji": "orenji",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201282.mp3",
+                "text": "\u719f\u3057\u305f\u30aa\u30ec\u30f3\u30b8",
+                "english": "ripe orange",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197877.mp3",
+                "kana": "\u3058\u3085\u304f\u3057\u305f\u30aa\u30ec\u30f3\u30b8",
+                "romaji": "jukushita orenji"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1068.mp3",
+                "text": "\u30aa\u30ec\u30f3\u30b8\u30b8\u30e5\u30fc\u30b9",
+                "english": "orange juice",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3987.mp3",
+                "kana": "\u30aa\u30ec\u30f3\u30b8\u30b8\u30e5\u30fc\u30b9",
+                "romaji": "orenji j\u016bsu"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201281.mp3",
+                "text": "\u30aa\u30ec\u30f3\u30b8\u306f\u30d3\u30bf\u30df\u30f3\uff23\u304c\u8c4a\u5bcc\u306a\u7d20\u6750\u3067\u3059\u3002",
+                "english": "Oranges are a rich source of Vitamin C.",
+                "en_audio": "",
+                "kana": "\u30aa\u30ec\u30f3\u30b8\u306f\u30d3\u30bf\u30df\u30f3\uff23\u304c\u307b\u3046\u3075\u306a\u305d\u3056\u3044\u3067\u3059\u3002",
+                "romaji": "Orenji wa bitamin sh\u012b ga h\u014dfu na sozai desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1070.mp3",
+                "text": "\u30aa\u30ec\u30f3\u30b8\u306f\u30d3\u30bf\u30df\u30f3C\u3092\u3068\u308b\u306e\u306b\u5927\u5909\u826f\u3044\u679c\u7269\u3060\u3002",
+                "english": "Oranges are a great source of vitamin C.",
+                "en_audio": "",
+                "kana": "\u30aa\u30ec\u30f3\u30b8\u306f\u30d3\u30bf\u30df\u30f3\u30b7\u30fc\u3092\u3068\u308b\u306e\u306b\u305f\u3044\u3078\u3093\u3088\u3044\u304f\u3060\u3082\u306e\u3060\u3002",
+                "romaji": "Orenji wa bitamin sh\u012b o toru no ni taihen yoi kudamono da."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201282.mp3",
+                "text": "\u719f\u3057\u305f\u30aa\u30ec\u30f3\u30b8",
+                "english": "ripe orange",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197877.mp3",
+                "kana": "\u3058\u3085\u304f\u3057\u305f\u30aa\u30ec\u30f3\u30b8",
+                "romaji": "jukushita orenji"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201281.mp3",
+                "text": "\u30aa\u30ec\u30f3\u30b8\u306f\u30d3\u30bf\u30df\u30f3\uff23\u304c\u8c4a\u5bcc\u306a\u7d20\u6750\u3067\u3059\u3002",
+                "english": "Oranges are a rich source of Vitamin C.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197876.mp3",
+                "kana": "\u30aa\u30ec\u30f3\u30b8\u306f\u30d3\u30bf\u30df\u30f3\uff23\u304c\u307b\u3046\u3075\u306a\u305d\u3056\u3044\u3067\u3059\u3002",
+                "romaji": "Orenji wa bitamin sh\u012b ga h\u014dfu na sozai desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1070.mp3",
+                "text": "\u30aa\u30ec\u30f3\u30b8\u306f\u30d3\u30bf\u30df\u30f3C\u3092\u3068\u308b\u306e\u306b\u5927\u5909\u826f\u3044\u679c\u7269\u3060\u3002",
+                "english": "Oranges are a great source of vitamin C.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3986.mp3",
+                "kana": "\u30aa\u30ec\u30f3\u30b8\u306f\u30d3\u30bf\u30df\u30f3\u30b7\u30fc\u3092\u3068\u308b\u306e\u306b\u305f\u3044\u3078\u3093\u3088\u3044\u304f\u3060\u3082\u306e\u3060\u3002",
+                "romaji": "Orenji wa bitamin sh\u012b o toru no ni taihen yoi kudamono da."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1068.mp3",
+                "text": "\u30aa\u30ec\u30f3\u30b8\u30b8\u30e5\u30fc\u30b9",
+                "english": "orange juice",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3987.mp3",
+                "kana": "\u30aa\u30ec\u30f3\u30b8\u30b8\u30e5\u30fc\u30b9",
+                "romaji": "orenji j\u016bsu"
+            }
+        ]
+    },
+    {
+        "img": "15733",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201533.mp3",
+        "class": "noun",
+        "english": "potato",
+        "flashcardId": "2164225",
+        "meaning": "potato (noun) - a round white vegetable with a brown, red, or pale yellow skin, that grows under the ground",
+        "id": "626",
+        "word": "\u30b8\u30e3\u30ac\u30a4\u30e2",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262880.mp3",
+        "kana": "\u30b8\u30e3\u30ac\u30a4\u30e2",
+        "romaji": "jagaimo",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201271.mp3",
+                "text": "\u30b8\u30e3\u30ac\u30a4\u30e2\u4e38\u3054\u3068\u4e00\u500b",
+                "english": "whole potato",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103385.mp3",
+                "kana": "\u30b8\u30e3\u30ac\u30a4\u30e2\u307e\u308b\u3054\u3068\u3044\u3063\u3053",
+                "romaji": "jagaimo marugoto i-kko"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226654.mp3",
+                "text": "\u30b8\u30e3\u30ac\u30a4\u30e2\u306f\u30da\u30eb\u30fc\u304c\u539f\u7523\u3067\u3059\u3002",
+                "english": "Potatoes come from Peru.",
+                "en_audio": "",
+                "kana": "\u30b8\u30e3\u30ac\u30a4\u30e2\u306f\u30da\u30eb\u30fc\u304c\u3052\u3093\u3055\u3093\u3067\u3059\u3002",
+                "romaji": "Jagaimo wa Per\u016b ga gensan desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201274.mp3",
+                "text": "\u30b8\u30e3\u30ac\u30a4\u30e2\u306f\u3001\u591a\u304f\u306e\u4eba\u306b\u3068\u3063\u3066\u91cd\u8981\u306a\u30a8\u30cd\u30eb\u30ae\u30fc\u6e90\u3068\u306a\u308b\u98df\u6599\u3067\u3059\u3002",
+                "english": "Potatoes are an important source of food energy for many.",
+                "en_audio": "",
+                "kana": "\u30b8\u30e3\u30ac\u30a4\u30e2\u306f\u3001\u304a\u304a\u304f\u306e\u3072\u3068\u306b\u3068\u3063\u3066\u3058\u3085\u3046\u3088\u3046\u306a\u30a8\u30cd\u30eb\u30ae\u30fc\u3052\u3093\u3068\u306a\u308b\u3057\u3087\u304f\u308a\u3087\u3046\u3067\u3059\u3002",
+                "romaji": "Jagaimo wa, \u014dku no hito ni totte j\u016by\u014d na enerug\u012bgen to naru shokury\u014d desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201273.mp3",
+                "text": "\u79c1\u306e\u304a\u6c17\u306b\u5165\u308a\u306e\u30b8\u30e3\u30ac\u30a4\u30e2\u6599\u7406\u306f\u3001\u30dd\u30c6\u30c8\u30c1\u30c3\u30d7\u3060\u3002",
+                "english": "My favorite way of making a potato is potato chips.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306e\u304a\u304d\u306b\u3044\u308a\u306e\u30b8\u30e3\u30ac\u30a4\u30e2\u308a\u3087\u3046\u308a\u306f\u3001\u30dd\u30c6\u30c8\u30c1\u30c3\u30d7\u3060\u3002",
+                "romaji": "Watashi no okiniiri no jagaimo ry\u014dri wa, potetochippu da."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201272.mp3",
+                "text": "\u30b8\u30e3\u30ac\u30a4\u30e2\u306f\u3001\u713c\u3044\u305f\u306e\u304c\u4e00\u756a\u7f8e\u5473\u3057\u3044\u3002",
+                "english": "A potato is always best when it is baked.",
+                "en_audio": "",
+                "kana": "\u30b8\u30e3\u30ac\u30a4\u30e2\u306f\u3001\u3084\u3044\u305f\u306e\u304c\u3044\u3061\u3070\u3093\u304a\u3044\u3057\u3044\u3002",
+                "romaji": "Jagaimo wa, yaita no ga ichi-ban oishii."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226654.mp3",
+                "text": "\u30b8\u30e3\u30ac\u30a4\u30e2\u306f\u30da\u30eb\u30fc\u304c\u539f\u7523\u3067\u3059\u3002",
+                "english": "Potatoes come from Peru.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262881.mp3",
+                "kana": "\u30b8\u30e3\u30ac\u30a4\u30e2\u306f\u30da\u30eb\u30fc\u304c\u3052\u3093\u3055\u3093\u3067\u3059\u3002",
+                "romaji": "Jagaimo wa Per\u016b ga gensan desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201274.mp3",
+                "text": "\u30b8\u30e3\u30ac\u30a4\u30e2\u306f\u3001\u591a\u304f\u306e\u4eba\u306b\u3068\u3063\u3066\u91cd\u8981\u306a\u30a8\u30cd\u30eb\u30ae\u30fc\u6e90\u3068\u306a\u308b\u98df\u6599\u3067\u3059\u3002",
+                "english": "Potatoes are an important source of food energy for many.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197866.mp3",
+                "kana": "\u30b8\u30e3\u30ac\u30a4\u30e2\u306f\u3001\u304a\u304a\u304f\u306e\u3072\u3068\u306b\u3068\u3063\u3066\u3058\u3085\u3046\u3088\u3046\u306a\u30a8\u30cd\u30eb\u30ae\u30fc\u3052\u3093\u3068\u306a\u308b\u3057\u3087\u304f\u308a\u3087\u3046\u3067\u3059\u3002",
+                "romaji": "Jagaimo wa, \u014dku no hito ni totte j\u016by\u014d na enerug\u012bgen to naru shokury\u014d desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201273.mp3",
+                "text": "\u79c1\u306e\u304a\u6c17\u306b\u5165\u308a\u306e\u30b8\u30e3\u30ac\u30a4\u30e2\u6599\u7406\u306f\u3001\u30dd\u30c6\u30c8\u30c1\u30c3\u30d7\u3060\u3002",
+                "english": "My favorite way of making a potato is potato chips.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103383.mp3",
+                "kana": "\u308f\u305f\u3057\u306e\u304a\u304d\u306b\u3044\u308a\u306e\u30b8\u30e3\u30ac\u30a4\u30e2\u308a\u3087\u3046\u308a\u306f\u3001\u30dd\u30c6\u30c8\u30c1\u30c3\u30d7\u3060\u3002",
+                "romaji": "Watashi no okiniiri no jagaimo ry\u014dri wa, potetochippu da."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201272.mp3",
+                "text": "\u30b8\u30e3\u30ac\u30a4\u30e2\u306f\u3001\u713c\u3044\u305f\u306e\u304c\u4e00\u756a\u7f8e\u5473\u3057\u3044\u3002",
+                "english": "A potato is always best when it is baked.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103381.mp3",
+                "kana": "\u30b8\u30e3\u30ac\u30a4\u30e2\u306f\u3001\u3084\u3044\u305f\u306e\u304c\u3044\u3061\u3070\u3093\u304a\u3044\u3057\u3044\u3002",
+                "romaji": "Jagaimo wa, yaita no ga ichi-ban oishii."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201271.mp3",
+                "text": "\u30b8\u30e3\u30ac\u30a4\u30e2\u4e38\u3054\u3068\u4e00\u500b",
+                "english": "whole potato",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103385.mp3",
+                "kana": "\u30b8\u30e3\u30ac\u30a4\u30e2\u307e\u308b\u3054\u3068\u3044\u3063\u3053",
+                "romaji": "jagaimo marugoto i-kko"
+            }
+        ]
+    },
+    {
+        "img": "14612",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252012.mp3",
+        "class": "noun",
+        "english": "soybean",
+        "flashcardId": "2164226",
+        "meaning": "soybean (noun) - a leguminous plant native to Asia, Glycine max, widely cultivated for its edible seeds.",
+        "id": "628",
+        "word": "\u5927\u8c46",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87863.mp3",
+        "kana": "\u3060\u3044\u305a",
+        "romaji": "daizu",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201275.mp3",
+                "text": "\u5927\u8c46\u6cb9",
+                "english": "soybean oil",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103387.mp3",
+                "kana": "\u3060\u3044\u305a\u3042\u3076\u3089",
+                "romaji": "daizu abura"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201278.mp3",
+                "text": "\u5927\u8c46\u306f\u3001\u3055\u3084\u306e\u4e2d\u3067\u80b2\u3064\u3002",
+                "english": "Soybeans grow inside the pods.",
+                "en_audio": "",
+                "kana": "\u3060\u3044\u305a\u306f\u3001\u3055\u3084\u306e\u306a\u304b\u3067\u305d\u3060\u3064\u3002",
+                "romaji": "Daizu wa, saya no naka de sodatsu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201277.mp3",
+                "text": "\u5927\u8c46\u306f\u3001\u4e16\u754c\u306e\u98df\u6599\u306e\u4e2d\u3067\u3001\u91cd\u8981\u306a\u86cb\u767d\u6e90\u3060\u3002",
+                "english": "The soybean is an important source of protein in the worlds diet.",
+                "en_audio": "",
+                "kana": "\u3060\u3044\u305a\u306f\u3001\u305b\u304b\u3044\u306e\u3057\u3087\u304f\u308a\u3087\u3046\u306e\u306a\u304b\u3067\u3001\u3058\u3085\u3046\u3088\u3046\u306a\u305f\u3093\u3071\u304f\u3052\u3093\u3060\u3002",
+                "romaji": "Daizu wa, sekai no shokury\u014d no naka de, j\u016by\u014d na tanpakugen da."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201278.mp3",
+                "text": "\u5927\u8c46\u306f\u3001\u3055\u3084\u306e\u4e2d\u3067\u80b2\u3064\u3002",
+                "english": "Soybeans grow inside the pods.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197867.mp3",
+                "kana": "\u3060\u3044\u305a\u306f\u3001\u3055\u3084\u306e\u306a\u304b\u3067\u305d\u3060\u3064\u3002",
+                "romaji": "Daizu wa, saya no naka de sodatsu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201277.mp3",
+                "text": "\u5927\u8c46\u306f\u3001\u4e16\u754c\u306e\u98df\u6599\u306e\u4e2d\u3067\u3001\u91cd\u8981\u306a\u86cb\u767d\u6e90\u3060\u3002",
+                "english": "The soybean is an important source of protein in the worlds diet.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103386.mp3",
+                "kana": "\u3060\u3044\u305a\u306f\u3001\u305b\u304b\u3044\u306e\u3057\u3087\u304f\u308a\u3087\u3046\u306e\u306a\u304b\u3067\u3001\u3058\u3085\u3046\u3088\u3046\u306a\u305f\u3093\u3071\u304f\u3052\u3093\u3060\u3002",
+                "romaji": "Daizu wa, sekai no shokury\u014d no naka de, j\u016by\u014d na tanpakugen da."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201275.mp3",
+                "text": "\u5927\u8c46\u6cb9",
+                "english": "soybean oil",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103387.mp3",
+                "kana": "\u3060\u3044\u305a\u3042\u3076\u3089",
+                "romaji": "daizu abura"
+            }
+        ]
+    },
+    {
+        "img": "9416",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1430.mp3",
+        "class": "noun",
+        "english": "vegetable",
+        "flashcardId": "224423",
+        "meaning": "vegetable (noun) - a plant that is eaten raw or cooked, such as a cabbage, a carrot, or peas",
+        "id": "643",
+        "word": "\u91ce\u83dc",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87879.mp3",
+        "kana": "\u3084\u3055\u3044",
+        "romaji": "yasai",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201303.mp3",
+                "text": "\u65b0\u9bae\u306a\u91ce\u83dc",
+                "english": "fresh vegetables",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197870.mp3",
+                "kana": "\u3057\u3093\u305b\u3093\u306a\u3084\u3055\u3044",
+                "romaji": "shinsen na yasai"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226643.mp3",
+                "text": "\u82e6\u3044\u7dd1\u306e\u91ce\u83dc",
+                "english": "a bitter green vegetable",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85523.mp3",
+                "kana": "\u306b\u304c\u3044\u307f\u3069\u308a\u306e\u3084\u3055\u3044",
+                "romaji": "nigai midori no yasai"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201297.mp3",
+                "text": "\u30b9\u30fc\u30d1\u30fc\u306e\u91ce\u83dc\u58f2\u308a\u5834",
+                "english": "vegetable section of the supermarket",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3537.mp3",
+                "kana": "\u30b9\u30fc\u30d1\u30fc\u306e\u3084\u3055\u3044\u3046\u308a\u3070",
+                "romaji": "s\u016bp\u0101 no yasai uriba"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1432.mp3",
+                "text": "\u91ce\u83dc\u30b8\u30e5\u30fc\u30b9",
+                "english": "vegetable juice",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4666.mp3",
+                "kana": "\u3084\u3055\u3044\u30b8\u30e5\u30fc\u30b9",
+                "romaji": "yasai j\u016bsu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1431.mp3",
+                "text": "\u91ce\u83dc\u8fb2\u5712",
+                "english": "vegetable garden",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4664.mp3",
+                "kana": "\u3084\u3055\u3044\u306e\u3046\u3048\u3093",
+                "romaji": "yasai n\u014den"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201301.mp3",
+                "text": "\u91ce\u83dc\u306f\u3001\u30d3\u30bf\u30df\u30f3\u3084\u30df\u30cd\u30e9\u30eb\u304c\u8c4a\u5bcc\u3067\u3059\u3002",
+                "english": "Vegetables are a rich source of vitamins and minerals.",
+                "en_audio": "",
+                "kana": "\u3084\u3055\u3044\u306f\u3001\u30d3\u30bf\u30df\u30f3\u3084\u30df\u30cd\u30e9\u30eb\u304c\u307b\u3046\u3075\u3067\u3059\u3002",
+                "romaji": "Yasai wa, bitamin ya mineraru ga h\u014dfu desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252029.mp3",
+                "text": "\u30d4\u30fc\u30de\u30f3\u3001\u30d6\u30ed\u30c3\u30b3\u30ea\u30fc\u3001\u30ba\u30c3\u30ad\u30fc\u30cb\u3001\u30dd\u30ed\u306d\u304e\u3001\u306b\u3093\u3058\u3093\u3001\u306a\u3059\u3001\u30ec\u30bf\u30b9\u306f\u3001\u3059\u3079\u3066\u91ce\u83dc\u3067\u3059\u3002",
+                "english": "Peppers, broccoli, zucchini, leeks, carrots, eggplants, and lettuce are all vegetables.",
+                "en_audio": "",
+                "kana": "\u30d4\u30fc\u30de\u30f3\u3001\u30d6\u30ed\u30c3\u30b3\u30ea\u30fc\u3001\u30ba\u30c3\u30ad\u30fc\u30cb\u3001\u30dd\u30ed\u306d\u304e\u3001\u306b\u3093\u3058\u3093\u3001\u306a\u3059\u3001\u30ec\u30bf\u30b9\u306f\u3001\u3059\u3079\u3066\u3084\u3055\u3044\u3067\u3059\u3002",
+                "romaji": "P\u012bman, burokkor\u012b, zukk\u012bni, poronegi, ninjin, nasu, retasu wa subete yasai desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201299.mp3",
+                "text": "\u5973\u6027\u304c\u3001\u98df\u6599\u54c1\u5e97\u3067\u91ce\u83dc\u3092\u8cb7\u3063\u3066\u3044\u308b\u3002",
+                "english": "The woman is shopping for vegetables at the grocery store.",
+                "en_audio": "",
+                "kana": "\u3058\u3087\u305b\u3044\u304c\u3001\u3057\u3087\u304f\u308a\u3087\u3046\u3072\u3093\u3066\u3093\u3067\u3084\u3055\u3044\u3092\u304b\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Josei ga shokury\u014dhinten de yasai o katte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1433.mp3",
+                "text": "\u91ce\u83dc\u3084\u679c\u7269\u304c\u8c4a\u5bcc\u306a\u98df\u4e8b\u3092\u3068\u308b\u3068\u3001\u5065\u5eb7\u3067\u3044\u3089\u308c\u308b\u3002",
+                "english": "A diet rich in vegetables and fruit keeps the body healthy.",
+                "en_audio": "",
+                "kana": "\u3084\u3055\u3044\u3084\u304f\u3060\u3082\u306e\u304c\u307b\u3046\u3075\u306a\u3057\u3087\u304f\u3058\u3092\u3068\u308b\u3068\u3001\u3051\u3093\u3053\u3046\u3067\u3044\u3089\u308c\u308b\u3002",
+                "romaji": "Yasai ya kudamono ga h\u014dfu na shokuji o toru to, kenk\u014d de irareru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1434.mp3",
+                "text": "\u4fdd\u5065\u306e\u5c02\u9580\u5bb6\u306f\u3001\u679c\u7269\u3068\u91ce\u83dc\u3092\u4f7f\u3063\u305f\u6599\u7406\u3092\u4e00\u65e5\u306b\u4e94\u54c1\u98df\u3079\u308b\u3053\u3068\u3092\u52e7\u3081\u3066\u3044\u308b\u3002",
+                "english": "Health experts recommend five servings of fruit and vegtables a day.",
+                "en_audio": "",
+                "kana": "\u307b\u3051\u3093\u306e\u305b\u3093\u3082\u3093\u304b\u306f\u3001\u304f\u3060\u3082\u306e\u3068\u3084\u3055\u3044\u3092\u3064\u304b\u3063\u305f\u308a\u3087\u3046\u308a\u3092\u3044\u3061\u306b\u3061\u306b\u3054\u3072\u3093\u305f\u3079\u308b\u3053\u3068\u3092\u3059\u3059\u3081\u3066\u3044\u308b\u3002",
+                "romaji": "Hoken no senmonka wa, kudamono to yasai o tsukatta ry\u014dri o ichi-nichi ni go-hin taberu koto o susumete iru."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201301.mp3",
+                "text": "\u91ce\u83dc\u306f\u3001\u30d3\u30bf\u30df\u30f3\u3084\u30df\u30cd\u30e9\u30eb\u304c\u8c4a\u5bcc\u3067\u3059\u3002",
+                "english": "Vegetables are a rich source of vitamins and minerals.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197869.mp3",
+                "kana": "\u3084\u3055\u3044\u306f\u3001\u30d3\u30bf\u30df\u30f3\u3084\u30df\u30cd\u30e9\u30eb\u304c\u307b\u3046\u3075\u3067\u3059\u3002",
+                "romaji": "Yasai wa, bitamin ya mineraru ga h\u014dfu desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201303.mp3",
+                "text": "\u65b0\u9bae\u306a\u91ce\u83dc",
+                "english": "fresh vegetables",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197870.mp3",
+                "kana": "\u3057\u3093\u305b\u3093\u306a\u3084\u3055\u3044",
+                "romaji": "shinsen na yasai"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226643.mp3",
+                "text": "\u82e6\u3044\u7dd1\u306e\u91ce\u83dc",
+                "english": "a bitter green vegetable",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/85523.mp3",
+                "kana": "\u306b\u304c\u3044\u307f\u3069\u308a\u306e\u3084\u3055\u3044",
+                "romaji": "nigai midori no yasai"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252029.mp3",
+                "text": "\u30d4\u30fc\u30de\u30f3\u3001\u30d6\u30ed\u30c3\u30b3\u30ea\u30fc\u3001\u30ba\u30c3\u30ad\u30fc\u30cb\u3001\u30dd\u30ed\u306d\u304e\u3001\u306b\u3093\u3058\u3093\u3001\u306a\u3059\u3001\u30ec\u30bf\u30b9\u306f\u3001\u3059\u3079\u3066\u91ce\u83dc\u3067\u3059\u3002",
+                "english": "Peppers, broccoli, zucchini, leeks, carrots, eggplants, and lettuce are all vegetables.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262882.mp3",
+                "kana": "\u30d4\u30fc\u30de\u30f3\u3001\u30d6\u30ed\u30c3\u30b3\u30ea\u30fc\u3001\u30ba\u30c3\u30ad\u30fc\u30cb\u3001\u30dd\u30ed\u306d\u304e\u3001\u306b\u3093\u3058\u3093\u3001\u306a\u3059\u3001\u30ec\u30bf\u30b9\u306f\u3001\u3059\u3079\u3066\u3084\u3055\u3044\u3067\u3059\u3002",
+                "romaji": "P\u012bman, burokkor\u012b, zukk\u012bni, poronegi, ninjin, nasu, retasu wa subete yasai desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201299.mp3",
+                "text": "\u5973\u6027\u304c\u3001\u98df\u6599\u54c1\u5e97\u3067\u91ce\u83dc\u3092\u8cb7\u3063\u3066\u3044\u308b\u3002",
+                "english": "The woman is shopping for vegetables at the grocery store.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197868.mp3",
+                "kana": "\u3058\u3087\u305b\u3044\u304c\u3001\u3057\u3087\u304f\u308a\u3087\u3046\u3072\u3093\u3066\u3093\u3067\u3084\u3055\u3044\u3092\u304b\u3063\u3066\u3044\u308b\u3002",
+                "romaji": "Josei ga shokury\u014dhinten de yasai o katte iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201297.mp3",
+                "text": "\u30b9\u30fc\u30d1\u30fc\u306e\u91ce\u83dc\u58f2\u308a\u5834",
+                "english": "vegetable section of the supermarket",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/3537.mp3",
+                "kana": "\u30b9\u30fc\u30d1\u30fc\u306e\u3084\u3055\u3044\u3046\u308a\u3070",
+                "romaji": "s\u016bp\u0101 no yasai uriba"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1432.mp3",
+                "text": "\u91ce\u83dc\u30b8\u30e5\u30fc\u30b9",
+                "english": "vegetable juice",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4666.mp3",
+                "kana": "\u3084\u3055\u3044\u30b8\u30e5\u30fc\u30b9",
+                "romaji": "yasai j\u016bsu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1433.mp3",
+                "text": "\u91ce\u83dc\u3084\u679c\u7269\u304c\u8c4a\u5bcc\u306a\u98df\u4e8b\u3092\u3068\u308b\u3068\u3001\u5065\u5eb7\u3067\u3044\u3089\u308c\u308b\u3002",
+                "english": "A diet rich in vegetables and fruit keeps the body healthy.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4663.mp3",
+                "kana": "\u3084\u3055\u3044\u3084\u304f\u3060\u3082\u306e\u304c\u307b\u3046\u3075\u306a\u3057\u3087\u304f\u3058\u3092\u3068\u308b\u3068\u3001\u3051\u3093\u3053\u3046\u3067\u3044\u3089\u308c\u308b\u3002",
+                "romaji": "Yasai ya kudamono ga h\u014dfu na shokuji o toru to, kenk\u014d de irareru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1434.mp3",
+                "text": "\u4fdd\u5065\u306e\u5c02\u9580\u5bb6\u306f\u3001\u679c\u7269\u3068\u91ce\u83dc\u3092\u4f7f\u3063\u305f\u6599\u7406\u3092\u4e00\u65e5\u306b\u4e94\u54c1\u98df\u3079\u308b\u3053\u3068\u3092\u52e7\u3081\u3066\u3044\u308b\u3002",
+                "english": "Health experts recommend five servings of fruit and vegtables a day.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4665.mp3",
+                "kana": "\u307b\u3051\u3093\u306e\u305b\u3093\u3082\u3093\u304b\u306f\u3001\u304f\u3060\u3082\u306e\u3068\u3084\u3055\u3044\u3092\u3064\u304b\u3063\u305f\u308a\u3087\u3046\u308a\u3092\u3044\u3061\u306b\u3061\u306b\u3054\u3072\u3093\u305f\u3079\u308b\u3053\u3068\u3092\u3059\u3059\u3081\u3066\u3044\u308b\u3002",
+                "romaji": "Hoken no senmonka wa, kudamono to yasai o tsukatta ry\u014dri o ichi-nichi ni go-hin taberu koto o susumete iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1431.mp3",
+                "text": "\u91ce\u83dc\u8fb2\u5712",
+                "english": "vegetable garden",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4664.mp3",
+                "kana": "\u3084\u3055\u3044\u306e\u3046\u3048\u3093",
+                "romaji": "yasai n\u014den"
+            }
+        ]
+    },
+    {
+        "img": "17306",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1656.mp3",
+        "class": "noun",
+        "english": "carrot",
+        "flashcardId": "2164227",
+        "meaning": "carrot (noun) - a long pointed orange vegetable that grows under the ground",
+        "id": "645",
+        "word": "\u4eba\u53c2",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87881.mp3",
+        "kana": "\u306b\u3093\u3058\u3093",
+        "romaji": "ninjin",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201307.mp3",
+                "text": "\u30aa\u30ec\u30f3\u30b8\u8272\u306e\u4eba\u53c2",
+                "english": "orange carrot",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103252.mp3",
+                "kana": "\u30aa\u30ec\u30f3\u30b8\u3044\u308d\u306e\u306b\u3093\u3058\u3093",
+                "romaji": "orenjiiro no ninjin"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1658.mp3",
+                "text": "\u30cb\u30f3\u30b8\u30f3\u30b8\u30e5\u30fc\u30b9",
+                "english": "carrot juice",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103251.mp3",
+                "kana": "\u30cb\u30f3\u30b8\u30f3\u30b8\u30e5\u30fc\u30b9",
+                "romaji": "ninjin j\u016bsu"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252030.mp3",
+                "text": "\u4eba\u53c2\u306f\u3068\u3066\u3082\u4e00\u822c\u7684\u3067\u3001\u5065\u5eb7\u306b\u3082\u3044\u3044\u6839\u91ce\u83dc\u3060\u3002",
+                "english": "The carrot is a very popular and healthy root vegetable.",
+                "en_audio": "",
+                "kana": "\u306b\u3093\u3058\u3093\u306f\u3068\u3066\u3082\u3044\u3063\u3071\u3093\u3066\u304d\u3067\u3001\u3051\u3093\u3053\u3046\u306b\u3082\u3044\u3044\u3053\u3093\u3084\u3055\u3044\u3060\u3002",
+                "romaji": "Ninjin wa totemo ippanteki de, kenk\u014d ni mo ii kon'yasai da."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201307.mp3",
+                "text": "\u30aa\u30ec\u30f3\u30b8\u8272\u306e\u4eba\u53c2",
+                "english": "orange carrot",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103252.mp3",
+                "kana": "\u30aa\u30ec\u30f3\u30b8\u3044\u308d\u306e\u306b\u3093\u3058\u3093",
+                "romaji": "orenjiiro no ninjin"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252030.mp3",
+                "text": "\u4eba\u53c2\u306f\u3068\u3066\u3082\u4e00\u822c\u7684\u3067\u3001\u5065\u5eb7\u306b\u3082\u3044\u3044\u6839\u91ce\u83dc\u3060\u3002",
+                "english": "The carrot is a very popular and healthy root vegetable.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103250.mp3",
+                "kana": "\u306b\u3093\u3058\u3093\u306f\u3068\u3066\u3082\u3044\u3063\u3071\u3093\u3066\u304d\u3067\u3001\u3051\u3093\u3053\u3046\u306b\u3082\u3044\u3044\u3053\u3093\u3084\u3055\u3044\u3060\u3002",
+                "romaji": "Ninjin wa totemo ippanteki de, kenk\u014d ni mo ii kon'yasai da."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1658.mp3",
+                "text": "\u30cb\u30f3\u30b8\u30f3\u30b8\u30e5\u30fc\u30b9",
+                "english": "carrot juice",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103251.mp3",
+                "kana": "\u30cb\u30f3\u30b8\u30f3\u30b8\u30e5\u30fc\u30b9",
+                "romaji": "ninjin j\u016bsu"
+            }
+        ]
+    },
+    {
+        "img": "17312",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201542.mp3",
+        "class": "noun",
+        "english": "onion",
+        "flashcardId": "2164228",
+        "meaning": "onion (noun) - a round white vegetable with a brown, red, or white skin and many layers. Onions have a strong taste and smell",
+        "id": "647",
+        "word": "\u7389\u306d\u304e",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87883.mp3",
+        "kana": "\u305f\u307e\u306d\u304e",
+        "romaji": "tamanegi",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201316.mp3",
+                "text": "\u8d64\u7389\u306d\u304e\u306e\u30b9\u30e9\u30a4\u30b9",
+                "english": "sliced red onion",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103402.mp3",
+                "kana": "\u3042\u304b\u3060\u307e\u306d\u304e\u306e\u30b9\u30e9\u30a4\u30b9",
+                "romaji": "akatamanegi no suraisu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201315.mp3",
+                "text": "\u7389\u306d\u304e\u81ed\u3044\u606f",
+                "english": "onion breath",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103401.mp3",
+                "kana": "\u305f\u307e\u306d\u304e\u304f\u3055\u3044\u3044\u304d",
+                "romaji": "tamanegi kusai iki"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201314.mp3",
+                "text": "\u7389\u306d\u304e\u306e\u307f\u3058\u3093\u5207\u308a",
+                "english": "chopped sweet onion",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103399.mp3",
+                "kana": "\u305f\u307e\u306d\u304e\u306e\u307f\u3058\u3093\u304e\u308a",
+                "romaji": "tamanegi no mijingiri"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252033.mp3",
+                "text": "\u7389\u306d\u304e\u306f\u3001\u5730\u4e0b\u3067\u80b2\u3064\u7403\u6839\u91ce\u83dc\u3067\u3001\u8272\u3082\u5927\u304d\u3055\u3082\u3044\u308d\u3044\u308d\u3042\u308b\u3002",
+                "english": "Onions are underground bulb vegetables that come in many colors and sizes.",
+                "en_audio": "",
+                "kana": "\u305f\u307e\u306d\u304e\u306f\u3001\u3061\u304b\u3067\u305d\u3060\u3064\u304d\u3085\u3046\u3053\u3093\u3084\u3055\u3044\u3067\u3001\u3044\u308d\u3082\u304a\u304a\u304d\u3055\u3082\u3044\u308d\u3044\u308d\u3042\u308b\u3002",
+                "romaji": "Tamanegi wa, chika de sodatsu ky\u016bkon yasai de, iro mo \u014dkisa mo iroiro aru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201319.mp3",
+                "text": "\u7389\u306d\u304e\u306b\u306f\u3001\u57fa\u672c\u7684\u306b\u56db\u3064\u306e\u7a2e\u985e\u304c\u3042\u308a\u307e\u3059\u3002\u9ec4\u571f\u8272\u306e\u7389\u306d\u304e\u3001\u767d\u7389\u306d\u304e\u3001\u8d64\u7389\u306d\u304e\u3001\u305d\u3057\u3066\u7518\u3044\u7389\u306d\u304e\u3067\u3059\u3002",
+                "english": "There are four basic types of onions: yellow and brown, white, red, and sweet.",
+                "en_audio": "",
+                "kana": "\u305f\u307e\u306d\u304e\u306b\u306f\u3001\u304d\u307b\u3093\u3066\u304d\u306b\u3088\u3063\u3064\u306e\u3057\u3085\u308b\u3044\u304c\u3042\u308a\u307e\u3059\u3002\u304a\u3046\u3069\u3044\u308d\u306e\u305f\u307e\u306d\u304e\u3001\u3057\u308d\u3060\u307e\u306d\u304e\u3001\u3042\u304b\u3060\u307e\u306d\u304e\u3001\u305d\u3057\u3066\u3042\u307e\u3044\u305f\u307e\u306d\u304e\u3067\u3059\u3002",
+                "romaji": "Tamanegi ni wa, kihon-teki ni yottsu no shurui ga arimasu. \u014cdoiro no tamanegi, shiroi tamanegi, akai tamanegi, soshite amai tamenegi desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201317.mp3",
+                "text": "\u79c1\u306f\u3001\u30dd\u30c6\u30c8\u30d5\u30e9\u30a4\u306e\u98a8\u5473\u4ed8\u3051\u306b\u7518\u7389\u306d\u304e\u306e\u307f\u3058\u3093\u5207\u308a\u3092\u4f7f\u3046\u3002",
+                "english": "I use chopped sweet onion to flavor my fried potatoes.",
+                "en_audio": "",
+                "kana": "\u308f\u305f\u3057\u306f\u3001\u30dd\u30c6\u30c8\u30d5\u30e9\u30a4\u306e\u3075\u3046\u307f\u3065\u3051\u306b\u3042\u307e\u305f\u307e\u306d\u304e\u306e\u307f\u3058\u3093\u304e\u308a\u3092\u3064\u304b\u3046\u3002",
+                "romaji": "Watashi wa, poteto furai no f\u016bmi zuke ni amatamanegi no mijingiri o tsukau."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/252033.mp3",
+                "text": "\u7389\u306d\u304e\u306f\u3001\u5730\u4e0b\u3067\u80b2\u3064\u7403\u6839\u91ce\u83dc\u3067\u3001\u8272\u3082\u5927\u304d\u3055\u3082\u3044\u308d\u3044\u308d\u3042\u308b\u3002",
+                "english": "Onions are underground bulb vegetables that come in many colors and sizes.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103400.mp3",
+                "kana": "\u305f\u307e\u306d\u304e\u306f\u3001\u3061\u304b\u3067\u305d\u3060\u3064\u304d\u3085\u3046\u3053\u3093\u3084\u3055\u3044\u3067\u3001\u3044\u308d\u3082\u304a\u304a\u304d\u3055\u3082\u3044\u308d\u3044\u308d\u3042\u308b\u3002",
+                "romaji": "Tamanegi wa, chika de sodatsu ky\u016bkon yasai de, iro mo \u014dkisa mo iroiro aru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201319.mp3",
+                "text": "\u7389\u306d\u304e\u306b\u306f\u3001\u57fa\u672c\u7684\u306b\u56db\u3064\u306e\u7a2e\u985e\u304c\u3042\u308a\u307e\u3059\u3002\u9ec4\u571f\u8272\u306e\u7389\u306d\u304e\u3001\u767d\u7389\u306d\u304e\u3001\u8d64\u7389\u306d\u304e\u3001\u305d\u3057\u3066\u7518\u3044\u7389\u306d\u304e\u3067\u3059\u3002",
+                "english": "There are four basic types of onions: yellow and brown, white, red, and sweet.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197872.mp3",
+                "kana": "\u305f\u307e\u306d\u304e\u306b\u306f\u3001\u304d\u307b\u3093\u3066\u304d\u306b\u3088\u3063\u3064\u306e\u3057\u3085\u308b\u3044\u304c\u3042\u308a\u307e\u3059\u3002\u304a\u3046\u3069\u3044\u308d\u306e\u305f\u307e\u306d\u304e\u3001\u3057\u308d\u3060\u307e\u306d\u304e\u3001\u3042\u304b\u3060\u307e\u306d\u304e\u3001\u305d\u3057\u3066\u3042\u307e\u3044\u305f\u307e\u306d\u304e\u3067\u3059\u3002",
+                "romaji": "Tamanegi ni wa, kihon-teki ni yottsu no shurui ga arimasu. \u014cdoiro no tamanegi, shiroi tamanegi, akai tamanegi, soshite amai tamenegi desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201317.mp3",
+                "text": "\u79c1\u306f\u3001\u30dd\u30c6\u30c8\u30d5\u30e9\u30a4\u306e\u98a8\u5473\u4ed8\u3051\u306b\u7518\u7389\u306d\u304e\u306e\u307f\u3058\u3093\u5207\u308a\u3092\u4f7f\u3046\u3002",
+                "english": "I use chopped sweet onion to flavor my fried potatoes.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103398.mp3",
+                "kana": "\u308f\u305f\u3057\u306f\u3001\u30dd\u30c6\u30c8\u30d5\u30e9\u30a4\u306e\u3075\u3046\u307f\u3065\u3051\u306b\u3042\u307e\u305f\u307e\u306d\u304e\u306e\u307f\u3058\u3093\u304e\u308a\u3092\u3064\u304b\u3046\u3002",
+                "romaji": "Watashi wa, poteto furai no f\u016bmi zuke ni amatamanegi no mijingiri o tsukau."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201316.mp3",
+                "text": "\u8d64\u7389\u306d\u304e\u306e\u30b9\u30e9\u30a4\u30b9",
+                "english": "sliced red onion",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103402.mp3",
+                "kana": "\u3042\u304b\u3060\u307e\u306d\u304e\u306e\u30b9\u30e9\u30a4\u30b9",
+                "romaji": "akatamanegi no suraisu"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201315.mp3",
+                "text": "\u7389\u306d\u304e\u81ed\u3044\u606f",
+                "english": "onion breath",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103401.mp3",
+                "kana": "\u305f\u307e\u306d\u304e\u304f\u3055\u3044\u3044\u304d",
+                "romaji": "tamanegi kusai iki"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201314.mp3",
+                "text": "\u7389\u306d\u304e\u306e\u307f\u3058\u3093\u5207\u308a",
+                "english": "chopped sweet onion",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103399.mp3",
+                "kana": "\u305f\u307e\u306d\u304e\u306e\u307f\u3058\u3093\u304e\u308a",
+                "romaji": "tamanegi no mijingiri"
+            }
+        ]
+    },
+    {
+        "img": "9284",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1435.mp3",
+        "class": "noun",
+        "english": "lettuce",
+        "flashcardId": "224425",
+        "meaning": "lettuce (noun) - a round vegetable with thin green leaves eaten raw in salads",
+        "id": "650",
+        "word": "\u30ec\u30bf\u30b9",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87886.mp3",
+        "kana": "\u30ec\u30bf\u30b9",
+        "romaji": "retasu",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1438.mp3",
+                "text": "\u30ec\u30bf\u30b9\u4e00\u7389",
+                "english": "head of lettuce",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4674.mp3",
+                "kana": "\u30ec\u30bf\u30b9\u3072\u3068\u305f\u307e",
+                "romaji": "retasu hito-tama"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1437.mp3",
+                "text": "\u30ec\u30bf\u30b9\u306e\u8449",
+                "english": "leaf lettuce",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4673.mp3",
+                "kana": "\u30ec\u30bf\u30b9\u306e\u306f",
+                "romaji": "retasu no ha"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1436.mp3",
+                "text": "\u307f\u3058\u3093\u5207\u308a\u306e\u30ec\u30bf\u30b9",
+                "english": "chopped lettuce",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4671.mp3",
+                "kana": "\u307f\u3058\u3093\u304e\u308a\u306e\u30ec\u30bf\u30b9",
+                "romaji": "mijingiri no reatasu"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1440.mp3",
+                "text": "\u30ec\u30bf\u30b9\u306f\u30d3\u30bf\u30df\u30f3K\u3092\u542b\u3093\u3067\u3044\u308b\u3002",
+                "english": "Lettuce contains vitamin K.",
+                "en_audio": "",
+                "kana": "\u30ec\u30bf\u30b9\u306f\u30d3\u30bf\u30df\u30f3\u30b1\u30fc\u3092\u3075\u304f\u3093\u3067\u3044\u308b\u3002",
+                "romaji": "Retasu wa bitamin k\u0113 o fukunde iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1439.mp3",
+                "text": "\u7533\u3057\u5206\u306e\u306a\u3044\u30b5\u30e9\u30c0\u3092\u4f5c\u308b\u306b\u306f\u3001\u65b0\u9bae\u306a\u30ec\u30bf\u30b9\u3068\u30c8\u30de\u30c8\u3068\u30ad\u30e5\u30a6\u30ea\u304c\u5fc5\u8981\u3060\u3002",
+                "english": "To make the perfect salad you need fresh lettuce, tomatoes, and cucumbers.",
+                "en_audio": "",
+                "kana": "\u3082\u3046\u3057\u3076\u3093\u306e\u306a\u3044\u30b5\u30e9\u30c0\u3092\u3064\u304f\u308b\u306b\u306f\u3001\u3057\u3093\u305b\u3093\u306a\u30ec\u30bf\u30b9\u3068\u30c8\u30de\u30c8\u3068\u30ad\u30e5\u30a6\u30ea\u304c\u3072\u3064\u3088\u3046\u3060\u3002",
+                "romaji": "M\u014dshibun no nai sarada o tsukru ni wa, shinsen na retasu to tomato to ky\u016bri ga hitsuy\u014d da."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1440.mp3",
+                "text": "\u30ec\u30bf\u30b9\u306f\u30d3\u30bf\u30df\u30f3K\u3092\u542b\u3093\u3067\u3044\u308b\u3002",
+                "english": "Lettuce contains vitamin K.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4672.mp3",
+                "kana": "\u30ec\u30bf\u30b9\u306f\u30d3\u30bf\u30df\u30f3\u30b1\u30fc\u3092\u3075\u304f\u3093\u3067\u3044\u308b\u3002",
+                "romaji": "Retasu wa bitamin k\u0113 o fukunde iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1439.mp3",
+                "text": "\u7533\u3057\u5206\u306e\u306a\u3044\u30b5\u30e9\u30c0\u3092\u4f5c\u308b\u306b\u306f\u3001\u65b0\u9bae\u306a\u30ec\u30bf\u30b9\u3068\u30c8\u30de\u30c8\u3068\u30ad\u30e5\u30a6\u30ea\u304c\u5fc5\u8981\u3060\u3002",
+                "english": "To make the perfect salad you need fresh lettuce, tomatoes, and cucumbers.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4670.mp3",
+                "kana": "\u3082\u3046\u3057\u3076\u3093\u306e\u306a\u3044\u30b5\u30e9\u30c0\u3092\u3064\u304f\u308b\u306b\u306f\u3001\u3057\u3093\u305b\u3093\u306a\u30ec\u30bf\u30b9\u3068\u30c8\u30de\u30c8\u3068\u30ad\u30e5\u30a6\u30ea\u304c\u3072\u3064\u3088\u3046\u3060\u3002",
+                "romaji": "M\u014dshibun no nai sarada o tsukru ni wa, shinsen na retasu to tomato to ky\u016bri ga hitsuy\u014d da."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1438.mp3",
+                "text": "\u30ec\u30bf\u30b9\u4e00\u7389",
+                "english": "head of lettuce",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4674.mp3",
+                "kana": "\u30ec\u30bf\u30b9\u3072\u3068\u305f\u307e",
+                "romaji": "retasu hito-tama"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1437.mp3",
+                "text": "\u30ec\u30bf\u30b9\u306e\u8449",
+                "english": "leaf lettuce",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4673.mp3",
+                "kana": "\u30ec\u30bf\u30b9\u306e\u306f",
+                "romaji": "retasu no ha"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1436.mp3",
+                "text": "\u307f\u3058\u3093\u5207\u308a\u306e\u30ec\u30bf\u30b9",
+                "english": "chopped lettuce",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4671.mp3",
+                "kana": "\u307f\u3058\u3093\u304e\u308a\u306e\u30ec\u30bf\u30b9",
+                "romaji": "mijingiri no reatasu"
+            }
+        ]
+    },
+    {
+        "img": "17309",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1441.mp3",
+        "class": "noun",
+        "english": "cucumber",
+        "flashcardId": "2164230",
+        "meaning": "cucumber (noun) - a long thin round vegetable with a dark green skin and a light green inside, usually eaten raw",
+        "id": "5529",
+        "word": "\u30ad\u30e5\u30a6\u30ea",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/87887.mp3",
+        "kana": "\u30ad\u30e5\u30a6\u30ea",
+        "romaji": "ky\u016bri",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1444.mp3",
+                "text": "\u30b9\u30e9\u30a4\u30b9\u3055\u308c\u305f\u30ad\u30e5\u30a6\u30ea",
+                "english": "sliced cucumber",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4682.mp3",
+                "kana": "\u30b9\u30e9\u30a4\u30b9\u3055\u308c\u305f\u30ad\u30e5\u30a6\u30ea",
+                "romaji": "suraisu sareta ky\u016bri"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226676.mp3",
+                "text": "\u30ad\u30e5\u30a6\u30ea\u306f\u30d3\u30bf\u30df\u30f3\uff23\u3092\u542b\u3093\u3067\u3044\u308b\u3002",
+                "english": "Cucumbers contain vitamin C.",
+                "en_audio": "",
+                "kana": "\u30ad\u30e5\u30a6\u30ea\u306f\u30d3\u30bf\u30df\u30f3\uff23\u3092\u3075\u304f\u3093\u3067\u3044\u308b\u3002",
+                "romaji": "Ky\u016bri wa bitamin sh\u012b o fukunde iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201327.mp3",
+                "text": "\u3053\u306e\u30ad\u30e5\u30a6\u30ea\u306f\u3001\u9577\u304f\u3066\u7d30\u3044\u3002",
+                "english": "This cucumber is long and thin.",
+                "en_audio": "",
+                "kana": "\u3053\u306e\u30ad\u30e5\u30a6\u30ea\u306f\u3001\u306a\u304c\u304f\u3066\u307b\u305d\u3044\u3002",
+                "romaji": "Kono ky\u016bri wa, nagakute hosoi."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/979504.mp3",
+                "text": "\u30ad\u30e5\u30a6\u30ea\u306f\u3001\u6f2c\u3051\u7269\u3092\u4f5c\u308b\u306e\u306b\u4f7f\u308f\u308c\u307e\u3059\u3002",
+                "english": "Cucumbers are used to make pickles.",
+                "en_audio": "",
+                "kana": "\u30ad\u30e5\u30a6\u30ea\u306f\u3001\u3064\u3051\u3082\u306e\u3092\u3064\u304f\u308b\u306e\u306b\u3064\u304b\u308f\u308c\u307e\u3059\u3002",
+                "romaji": "Ky\u016bri wa, tsukemono o tsukuru no ni tsukawaremasu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/226676.mp3",
+                "text": "\u30ad\u30e5\u30a6\u30ea\u306f\u30d3\u30bf\u30df\u30f3\uff23\u3092\u542b\u3093\u3067\u3044\u308b\u3002",
+                "english": "Cucumbers contain vitamin C.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197874.mp3",
+                "kana": "\u30ad\u30e5\u30a6\u30ea\u306f\u30d3\u30bf\u30df\u30f3\uff23\u3092\u3075\u304f\u3093\u3067\u3044\u308b\u3002",
+                "romaji": "Ky\u016bri wa bitamin sh\u012b o fukunde iru."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201327.mp3",
+                "text": "\u3053\u306e\u30ad\u30e5\u30a6\u30ea\u306f\u3001\u9577\u304f\u3066\u7d30\u3044\u3002",
+                "english": "This cucumber is long and thin.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197873.mp3",
+                "kana": "\u3053\u306e\u30ad\u30e5\u30a6\u30ea\u306f\u3001\u306a\u304c\u304f\u3066\u307b\u305d\u3044\u3002",
+                "romaji": "Kono ky\u016bri wa, nagakute hosoi."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/979504.mp3",
+                "text": "\u30ad\u30e5\u30a6\u30ea\u306f\u3001\u6f2c\u3051\u7269\u3092\u4f5c\u308b\u306e\u306b\u4f7f\u308f\u308c\u307e\u3059\u3002",
+                "english": "Cucumbers are used to make pickles.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4680.mp3",
+                "kana": "\u30ad\u30e5\u30a6\u30ea\u306f\u3001\u3064\u3051\u3082\u306e\u3092\u3064\u304f\u308b\u306e\u306b\u3064\u304b\u308f\u308c\u307e\u3059\u3002",
+                "romaji": "Ky\u016bri wa, tsukemono o tsukuru no ni tsukawaremasu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1444.mp3",
+                "text": "\u30b9\u30e9\u30a4\u30b9\u3055\u308c\u305f\u30ad\u30e5\u30a6\u30ea",
+                "english": "sliced cucumber",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4682.mp3",
+                "kana": "\u30b9\u30e9\u30a4\u30b9\u3055\u308c\u305f\u30ad\u30e5\u30a6\u30ea",
+                "romaji": "suraisu sareta ky\u016bri"
+            }
+        ]
+    },
+    {
+        "img": "17304",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1670.mp3",
+        "class": "noun",
+        "english": "bell pepper",
+        "flashcardId": "2164231",
+        "meaning": "bell pepper (noun) - a hollow red, green, or yellow vegetable; plant bearing large mild thick-walled usually bell-shaped fruits; the principal salad peppers",
+        "id": "2765",
+        "word": "\u30d4\u30fc\u30de\u30f3",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103291.mp3",
+        "kana": "\u30d4\u30fc\u30de\u30f3",
+        "romaji": "p\u012bman",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201438.mp3",
+                "text": "\u8d64\u3001\u7dd1\u3001\u9ec4\u8272\u306e\u30d4\u30fc\u30de\u30f3",
+                "english": "red, green and yellow bell peppers",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103294.mp3",
+                "kana": "\u3042\u304b\u3001\u307f\u3069\u308a\u3001\u304d\u3044\u308d\u306e\u30d4\u30fc\u30de\u30f3",
+                "romaji": "aka, midori, kiiro no p\u012bman"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1672.mp3",
+                "text": "\u7dd1\u306e\u30d4\u30fc\u30de\u30f3",
+                "english": "green bell peppers",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103293.mp3",
+                "kana": "\u307f\u3069\u308a\u306e\u30d4\u30fc\u30de\u30f3",
+                "romaji": "midori no p\u012bman"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201439.mp3",
+                "text": "\u4e00\u756a\u3001\u4e00\u822c\u7684\u306a\u30d4\u30fc\u30de\u30f3\u306f\u3001\u7dd1\u304b\u8d64\u3001\u307e\u305f\u306f\u9ec4\u8272\u3060\u3002",
+                "english": "The most common bell peppers are green, red or yellow.",
+                "en_audio": "",
+                "kana": "\u3044\u3061\u3070\u3093\u3001\u3044\u3063\u3071\u3093\u3066\u304d\u306a\u30d4\u30fc\u30de\u30f3\u306f\u3001\u307f\u3069\u308a\u304b\u3042\u304b\u3001\u307e\u305f\u306f\u304d\u3044\u308d\u3060\u3002",
+                "romaji": "Ichi-ban ippan-teki na p\u012bman wa, midori ka aka, mata wa ki-iro da."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201439.mp3",
+                "text": "\u4e00\u756a\u3001\u4e00\u822c\u7684\u306a\u30d4\u30fc\u30de\u30f3\u306f\u3001\u7dd1\u304b\u8d64\u3001\u307e\u305f\u306f\u9ec4\u8272\u3060\u3002",
+                "english": "The most common bell peppers are green, red or yellow.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/262887.mp3",
+                "kana": "\u3044\u3061\u3070\u3093\u3001\u3044\u3063\u3071\u3093\u3066\u304d\u306a\u30d4\u30fc\u30de\u30f3\u306f\u3001\u307f\u3069\u308a\u304b\u3042\u304b\u3001\u307e\u305f\u306f\u304d\u3044\u308d\u3060\u3002",
+                "romaji": "Ichi-ban ippan-teki na p\u012bman wa, midori ka aka, mata wa ki-iro da."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201438.mp3",
+                "text": "\u8d64\u3001\u7dd1\u3001\u9ec4\u8272\u306e\u30d4\u30fc\u30de\u30f3",
+                "english": "red, green and yellow bell peppers",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103294.mp3",
+                "kana": "\u3042\u304b\u3001\u307f\u3069\u308a\u3001\u304d\u3044\u308d\u306e\u30d4\u30fc\u30de\u30f3",
+                "romaji": "aka, midori, kiiro no p\u012bman"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1672.mp3",
+                "text": "\u7dd1\u306e\u30d4\u30fc\u30de\u30f3",
+                "english": "green bell peppers",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/103293.mp3",
+                "kana": "\u307f\u3069\u308a\u306e\u30d4\u30fc\u30de\u30f3",
+                "romaji": "midori no p\u012bman"
+            }
+        ]
+    },
+    {
+        "img": "17305",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1515.mp3",
+        "class": "noun",
+        "english": "broccoli",
+        "flashcardId": "224428",
+        "meaning": "broccoli (noun) - a green vegetable that has short branch-like stems",
+        "id": "2766",
+        "word": "\u30d6\u30ed\u30c3\u30b3\u30ea\u30fc",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4765.mp3",
+        "kana": "\u30d6\u30ed\u30c3\u30b3\u30ea\u30fc",
+        "romaji": "burokkor\u012b",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1520.mp3",
+                "text": "\u751f\u306e\u30d6\u30ed\u30c3\u30b3\u30ea\u30fc",
+                "english": "raw broccoli",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4770.mp3",
+                "kana": "\u306a\u307e\u306e\u30d6\u30ed\u30c3\u30b3\u30ea\u30fc",
+                "romaji": "nama no burokkor\u012b"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1519.mp3",
+                "text": "\u30d6\u30ed\u30c3\u30b3\u30ea\u30fc\u306e\u830e",
+                "english": "broccoli stalk",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4769.mp3",
+                "kana": "\u30d6\u30ed\u30c3\u30b3\u30ea\u30fc\u306e\u304f\u304d",
+                "romaji": "burokkor\u012b no kuki"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1517.mp3",
+                "text": "\u30d6\u30ed\u30c3\u30b3\u30ea\u30fc\u306e\u623f",
+                "english": "broccoli florets",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4767.mp3",
+                "kana": "\u30d6\u30ed\u30c3\u30b3\u30ea\u30fc\u306e\u3075\u3055",
+                "romaji": "burokkor\u012b no fusa"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201440.mp3",
+                "text": "\u30d6\u30ed\u30c3\u30b3\u30ea\u30fc\u306f\u3001\u30d3\u30bf\u30df\u30f3\uff23\u3001\uff2b\u3001\uff21\u304c\u8c4a\u5bcc\u3067\u3059\u3002",
+                "english": "Broccoli is rich in vitamins C, K and A.",
+                "en_audio": "",
+                "kana": "\u30d6\u30ed\u30c3\u30b3\u30ea\u30fc\u306f\u3001\u30d3\u30bf\u30df\u30f3\u30b7\u30fc\u3001\u30b1\u30fc\u3001\u30a8\u30fc\u304c\u307b\u3046\u3075\u3067\u3059\u3002",
+                "romaji": "Burokkor\u012b wa, bitamin sh\u012b, k\u0113, \u0113 ga h\u014dfu desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/824636.mp3",
+                "text": "\u30d6\u30ed\u30c3\u30b3\u30ea\u30fc\u306f\u30d3\u30bf\u30df\u30f3\u3001\u98df\u7269\u7e4a\u7dad\u3001\u6804\u990a\u7d20\u304c\u8c4a\u5bcc\u306a\u306e\u3067\u3001\u5065\u5eb7\u52b9\u679c\u306f\u5927\u5909\u9ad8\u3044\u3002",
+                "english": "Broccoli is high in many vitamins, fiber and nutrients, so its health benefits are great..",
+                "en_audio": "",
+                "kana": "\u30d6\u30ed\u30c3\u30b3\u30ea\u30fc\u306f\u30d3\u30bf\u30df\u30f3\u3001\u3057\u3087\u304f\u3082\u3064\u305b\u3093\u3044\u3001\u3048\u3044\u3088\u3046\u305d\u304c\u307b\u3046\u3075\u306a\u306e\u3067\u3001\u3051\u3093\u3053\u3046\u3053\u3046\u304b\u306f\u305f\u3044\u3078\u3093\u305f\u304b\u3044\u3002",
+                "romaji": "Burokkor\u012b wa bitamin, shokumotsu sen'i, eiy\u014dso ga h\u014dfu na node, kenk\u014d k\u014dka wa taihen takai."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/549296.mp3",
+                "text": "\u7dd1\u306e\u91ce\u83dc\u3001\u30d6\u30ed\u30c3\u30b3\u30ea\u30fc\u306f\u3001\u5c0f\u3055\u3044\u6728\u306e\u675f\u306e\u3088\u3046\u306b\u898b\u3048\u307e\u3059\u3002",
+                "english": "The green vegetable broccoli looks like a bundle of little trees.",
+                "en_audio": "",
+                "kana": "\u307f\u3069\u308a\u306e\u3084\u3055\u3044\u3001\u30d6\u30ed\u30c3\u30b3\u30ea\u30fc\u306f\u3001\u3061\u3044\u3055\u3044\u304d\u306e\u305f\u3070\u306e\u3088\u3046\u306b\u307f\u3048\u307e\u3059\u3002",
+                "romaji": "Midori no yasai, burokkor\u012b wa, chiisai ki no taba no y\u014d ni miemasu."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1520.mp3",
+                "text": "\u751f\u306e\u30d6\u30ed\u30c3\u30b3\u30ea\u30fc",
+                "english": "raw broccoli",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4770.mp3",
+                "kana": "\u306a\u307e\u306e\u30d6\u30ed\u30c3\u30b3\u30ea\u30fc",
+                "romaji": "nama no burokkor\u012b"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201440.mp3",
+                "text": "\u30d6\u30ed\u30c3\u30b3\u30ea\u30fc\u306f\u3001\u30d3\u30bf\u30df\u30f3\uff23\u3001\uff2b\u3001\uff21\u304c\u8c4a\u5bcc\u3067\u3059\u3002",
+                "english": "Broccoli is rich in vitamins C, K and A.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/197875.mp3",
+                "kana": "\u30d6\u30ed\u30c3\u30b3\u30ea\u30fc\u306f\u3001\u30d3\u30bf\u30df\u30f3\u30b7\u30fc\u3001\u30b1\u30fc\u3001\u30a8\u30fc\u304c\u307b\u3046\u3075\u3067\u3059\u3002",
+                "romaji": "Burokkor\u012b wa, bitamin sh\u012b, k\u0113, \u0113 ga h\u014dfu desu."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1519.mp3",
+                "text": "\u30d6\u30ed\u30c3\u30b3\u30ea\u30fc\u306e\u830e",
+                "english": "broccoli stalk",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4769.mp3",
+                "kana": "\u30d6\u30ed\u30c3\u30b3\u30ea\u30fc\u306e\u304f\u304d",
+                "romaji": "burokkor\u012b no kuki"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/824636.mp3",
+                "text": "\u30d6\u30ed\u30c3\u30b3\u30ea\u30fc\u306f\u30d3\u30bf\u30df\u30f3\u3001\u98df\u7269\u7e4a\u7dad\u3001\u6804\u990a\u7d20\u304c\u8c4a\u5bcc\u306a\u306e\u3067\u3001\u5065\u5eb7\u52b9\u679c\u306f\u5927\u5909\u9ad8\u3044\u3002",
+                "english": "Broccoli is high in many vitamins, fiber and nutrients, so its health benefits are great..",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4768.mp3",
+                "kana": "\u30d6\u30ed\u30c3\u30b3\u30ea\u30fc\u306f\u30d3\u30bf\u30df\u30f3\u3001\u3057\u3087\u304f\u3082\u3064\u305b\u3093\u3044\u3001\u3048\u3044\u3088\u3046\u305d\u304c\u307b\u3046\u3075\u306a\u306e\u3067\u3001\u3051\u3093\u3053\u3046\u3053\u3046\u304b\u306f\u305f\u3044\u3078\u3093\u305f\u304b\u3044\u3002",
+                "romaji": "Burokkor\u012b wa bitamin, shokumotsu sen'i, eiy\u014dso ga h\u014dfu na node, kenk\u014d k\u014dka wa taihen takai."
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1517.mp3",
+                "text": "\u30d6\u30ed\u30c3\u30b3\u30ea\u30fc\u306e\u623f",
+                "english": "broccoli florets",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4767.mp3",
+                "kana": "\u30d6\u30ed\u30c3\u30b3\u30ea\u30fc\u306e\u3075\u3055",
+                "romaji": "burokkor\u012b no fusa"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/549296.mp3",
+                "text": "\u7dd1\u306e\u91ce\u83dc\u3001\u30d6\u30ed\u30c3\u30b3\u30ea\u30fc\u306f\u3001\u5c0f\u3055\u3044\u6728\u306e\u675f\u306e\u3088\u3046\u306b\u898b\u3048\u307e\u3059\u3002",
+                "english": "The green vegetable broccoli looks like a bundle of little trees.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4766.mp3",
+                "kana": "\u307f\u3069\u308a\u306e\u3084\u3055\u3044\u3001\u30d6\u30ed\u30c3\u30b3\u30ea\u30fc\u306f\u3001\u3061\u3044\u3055\u3044\u304d\u306e\u305f\u3070\u306e\u3088\u3046\u306b\u307f\u3048\u307e\u3059\u3002",
+                "romaji": "Midori no yasai, burokkor\u012b wa, chiisai ki no taba no y\u014d ni miemasu."
+            }
+        ]
+    },
+    {
+        "img": "9159",
+        "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1521.mp3",
+        "class": "noun",
+        "english": "spinach",
+        "flashcardId": "224429",
+        "meaning": "spinach (noun) - a vegetable with large dark green leaves",
+        "id": "2767",
+        "word": "\u307b\u3046\u308c\u3093\u8349",
+        "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4771.mp3",
+        "kana": "\u307b\u3046\u308c\u3093\u305d\u3046",
+        "romaji": "h\u014drens\u014d",
+        "phrases": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201441.mp3",
+                "text": "\u307b\u3046\u308c\u3093\u8349\u306e\u8449",
+                "english": "spinach leaves",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102548.mp3",
+                "kana": "\u307b\u3046\u308c\u3093\u305d\u3046\u306e\u306f",
+                "romaji": "h\u014drens\u014d no ha"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1523.mp3",
+                "text": "\u307b\u3046\u308c\u3093\u8349\u30b5\u30e9\u30c0",
+                "english": "spinach salad",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4773.mp3",
+                "kana": "\u307b\u3046\u308c\u3093\u305d\u3046\u30b5\u30e9\u30c0",
+                "romaji": "h\u014drens\u014d sarada"
+            }
+        ],
+        "sentences": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1522.mp3",
+                "text": "\u307b\u3046\u308c\u3093\u8349\u306f\u9244\u5206\u3068\u30ab\u30eb\u30b7\u30a6\u30e0\u304c\u8c4a\u5bcc\u3060\u3002",
+                "english": "Spinach is a rich source of iron and calcium.",
+                "en_audio": "",
+                "kana": "\u307b\u3046\u308c\u3093\u305d\u3046\u306f\u3066\u3064\u3076\u3093\u3068\u30ab\u30eb\u30b7\u30a6\u30e0\u304c\u307b\u3046\u3075\u3060\u3002",
+                "romaji": "H\u014drens\u014d wa tetsubun to karushiumu ga h\u014dfu da."
+            }
+        ],
+        "examples": [
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/201441.mp3",
+                "text": "\u307b\u3046\u308c\u3093\u8349\u306e\u8449",
+                "english": "spinach leaves",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/102548.mp3",
+                "kana": "\u307b\u3046\u308c\u3093\u305d\u3046\u306e\u306f",
+                "romaji": "h\u014drens\u014d no ha"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1523.mp3",
+                "text": "\u307b\u3046\u308c\u3093\u8349\u30b5\u30e9\u30c0",
+                "english": "spinach salad",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4773.mp3",
+                "kana": "\u307b\u3046\u308c\u3093\u305d\u3046\u30b5\u30e9\u30c0",
+                "romaji": "h\u014drens\u014d sarada"
+            },
+            {
+                "audio": "https://d1pra95f92lrn3.cloudfront.net/audio/1522.mp3",
+                "text": "\u307b\u3046\u308c\u3093\u8349\u306f\u9244\u5206\u3068\u30ab\u30eb\u30b7\u30a6\u30e0\u304c\u8c4a\u5bcc\u3060\u3002",
+                "english": "Spinach is a rich source of iron and calcium.",
+                "en_audio": "https://d1pra95f92lrn3.cloudfront.net/audio/4772.mp3",
+                "kana": "\u307b\u3046\u308c\u3093\u305d\u3046\u306f\u3066\u3064\u3076\u3093\u3068\u30ab\u30eb\u30b7\u30a6\u30e0\u304c\u307b\u3046\u3075\u3060\u3002",
+                "romaji": "H\u014drens\u014d wa tetsubun to karushiumu ga h\u014dfu da."
+            }
+        ]
+    }
+]
