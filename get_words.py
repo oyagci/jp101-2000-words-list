@@ -31,7 +31,7 @@ def get_nb_pages(url):
         nb = safe_cast(p.text, int)
         if nb is not None and nb > nb_pages:
             nb_pages = nb
-    print('Waiting for the page to be loaded')
+    print('Number of pages: ' + str(nb_pages))
     return nb_pages
 
 print('Starting geckodriver')
