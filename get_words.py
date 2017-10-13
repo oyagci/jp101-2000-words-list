@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 myUsername = ''
 myPassword = ''
 
-if myPassword == '' or myPassword == '':
+if myUsername == '' or myPassword == '':
     print('Please fill in credentials')
     print('Exiting')
     exit()
